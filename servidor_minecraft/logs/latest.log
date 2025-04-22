@@ -6752,3 +6752,179 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [22Apr2025 21:41:24.206] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [22Apr2025 21:41:25.902] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@156cb4d0[id=<null>,name=Gress,properties={},legacy=false] (/127.39.22.126:36629) lost connection: Disconnected
 [22Apr2025 21:41:30.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unbanned Mimosaa09
+[22Apr2025 21:42:02.311] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[22Apr2025 21:42:02.474] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[22Apr2025 21:42:02.478] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[22Apr2025 21:42:02.478] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[22Apr2025 21:42:02.479] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[22Apr2025 21:42:02.641] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[22Apr2025 21:42:02.641] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[22Apr2025 21:42:02.641] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[22Apr2025 21:42:02.809] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[22Apr2025 21:42:02.809] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[22Apr2025 21:42:02.809] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[22Apr2025 21:42:02.875] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[22Apr2025 21:42:03.851] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[22Apr2025 21:42:03.867] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[22Apr2025 21:42:04.046] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[22Apr2025 21:42:04.125] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3d3bbfc8
+[22Apr2025 21:42:04.144] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mimosaa09[/127.119.34.57:40535] logged in with entity id 1876 at (22.5, 78.0, -5.5)
+[22Apr2025 21:42:04.182] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Mimosaa09
+[22Apr2025 21:42:04.183] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Mimosaa09
+[22Apr2025 21:42:04.183] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Mimosaa09
+[22Apr2025 21:42:04.183] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Mimosaa09
+[22Apr2025 21:42:04.185] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Mimosaa09
+[22Apr2025 21:42:04.186] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Mimosaa09
+[22Apr2025 21:42:04.186] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Mimosaa09
+[22Apr2025 21:42:04.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mimosaa09 joined the game
+[22Apr2025 21:42:04.310] [Server thread/INFO] [Jade/]: Syncing config to Mimosaa09 (2b4cd6d8-2c9b-3afc-8ff6-f5f5e70bb511)
+[22Apr2025 21:42:04.392] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Mimosaa09...
+[22Apr2025 21:42:04.392] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[22Apr2025 21:42:04.392] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[22Apr2025 21:42:04.392] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Mimosaa09
+[22Apr2025 21:42:09.724] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[22Apr2025 21:42:09.783] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[22Apr2025 21:42:09.783] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[22Apr2025 21:42:09.839] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[22Apr2025 21:42:09.894] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[22Apr2025 21:42:09.953] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[22Apr2025 21:42:10.009] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[22Apr2025 21:42:10.068] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[22Apr2025 21:42:10.124] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[22Apr2025 21:42:10.127] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[22Apr2025 21:42:10.183] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[22Apr2025 21:42:10.239] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[22Apr2025 21:42:11.691] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[22Apr2025 21:42:11.732] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[22Apr2025 21:42:11.733] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[22Apr2025 21:42:11.815] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2d40f58a
+[22Apr2025 21:42:11.822] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ignacio29392[/127.185.233.136:45683] logged in with entity id 1905 at (26.63418346325726, 89.0, -8.188875974150488)
+[22Apr2025 21:42:11.857] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ignacio29392
+[22Apr2025 21:42:11.858] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ignacio29392
+[22Apr2025 21:42:11.859] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ignacio29392
+[22Apr2025 21:42:11.859] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ignacio29392
+[22Apr2025 21:42:11.860] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ignacio29392
+[22Apr2025 21:42:11.862] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ignacio29392
+[22Apr2025 21:42:11.864] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ignacio29392
+[22Apr2025 21:42:11.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 joined the game
+[22Apr2025 21:42:12.010] [Server thread/INFO] [Jade/]: Syncing config to Ignacio29392 (cb2390a0-eefd-3170-8844-fbbfc7609e31)
+[22Apr2025 21:42:12.100] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Ignacio29392...
+[22Apr2025 21:42:12.100] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[22Apr2025 21:42:12.101] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[22Apr2025 21:42:12.102] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Ignacio29392
+[22Apr2025 21:44:14.857] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/36, l='ServerLevel[world]', x=-1.73, y=69.00, z=36.79] died, message: 'Weaponsmith hit the ground too hard'
+[22Apr2025 21:44:39.961] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[22Apr2025 21:44:40.009] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[22Apr2025 21:44:40.052] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[22Apr2025 21:44:40.100] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[22Apr2025 21:44:40.148] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[22Apr2025 21:44:40.200] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[22Apr2025 21:44:40.248] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[22Apr2025 21:44:40.297] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[22Apr2025 21:44:40.346] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[22Apr2025 21:44:40.398] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[22Apr2025 21:44:40.447] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[22Apr2025 21:44:40.494] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[22Apr2025 21:44:42.961] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[22Apr2025 21:44:42.961] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[22Apr2025 21:44:43.001] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[22Apr2025 21:44:43.063] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@e39f392
+[22Apr2025 21:44:43.066] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gress[/127.39.22.126:57831] logged in with entity id 2044 at (24.5, 88.0, -8.5)
+[22Apr2025 21:44:43.105] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Gress
+[22Apr2025 21:44:43.105] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Gress
+[22Apr2025 21:44:43.105] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Gress
+[22Apr2025 21:44:43.105] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Gress
+[22Apr2025 21:44:43.107] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Gress
+[22Apr2025 21:44:43.108] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Gress
+[22Apr2025 21:44:43.108] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Gress
+[22Apr2025 21:44:43.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress joined the game
+[22Apr2025 21:44:43.169] [Server thread/INFO] [insane96mcp.insanelib.InsaneLib/]: [Progressive Bosses] Gress first spawned. Set First Dragon to 1
+[22Apr2025 21:44:43.249] [Server thread/INFO] [Jade/]: Syncing config to Gress (a0d83634-7b19-37e4-b8c9-a290e08b9bb8)
+[22Apr2025 21:44:43.363] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Gress...
+[22Apr2025 21:44:43.363] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[22Apr2025 21:44:43.363] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[22Apr2025 21:44:43.364] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Gress
+[22Apr2025 21:44:45.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mimosaa09 has made the advancement [Darkness Lies Ahead]
+[22Apr2025 21:45:05.404] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/TropicalFish$Pattern
+[22Apr2025 21:45:53.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Ignacio29392 a server operator
+[22Apr2025 21:45:58.455] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[22Apr2025 21:45:58.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set own game mode to Spectator Mode]
+[22Apr2025 21:46:04.387] [Worker-Main45/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[22Apr2025 21:46:04.817] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_helmet] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[22Apr2025 21:46:04.818] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_shield] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[22Apr2025 21:46:04.818] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_shoes] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[22Apr2025 21:46:04.818] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_leggings] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[22Apr2025 21:46:04.818] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_melee] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[22Apr2025 21:46:04.818] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_chestplate] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[22Apr2025 21:46:04.818] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_range] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[22Apr2025 21:46:04.818] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_digger] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[22Apr2025 21:46:04.818] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:efficient_repairs_less_material_cost] from power ResourceKey[apoli:configured_power / origins-classes:efficient_repairs]
+[22Apr2025 21:46:04.818] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:efficient_repairs_more_combine_durability] from power ResourceKey[apoli:configured_power / origins-classes:efficient_repairs]
+[22Apr2025 21:46:14.016] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=78, z=-11}
+[22Apr2025 21:46:23.319] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[22Apr2025 21:46:23.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> asdasd
+[22Apr2025 21:46:35.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set the weather to rain & thunder]
+[22Apr2025 21:46:36.323] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Mode
+[22Apr2025 21:46:41.461] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=79, z=-11}
+[22Apr2025 21:46:44.329] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/aqutheseal/celestisynth/api/animation/player/AnimationManager$AnimationsList
+[22Apr2025 21:46:44.331] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[22Apr2025 21:46:44.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mimosaa09 was slain by Gress
+[22Apr2025 21:46:44.346] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Mimosaa09 at X: 27.926089009607306, Y: 81.0, Z: -4.300000011920929
+[22Apr2025 21:46:48.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=30, y=84, z=-4}
+[22Apr2025 21:46:49.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=30, y=85, z=-4}
+[22Apr2025 21:46:49.863] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Mimosaa09 picking up: PermanentItemEntity['Soul Crystal'/2190, l='ServerLevel[world]', x=27.93, y=82.50, z=-4.30]
+[22Apr2025 21:46:49.863] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/2190, l='ServerLevel[world]', x=27.93, y=82.50, z=-4.30]
+[22Apr2025 21:46:53.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Mutant Creeper]
+[22Apr2025 21:47:01.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mimosaa09 was slain by Mutant Creeper
+[22Apr2025 21:47:01.991] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Mimosaa09 at X: 46.936071701819465, Y: 87.0, Z: 4.215867006098692
+[22Apr2025 21:47:02.446] [Worker-Main64/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/justinwon777/humancompanions/entity/ai/ArbalistRangedCrossbowAttackGoal$CrossbowState
+[22Apr2025 21:47:15.920] [Worker-Main46/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: 220 103 -252
+[22Apr2025 21:47:17.762] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Mimosaa09 picking up: PermanentItemEntity['Soul Crystal'/2286, l='ServerLevel[world]', x=46.94, y=88.50, z=4.22]
+[22Apr2025 21:47:17.762] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/2286, l='ServerLevel[world]', x=46.94, y=88.50, z=4.22]
+[22Apr2025 21:47:18.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignacio29392 lost connection: Disconnected
+[22Apr2025 21:47:18.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 left the game
+[22Apr2025 21:47:28.760] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mimosaa09 lost connection: Disconnected
+[22Apr2025 21:47:28.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mimosaa09 left the game
+[22Apr2025 21:47:57.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Apothic Affixes]
+[22Apr2025 21:48:27.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Stone Age]
+[22Apr2025 21:49:29.457] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[22Apr2025 21:49:29.497] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[22Apr2025 21:49:29.650] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[22Apr2025 21:49:29.650] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[22Apr2025 21:49:29.651] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[22Apr2025 21:49:29.658] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[22Apr2025 21:49:29.828] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[22Apr2025 21:49:29.829] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[22Apr2025 21:49:29.829] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[22Apr2025 21:49:29.994] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[22Apr2025 21:49:29.994] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[22Apr2025 21:49:29.995] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[22Apr2025 21:49:31.733] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[22Apr2025 21:49:31.737] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[22Apr2025 21:49:31.745] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[22Apr2025 21:49:31.809] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7154997b
+[22Apr2025 21:49:31.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BUNNYMIMOSA[/127.119.34.57:43413] logged in with entity id 3212 at (25.5, 81.0, 2.5)
+[22Apr2025 21:49:31.843] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to BUNNYMIMOSA
+[22Apr2025 21:49:31.844] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to BUNNYMIMOSA
+[22Apr2025 21:49:31.844] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to BUNNYMIMOSA
+[22Apr2025 21:49:31.844] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to BUNNYMIMOSA
+[22Apr2025 21:49:31.845] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to BUNNYMIMOSA
+[22Apr2025 21:49:31.847] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to BUNNYMIMOSA
+[22Apr2025 21:49:31.847] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to BUNNYMIMOSA
+[22Apr2025 21:49:31.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BUNNYMIMOSA joined the game
+[22Apr2025 21:49:31.900] [Server thread/INFO] [insane96mcp.insanelib.InsaneLib/]: [Progressive Bosses] BUNNYMIMOSA first spawned. Set First Dragon to 1
+[22Apr2025 21:49:31.959] [Server thread/INFO] [Jade/]: Syncing config to BUNNYMIMOSA (d24b23ab-4ee3-3be5-a424-6c04ec8f53a3)
+[22Apr2025 21:49:32.076] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to BUNNYMIMOSA...
+[22Apr2025 21:49:32.077] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[22Apr2025 21:49:32.077] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[22Apr2025 21:49:32.078] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to BUNNYMIMOSA
+[22Apr2025 21:49:59.654] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityZotzpyre from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[22Apr2025 21:49:59.656] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/itsmeow/whisperwoods/entity/EntityZotzpyre$SwoopingAttackGoal$MovementPhase
+[22Apr2025 21:50:11.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Getting an Upgrade]
+[22Apr2025 21:50:34.342] [Worker-Main64/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/ars_nouveau/geckolib3/core/builder/ILoopType$EDefaultLoopTypes
+[22Apr2025 21:50:35.958] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/wesley1808/servercore/common/utils/BreedingCap
+[22Apr2025 21:50:41.236] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[22Apr2025 21:50:41.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Monster Hunter]
+[22Apr2025 21:50:45.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Shards of the Past]
+[22Apr2025 21:50:45.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Knight Quest]
+[22Apr2025 21:51:41.905] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
