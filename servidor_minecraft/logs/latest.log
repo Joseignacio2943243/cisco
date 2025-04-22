@@ -6928,3 +6928,89 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [22Apr2025 21:50:45.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Shards of the Past]
 [22Apr2025 21:50:45.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Knight Quest]
 [22Apr2025 21:51:41.905] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[22Apr2025 21:51:56.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
+[22Apr2025 21:52:05.334] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[22Apr2025 21:52:12.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BUNNYMIMOSA has made the advancement [Monster Hunter]
+[22Apr2025 21:52:27.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BUNNYMIMOSA was slain by Assassin
+[22Apr2025 21:52:41.856] [Worker-Main45/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Apr2025 21:52:41.856] [Worker-Main45/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Apr2025 21:52:41.856] [Worker-Main45/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Apr2025 21:52:41.856] [Worker-Main45/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Apr2025 21:52:41.857] [Worker-Main45/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Apr2025 21:52:41.857] [Worker-Main45/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Apr2025 21:52:42.195] [Worker-Main30/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: 118 117 301
+[22Apr2025 21:52:44.557] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/22, l='ServerLevel[world]', x=7.51, y=83.00, z=41.12] died, message: 'Mason hit the ground too hard'
+[22Apr2025 21:53:28.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has reached the goal [Hulk Smash!]
+[22Apr2025 21:54:27.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Not a Diamond]
+[22Apr2025 21:54:34.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BUNNYMIMOSA has made the advancement [Apothic Affixes]
+[22Apr2025 21:54:42.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BUNNYMIMOSA has made the advancement [A breath of fresh air]
+[22Apr2025 21:55:12.049] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting auviotre/enigmatic/addon/contents/entities/goal/CrossbowBlazeAttackGoal$CrossbowState
+[22Apr2025 21:55:12.051] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/teamabnormals/savage_and_ravage/common/entity/ai/goal/ImprovedCrossbowGoal$CrossbowState
+[22Apr2025 21:55:25.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [A breath of fresh air]
+[22Apr2025 21:56:13.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BUNNYMIMOSA has made the advancement [Tower of Power]
+[22Apr2025 21:56:24.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement ['X' Marks the Spot]
+[22Apr2025 21:56:24.092] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[22Apr2025 21:56:24.092] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md435af3$lambda$onPiglinBarter$0$2 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[22Apr2025 21:56:26.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Acquire Hardware]
+[22Apr2025 21:56:29.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BUNNYMIMOSA has made the advancement [Not a Diamond]
+[22Apr2025 21:56:36.311] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[22Apr2025 21:56:40.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Tower of Power]
+[22Apr2025 21:56:42.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BUNNYMIMOSA has made the advancement [Far From Perfect]
+[22Apr2025 21:56:55.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BUNNYMIMOSA has made the advancement ['X' Marks the Spot]
+[22Apr2025 21:57:10.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has reached the goal [Worthy Equipment]
+[22Apr2025 21:57:34.026] [Worker-Main45/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Apr2025 21:57:34.026] [Worker-Main45/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Apr2025 21:57:34.026] [Worker-Main45/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Apr2025 21:57:34.026] [Worker-Main45/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Apr2025 21:57:34.516] [Worker-Main45/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Apr2025 21:57:34.516] [Worker-Main45/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Apr2025 21:57:34.516] [Worker-Main45/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Apr2025 21:57:34.516] [Worker-Main45/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Apr2025 21:58:02.996] [Worker-Main46/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Apr2025 21:58:02.996] [Worker-Main46/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Apr2025 21:58:02.996] [Worker-Main46/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Apr2025 21:58:02.996] [Worker-Main46/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Apr2025 21:58:08.348] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[22Apr2025 21:58:32.498] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[22Apr2025 21:58:32.554] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[22Apr2025 21:58:32.610] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[22Apr2025 21:58:32.667] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[22Apr2025 21:58:32.723] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[22Apr2025 21:58:32.780] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[22Apr2025 21:58:32.780] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[22Apr2025 21:58:32.835] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[22Apr2025 21:58:32.891] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[22Apr2025 21:58:32.947] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[22Apr2025 21:58:33.002] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[22Apr2025 21:58:33.059] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[22Apr2025 21:58:33.315] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[22Apr2025 21:58:33.355] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[22Apr2025 21:58:33.355] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[22Apr2025 21:58:33.421] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@66260fd7
+[22Apr2025 21:58:33.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ignacio29392[/127.185.233.136:55975] logged in with entity id 6399 at (57.3906918876905, 90.92930898652304, -6.38988366189851)
+[22Apr2025 21:58:33.459] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ignacio29392
+[22Apr2025 21:58:33.460] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ignacio29392
+[22Apr2025 21:58:33.460] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ignacio29392
+[22Apr2025 21:58:33.460] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ignacio29392
+[22Apr2025 21:58:33.461] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ignacio29392
+[22Apr2025 21:58:33.462] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ignacio29392
+[22Apr2025 21:58:33.462] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ignacio29392
+[22Apr2025 21:58:33.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 joined the game
+[22Apr2025 21:58:33.590] [Server thread/INFO] [Jade/]: Syncing config to Ignacio29392 (cb2390a0-eefd-3170-8844-fbbfc7609e31)
+[22Apr2025 21:58:33.662] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Ignacio29392...
+[22Apr2025 21:58:33.662] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[22Apr2025 21:58:33.662] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[22Apr2025 21:58:33.663] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Ignacio29392
+[22Apr2025 21:58:34.894] [Worker-Main46/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Apr2025 21:58:34.894] [Worker-Main46/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Apr2025 21:58:55.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Gress]
+[22Apr2025 21:59:16.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Isn't It Iron Pick]
+[22Apr2025 21:59:29.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Mutant Creeper]
+[22Apr2025 21:59:57.556] [Worker-Main64/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Apr2025 21:59:57.556] [Worker-Main64/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Apr2025 21:59:57.556] [Worker-Main64/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Apr2025 21:59:57.556] [Worker-Main64/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Apr2025 22:00:14.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Mutant Zombie]
+[22Apr2025 22:00:44.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [I Found It Underground]
+[22Apr2025 22:00:50.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BUNNYMIMOSA has made the advancement [I Found It Underground]
+[22Apr2025 22:00:51.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Mutant Zombie]
