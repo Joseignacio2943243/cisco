@@ -7014,3 +7014,71 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [22Apr2025 22:00:44.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [I Found It Underground]
 [22Apr2025 22:00:50.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BUNNYMIMOSA has made the advancement [I Found It Underground]
 [22Apr2025 22:00:51.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Mutant Zombie]
+[22Apr2025 22:01:54.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> nomames jose
+[22Apr2025 22:01:59.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> ya me chingue 3 zombies mutantes
+[22Apr2025 22:02:05.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has reached the goal [Flawless Crystals]
+[22Apr2025 22:02:06.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> a mi me cojio un creeper
+[22Apr2025 22:02:07.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> gg
+[22Apr2025 22:02:16.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set own game mode to Survival Mode]
+[22Apr2025 22:02:22.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BUNNYMIMOSA lost connection: Disconnected
+[22Apr2025 22:02:22.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BUNNYMIMOSA left the game
+[22Apr2025 22:02:34.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Far From Perfect]
+[22Apr2025 22:02:38.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 has made the advancement [Monster Hunter]
+[22Apr2025 22:03:03.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 has made the advancement [Stone Age]
+[22Apr2025 22:03:31.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 has made the advancement [Apothic Affixes]
+[22Apr2025 22:03:48.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 has made the advancement [Getting an Upgrade]
+[22Apr2025 22:04:16.163] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[22Apr2025 22:04:16.191] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[22Apr2025 22:04:16.191] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[22Apr2025 22:04:16.364] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[22Apr2025 22:04:16.364] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[22Apr2025 22:04:16.368] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[22Apr2025 22:04:16.531] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[22Apr2025 22:04:16.531] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[22Apr2025 22:04:16.534] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[22Apr2025 22:04:16.685] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[22Apr2025 22:04:16.685] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[22Apr2025 22:04:16.725] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[22Apr2025 22:04:18.429] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[22Apr2025 22:04:18.433] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[22Apr2025 22:04:18.441] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[22Apr2025 22:04:18.514] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2760950a
+[22Apr2025 22:04:18.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MamiTomoe[/127.119.34.57:33733] logged in with entity id 7781 at (16.5, 83.0, -3.5)
+[22Apr2025 22:04:18.546] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MamiTomoe
+[22Apr2025 22:04:18.546] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MamiTomoe
+[22Apr2025 22:04:18.546] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MamiTomoe
+[22Apr2025 22:04:18.546] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MamiTomoe
+[22Apr2025 22:04:18.547] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MamiTomoe
+[22Apr2025 22:04:18.549] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MamiTomoe
+[22Apr2025 22:04:18.549] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MamiTomoe
+[22Apr2025 22:04:18.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiTomoe joined the game
+[22Apr2025 22:04:18.601] [Server thread/INFO] [insane96mcp.insanelib.InsaneLib/]: [Progressive Bosses] MamiTomoe first spawned. Set First Dragon to 1
+[22Apr2025 22:04:18.659] [Server thread/INFO] [Jade/]: Syncing config to MamiTomoe (a4a3207a-51c0-3ad0-9fad-cb8a8e01ff69)
+[22Apr2025 22:04:18.776] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to MamiTomoe...
+[22Apr2025 22:04:18.776] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[22Apr2025 22:04:18.776] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[22Apr2025 22:04:18.777] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to MamiTomoe
+[22Apr2025 22:04:31.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> ya 3 cuentas
+[22Apr2025 22:04:34.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> de ke
+[22Apr2025 22:04:37.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> q cambia
+[22Apr2025 22:04:38.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> jajajaja
+[22Apr2025 22:04:45.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> ese we
+[22Apr2025 22:05:12.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignacio29392 lost connection: Disconnected
+[22Apr2025 22:05:12.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 left the game
+[22Apr2025 22:05:43.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Disme A Dozen]
+[22Apr2025 22:06:07.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Battle Towers?]
+[22Apr2025 22:06:08.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Barrel Booty]
+[22Apr2025 22:06:22.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=28, y=81, z=-4}
+[22Apr2025 22:06:23.918] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=29, y=81, z=-5}
+[22Apr2025 22:07:32.002] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[22Apr2025 22:07:44.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [It Is Time For an Upgrade, Isn't It?]
+[22Apr2025 22:08:13.358] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[22Apr2025 22:08:59.611] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/40, l='ServerLevel[world]', x=72.60, y=240.81, z=71.45] died, message: 'Toolsmith tried to swim in lava'
+[22Apr2025 22:09:13.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiTomoe has made the advancement [Apothic Affixes]
+[22Apr2025 22:09:32.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiTomoe has made the advancement [Shards of the Past]
+[22Apr2025 22:09:58.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiTomoe has made the advancement [Battle Towers?]
+[22Apr2025 22:10:02.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiTomoe has made the advancement [Monster Hunter]
+[22Apr2025 22:10:13.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiTomoe has made the advancement [Barrel Booty]
+[22Apr2025 22:10:42.116] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@66fd6c7f[id=<null>,name=abel214,properties={},legacy=false] (/127.128.122.78:48189) lost connection: Disconnected
+[22Apr2025 22:11:17.816] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@28ee9780[id=<null>,name=abel214,properties={},legacy=false] (/127.128.122.78:38069) lost connection: Disconnected
+[22Apr2025 22:11:41.518] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3df194e6[id=<null>,name=abel214,properties={},legacy=false] (/127.128.122.78:41295) lost connection: Disconnected

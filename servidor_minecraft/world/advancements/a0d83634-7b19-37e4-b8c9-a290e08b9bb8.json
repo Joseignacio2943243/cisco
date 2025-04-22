@@ -258,6 +258,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/hunter_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2025-04-22 22:06:29 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:44:43 +0000"
@@ -327,6 +333,12 @@
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/hunter_guidebook": {
+    "criteria": {
+      "has_items": "2025-04-22 22:06:29 +0000"
     },
     "done": true
   },
@@ -456,6 +468,18 @@
     },
     "done": true
   },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-04-22 22:00:44 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-04-22 22:05:43 +0000"
+    },
+    "done": true
+  },
   "mutantmonsters:hulk_smash": {
     "criteria": {
       "hammer_in_offhand": "2025-04-22 21:53:28 +0000",
@@ -487,6 +511,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/relics/enigmatic_eye": {
+    "criteria": {
+      "impossible": "2025-04-22 22:00:46 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:44:43 +0000"
@@ -495,6 +525,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-04-22 22:06:08 +0000",
       "opened_chest": "2025-04-22 21:56:24 +0000"
     },
     "done": false
@@ -556,6 +587,12 @@
     },
     "done": false
   },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-04-22 22:02:05 +0000"
+    },
+    "done": true
+  },
   "vinery:shelf": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:44:43 +0000"
@@ -577,6 +614,12 @@
   "vinery:wine_rack_1": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-04-22 22:02:34 +0000"
     },
     "done": true
   },
@@ -679,6 +722,12 @@
   "enigmaticaddons:book/accessories/earth_promise": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-04-22 22:06:08 +0000"
     },
     "done": true
   },
@@ -959,6 +1008,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-22 21:59:16 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:44:43 +0000"
@@ -1183,6 +1238,12 @@
     },
     "done": true
   },
+  "dungeons_plus:adventure/find_tower": {
+    "criteria": {
+      "in_structure": "2025-04-22 22:06:07 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_dia_pearl": {
     "criteria": {
       "inv_changed-ender_pearl": "2025-04-22 21:44:43 +0000",
@@ -1213,6 +1274,12 @@
       "log_spam_fixer": "2025-04-22 21:44:44 +0000"
     },
     "done": false
+  },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2025-04-22 22:06:16 +0000"
+    },
+    "done": true
   },
   "explorerscompass:explorers_compass": {
     "criteria": {
