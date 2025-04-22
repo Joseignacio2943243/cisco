@@ -4017,3 +4017,192 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [22Apr2025 23:20:12.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set the weather to rain & thunder]
 [22Apr2025 23:20:12.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> jose ayuda
 [22Apr2025 23:20:19.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Curse]
+[22Apr2025 23:20:43.370] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/30267, l='ServerLevel[world]', x=280.90, y=27.01, z=275.30, removed=DISCARDED]
+[22Apr2025 23:20:43.370] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/30267, l='ServerLevel[world]', x=280.90, y=27.01, z=275.30, removed=DISCARDED]
+[22Apr2025 23:20:43.370] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/30267, l='ServerLevel[world]', x=280.90, y=27.01, z=275.30, removed=DISCARDED]
+[22Apr2025 23:20:52.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper Minion]
+[22Apr2025 23:21:00.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper Minion]
+[22Apr2025 23:21:01.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper Minion]
+[22Apr2025 23:21:02.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper Minion]
+[22Apr2025 23:21:08.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper Minion]
+[22Apr2025 23:21:09.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper Minion]
+[22Apr2025 23:21:10.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper Minion]
+[22Apr2025 23:21:11.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper Minion]
+[22Apr2025 23:21:25.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper Minion]
+[22Apr2025 23:21:26.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper Minion]
+[22Apr2025 23:21:27.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper Minion]
+[22Apr2025 23:21:27.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper Minion]
+[22Apr2025 23:21:28.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper Minion]
+[22Apr2025 23:21:31.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper Minion]
+[22Apr2025 23:21:31.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper Minion]
+[22Apr2025 23:21:33.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper Minion]
+[22Apr2025 23:21:35.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiLover has made the advancement [Diamonds!]
+[22Apr2025 23:21:37.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiLover has reached the goal [Extraterrestrial Substance]
+[22Apr2025 23:21:41.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper Minion]
+[22Apr2025 23:21:42.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper Minion]
+[22Apr2025 23:22:26.179] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[22Apr2025 23:22:26.180] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[22Apr2025 23:22:26.180] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[22Apr2025 23:22:26.373] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[22Apr2025 23:22:26.373] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[22Apr2025 23:22:26.373] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[22Apr2025 23:22:26.373] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[22Apr2025 23:22:26.593] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[22Apr2025 23:22:26.634] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[22Apr2025 23:22:26.634] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[22Apr2025 23:22:26.634] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[22Apr2025 23:22:26.641] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[22Apr2025 23:22:28.106] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[22Apr2025 23:22:28.122] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[22Apr2025 23:22:28.127] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[22Apr2025 23:22:28.177] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@47a63dcd
+[22Apr2025 23:22:28.180] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NachoSigma04[/127.87.170.81:45479] logged in with entity id 30910 at (23.5, 96.0, 10.5)
+[22Apr2025 23:22:28.211] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to NachoSigma04
+[22Apr2025 23:22:28.212] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to NachoSigma04
+[22Apr2025 23:22:28.212] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to NachoSigma04
+[22Apr2025 23:22:28.212] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to NachoSigma04
+[22Apr2025 23:22:28.213] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to NachoSigma04
+[22Apr2025 23:22:28.214] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to NachoSigma04
+[22Apr2025 23:22:28.214] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to NachoSigma04
+[22Apr2025 23:22:28.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 joined the game
+[22Apr2025 23:22:28.266] [Server thread/INFO] [insane96mcp.insanelib.InsaneLib/]: [Progressive Bosses] NachoSigma04 first spawned. Set First Dragon to 1
+[22Apr2025 23:22:28.330] [Server thread/INFO] [Jade/]: Syncing config to NachoSigma04 (47b98972-3764-347e-bfdf-6cb2becefeb4)
+[22Apr2025 23:22:28.498] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to NachoSigma04...
+[22Apr2025 23:22:28.498] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[22Apr2025 23:22:28.498] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[22Apr2025 23:22:28.498] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to NachoSigma04
+[22Apr2025 23:22:46.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Curse]
+[22Apr2025 23:23:04.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiLover was slain by Curse
+[22Apr2025 23:23:05.083] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/32865, l='ServerLevel[world]', x=325.82, y=28.08, z=251.33, removed=DISCARDED]
+[22Apr2025 23:23:05.083] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/32865, l='ServerLevel[world]', x=325.82, y=28.08, z=251.33, removed=DISCARDED]
+[22Apr2025 23:23:05.083] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/32865, l='ServerLevel[world]', x=325.82, y=28.08, z=251.33, removed=DISCARDED]
+[22Apr2025 23:23:19.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported MamiLover to Gress]
+[22Apr2025 23:23:19.716] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/30267, l='ServerLevel[world]', x=280.90, y=27.01, z=275.30, removed=DISCARDED]
+[22Apr2025 23:23:19.718] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/32865, l='ServerLevel[world]', x=325.82, y=28.08, z=251.33, removed=DISCARDED]
+[22Apr2025 23:23:30.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiLover has made the advancement [Shards of the Past]
+[22Apr2025 23:23:31.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper Minion]
+[22Apr2025 23:23:34.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Blüd]
+[22Apr2025 23:23:43.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress suffocated in a wall whilst fighting Blüd
+[22Apr2025 23:23:44.802] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/30267, l='ServerLevel[world]', x=280.90, y=27.01, z=275.30, removed=DISCARDED]
+[22Apr2025 23:23:44.804] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/32865, l='ServerLevel[world]', x=325.82, y=28.08, z=251.33, removed=DISCARDED]
+[22Apr2025 23:23:50.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 has made the advancement [Apothic Affixes]
+[22Apr2025 23:23:55.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiLover was shot by Stray
+[22Apr2025 23:24:03.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set own game mode to Creative Mode]
+[22Apr2025 23:24:06.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was shot by Blüd
+[22Apr2025 23:24:07.556] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/30267, l='ServerLevel[world]', x=280.90, y=27.01, z=275.30, removed=DISCARDED]
+[22Apr2025 23:24:07.557] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/32865, l='ServerLevel[world]', x=325.82, y=28.08, z=251.33, removed=DISCARDED]
+[22Apr2025 23:24:16.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 was slain by MamiLover
+[22Apr2025 23:24:23.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to Ignacio29392]
+[22Apr2025 23:24:24.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 was shot by Blüd
+[22Apr2025 23:24:25.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set own game mode to Spectator Mode]
+[22Apr2025 23:24:27.948] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Minotaur['Elaine the Curious'/29154, l='ServerLevel[world]', x=289.69, y=160.00, z=107.50] died: Elaine the Curious was slain by abel214
+[22Apr2025 23:24:33.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> sisisi
+[22Apr2025 23:24:42.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has completed the challenge [He Wasn't So Strong]
+[22Apr2025 23:24:43.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 was shot by Blüd
+[22Apr2025 23:24:55.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported MamiLover to Ignacio29392]
+[22Apr2025 23:24:55.466] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/30267, l='ServerLevel[world]', x=280.90, y=27.01, z=275.30, removed=DISCARDED]
+[22Apr2025 23:24:55.467] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/32865, l='ServerLevel[world]', x=325.82, y=28.08, z=251.33, removed=DISCARDED]
+[22Apr2025 23:25:04.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported NachoSigma04 to Ignacio29392]
+[22Apr2025 23:25:04.665] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/30267, l='ServerLevel[world]', x=280.90, y=27.01, z=275.30, removed=DISCARDED]
+[22Apr2025 23:25:04.667] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/32865, l='ServerLevel[world]', x=325.82, y=28.08, z=251.33, removed=DISCARDED]
+[22Apr2025 23:25:17.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported MamiLover to Gress]
+[22Apr2025 23:25:20.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by MamiLover
+[22Apr2025 23:25:21.783] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/30267, l='ServerLevel[world]', x=280.90, y=27.01, z=275.30, removed=DISCARDED]
+[22Apr2025 23:25:21.784] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/32865, l='ServerLevel[world]', x=325.82, y=28.08, z=251.33, removed=DISCARDED]
+[22Apr2025 23:25:31.790] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/base/handler/SortingHandler$ItemType
+[22Apr2025 23:25:38.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to MamiLover]
+[22Apr2025 23:25:54.492] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[22Apr2025 23:25:59.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported NachoSigma04 to Gress]
+[22Apr2025 23:26:13.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiLover was slain by NachoSigma04
+[22Apr2025 23:26:16.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Royal Creeper]
+[22Apr2025 23:26:17.887] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=27, y=79, z=-5}
+[22Apr2025 23:26:18.038] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=78, z=-6}
+[22Apr2025 23:26:18.189] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=78, z=-5}
+[22Apr2025 23:26:18.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiLover was shot by Blüd
+[22Apr2025 23:26:18.787] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=23, y=78, z=-5}
+[22Apr2025 23:26:18.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=78, z=-6}
+[22Apr2025 23:26:22.893] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=26, y=78, z=-6}
+[22Apr2025 23:26:23.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Royal Creeper]
+[22Apr2025 23:26:24.490] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=27, y=78, z=-5}
+[22Apr2025 23:26:25.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiLover was shot by Blüd
+[22Apr2025 23:26:25.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=27, y=78, z=-5}
+[22Apr2025 23:26:25.989] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=26, y=78, z=-6}
+[22Apr2025 23:26:29.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> jose ven
+[22Apr2025 23:26:30.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiLover was shot by Blüd
+[22Apr2025 23:26:31.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=28, y=78, z=-6}
+[22Apr2025 23:26:31.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=29, y=78, z=-6}
+[22Apr2025 23:26:31.934] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=31, y=79, z=-6}
+[22Apr2025 23:26:32.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> ira qe es esto
+[22Apr2025 23:26:36.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 has made the advancement [Monster Hunter]
+[22Apr2025 23:26:38.139] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=27, y=79, z=-2}
+[22Apr2025 23:26:38.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=26, y=78, z=-2}
+[22Apr2025 23:26:38.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=26, y=78, z=-2}
+[22Apr2025 23:26:38.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiLover was shot by Blüd
+[22Apr2025 23:26:38.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=26, y=78, z=-2}
+[22Apr2025 23:26:38.634] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=26, y=78, z=-1}
+[22Apr2025 23:26:38.734] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=26, y=78, z=-1}
+[22Apr2025 23:26:39.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=78, z=-1}
+[22Apr2025 23:26:39.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=78, z=-1}
+[22Apr2025 23:26:39.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=78, z=-2}
+[22Apr2025 23:26:39.787] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=77, z=-1}
+[22Apr2025 23:26:39.935] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=77, z=-1}
+[22Apr2025 23:26:42.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported MamiLover to Gress]
+[22Apr2025 23:26:43.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 has made the advancement [Not a Diamond]
+[22Apr2025 23:26:43.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 has made the advancement [Stone Age]
+[22Apr2025 23:26:46.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 has made the advancement [Knight Quest]
+[22Apr2025 23:26:49.235] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=76, z=-1}
+[22Apr2025 23:26:49.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=76, z=0}
+[22Apr2025 23:26:50.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=26, y=76, z=-1}
+[22Apr2025 23:26:50.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=76, z=0}
+[22Apr2025 23:26:51.488] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=76, z=-2}
+[22Apr2025 23:26:52.237] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=76, z=-2}
+[22Apr2025 23:26:52.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=76, z=-2}
+[22Apr2025 23:26:52.831] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=76, z=-2}
+[22Apr2025 23:26:53.334] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=76, z=-2}
+[22Apr2025 23:26:53.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=76, z=-2}
+[22Apr2025 23:26:53.987] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=76, z=-2}
+[22Apr2025 23:26:54.134] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=76, z=-2}
+[22Apr2025 23:26:54.240] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=23, y=76, z=-2}
+[22Apr2025 23:26:54.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=76, z=-1}
+[22Apr2025 23:26:54.435] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=76, z=-1}
+[22Apr2025 23:26:54.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=76, z=-1}
+[22Apr2025 23:26:58.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> jose
+[22Apr2025 23:27:00.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> ven conmigo
+[22Apr2025 23:27:03.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Blüd]
+[22Apr2025 23:27:18.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> joseee
+[22Apr2025 23:27:19.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set own game mode to Creative Mode]
+[22Apr2025 23:27:28.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set own game mode to Spectator Mode]
+[22Apr2025 23:27:35.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Blüd]
+[22Apr2025 23:27:39.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> no entiendo qe dice
+[22Apr2025 23:27:40.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> ven
+[22Apr2025 23:27:57.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported MamiLover to NachoSigma04]
+[22Apr2025 23:27:57.465] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/30267, l='ServerLevel[world]', x=280.90, y=27.01, z=275.30, removed=DISCARDED]
+[22Apr2025 23:27:57.467] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/32865, l='ServerLevel[world]', x=325.82, y=28.08, z=251.33, removed=DISCARDED]
+[22Apr2025 23:28:11.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has made the advancement [Stone Age]
+[22Apr2025 23:28:15.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported MamiLover to Gress]
+[22Apr2025 23:28:30.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MamiLover> acept
+[22Apr2025 23:28:33.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Gress]
+[22Apr2025 23:28:35.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MamiLover> accept
+[22Apr2025 23:29:04.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Blüd]
+[22Apr2025 23:29:12.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiLover suffocated in a wall whilst fighting Blüd
+[22Apr2025 23:29:13.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to MamiLover]
+[22Apr2025 23:29:18.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to NachoSigma04]
+[22Apr2025 23:29:22.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to NachoSigma04]
+[22Apr2025 23:29:24.134] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=27, y=78, z=-4}
+[22Apr2025 23:29:45.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported MamiLover to Gress]
+[22Apr2025 23:29:45.614] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/30267, l='ServerLevel[world]', x=280.90, y=27.01, z=275.30, removed=DISCARDED]
+[22Apr2025 23:29:45.616] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/32865, l='ServerLevel[world]', x=325.82, y=28.08, z=251.33, removed=DISCARDED]
+[22Apr2025 23:29:46.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> ven conbmgo jose
+[22Apr2025 23:29:48.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: The difficulty has been set to Peaceful]
+[22Apr2025 23:29:48.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> en fa
+[22Apr2025 23:29:50.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: The difficulty has been set to Hard]
+[22Apr2025 23:29:53.278] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[22Apr2025 23:29:53.278] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[22Apr2025 23:30:00.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> jose ven ven ven
+[22Apr2025 23:30:13.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Blüd]
+[22Apr2025 23:30:16.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> dice algo de mayus izdo clic dcho
+[22Apr2025 23:30:20.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> qe es esas teclas
+[22Apr2025 23:30:21.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported NachoSigma04 to Gress]
+[22Apr2025 23:30:29.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported MamiLover to Gress]
+[22Apr2025 23:30:36.726] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/30267, l='ServerLevel[world]', x=280.90, y=27.01, z=275.30, removed=DISCARDED]
+[22Apr2025 23:30:41.972] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/32865, l='ServerLevel[world]', x=325.82, y=28.08, z=251.33, removed=DISCARDED]
