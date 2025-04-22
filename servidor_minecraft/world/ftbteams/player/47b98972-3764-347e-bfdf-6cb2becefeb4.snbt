@@ -2,9 +2,7 @@
 	id: "47b98972-3764-347e-bfdf-6cb2becefeb4"
 	type: "player"
 	player_name: "NachoSigma04"
-	ranks: {
-		47b98972-3764-347e-bfdf-6cb2becefeb4: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "NachoSigma04"
 		"ftbteams:description": ""

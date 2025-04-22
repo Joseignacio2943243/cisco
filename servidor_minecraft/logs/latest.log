@@ -4206,3 +4206,233 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [22Apr2025 23:30:29.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported MamiLover to Gress]
 [22Apr2025 23:30:36.726] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/30267, l='ServerLevel[world]', x=280.90, y=27.01, z=275.30, removed=DISCARDED]
 [22Apr2025 23:30:41.972] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/32865, l='ServerLevel[world]', x=325.82, y=28.08, z=251.33, removed=DISCARDED]
+[22Apr2025 23:30:54.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
+[22Apr2025 23:31:07.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 has made the advancement ['X' Marks the Spot]
+[22Apr2025 23:31:09.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiLover was slain by Cursed Armor
+[22Apr2025 23:31:13.377] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[22Apr2025 23:31:16.875] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[22Apr2025 23:31:16.876] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[22Apr2025 23:31:16.876] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[22Apr2025 23:31:16.876] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[22Apr2025 23:31:30.834] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=16, y=84, z=5}
+[22Apr2025 23:31:36.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 has reached the goal [Worthy Equipment]
+[22Apr2025 23:31:36.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 has made the advancement [Cover Me with Diamonds]
+[22Apr2025 23:31:39.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=17, y=83, z=6}
+[22Apr2025 23:31:41.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported MamiLover to NachoSigma04]
+[22Apr2025 23:31:41.718] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/30267, l='ServerLevel[world]', x=280.90, y=27.01, z=275.30, removed=DISCARDED]
+[22Apr2025 23:31:41.720] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/32865, l='ServerLevel[world]', x=325.82, y=28.08, z=251.33, removed=DISCARDED]
+[22Apr2025 23:32:08.971] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[22Apr2025 23:32:08.971] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[22Apr2025 23:32:08.971] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[22Apr2025 23:32:08.971] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[22Apr2025 23:32:21.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Blüd]
+[22Apr2025 23:32:39.242] [Structurize IO Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/blueprints/v1/DataVersion
+[22Apr2025 23:32:39.259] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/colony/permissions/Action
+[22Apr2025 23:32:39.264] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/colony/permissions/OldRank
+[22Apr2025 23:32:39.268] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/colony/ColonyState
+[22Apr2025 23:32:39.277] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/colony/requestsystem/management/update/UpdateType
+[22Apr2025 23:32:39.288] [Server thread/INFO] [minecolonies/]: New Colony Id: 1 by abel214
+[22Apr2025 23:32:39.367] [Structurize IO Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/util/RotationMirror
+[22Apr2025 23:32:42.571] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/colony/ColonyProgressType
+[22Apr2025 23:33:03.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: The difficulty has been set to Peaceful]
+[22Apr2025 23:33:07.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: The difficulty has been set to Hard]
+[22Apr2025 23:33:07.829] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/entity/pathfinding/SurfaceType
+[22Apr2025 23:33:07.832] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/colony/citizens/event/CitizenAddedEvent$Source
+[22Apr2025 23:33:09.770] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/core/entity/ai/minimal/EntityAICitizenAvoidEntity$FleeStates
+[22Apr2025 23:33:09.772] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/core/entity/ai/minimal/EntityAIEatTask$EatingState
+[22Apr2025 23:33:09.775] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/core/entity/ai/minimal/EntityAICitizenWander$WanderState
+[22Apr2025 23:33:09.776] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/core/entity/ai/minimal/EntityAISickTask$DiseaseState
+[22Apr2025 23:33:09.779] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/core/entity/ai/minimal/EntityAISleep$SleepState
+[22Apr2025 23:33:09.781] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/core/entity/ai/minimal/EntityAIMournCitizen$MourningState
+[22Apr2025 23:33:10.671] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/entity/pathfinding/PathFindingStatus
+[22Apr2025 23:33:10.671] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/entity/pathfinding/AbstractAdvancedPathNavigate$RestrictionType
+[22Apr2025 23:33:41.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 has made the advancement [Diamonds!]
+[22Apr2025 23:33:52.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> a
+[22Apr2025 23:33:58.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Blüd]
+[22Apr2025 23:34:01.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was shot by Blüd
+[22Apr2025 23:34:10.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported MamiLover to Ignacio29392]
+[22Apr2025 23:34:12.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiLover was shot by Blüd
+[22Apr2025 23:34:12.732] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[22Apr2025 23:34:12.733] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[22Apr2025 23:34:12.733] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[22Apr2025 23:34:12.733] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[22Apr2025 23:34:12.733] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[22Apr2025 23:34:25.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported MamiLover to Ignacio29392]
+[22Apr2025 23:34:25.162] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/30267, l='ServerLevel[world]', x=280.90, y=27.01, z=275.30, removed=DISCARDED]
+[22Apr2025 23:34:25.164] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/32865, l='ServerLevel[world]', x=325.82, y=28.08, z=251.33, removed=DISCARDED]
+[22Apr2025 23:34:27.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiLover was shot by Blüd
+[22Apr2025 23:34:42.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 suffocated in a wall whilst fighting Blüd
+[22Apr2025 23:34:47.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported NachoSigma04 to Ignacio29392]
+[22Apr2025 23:34:47.962] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/30267, l='ServerLevel[world]', x=280.90, y=27.01, z=275.30, removed=DISCARDED]
+[22Apr2025 23:34:47.963] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/32865, l='ServerLevel[world]', x=325.82, y=28.08, z=251.33, removed=DISCARDED]
+[22Apr2025 23:34:53.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress lost connection: Timed out
+[22Apr2025 23:34:53.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress left the game
+[22Apr2025 23:34:53.225] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Apr2025 23:34:55.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported MamiLover to Ignacio29392]
+[22Apr2025 23:34:55.564] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/30267, l='ServerLevel[world]', x=280.90, y=27.01, z=275.30, removed=DISCARDED]
+[22Apr2025 23:34:55.566] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/32865, l='ServerLevel[world]', x=325.82, y=28.08, z=251.33, removed=DISCARDED]
+[22Apr2025 23:34:58.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 was shot by Blüd
+[22Apr2025 23:35:04.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiLover has made the advancement [Ice Bucket Challenge]
+[22Apr2025 23:35:04.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiLover was shot by Blüd
+[22Apr2025 23:35:06.724] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[22Apr2025 23:35:06.724] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[22Apr2025 23:35:06.725] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[22Apr2025 23:35:06.725] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[22Apr2025 23:35:06.725] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[22Apr2025 23:35:12.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: The difficulty has been set to Peaceful]
+[22Apr2025 23:35:15.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported NachoSigma04 to Ignacio29392]
+[22Apr2025 23:35:15.459] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/30267, l='ServerLevel[world]', x=280.90, y=27.01, z=275.30, removed=DISCARDED]
+[22Apr2025 23:35:15.459] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/32865, l='ServerLevel[world]', x=325.82, y=28.08, z=251.33, removed=DISCARDED]
+[22Apr2025 23:35:16.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=28, y=79, z=-3}
+[22Apr2025 23:35:16.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=28, y=79, z=-3}
+[22Apr2025 23:35:16.882] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=28, y=79, z=-3}
+[22Apr2025 23:35:17.038] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=28, y=79, z=-3}
+[22Apr2025 23:35:17.129] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=28, y=79, z=-3}
+[22Apr2025 23:35:17.183] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=28, y=79, z=-3}
+[22Apr2025 23:35:19.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported MamiLover to Ignacio29392]
+[22Apr2025 23:35:19.360] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/30267, l='ServerLevel[world]', x=280.90, y=27.01, z=275.30, removed=DISCARDED]
+[22Apr2025 23:35:19.361] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/32865, l='ServerLevel[world]', x=325.82, y=28.08, z=251.33, removed=DISCARDED]
+[22Apr2025 23:35:28.261] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/98, l='ServerLevel[world]', x=70.50, y=240.00, z=74.76] died, message: 'Unemployed burned to death'
+[22Apr2025 23:35:42.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported NachoSigma04 to Ignacio29392]
+[22Apr2025 23:35:48.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported NachoSigma04 to Ignacio29392]
+[22Apr2025 23:35:54.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported NachoSigma04 to Ignacio29392]
+[22Apr2025 23:36:16.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 has made the advancement [Ice Bucket Challenge]
+[22Apr2025 23:36:24.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set own game mode to Creative Mode]
+[22Apr2025 23:36:24.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has made the advancement [First Trade]
+[22Apr2025 23:36:24.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has made the advancement [What a Deal!]
+[22Apr2025 23:36:42.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set own game mode to Spectator Mode]
+[22Apr2025 23:36:50.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set own game mode to Creative Mode]
+[22Apr2025 23:36:56.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set own game mode to Spectator Mode]
+[22Apr2025 23:37:00.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported NachoSigma04 to Ignacio29392]
+[22Apr2025 23:37:18.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> hagan party
+[22Apr2025 23:37:26.032] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[22Apr2025 23:37:26.088] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[22Apr2025 23:37:26.134] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[22Apr2025 23:37:26.181] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[22Apr2025 23:37:26.227] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[22Apr2025 23:37:26.282] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[22Apr2025 23:37:26.329] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[22Apr2025 23:37:26.377] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[22Apr2025 23:37:26.426] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[22Apr2025 23:37:26.472] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[22Apr2025 23:37:26.522] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[22Apr2025 23:37:26.581] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[22Apr2025 23:37:27.019] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[22Apr2025 23:37:27.027] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[22Apr2025 23:37:27.038] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[22Apr2025 23:37:27.123] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7bf428fc
+[22Apr2025 23:37:27.129] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gress[/127.39.22.126:44367] logged in with entity id 43477 at (335.3303535346287, 18.0, 276.1688039491184)
+[22Apr2025 23:37:27.161] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Gress
+[22Apr2025 23:37:27.161] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Gress
+[22Apr2025 23:37:27.161] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Gress
+[22Apr2025 23:37:27.161] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Gress
+[22Apr2025 23:37:27.162] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Gress
+[22Apr2025 23:37:27.163] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Gress
+[22Apr2025 23:37:27.163] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Gress
+[22Apr2025 23:37:27.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress joined the game
+[22Apr2025 23:37:27.212] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/32865, l='ServerLevel[world]', x=325.82, y=28.08, z=251.33, removed=DISCARDED]
+[22Apr2025 23:37:27.213] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/30267, l='ServerLevel[world]', x=280.90, y=27.01, z=275.30, removed=DISCARDED]
+[22Apr2025 23:37:27.256] [Server thread/INFO] [Jade/]: Syncing config to Gress (a0d83634-7b19-37e4-b8c9-a290e08b9bb8)
+[22Apr2025 23:37:27.311] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Gress...
+[22Apr2025 23:37:27.311] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[22Apr2025 23:37:27.312] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[22Apr2025 23:37:27.312] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Gress
+[22Apr2025 23:37:54.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Mutant Creeper]
+[22Apr2025 23:38:00.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: The difficulty has been set to Hard]
+[22Apr2025 23:38:02.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Mutant Creeper]
+[22Apr2025 23:38:03.472] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[22Apr2025 23:38:03.472] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[22Apr2025 23:38:03.472] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[22Apr2025 23:38:03.472] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[22Apr2025 23:38:10.993] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/30267, l='ServerLevel[world]', x=280.90, y=27.01, z=275.30, removed=DISCARDED]
+[22Apr2025 23:38:10.994] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/32865, l='ServerLevel[world]', x=325.82, y=28.08, z=251.33, removed=DISCARDED]
+[22Apr2025 23:38:18.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> q
+[22Apr2025 23:38:29.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to Ignacio29392]
+[22Apr2025 23:38:43.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> jose
+[22Apr2025 23:38:45.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 suffocated in a wall whilst fighting MamiLover
+[22Apr2025 23:38:49.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> hazme tp con ellos
+[22Apr2025 23:39:01.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set own game mode to Creative Mode]
+[22Apr2025 23:39:03.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MamiLover> jose llevame con abel
+[22Apr2025 23:39:10.288] [Worker-Main19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=40, y=14, z=-600}
+[22Apr2025 23:39:10.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 has made the advancement [Ice Bucket Challenge]
+[22Apr2025 23:39:12.283] [Worker-Main16/WARN] [ModernFix/]: The namespace waystones contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[22Apr2025 23:39:13.493] [Worker-Main16/WARN] [ModernFix/]: The namespace farmersdelight contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[22Apr2025 23:39:14.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported NachoSigma04 to Ignacio29392]
+[22Apr2025 23:39:14.066] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/30267, l='ServerLevel[world]', x=280.90, y=27.01, z=275.30, removed=DISCARDED]
+[22Apr2025 23:39:14.067] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/32865, l='ServerLevel[world]', x=325.82, y=28.08, z=251.33, removed=DISCARDED]
+[22Apr2025 23:39:19.326] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[22Apr2025 23:39:19.326] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[22Apr2025 23:39:19.326] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[22Apr2025 23:39:39.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 has made the advancement [Getting an Upgrade]
+[22Apr2025 23:39:40.350] [Worker-Main19/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: -425 100 102
+[22Apr2025 23:39:53.431] [Worker-Main20/WARN] [ModernFix/]: The namespace totw_modded contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[22Apr2025 23:39:55.579] [Worker-Main16/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[22Apr2025 23:39:55.580] [Worker-Main16/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[22Apr2025 23:39:55.580] [Worker-Main16/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[22Apr2025 23:39:55.633] [Worker-Main16/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$Interp
+[22Apr2025 23:39:55.633] [Worker-Main16/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$NoiseType
+[22Apr2025 23:39:55.634] [Worker-Main16/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$FractalType
+[22Apr2025 23:39:55.634] [Worker-Main16/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$CellularDistanceFunction
+[22Apr2025 23:39:55.634] [Worker-Main16/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$CellularReturnType
+[22Apr2025 23:39:55.677] [Worker-Main16/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 below top-6 above bottom]
+[22Apr2025 23:40:01.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 has made the advancement [Incendium]
+[22Apr2025 23:40:01.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 has made the advancement [We Need to Go Deeper]
+[22Apr2025 23:40:01.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10577ms or 211 ticks behind
+[22Apr2025 23:40:01.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 has made the advancement [Radioactive]
+[22Apr2025 23:40:06.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set own game mode to Spectator Mode]
+[22Apr2025 23:40:09.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported MamiLover to Gress]
+[22Apr2025 23:40:11.387] [Worker-Main20/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[22Apr2025 23:40:13.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiLover has made the advancement [Incendium]
+[22Apr2025 23:40:13.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiLover has made the advancement [We Need to Go Deeper]
+[22Apr2025 23:40:13.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported MamiLover to Ignacio29392]
+[22Apr2025 23:40:13.689] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[22Apr2025 23:40:13.827] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[22Apr2025 23:40:14.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiLover has made the advancement [Radioactive]
+[22Apr2025 23:40:22.099] [Worker-Main31/WARN] [ModernFix/]: The namespace repurposed_structures contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[22Apr2025 23:40:27.510] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/32865, l='ServerLevel[world]', x=325.82, y=28.08, z=251.33, removed=DISCARDED]
+[22Apr2025 23:40:27.515] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/30267, l='ServerLevel[world]', x=280.90, y=27.01, z=275.30, removed=DISCARDED]
+[22Apr2025 23:40:27.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Gress]
+[22Apr2025 23:40:27.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8851ms or 177 ticks behind
+[22Apr2025 23:40:52.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has made the advancement [Penteconter]
+[22Apr2025 23:40:53.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiLover was slain by Magma Cube
+[22Apr2025 23:40:54.083] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[22Apr2025 23:40:54.084] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[22Apr2025 23:40:54.084] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[22Apr2025 23:40:58.358] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[22Apr2025 23:40:58.358] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[22Apr2025 23:40:58.358] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 24 torch
+[22Apr2025 23:40:58.358] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 iron_warglaive
+[22Apr2025 23:40:58.358] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 0
+[22Apr2025 23:40:58.816] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[22Apr2025 23:40:58.816] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[22Apr2025 23:40:58.816] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 24 torch
+[22Apr2025 23:40:58.816] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 iron_warglaive
+[22Apr2025 23:40:58.816] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 0
+[22Apr2025 23:40:59.207] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[22Apr2025 23:40:59.208] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[22Apr2025 23:40:59.208] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 24 torch
+[22Apr2025 23:40:59.208] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 iron_warglaive
+[22Apr2025 23:40:59.208] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 0
+[22Apr2025 23:40:59.660] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[22Apr2025 23:40:59.661] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[22Apr2025 23:40:59.661] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 24 torch
+[22Apr2025 23:40:59.661] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 iron_warglaive
+[22Apr2025 23:40:59.661] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 0
+[22Apr2025 23:41:00.058] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[22Apr2025 23:41:00.058] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[22Apr2025 23:41:00.058] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 24 torch
+[22Apr2025 23:41:00.058] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 iron_warglaive
+[22Apr2025 23:41:00.059] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 0
+[22Apr2025 23:41:00.509] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[22Apr2025 23:41:00.509] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[22Apr2025 23:41:00.510] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 24 torch
+[22Apr2025 23:41:00.510] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 iron_warglaive
+[22Apr2025 23:41:00.510] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 0
+[22Apr2025 23:41:00.909] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[22Apr2025 23:41:00.909] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
+[22Apr2025 23:41:00.909] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 24 torch
+[22Apr2025 23:41:00.909] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 iron_warglaive
+[22Apr2025 23:41:00.909] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 0
+[22Apr2025 23:41:00.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported MamiLover to abel214]
+[22Apr2025 23:41:00.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6477ms or 129 ticks behind
+[22Apr2025 23:41:01.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported MamiLover to abel214]
