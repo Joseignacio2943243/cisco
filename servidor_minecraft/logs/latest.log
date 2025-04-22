@@ -7082,3 +7082,99 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [22Apr2025 22:10:42.116] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@66fd6c7f[id=<null>,name=abel214,properties={},legacy=false] (/127.128.122.78:48189) lost connection: Disconnected
 [22Apr2025 22:11:17.816] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@28ee9780[id=<null>,name=abel214,properties={},legacy=false] (/127.128.122.78:38069) lost connection: Disconnected
 [22Apr2025 22:11:41.518] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3df194e6[id=<null>,name=abel214,properties={},legacy=false] (/127.128.122.78:41295) lost connection: Disconnected
+[22Apr2025 22:13:18.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was doomed to fall
+[22Apr2025 22:13:20.955] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[22Apr2025 22:14:29.161] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / strictly:skilled_swordsman_axe_boost] from power ResourceKey[apoli:configured_power / strictly:skilled_swordsman]
+[22Apr2025 22:14:29.162] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Giving player MamiTomoe stack: 1 written_book
+[22Apr2025 22:15:09.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiTomoe was slain by Zombie
+[22Apr2025 22:15:15.218] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=29, y=78, z=6}
+[22Apr2025 22:15:16.917] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[22Apr2025 22:15:20.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MamiTomoe lost connection: Disconnected
+[22Apr2025 22:15:20.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiTomoe left the game
+[22Apr2025 22:15:28.187] [IO-Worker-134/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/nbt/StreamTagVisitor$ValueResult
+[22Apr2025 22:15:28.189] [IO-Worker-134/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/nbt/StreamTagVisitor$EntryResult
+[22Apr2025 22:15:31.331] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[22Apr2025 22:15:31.361] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[22Apr2025 22:15:31.401] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[22Apr2025 22:15:31.428] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[22Apr2025 22:15:31.478] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[22Apr2025 22:15:31.532] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[22Apr2025 22:15:31.579] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[22Apr2025 22:15:31.629] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[22Apr2025 22:15:31.677] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[22Apr2025 22:15:31.729] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[22Apr2025 22:15:31.779] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[22Apr2025 22:15:31.826] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[22Apr2025 22:15:34.943] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[22Apr2025 22:15:34.983] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[22Apr2025 22:15:34.999] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[22Apr2025 22:15:35.063] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5e597fa9
+[22Apr2025 22:15:35.065] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abel214[/127.128.122.78:50589] logged in with entity id 11068 at (24.5, 87.0, -0.5)
+[22Apr2025 22:15:35.095] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to abel214
+[22Apr2025 22:15:35.095] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to abel214
+[22Apr2025 22:15:35.096] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to abel214
+[22Apr2025 22:15:35.096] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to abel214
+[22Apr2025 22:15:35.097] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to abel214
+[22Apr2025 22:15:35.098] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to abel214
+[22Apr2025 22:15:35.098] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to abel214
+[22Apr2025 22:15:35.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 joined the game
+[22Apr2025 22:15:35.147] [Server thread/INFO] [insane96mcp.insanelib.InsaneLib/]: [Progressive Bosses] abel214 first spawned. Set First Dragon to 1
+[22Apr2025 22:15:35.200] [Server thread/INFO] [Jade/]: Syncing config to abel214 (437bc061-ee57-3556-8dde-2271a68dd9eb)
+[22Apr2025 22:15:35.320] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to abel214...
+[22Apr2025 22:15:35.320] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[22Apr2025 22:15:35.321] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[22Apr2025 22:15:35.321] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to abel214
+[22Apr2025 22:17:16.372] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / strictly:winged_flap] from power ResourceKey[apoli:configured_power / strictly:winged]
+[22Apr2025 22:17:16.372] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / strictly:winged_elytra] from power ResourceKey[apoli:configured_power / strictly:winged]
+[22Apr2025 22:17:16.830] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[22Apr2025 22:17:16.831] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[22Apr2025 22:17:17.005] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[22Apr2025 22:17:17.017] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[22Apr2025 22:17:17.017] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[22Apr2025 22:17:17.018] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[22Apr2025 22:17:17.190] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[22Apr2025 22:17:17.190] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[22Apr2025 22:17:17.190] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[22Apr2025 22:17:17.345] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[22Apr2025 22:17:17.385] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[22Apr2025 22:17:17.386] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[22Apr2025 22:17:19.359] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[22Apr2025 22:17:19.366] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[22Apr2025 22:17:19.371] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[22Apr2025 22:17:19.467] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@f62a05b
+[22Apr2025 22:17:19.469] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MamiLover[/127.119.34.57:34509] logged in with entity id 12305 at (19.5, 84.0, 4.5)
+[22Apr2025 22:17:19.495] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MamiLover
+[22Apr2025 22:17:19.495] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MamiLover
+[22Apr2025 22:17:19.496] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MamiLover
+[22Apr2025 22:17:19.496] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MamiLover
+[22Apr2025 22:17:19.497] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MamiLover
+[22Apr2025 22:17:19.498] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MamiLover
+[22Apr2025 22:17:19.498] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MamiLover
+[22Apr2025 22:17:19.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiLover joined the game
+[22Apr2025 22:17:19.547] [Server thread/INFO] [insane96mcp.insanelib.InsaneLib/]: [Progressive Bosses] MamiLover first spawned. Set First Dragon to 1
+[22Apr2025 22:17:19.602] [Server thread/INFO] [Jade/]: Syncing config to MamiLover (3501aba5-7bf5-3f0e-845e-072c1554b064)
+[22Apr2025 22:17:19.711] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to MamiLover...
+[22Apr2025 22:17:19.711] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[22Apr2025 22:17:19.712] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[22Apr2025 22:17:19.712] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to MamiLover
+[22Apr2025 22:18:03.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Diamonds!]
+[22Apr2025 22:19:32.255] [Worker-Main45/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: creeper for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"creeper",note:"12",powered:"false"}}
+[22Apr2025 22:19:32.283] [Worker-Main45/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"8",powered:"false"}}
+[22Apr2025 22:19:32.283] [Worker-Main45/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"5",powered:"false"}}
+[22Apr2025 22:19:33.527] [Worker-Main64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=-11, z=-113}
+[22Apr2025 22:19:33.528] [Worker-Main64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=204, y=-11, z=-110}
+[22Apr2025 22:19:47.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> si me va lag
+[22Apr2025 22:20:00.188] [Worker-Main30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Apr2025 22:20:06.796] [Worker-Main45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=-11, z=-113}
+[22Apr2025 22:20:06.797] [Worker-Main45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=204, y=-11, z=-110}
+[22Apr2025 22:20:13.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> 9 fps
+[22Apr2025 22:20:18.686] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[22Apr2025 22:20:19.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> muevele a todo
+[22Apr2025 22:20:22.407] [Worker-Main30/WARN] [ModernFix/]: The namespace blue_skies contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[22Apr2025 22:20:27.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> ponle en rapido y quita shaders
+[22Apr2025 22:20:27.607] [Worker-Main87/WARN] [ModernFix/]: The namespace dungeons_arise contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[22Apr2025 22:20:31.301] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=-48, z=-26}
+[22Apr2025 22:20:31.865] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/13074, l='ServerLevel[world]', x=470.94, y=104.00, z=226.70] died, message: 'Fletcher was slain by Equestrian'
+[22Apr2025 22:20:53.796] [Worker-Main30/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: 324 119 417
+[22Apr2025 22:21:10.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Suit Up]
+[22Apr2025 22:22:09.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiLover hit the ground too hard whilst trying to escape Skeleton

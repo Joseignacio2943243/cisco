@@ -186,6 +186,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-04-22 22:09:13 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/materials/pure_heart": {
     "criteria": {
       "has_the_recipe": "2025-04-22 22:04:18 +0000"
@@ -213,6 +219,12 @@
   "vinery:wine_box": {
     "criteria": {
       "has_the_recipe": "2025-04-22 22:04:18 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-04-22 22:10:02 +0000"
     },
     "done": true
   },
@@ -348,6 +360,12 @@
     },
     "done": true
   },
+  "undead_unleashed:shards_of_the_past": {
+    "criteria": {
+      "shards_of_the_past": "2025-04-22 22:09:32 +0000"
+    },
+    "done": true
+  },
   "morevillagers:root": {
     "criteria": {
       "always": "2025-04-22 22:04:18 +0000"
@@ -390,11 +408,23 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-22 22:10:02 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2025-04-22 22:04:18 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-04-22 22:10:13 +0000"
+    },
+    "done": false
   },
   "vinery:cherry_door": {
     "criteria": {
@@ -437,6 +467,12 @@
       "has_the_recipe": "2025-04-22 22:04:18 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-22 22:10:02 +0000"
+    },
+    "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
@@ -561,6 +597,12 @@
   "enigmaticaddons:book/accessories/earth_promise": {
     "criteria": {
       "has_the_recipe": "2025-04-22 22:04:18 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-04-22 22:10:13 +0000"
     },
     "done": true
   },
@@ -729,6 +771,12 @@
   "comforts:sleeping_bag_yellow": {
     "criteria": {
       "has_the_recipe": "2025-04-22 22:04:18 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-04-22 22:14:59 +0000"
     },
     "done": true
   },
@@ -918,6 +966,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-22 22:10:02 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
       "log_spam_fixer": "2025-04-22 22:04:19 +0000"
@@ -1007,6 +1061,12 @@
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-04-22 22:04:18 +0000"
+    },
+    "done": true
+  },
+  "dungeons_plus:adventure/find_tower": {
+    "criteria": {
+      "in_structure": "2025-04-22 22:09:58 +0000"
     },
     "done": true
   },
@@ -1190,6 +1250,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-04-22 22:04:18 +0000"
+    },
+    "done": true
+  },
+  "meetyourfight:main/root": {
+    "criteria": {
+      "killed_something": "2025-04-22 22:10:02 +0000"
     },
     "done": true
   },
