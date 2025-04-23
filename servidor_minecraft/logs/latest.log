@@ -3829,3 +3829,119 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [23Apr2025 07:18:35.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Hidden in the Depths]
 [23Apr2025 07:18:46.283] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 0 recipes!
 [23Apr2025 07:19:00.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 07:19:13.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 07:19:21.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 07:19:42.682] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[23Apr2025 07:19:42.682] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 07:19:42.682] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 07:19:42.682] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 07:19:43.703] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[23Apr2025 07:19:43.704] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[23Apr2025 07:19:43.704] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[23Apr2025 07:19:43.705] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 07:19:45.204] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[23Apr2025 07:19:45.205] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[23Apr2025 07:19:45.205] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 07:20:13.536] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[23Apr2025 07:20:13.537] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 07:20:13.537] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[23Apr2025 07:20:13.537] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[23Apr2025 07:20:33.833] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 07:20:33.833] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 07:21:10.801] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 4 in "main" inventory handler
+[23Apr2025 07:21:15.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> gres
+[23Apr2025 07:21:22.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> la armadure esa sirve?
+[23Apr2025 07:21:26.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> la de break nose qe
+[23Apr2025 07:21:32.147] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[23Apr2025 07:21:32.147] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 07:21:32.147] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 07:21:32.148] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 07:21:43.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set own game mode to Creative Mode]
+[23Apr2025 07:21:55.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has reached the goal [Cover Me In Bright Steel]
+[23Apr2025 07:21:59.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set own game mode to Spectator Mode]
+[23Apr2025 07:22:46.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Gave 1    [Flint and Steel] to abel214]
+[23Apr2025 07:22:56.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> awante
+[23Apr2025 07:22:58.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> espera
+[23Apr2025 07:23:01.684] [Worker-Main3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[23Apr2025 07:23:02.097] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[23Apr2025 07:23:02.098] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[23Apr2025 07:23:04.837] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[23Apr2025 07:23:04.838] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[23Apr2025 07:23:04.838] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[23Apr2025 07:23:04.899] [Worker-Main3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$Interp
+[23Apr2025 07:23:04.899] [Worker-Main3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$NoiseType
+[23Apr2025 07:23:04.900] [Worker-Main3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$FractalType
+[23Apr2025 07:23:04.900] [Worker-Main3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$CellularDistanceFunction
+[23Apr2025 07:23:04.900] [Worker-Main3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$CellularReturnType
+[23Apr2025 07:23:04.957] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 below top-6 above bottom]
+[23Apr2025 07:23:10.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [We Need to Go Deeper]
+[23Apr2025 07:23:10.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Incendium]
+[23Apr2025 07:23:10.696] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[23Apr2025 07:23:10.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10137ms or 202 ticks behind
+[23Apr2025 07:23:10.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Gress]
+[23Apr2025 07:23:11.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Radioactive]
+[23Apr2025 07:23:19.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 has made the advancement [Strange Biomes]
+[23Apr2025 07:23:19.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 has made the advancement [The Dust Settles]
+[23Apr2025 07:23:21.790] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[23Apr2025 07:23:21.903] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[23Apr2025 07:23:21.912] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[23Apr2025 07:23:22.282] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[23Apr2025 07:23:37.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has made the advancement [Into Fire]
+[23Apr2025 07:23:39.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Gress]
+[23Apr2025 07:23:44.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Warped Enderman]
+[23Apr2025 07:24:09.656] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting potionstudios/byg/common/world/math/noise/fastnoise/FastNoise$Interp
+[23Apr2025 07:24:09.657] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting potionstudios/byg/common/world/math/noise/fastnoise/FastNoise$NoiseType
+[23Apr2025 07:24:09.657] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting potionstudios/byg/common/world/math/noise/fastnoise/FastNoise$FractalType
+[23Apr2025 07:24:09.658] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting potionstudios/byg/common/world/math/noise/fastnoise/FastNoise$CellularDistanceFunction
+[23Apr2025 07:24:09.658] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting potionstudios/byg/common/world/math/noise/fastnoise/FastNoise$CellularReturnType
+[23Apr2025 07:24:20.863] [Worker-Main3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-164, y=-1, z=-74}
+[23Apr2025 07:24:20.863] [Worker-Main3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-164, y=-1, z=-77}
+[23Apr2025 07:24:20.865] [Worker-Main3/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[23Apr2025 07:24:27.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Warped Enderman]
+[23Apr2025 07:24:27.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Warped Enderman]
+[23Apr2025 07:24:28.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Warped Enderman]
+[23Apr2025 07:24:56.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has reached the goal [Cover Me In Bright Steel]
+[23Apr2025 07:25:00.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Wither Skeleton]
+[23Apr2025 07:25:01.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Wither Skeleton]
+[23Apr2025 07:25:23.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Magma Cube]
+[23Apr2025 07:25:24.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Magma Cube]
+[23Apr2025 07:25:32.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Strange Biomes]
+[23Apr2025 07:25:32.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [The Dust Settles]
+[23Apr2025 07:25:43.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Blaze]
+[23Apr2025 07:25:44.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Blaze]
+[23Apr2025 07:25:44.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Blaze]
+[23Apr2025 07:25:54.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Warped Enderman]
+[23Apr2025 07:25:54.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Warped Enderman]
+[23Apr2025 07:25:55.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Warped Enderman]
+[23Apr2025 07:26:00.188] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 4 in "main" inventory handler
+[23Apr2025 07:26:06.803] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[23Apr2025 07:26:28.742] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/aqutheseal/celestisynth/api/animation/player/AnimationManager$AnimationsList
+[23Apr2025 07:26:28.744] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[23Apr2025 07:26:28.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress withered away whilst fighting Wither Skeleton
+[23Apr2025 07:26:42.947] [Worker-Main1/WARN] [ModernFix/]: The namespace bygonenether contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[23Apr2025 07:26:45.175] [Worker-Main2/WARN] [ModernFix/]: The namespace incendium contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[23Apr2025 07:26:55.833] [Worker-Main3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=168, z=-18}
+[23Apr2025 07:26:56.883] [Worker-Main3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-218, y=10, z=-283}
+[23Apr2025 07:27:04.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Warped Enderman]
+[23Apr2025 07:27:05.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Warped Enderman]
+[23Apr2025 07:27:06.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Warped Enderman]
+[23Apr2025 07:27:07.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Warped Enderman]
+[23Apr2025 07:27:30.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> como guardo mi xp
+[23Apr2025 07:27:31.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Wither Skeleton]
+[23Apr2025 07:27:40.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Ghast]
+[23Apr2025 07:27:42.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Into Fire]
+[23Apr2025 07:27:48.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Ghast]
+[23Apr2025 07:27:48.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Ghast]
+[23Apr2025 07:27:52.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> me das uno?
+[23Apr2025 07:28:01.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> como
+[23Apr2025 07:28:21.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Ghast]
+[23Apr2025 07:28:32.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has made the advancement [We Need to Go Deeper]
+[23Apr2025 07:28:32.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has made the advancement [Incendium]
+[23Apr2025 07:28:32.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has made the advancement [Radioactive]
+[23Apr2025 07:28:46.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Wither Skeleton]
+[23Apr2025 07:28:46.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has made the advancement [The Dust Settles]
+[23Apr2025 07:28:46.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has made the advancement [Strange Biomes]
+[23Apr2025 07:28:57.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 was slain by Warped Enderman
+[23Apr2025 07:29:09.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> mi xp kk
+[23Apr2025 07:29:15.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> tp jose
+[23Apr2025 07:29:21.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported abel214 to Gress]

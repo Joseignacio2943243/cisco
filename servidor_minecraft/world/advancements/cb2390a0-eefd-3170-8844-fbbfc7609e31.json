@@ -121,6 +121,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:ash_barrens": "2025-04-23 07:23:19 +0000",
       "incendium:toxic_heap": "2025-04-22 23:40:01 +0000"
     },
     "done": false
@@ -209,6 +210,12 @@
       "savanna": "2025-04-23 05:32:38 +0000"
     },
     "done": false
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:ash_barrens": "2025-04-23 07:23:19 +0000"
+    },
+    "done": true
   },
   "vinery:oak_wine_rack_small": {
     "criteria": {
@@ -605,6 +612,12 @@
   "comforts:hammock_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:36:48 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-04-23 07:23:19 +0000"
     },
     "done": true
   },
