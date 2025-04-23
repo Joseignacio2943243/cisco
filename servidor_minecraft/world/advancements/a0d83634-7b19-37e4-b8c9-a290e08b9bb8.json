@@ -72,6 +72,12 @@
     },
     "done": true
   },
+  "cisco_mod:lawbringer": {
+    "criteria": {
+      "lawbringer": "2025-04-23 17:58:14 +0000"
+    },
+    "done": true
+  },
   "vinery:loam": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:44:43 +0000"
@@ -114,9 +120,33 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-04-23 17:56:35 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "unusualend:we_have_a_problem": {
+    "criteria": {
+      "we_have_a_problem": "2025-04-23 17:57:13 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/enigmatic_elytra": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 17:56:35 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/enigmatic_elytra": {
+    "criteria": {
+      "has_items": "2025-04-23 17:56:35 +0000"
     },
     "done": true
   },
@@ -963,6 +993,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/ender_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 18:02:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-04-23 00:10:12 +0000",
@@ -1609,9 +1645,10 @@
   },
   "enigmaticlegacy:recipes/generic/ender_ring": {
     "criteria": {
-      "has_parent_recipe": "2025-04-22 21:56:26 +0000"
+      "has_parent_recipe": "2025-04-22 21:56:26 +0000",
+      "has_recipe_result": "2025-04-23 18:02:27 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:main/root": {
     "criteria": {

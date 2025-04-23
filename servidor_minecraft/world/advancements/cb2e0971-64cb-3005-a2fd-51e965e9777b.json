@@ -351,6 +351,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-23 17:55:38 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/twisted_mirror": {
     "criteria": {
       "is_cursed_one": "2025-04-23 04:04:41 +0000"
@@ -1308,6 +1314,7 @@
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:redwood_thicket": "2025-04-23 17:54:14 +0000",
+      "byg:weeping_witch_forest": "2025-04-23 17:59:30 +0000",
       "byg:atacama_desert": "2025-04-23 17:18:21 +0000",
       "byg:dacite_shore": "2025-04-23 04:01:55 +0000"
     },
@@ -1381,6 +1388,12 @@
       "has_the_recipe": "2025-04-23 03:55:04 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "target": "2025-04-23 18:00:32 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {

@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-04-23 18:02:57 +0000"
+    },
+    "done": true
+  },
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-04-23 17:51:30 +0000"
@@ -330,6 +336,12 @@
     },
     "done": false
   },
+  "majruszsaccessories:booster_dropped": {
+    "criteria": {
+      "picked_up_booster": "2025-04-23 18:01:57 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/tools/the_bless": {
     "criteria": {
       "has_the_recipe": "2025-04-23 17:51:30 +0000"
@@ -363,6 +375,18 @@
   "vinery:spruce_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-04-23 17:51:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-23 18:03:39 +0000"
+    },
+    "done": true
+  },
+  "undead_unleashed:shards_of_the_past": {
+    "criteria": {
+      "shards_of_the_past": "2025-04-23 18:00:39 +0000"
     },
     "done": true
   },
@@ -401,6 +425,12 @@
       "log_spam_fixer": "2025-04-23 17:51:31 +0000"
     },
     "done": false
+  },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2025-04-23 18:04:58 +0000"
+    },
+    "done": true
   },
   "vinery:flower_box": {
     "criteria": {
@@ -464,7 +494,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-04-23 17:52:36 +0000"
+      "minecraft:skeleton": "2025-04-23 17:52:36 +0000",
+      "minecraft:zombie": "2025-04-23 17:56:27 +0000"
     },
     "done": false
   },
@@ -612,6 +643,12 @@
     },
     "done": true
   },
+  "cisco_mod:adventurer_ad": {
+    "criteria": {
+      "adventurer_ad": "2025-04-23 17:58:41 +0000"
+    },
+    "done": true
+  },
   "vinery:flower_pot": {
     "criteria": {
       "has_the_recipe": "2025-04-23 17:51:30 +0000"
@@ -756,6 +793,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-04-23 17:56:34 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-04-23 17:51:30 +0000"
@@ -834,6 +877,12 @@
     },
     "done": true
   },
+  "undead_unleashed:boo": {
+    "criteria": {
+      "boo": "2025-04-23 17:56:27 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2025-04-23 17:51:30 +0000"
@@ -861,6 +910,12 @@
   "comforts:sleeping_bag_gray": {
     "criteria": {
       "has_the_recipe": "2025-04-23 17:51:30 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:amethyst_golem_charm": {
+    "criteria": {
+      "has_amethyst_golem_charm": "2025-04-23 18:00:38 +0000"
     },
     "done": true
   },
@@ -924,6 +979,12 @@
     },
     "done": true
   },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-04-23 18:00:36 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2025-04-23 17:51:30 +0000",
@@ -982,6 +1043,7 @@
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:redwood_thicket": "2025-04-23 17:53:53 +0000",
+      "byg:weeping_witch_forest": "2025-04-23 17:59:37 +0000",
       "byg:amaranth_fields": "2025-04-23 17:53:36 +0000",
       "byg:dacite_shore": "2025-04-23 17:53:17 +0000"
     },
@@ -1222,6 +1284,12 @@
   "enigmaticaddons:book/misc/bless_amplifier": {
     "criteria": {
       "has_the_recipe": "2025-04-23 17:51:30 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-04-23 18:00:36 +0000"
     },
     "done": true
   },

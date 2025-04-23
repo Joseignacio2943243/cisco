@@ -162,6 +162,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-04-23 18:01:28 +0000"
+    },
+    "done": true
+  },
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-04-22 21:36:48 +0000"
@@ -180,10 +186,22 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/enigmatic_elytra": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 18:01:28 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cobweb": {
     "criteria": {
       "has_recipe": "2025-04-22 21:36:47 +0000",
       "has_cobweb": "2025-04-22 21:36:47 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/enigmatic_elytra": {
+    "criteria": {
+      "has_items": "2025-04-23 18:01:28 +0000"
     },
     "done": true
   },
@@ -497,6 +515,12 @@
   "dungeons_arise:find_infested_temple": {
     "criteria": {
       "location0": "2025-04-23 03:42:41 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/ender_ring": {
+    "criteria": {
+      "has_recipe_result": "2025-04-23 18:02:19 +0000"
     },
     "done": true
   },
@@ -1232,6 +1256,12 @@
   "incendium:infernal_dunes/pipeline/root": {
     "criteria": {
       "requirement": "2025-04-23 08:01:36 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/ender_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 18:02:19 +0000"
     },
     "done": true
   },
