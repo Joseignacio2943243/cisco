@@ -400,6 +400,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/netherite": {
+    "criteria": {
+      "has_scrap": "2025-04-23 17:27:13 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "requirement": "2025-04-22 23:19:14 +0000",
@@ -769,6 +775,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/materials/ancient_debris": {
+    "criteria": {
+      "has_scrap": "2025-04-23 17:27:13 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2025-04-22 22:17:19 +0000"
@@ -1022,6 +1034,12 @@
     },
     "done": false
   },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-04-23 17:29:30 +0000"
+    },
+    "done": true
+  },
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
       "tick": "2025-04-22 22:17:19 +0000"
@@ -1269,6 +1287,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-23 17:29:30 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-04-22 22:17:19 +0000"
@@ -1398,6 +1422,12 @@
   "enigmaticaddons:book/tools/evil_dagger": {
     "criteria": {
       "has_the_recipe": "2025-04-22 22:17:19 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/glow_painting": {
+    "criteria": {
+      "has_item": "2025-04-23 17:25:55 +0000"
     },
     "done": true
   },

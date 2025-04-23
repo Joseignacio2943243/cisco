@@ -272,6 +272,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-04-23 17:23:13 +0000",
       "bread": "2025-04-23 17:19:05 +0000"
     },
     "done": false
@@ -358,6 +359,12 @@
   "vinery:fermentation_barrel": {
     "criteria": {
       "has_the_recipe": "2025-04-23 03:55:04 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:icewhisper": {
+    "criteria": {
+      "requirement": "2025-04-23 17:27:55 +0000"
     },
     "done": true
   },
@@ -729,6 +736,12 @@
     },
     "done": true
   },
+  "cisco_mod:adventurer_ad": {
+    "criteria": {
+      "adventurer_ad": "2025-04-23 17:27:48 +0000"
+    },
+    "done": true
+  },
   "vinery:cherry_chest_boat": {
     "criteria": {
       "has_the_recipe": "2025-04-23 03:55:04 +0000"
@@ -970,6 +983,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-23 17:28:50 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2025-04-23 03:55:04 +0000"
@@ -1204,7 +1223,9 @@
       "atmospheric:rainforest": "2025-04-23 03:55:05 +0000",
       "minecraft:wooded_badlands": "2025-04-23 17:18:22 +0000",
       "minecraft:stony_peaks": "2025-04-23 04:03:25 +0000",
-      "atmospheric:flourishing_dunes": "2025-04-23 17:18:24 +0000"
+      "atmospheric:flourishing_dunes": "2025-04-23 17:18:24 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-23 17:21:29 +0000",
+      "minecraft:river": "2025-04-23 17:21:27 +0000"
     },
     "done": false
   },
@@ -1219,26 +1240,6 @@
       "has_the_recipe": "2025-04-23 03:55:04 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "!bit13": "2025-04-23 17:19:37 +0000",
-      "!bit14": "2025-04-23 17:19:37 +0000",
-      "!bit11": "2025-04-23 17:19:37 +0000",
-      "!bit12": "2025-04-23 17:19:37 +0000",
-      "!bit10": "2025-04-23 17:19:37 +0000",
-      "!bit9": "2025-04-23 17:19:37 +0000",
-      "!bit8": "2025-04-23 17:19:37 +0000",
-      "!bit7": "2025-04-23 17:19:37 +0000",
-      "!bit6": "2025-04-23 17:19:37 +0000",
-      "!bit5": "2025-04-23 17:19:37 +0000",
-      "!bit4": "2025-04-23 17:19:37 +0000",
-      "!bit3": "2025-04-23 17:19:37 +0000",
-      "!bit2": "2025-04-23 17:19:37 +0000",
-      "!bit1": "2025-04-23 17:19:37 +0000",
-      "!bit0": "2025-04-23 17:19:37 +0000"
-    },
-    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {

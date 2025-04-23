@@ -4018,3 +4018,162 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [23Apr2025 17:23:46.198] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
 [23Apr2025 17:23:46.198] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
 [23Apr2025 17:23:46.198] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 17:23:50.948] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[23Apr2025 17:24:06.854] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[23Apr2025 17:24:06.855] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 17:24:06.855] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 17:24:46.463] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[23Apr2025 17:24:46.463] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 17:24:46.463] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 17:24:46.465] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[23Apr2025 17:24:46.465] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[23Apr2025 17:24:46.465] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 17:24:46.471] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[23Apr2025 17:24:46.471] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 17:24:55.520] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[23Apr2025 17:24:55.579] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[23Apr2025 17:24:55.579] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[23Apr2025 17:24:55.638] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[23Apr2025 17:24:55.697] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[23Apr2025 17:24:55.756] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[23Apr2025 17:24:55.816] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[23Apr2025 17:24:55.816] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[23Apr2025 17:24:55.875] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[23Apr2025 17:24:55.930] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[23Apr2025 17:24:55.990] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[23Apr2025 17:24:56.045] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[23Apr2025 17:24:57.012] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[23Apr2025 17:24:57.053] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[23Apr2025 17:24:57.053] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[23Apr2025 17:24:57.153] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@68b5710e
+[23Apr2025 17:24:57.162] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ignacio29392[/127.185.233.136:51687] logged in with entity id 10283 at (813.64665395441, 36.26688845322456, 74.57194614683529)
+[23Apr2025 17:24:57.198] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ignacio29392
+[23Apr2025 17:24:57.199] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ignacio29392
+[23Apr2025 17:24:57.199] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ignacio29392
+[23Apr2025 17:24:57.199] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ignacio29392
+[23Apr2025 17:24:57.200] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ignacio29392
+[23Apr2025 17:24:57.202] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ignacio29392
+[23Apr2025 17:24:57.202] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ignacio29392
+[23Apr2025 17:24:57.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 joined the game
+[23Apr2025 17:24:57.343] [Server thread/INFO] [Jade/]: Syncing config to Ignacio29392 (cb2390a0-eefd-3170-8844-fbbfc7609e31)
+[23Apr2025 17:24:57.435] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Ignacio29392...
+[23Apr2025 17:24:57.435] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[23Apr2025 17:24:57.436] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Apr2025 17:24:57.436] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Ignacio29392
+[23Apr2025 17:25:26.582] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[23Apr2025 17:25:26.616] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[23Apr2025 17:25:26.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MamiLover> jose tp a gress
+[23Apr2025 17:25:29.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Gave 1    [Orb of Origin] to Lophez341]
+[23Apr2025 17:25:32.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported MamiLover to Gress]
+[23Apr2025 17:25:34.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Lophez341]
+[23Apr2025 17:25:57.152] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / strictly:skilled_swordsman_1_axe_boost] from power ResourceKey[apoli:configured_power / strictly:skilled_swordsman_1]
+[23Apr2025 17:25:57.153] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Giving player Lophez341 stack: 1 written_book
+[23Apr2025 17:26:27.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> ya te di el orbe lophez
+[23Apr2025 17:26:29.068] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_melee] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[23Apr2025 17:26:29.068] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_leggings] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[23Apr2025 17:26:29.068] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_shoes] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[23Apr2025 17:26:29.068] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_digger] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[23Apr2025 17:26:29.069] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_shield] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[23Apr2025 17:26:29.069] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_range] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[23Apr2025 17:26:29.069] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_helmet] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[23Apr2025 17:26:29.069] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_chestplate] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[23Apr2025 17:26:29.069] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:efficient_repairs_more_combine_durability] from power ResourceKey[apoli:configured_power / origins-classes:efficient_repairs]
+[23Apr2025 17:26:29.069] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:efficient_repairs_less_material_cost] from power ResourceKey[apoli:configured_power / origins-classes:efficient_repairs]
+[23Apr2025 17:26:31.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> ya vi
+[23Apr2025 17:26:32.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to MamiLover]
+[23Apr2025 17:26:44.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> tpeame
+[23Apr2025 17:26:51.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> a onde
+[23Apr2025 17:26:54.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> pos nose
+[23Apr2025 17:27:00.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Gave 1    [Adventurer Boots] to Lophez341]
+[23Apr2025 17:27:02.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Gave 1    [Adventurer Chestplate] to Lophez341]
+[23Apr2025 17:27:05.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Gave 1    [Adventurer Helmet] to Lophez341]
+[23Apr2025 17:27:07.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Gave 1    [Adventurer Boots] to Lophez341]
+[23Apr2025 17:27:15.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Gave 10    [Steak and Potatoes] to Lophez341]
+[23Apr2025 17:27:19.298] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[23Apr2025 17:27:24.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Gave 2    [Diamond Warglaive] to Lophez341]
+[23Apr2025 17:27:24.977] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[23Apr2025 17:27:24.978] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[23Apr2025 17:27:34.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Lophez341 to Ignacio29392]
+[23Apr2025 17:27:48.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Gave 1    [Adventurer Leggings] to Lophez341]
+[23Apr2025 17:27:48.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has reached the goal [Adventurer ]
+[23Apr2025 17:27:53.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> deja de mamar mimosa
+[23Apr2025 17:27:55.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has made the advancement [Listen Close]
+[23Apr2025 17:27:59.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> te llevo dando un vergo de cosas
+[23Apr2025 17:28:02.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> y nunca sobrevives
+[23Apr2025 17:28:09.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> ya vtl, haz las cosas tu solo
+[23Apr2025 17:28:50.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has made the advancement [Isn't It Iron Pick]
+[23Apr2025 17:28:53.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> ese es lophezwe
+[23Apr2025 17:28:54.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> JAJAJAJA
+[23Apr2025 17:29:05.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> porque tu se la diste we
+[23Apr2025 17:29:07.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> lo confundiste
+[23Apr2025 17:29:10.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> JAJAJAJA
+[23Apr2025 17:29:16.244] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[23Apr2025 17:29:16.244] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 17:29:16.244] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 17:29:32.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> y el mimosa we
+[23Apr2025 17:29:33.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 withered away whilst fighting Skeleton
+[23Apr2025 17:29:33.246] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Lophez341 at X: 838.0348618310607, Y: 27.0, Z: -31.084793171325312
+[23Apr2025 17:29:36.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> a
+[23Apr2025 17:29:36.998] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[23Apr2025 17:29:36.998] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 17:29:36.999] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 17:29:36.999] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 17:29:37.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> LOPJHEEEZ
+[23Apr2025 17:29:38.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> JAJAJA
+[23Apr2025 17:29:41.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Lophez341 to Ignacio29392]
+[23Apr2025 17:29:49.846] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Lophez341 picking up: PermanentItemEntity['Soul Crystal'/11956, l='ServerLevel[world]', x=838.03, y=28.50, z=-31.08]
+[23Apr2025 17:29:49.846] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/11956, l='ServerLevel[world]', x=838.03, y=28.50, z=-31.08]
+[23Apr2025 17:30:05.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> No deja de mamar
+[23Apr2025 17:30:08.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> no te voy a dar nada
+[23Apr2025 17:30:10.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> ya callate alv
+[23Apr2025 17:30:13.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has made the advancement [Knight Quest]
+[23Apr2025 17:30:13.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has made the advancement [Shards of the Past]
+[23Apr2025 17:30:21.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has made the advancement [Diamonds!]
+[23Apr2025 17:30:58.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set the weather to rain & thunder]
+[23Apr2025 17:31:04.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Lightning Bolt]
+[23Apr2025 17:31:15.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Lightning Bolt]
+[23Apr2025 17:31:26.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set the time to 13000]
+[23Apr2025 17:31:28.610] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[23Apr2025 17:31:28.610] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 17:31:28.611] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 17:31:28.611] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[23Apr2025 17:31:28.904] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[23Apr2025 17:31:28.904] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[23Apr2025 17:31:29.009] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[23Apr2025 17:31:29.009] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 17:31:29.009] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[23Apr2025 17:31:29.010] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 17:31:31.752] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 17:31:31.752] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 17:31:39.492] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/ars_nouveau/geckolib3/core/PlayState
+[23Apr2025 17:31:39.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Lightning Bolt]
+[23Apr2025 17:31:44.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to MamiLover]
+[23Apr2025 17:31:59.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiLover has made the advancement [A Throwaway Joke]
+[23Apr2025 17:32:11.197] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[23Apr2025 17:32:11.197] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 17:32:37.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiLover was shot by Skeleton
+[23Apr2025 17:32:40.646] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[23Apr2025 17:32:40.646] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 17:32:40.646] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 17:32:41.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Gress]
+[23Apr2025 17:32:52.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> que hace el mimosa we
+[23Apr2025 17:32:56.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiLover burned to death
+[23Apr2025 17:32:58.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Lophez341]
+[23Apr2025 17:33:00.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to MamiLover]
+[23Apr2025 17:33:14.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has made the advancement [Elemental Might]
+[23Apr2025 17:33:22.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> donde verga se murio
+[23Apr2025 17:33:27.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MamiLover was shot by Skeleton
+[23Apr2025 17:33:29.651] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 17:33:29.651] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 17:33:38.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has made the advancement [Sweet Dreams]
+[23Apr2025 17:33:41.261] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[23Apr2025 17:33:41.261] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 17:33:41.261] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 17:33:41.261] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[23Apr2025 17:33:43.907] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[23Apr2025 17:33:43.908] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 17:33:43.908] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[23Apr2025 17:33:43.908] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 17:33:52.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported MamiLover to Ignacio29392]
+[23Apr2025 17:33:54.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Gress]
+[23Apr2025 17:34:02.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> si
