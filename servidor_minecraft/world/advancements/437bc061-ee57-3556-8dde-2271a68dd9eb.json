@@ -381,6 +381,7 @@
       "bread": "2025-04-22 22:38:04 +0000",
       "golden_apple": "2025-04-23 06:54:18 +0000",
       "rotten_flesh": "2025-04-22 22:44:42 +0000",
+      "cooked_rabbit": "2025-04-23 18:47:59 +0000",
       "carrot": "2025-04-22 22:43:12 +0000"
     },
     "done": false
@@ -1915,6 +1916,12 @@
       "has_the_recipe": "2025-04-22 22:15:35 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2025-04-23 18:49:13 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
