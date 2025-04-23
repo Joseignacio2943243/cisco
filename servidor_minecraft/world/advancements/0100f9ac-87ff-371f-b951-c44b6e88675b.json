@@ -272,7 +272,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2025-04-23 18:19:28 +0000"
+      "cooked_porkchop": "2025-04-23 18:19:28 +0000",
+      "golden_apple": "2025-04-23 18:36:25 +0000"
     },
     "done": false
   },
@@ -507,6 +508,12 @@
   "apotheosis:affix/chests": {
     "criteria": {
       "sword": "2025-04-23 18:28:41 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-04-23 18:36:16 +0000"
     },
     "done": true
   },
@@ -1283,7 +1290,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-04-23 18:32:22 +0000"
+      "target": "2025-04-23 18:38:36 +0000"
     },
     "done": false
   },
@@ -1412,6 +1419,12 @@
     "criteria": {
       "requirement": "2025-04-23 17:52:18 +0000",
       "log_spam_fixer": "2025-04-23 17:51:31 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:kill_yourself": {
+    "criteria": {
+      "kill_yourself": "2025-04-23 18:37:26 +0000"
     },
     "done": true
   },
