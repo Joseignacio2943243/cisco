@@ -253,6 +253,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-04-23 06:26:44 +0000"
+    },
+    "done": false
+  },
   "enigmaticaddons:book/accessories/adventure_charm": {
     "criteria": {
       "has_the_recipe": "2025-04-22 22:15:35 +0000"
@@ -334,6 +340,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-04-22 22:38:04 +0000",
+      "golden_apple": "2025-04-23 06:54:18 +0000",
       "rotten_flesh": "2025-04-22 22:44:42 +0000",
       "carrot": "2025-04-22 22:43:12 +0000"
     },
@@ -1230,6 +1237,12 @@
     },
     "done": false
   },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-04-23 06:26:44 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-22 22:15:35 +0000"
@@ -1481,6 +1494,12 @@
   "enigmaticaddons:book/accessories/thunder_scroll": {
     "criteria": {
       "has_the_recipe": "2025-04-22 22:15:35 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/relics/antique_bag": {
+    "criteria": {
+      "has_items": "2025-04-23 06:42:55 +0000"
     },
     "done": true
   },

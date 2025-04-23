@@ -272,6 +272,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-04-23 06:26:38 +0000"
+    },
+    "done": false
+  },
   "enigmaticaddons:book/accessories/adventure_charm": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:44:43 +0000"
@@ -1321,6 +1327,12 @@
       "white": "2025-04-23 05:45:31 +0000"
     },
     "done": false
+  },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-04-23 06:26:38 +0000"
+    },
+    "done": true
   },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {

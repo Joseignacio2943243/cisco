@@ -192,6 +192,12 @@
     },
     "done": false
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-04-23 06:23:16 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:36:48 +0000"
@@ -209,6 +215,12 @@
       "has_the_recipe": "2025-04-22 21:36:48 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-04-23 06:23:04 +0000"
+    },
+    "done": false
   },
   "enigmaticaddons:book/accessories/adventure_charm": {
     "criteria": {
@@ -481,6 +493,13 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-04-23 06:23:23 +0000",
+      "opened_chest": "2025-04-23 06:23:16 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-04-22 21:36:47 +0000"
@@ -673,6 +692,12 @@
     },
     "done": true
   },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-04-23 06:23:23 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/wooden": {
     "criteria": {
       "has_item": "2025-04-22 22:02:21 +0000"
@@ -862,6 +887,12 @@
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:36:48 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-04-23 06:23:04 +0000"
     },
     "done": true
   },
