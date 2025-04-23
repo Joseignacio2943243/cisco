@@ -3969,3 +3969,230 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [23Apr2025 08:05:06.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> tppp
 [23Apr2025 08:05:09.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Pipe Dream]
 [23Apr2025 08:05:11.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported abel214 to Gress]
+[23Apr2025 08:05:22.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has made the advancement [Pipe Dream]
+[23Apr2025 08:05:47.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Warped Enderman]
+[23Apr2025 08:05:58.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Warped Enderman]
+[23Apr2025 08:05:58.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Warped Enderman]
+[23Apr2025 08:06:05.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress withered away whilst fighting Withering Archer
+[23Apr2025 08:06:09.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to abel214]
+[23Apr2025 08:06:24.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Warped Enderman]
+[23Apr2025 08:06:27.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 was slain by Warped Enderman
+[23Apr2025 08:06:29.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/4186, l='ServerLevel[world]', x=128.83, y=54.00, z=67.40] died: Withering Archer was slain by Gress
+[23Apr2025 08:06:35.086] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[23Apr2025 08:06:36.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported abel214 to Gress]
+[23Apr2025 08:06:53.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> Tiene un warped encantado en su loot
+[23Apr2025 08:06:54.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> XD
+[23Apr2025 08:06:55.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> ayuda
+[23Apr2025 08:07:04.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Warped Enderman]
+[23Apr2025 08:07:05.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 was slain by Warped Enderman
+[23Apr2025 08:07:07.637] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[23Apr2025 08:07:07.638] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 08:07:07.638] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 08:07:12.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported abel214 to Gress]
+[23Apr2025 08:07:17.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Warped Enderman]
+[23Apr2025 08:07:17.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Warped Enderman]
+[23Apr2025 08:07:23.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> ke
+[23Apr2025 08:07:32.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> ya se cayo el enderman
+[23Apr2025 08:07:43.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Gave 5    [Cactus Steak] to Gress]
+[23Apr2025 08:07:53.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Gave 2    [Steak and Potatoes] to Gress]
+[23Apr2025 08:08:04.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set own game mode to Creative Mode]
+[23Apr2025 08:08:10.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> qe hacen
+[23Apr2025 08:08:25.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set own game mode to Spectator Mode]
+[23Apr2025 08:08:31.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> te da saturacion esa madre
+[23Apr2025 08:08:53.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> no querian dungeons y se metieron en una de inframundo
+[23Apr2025 08:08:54.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> JAJAJA
+[23Apr2025 08:09:00.681] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/event/SimpleHarvestEvent$Source
+[23Apr2025 08:09:03.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> no es dungeon o si
+[23Apr2025 08:09:08.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> ps cuenta como una
+[23Apr2025 08:09:20.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Piglin Brute]
+[23Apr2025 08:09:21.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Piglin Brute]
+[23Apr2025 08:09:27.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 was slain by Piglin Brute
+[23Apr2025 08:09:37.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported abel214 to Gress]
+[23Apr2025 08:09:59.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Piglin Brute]
+[23Apr2025 08:10:19.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> gres
+[23Apr2025 08:10:27.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> se te equipo el amuleto de hace ratos?
+[23Apr2025 08:10:29.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Piglin Brute]
+[23Apr2025 08:10:30.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Old Netherite Monstrosity]
+[23Apr2025 08:10:31.020] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[23Apr2025 08:10:42.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Gress]
+[23Apr2025 08:10:45.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> si
+[23Apr2025 08:10:45.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was killed by Blaze using magic
+[23Apr2025 08:10:51.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to abel214]
+[23Apr2025 08:11:06.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Netherite Monstrosity]
+[23Apr2025 08:11:12.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Netherite Monstrosity]
+[23Apr2025 08:11:34.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Netherman, the Architect of Chaos]
+[23Apr2025 08:11:44.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Gress]
+[23Apr2025 08:11:51.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> gres
+[23Apr2025 08:11:52.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> me acerke a una dungeon
+[23Apr2025 08:11:55.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> hay 2 bosses
+[23Apr2025 08:11:57.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> quieres salir de nether?
+[23Apr2025 08:11:58.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> 1 wey gigante y mamado
+[23Apr2025 08:12:04.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> y un enderman con armaduras
+[23Apr2025 08:12:04.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> nono\
+[23Apr2025 08:12:07.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> yo tengo como
+[23Apr2025 08:12:19.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> los saco?
+[23Apr2025 08:12:20.617] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/network/PacketANEffect$EffectType
+[23Apr2025 08:12:27.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Gress]
+[23Apr2025 08:12:45.539] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[23Apr2025 08:12:45.539] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 08:12:45.539] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 08:12:45.539] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 08:12:51.162] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=125, y=54, z=50} BlockPos{x=124, y=53, z=49}
+[23Apr2025 08:13:07.316] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[23Apr2025 08:13:07.317] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 08:13:07.317] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[23Apr2025 08:13:07.865] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[23Apr2025 08:13:07.865] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[23Apr2025 08:13:07.865] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 08:13:18.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Lightning Bolt]
+[23Apr2025 08:13:20.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> haz espacio
+[23Apr2025 08:13:22.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Lightning Bolt]
+[23Apr2025 08:13:22.523] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=54, z=43} BlockPos{x=136, y=53, z=43}
+[23Apr2025 08:13:22.591] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=54, z=44} BlockPos{x=136, y=53, z=43}
+[23Apr2025 08:13:22.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=54, z=45} BlockPos{x=136, y=53, z=43}
+[23Apr2025 08:13:22.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=54, z=43} BlockPos{x=136, y=53, z=43}
+[23Apr2025 08:13:22.731] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=54, z=44} BlockPos{x=136, y=53, z=43}
+[23Apr2025 08:13:22.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=54, z=45} BlockPos{x=136, y=53, z=43}
+[23Apr2025 08:13:22.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=53, z=44} BlockPos{x=136, y=53, z=43}
+[23Apr2025 08:13:22.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=54, z=45} BlockPos{x=136, y=53, z=43}
+[23Apr2025 08:13:22.924] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=51, z=44} BlockPos{x=136, y=53, z=43}
+[23Apr2025 08:13:22.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=54, z=45} BlockPos{x=136, y=53, z=43}
+[23Apr2025 08:13:23.375] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=52, z=43} BlockPos{x=135, y=54, z=45}
+[23Apr2025 08:13:23.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=53, z=44} BlockPos{x=135, y=54, z=45}
+[23Apr2025 08:13:23.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=52, z=44} BlockPos{x=135, y=54, z=45}
+[23Apr2025 08:13:23.519] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=52, z=43} BlockPos{x=135, y=54, z=45}
+[23Apr2025 08:13:23.568] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=52, z=44} BlockPos{x=135, y=54, z=45}
+[23Apr2025 08:13:23.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=51, z=44} BlockPos{x=135, y=54, z=45}
+[23Apr2025 08:13:23.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=52, z=44} BlockPos{x=135, y=54, z=45}
+[23Apr2025 08:13:23.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=52, z=43} BlockPos{x=135, y=54, z=45}
+[23Apr2025 08:13:23.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=53, z=43} BlockPos{x=135, y=54, z=45}
+[23Apr2025 08:13:23.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=53, z=43} BlockPos{x=135, y=54, z=45}
+[23Apr2025 08:13:23.981] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=53, z=43} BlockPos{x=138, y=54, z=43}
+[23Apr2025 08:13:24.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=53, z=43} BlockPos{x=138, y=54, z=43}
+[23Apr2025 08:13:24.062] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=52, z=43} BlockPos{x=138, y=54, z=43}
+[23Apr2025 08:13:24.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Lightning Bolt]
+[23Apr2025 08:13:25.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=53, z=44} BlockPos{x=138, y=54, z=43}
+[23Apr2025 08:13:25.519] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=53, z=43} BlockPos{x=138, y=54, z=43}
+[23Apr2025 08:13:25.614] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=53, z=44} BlockPos{x=138, y=52, z=43}
+[23Apr2025 08:13:25.664] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=54, z=45} BlockPos{x=138, y=52, z=43}
+[23Apr2025 08:13:25.718] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=53, z=44} BlockPos{x=138, y=52, z=43}
+[23Apr2025 08:13:25.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=54, z=45} BlockPos{x=138, y=52, z=43}
+[23Apr2025 08:13:25.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=54, z=45} BlockPos{x=138, y=52, z=43}
+[23Apr2025 08:13:25.884] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=54, z=45} BlockPos{x=138, y=52, z=43}
+[23Apr2025 08:13:26.316] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=54, z=45} BlockPos{x=136, y=51, z=43}
+[23Apr2025 08:13:26.869] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=53, z=43} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:26.938] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=53, z=42} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:27.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=53, z=41} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:27.071] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=53, z=43} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:27.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=53, z=42} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:27.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=52, z=41} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:27.170] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=53, z=43} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:27.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=53, z=42} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:27.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=53, z=43} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:27.315] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=53, z=41} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:27.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=54, z=42} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:27.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=54, z=41} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:27.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=54, z=40} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:27.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=54, z=41} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:27.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=54, z=40} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:27.614] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=54, z=41} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:27.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=54, z=40} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:27.716] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=54, z=41} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:27.770] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=54, z=41} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:27.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=55, z=41} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:27.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=54, z=41} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:27.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=54, z=41} BlockPos{x=134, y=55, z=41}
+[23Apr2025 08:13:28.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=54, z=41} BlockPos{x=135, y=54, z=40}
+[23Apr2025 08:13:28.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Lightning Bolt]
+[23Apr2025 08:13:31.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Lightning Bolt]
+[23Apr2025 08:13:33.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> es el netherian ese
+[23Apr2025 08:13:34.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=51, z=43} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:34.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=134, y=51, z=43} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:34.119] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=50, z=43} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:34.179] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=134, y=51, z=43} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:34.214] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=50, z=43} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:34.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=50, z=44} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:34.317] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=134, y=51, z=43} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:34.368] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=137, y=51, z=43} BlockPos{x=136, y=51, z=42}
+[23Apr2025 08:13:36.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Lightning Bolt]
+[23Apr2025 08:13:38.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=50, z=42} BlockPos{x=135, y=51, z=44}
+[23Apr2025 08:13:38.513] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=50, z=41} BlockPos{x=137, y=50, z=42}
+[23Apr2025 08:13:38.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=50, z=40} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:38.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=50, z=40} BlockPos{x=137, y=50, z=40}
+[23Apr2025 08:13:38.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=50, z=40} BlockPos{x=137, y=50, z=40}
+[23Apr2025 08:13:38.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=50, z=41} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:39.031] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=50, z=42} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:39.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=50, z=42} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:39.086] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=50, z=42} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:39.120] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=50, z=43} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:39.175] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=49, z=42} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:39.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=50, z=41} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:39.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=49, z=41} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:39.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=50, z=40} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:39.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=50, z=40} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:39.414] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=49, z=40} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:39.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=50, z=40} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:39.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=50, z=40} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:39.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=50, z=41} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:39.625] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=50, z=42} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:39.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=50, z=42} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:39.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=50, z=43} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:39.770] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=49, z=43} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:39.823] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=50, z=42} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:39.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=50, z=43} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:39.924] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=50, z=42} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:39.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=134, y=50, z=41} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:40.020] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=50, z=41} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:40.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=49, z=41} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:40.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=134, y=50, z=41} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:40.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=134, y=50, z=41} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:40.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=50, z=40} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:40.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=49, z=40} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:40.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=49, z=40} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:40.363] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=49, z=39} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:40.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=50, z=40} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:40.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=49, z=39} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:40.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=49, z=39} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:40.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=49, z=39} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:40.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=49, z=39} BlockPos{x=137, y=50, z=41}
+[23Apr2025 08:13:41.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> salgan de su rango
+[23Apr2025 08:13:42.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Lightning Bolt]
+[23Apr2025 08:13:47.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Lightning Bolt]
+[23Apr2025 08:13:51.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Lightning Bolt]
+[23Apr2025 08:13:53.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Lightning Bolt]
+[23Apr2025 08:13:57.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Lightning Bolt]
+[23Apr2025 08:14:03.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Lightning Bolt]
+[23Apr2025 08:14:05.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Lightning Bolt]
+[23Apr2025 08:14:06.503] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/ars_nouveau/geckolib3/core/builder/ILoopType$EDefaultLoopTypes
+[23Apr2025 08:14:07.569] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[23Apr2025 08:14:07.570] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[23Apr2025 08:14:08.201] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[23Apr2025 08:14:08.920] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[23Apr2025 08:14:08.921] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 08:14:08.921] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[23Apr2025 08:14:10.128] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[23Apr2025 08:14:10.129] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 08:14:10.129] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[23Apr2025 08:14:10.129] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 08:14:17.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Gress]
+[23Apr2025 08:14:17.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6107ms or 122 ticks behind
+[23Apr2025 08:14:19.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> nos saco W
+[23Apr2025 08:14:27.962] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[23Apr2025 08:14:33.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set the weather to rain & thunder]
+[23Apr2025 08:14:34.065] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[23Apr2025 08:14:34.911] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[23Apr2025 08:14:34.911] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 08:14:34.911] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 08:14:34.911] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[23Apr2025 08:14:39.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Gress]
+[23Apr2025 08:14:47.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> y es perma
+[23Apr2025 08:14:48.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Blaze]
+[23Apr2025 08:14:49.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> WWW
+[23Apr2025 08:14:53.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Blaze]
+[23Apr2025 08:14:54.403] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[23Apr2025 08:14:57.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> yo digo el portal
+[23Apr2025 08:15:13.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> tienen un zombie JAJAJA
+[23Apr2025 08:15:18.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> es su mascota?
+[23Apr2025 08:15:21.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> ahora tenemos escapatoria de cualqier lugar WW
+[23Apr2025 08:15:26.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> solo ocupamos espacio
+[23Apr2025 08:15:34.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Lightning Bolt]

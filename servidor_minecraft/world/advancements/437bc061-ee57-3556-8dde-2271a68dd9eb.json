@@ -1803,6 +1803,12 @@
     },
     "done": false
   },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2025-04-23 08:05:22 +0000"
+    },
+    "done": true
+  },
   "endrem:main/eyes_recipe": {
     "criteria": {
       "eyes": "2025-04-23 01:44:14 +0000"
