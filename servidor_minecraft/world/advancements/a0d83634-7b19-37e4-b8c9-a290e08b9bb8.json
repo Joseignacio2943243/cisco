@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/mending_mixture": {
+    "criteria": {
+      "spellstone": "2025-04-23 17:35:30 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/magnet_ring": {
     "criteria": {
       "has_parent_recipe": "2025-04-22 21:56:26 +0000",
@@ -174,6 +180,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/mending_mixture": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 17:35:30 +0000"
+    },
+    "done": true
+  },
   "vinery:grapevine_lattice": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:44:43 +0000"
@@ -231,6 +243,12 @@
   "enigmaticlegacy:book/materials/netherite": {
     "criteria": {
       "has_scrap": "2025-04-22 22:16:31 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-04-23 17:37:45 +0000"
     },
     "done": true
   },
@@ -602,6 +620,12 @@
       "has_the_recipe": "2025-04-22 21:44:43 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:book/brewing/twisted_potion": {
+    "criteria": {
+      "has_recall_potion": "2025-04-23 17:40:06 +0000"
+    },
+    "done": false
   },
   "incendium:toxic_heap/root": {
     "criteria": {
@@ -1123,6 +1147,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/mending_mixture": {
+    "criteria": {
+      "has_recipe_result": "2025-04-23 17:35:30 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/misc/ode_to_living": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:44:43 +0000"
@@ -1300,6 +1330,12 @@
   "enigmaticaddons:book/tools/ichor_spear": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/recall_potion": {
+    "criteria": {
+      "spellstone": "2025-04-23 17:40:06 +0000"
     },
     "done": true
   },
@@ -2149,6 +2185,12 @@
   "endrem:main/eyes_recipe": {
     "criteria": {
       "eyes": "2025-04-22 23:12:21 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2025-04-23 17:43:58 +0000"
     },
     "done": true
   },
