@@ -443,6 +443,12 @@
     },
     "done": true
   },
+  "enigmaticaddons:book/accessories/hell_blade_charm": {
+    "criteria": {
+      "has_items": "2025-04-23 07:55:29 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-04-23 00:18:08 +0000",
@@ -1249,6 +1255,12 @@
     },
     "done": true
   },
+  "simplyswords:emberblade": {
+    "criteria": {
+      "requirement": "2025-04-23 07:58:53 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/boss": {
     "criteria": {
       "sword": "2025-04-22 23:24:42 +0000"
@@ -1363,6 +1375,12 @@
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-04-22 22:15:35 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-04-23 07:55:30 +0000"
     },
     "done": true
   },
@@ -1532,6 +1550,12 @@
   "ars_nouveau:amethyst_golem_charm": {
     "criteria": {
       "has_amethyst_golem_charm": "2025-04-23 07:16:07 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2025-04-23 07:57:15 +0000"
     },
     "done": true
   },
@@ -2131,6 +2155,12 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2025-04-23 07:54:05 +0000"
+    },
+    "done": true
+  },
   "totw_modded:regular_tower": {
     "criteria": {
       "regular": "2025-04-22 23:11:11 +0000"
@@ -2140,6 +2170,12 @@
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-04-22 23:40:52 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "nether_eye": "2025-04-23 07:55:30 +0000"
     },
     "done": true
   },
