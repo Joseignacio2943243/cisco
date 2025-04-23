@@ -223,6 +223,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2025-04-23 18:13:47 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cobweb": {
     "criteria": {
       "has_recipe": "2025-04-22 22:15:35 +0000",
@@ -365,6 +371,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-04-23 18:29:54 +0000",
       "bread": "2025-04-22 22:38:04 +0000",
       "golden_apple": "2025-04-23 06:54:18 +0000",
       "rotten_flesh": "2025-04-22 22:44:42 +0000",
