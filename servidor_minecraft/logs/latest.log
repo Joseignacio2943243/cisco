@@ -3855,3 +3855,181 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [23Apr2025 18:52:56.935] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
 [23Apr2025 18:52:56.935] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
 [23Apr2025 18:52:58.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> tp con gres
+[23Apr2025 18:53:05.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported abel214 to Gress]
+[23Apr2025 18:53:06.997] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[23Apr2025 18:53:06.997] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 18:53:06.998] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 18:53:06.998] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[23Apr2025 18:53:14.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Hunt and Gather]
+[23Apr2025 18:53:35.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 was impaled on a stalagmite whilst fighting Husk
+[23Apr2025 18:53:40.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> tp
+[23Apr2025 18:53:43.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported abel214 to Gress]
+[23Apr2025 18:54:04.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Gress]
+[23Apr2025 18:54:22.641] [Worker-Main3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[23Apr2025 18:54:31.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 18:54:35.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Gress]
+[23Apr2025 18:54:53.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Gress]
+[23Apr2025 18:54:57.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 18:55:19.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 18:55:19.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 18:55:36.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 18:55:38.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 18:55:48.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 18:55:52.888] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['General Doomsday the ... Something'/3851, l='ServerLevel[world]', x=1351.30, y=50.25, z=242.90] died: General Doomsday the ... Something was blown up by Creeper
+[23Apr2025 18:56:06.436] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[23Apr2025 18:56:06.436] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 18:56:06.436] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[23Apr2025 18:56:13.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Gress]
+[23Apr2025 18:56:20.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 18:56:24.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 was blown up by Creeper
+[23Apr2025 18:56:32.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported abel214 to Gress]
+[23Apr2025 18:56:33.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> ya wey putos cripers
+[23Apr2025 18:56:48.166] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[23Apr2025 18:56:48.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 18:56:59.280] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[23Apr2025 18:56:59.280] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 18:57:09.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 18:57:10.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 18:57:22.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 18:57:47.579] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 18:57:47.579] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 18:57:47.579] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 18:57:52.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 18:58:01.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 was blown up by Creeper
+[23Apr2025 18:58:04.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> vato
+[23Apr2025 18:58:06.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported abel214 to Gress]
+[23Apr2025 18:58:06.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> puta madre
+[23Apr2025 18:58:25.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set own game mode to Creative Mode]
+[23Apr2025 18:58:36.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> si
+[23Apr2025 18:59:08.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> WWW
+[23Apr2025 18:59:52.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set own game mode to Spectator Mode]
+[23Apr2025 19:00:00.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Gress]
+[23Apr2025 19:00:07.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 19:00:08.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 19:00:13.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 19:00:21.609] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[23Apr2025 19:00:33.888] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[23Apr2025 19:00:33.888] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 19:00:33.888] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 19:00:33.888] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 19:00:35.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to abel214]
+[23Apr2025 19:00:40.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Gress]
+[23Apr2025 19:00:41.785] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[23Apr2025 19:00:41.785] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 19:00:41.785] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 19:00:41.785] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[23Apr2025 19:00:48.491] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[23Apr2025 19:00:48.491] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[23Apr2025 19:00:48.491] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 19:00:49.536] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[23Apr2025 19:00:49.536] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[23Apr2025 19:00:49.537] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 19:00:49.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 19:00:52.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 19:00:54.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 19:01:11.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 19:01:17.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> tp a gres
+[23Apr2025 19:01:21.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported abel214 to Gress]
+[23Apr2025 19:01:36.486] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[23Apr2025 19:01:36.486] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[23Apr2025 19:01:36.486] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 19:01:36.487] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 19:01:40.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Mutant Skeleton]
+[23Apr2025 19:01:45.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 tried to swim in lava to escape Creeper
+[23Apr2025 19:01:51.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported abel214 to Gress]
+[23Apr2025 19:02:03.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
+[23Apr2025 19:02:15.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 19:02:16.232] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[23Apr2025 19:02:16.232] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 19:02:16.232] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[23Apr2025 19:02:16.232] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 19:02:19.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
+[23Apr2025 19:02:20.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
+[23Apr2025 19:02:21.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
+[23Apr2025 19:02:32.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 19:02:37.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 was blown up by Creeper
+[23Apr2025 19:02:44.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported abel214 to Gress]
+[23Apr2025 19:02:58.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 19:03:14.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Mutant Skeleton]
+[23Apr2025 19:03:26.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 19:03:49.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 19:04:00.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 19:04:04.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 19:04:14.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 19:04:45.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Mutant Creeper]
+[23Apr2025 19:04:50.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1357, y=35, z=295} BlockPos{x=1358, y=34, z=295}
+[23Apr2025 19:04:54.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> gres
+[23Apr2025 19:04:55.130] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[23Apr2025 19:04:55.131] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 19:04:55.131] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[23Apr2025 19:04:55.131] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 19:05:00.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 19:05:07.829] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[23Apr2025 19:05:07.830] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[23Apr2025 19:05:07.830] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 19:05:07.830] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 19:05:33.615] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Apr2025 19:05:33.615] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Apr2025 19:05:33.615] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Apr2025 19:05:33.615] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Apr2025 19:05:53.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 19:05:54.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 19:06:03.083] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[23Apr2025 19:06:03.083] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[23Apr2025 19:06:03.083] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[23Apr2025 19:06:22.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 19:06:32.340] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[23Apr2025 19:06:32.340] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 19:06:32.340] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 19:06:32.340] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 19:06:45.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Mutant Creeper]
+[23Apr2025 19:07:10.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> e tenido como 5
+[23Apr2025 19:08:06.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Sprinter]
+[23Apr2025 19:08:07.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Sprinter]
+[23Apr2025 19:08:08.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Sprinter]
+[23Apr2025 19:08:17.635] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[23Apr2025 19:08:17.635] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 19:08:17.635] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 19:08:17.636] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 19:08:20.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> tp a gres
+[23Apr2025 19:08:24.540] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[23Apr2025 19:08:24.540] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 19:08:24.540] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[23Apr2025 19:08:27.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Invisicreeper]
+[23Apr2025 19:08:32.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Invisicreeper]
+[23Apr2025 19:08:40.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Invisicreeper]
+[23Apr2025 19:08:47.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Invisicreeper]
+[23Apr2025 19:08:52.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> tp a gres
+[23Apr2025 19:08:54.185] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[23Apr2025 19:08:54.185] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[23Apr2025 19:08:54.186] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 19:08:57.436] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[23Apr2025 19:08:57.437] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 19:08:57.437] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 19:08:58.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported abel214 to Gress]
+[23Apr2025 19:09:04.033] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Chasity the Warrior'/7648, l='ServerLevel[world]', x=1342.52, y=39.00, z=231.22] died: Chasity the Warrior was slain by abel214
+[23Apr2025 19:09:19.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Invisicreeper]
+[23Apr2025 19:09:28.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Invisicreeper]
+[23Apr2025 19:09:41.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Invisicreeper]
+[23Apr2025 19:09:42.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Invisicreeper]
+[23Apr2025 19:09:54.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Invisicreeper]
+[23Apr2025 19:10:03.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Invisicreeper]
+[23Apr2025 19:10:23.033] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[23Apr2025 19:10:23.035] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[23Apr2025 19:10:23.035] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 19:10:23.035] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 19:10:23.035] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[23Apr2025 19:10:23.036] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[23Apr2025 19:10:51.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Gress]
+[23Apr2025 19:10:58.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 19:11:04.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[23Apr2025 19:11:23.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Mutant Zombie]
+[23Apr2025 19:11:43.435] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[23Apr2025 19:11:43.435] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[23Apr2025 19:11:43.435] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[23Apr2025 19:11:57.238] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[23Apr2025 19:11:57.238] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[23Apr2025 19:12:01.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Mutant Creeper]
+[23Apr2025 19:12:50.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Mutant Zombie]
+[23Apr2025 19:13:07.982] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Hellgro the Cracked'/8869, l='ServerLevel[world]', x=1321.88, y=30.00, z=308.88] died: Hellgro the Cracked was slain by abel214
+[23Apr2025 19:13:19.933] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CursedArmor['CiscoBane'/8928, l='ServerLevel[world]', x=1315.64, y=30.00, z=307.98] died: CiscoBane was slain by abel214
