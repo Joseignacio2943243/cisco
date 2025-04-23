@@ -534,6 +534,7 @@
       "minecraft:pillager": "2025-04-22 23:04:47 +0000",
       "minecraft:blaze": "2025-04-23 07:27:34 +0000",
       "minecraft:skeleton": "2025-04-22 21:50:44 +0000",
+      "minecraft:ghast": "2025-04-23 23:38:36 +0000",
       "minecraft:hoglin": "2025-04-23 19:30:55 +0000",
       "minecraft:vindicator": "2025-04-23 02:38:15 +0000",
       "minecraft:spider": "2025-04-22 21:51:50 +0000",
@@ -543,6 +544,7 @@
       "minecraft:wither_skeleton": "2025-04-22 22:44:53 +0000",
       "minecraft:husk": "2025-04-23 01:08:44 +0000",
       "minecraft:cave_spider": "2025-04-22 22:41:51 +0000",
+      "minecraft:piglin": "2025-04-23 23:39:08 +0000",
       "minecraft:stray": "2025-04-22 22:46:26 +0000",
       "minecraft:silverfish": "2025-04-22 23:05:20 +0000",
       "minecraft:vex": "2025-04-22 22:07:42 +0000",
@@ -652,6 +654,12 @@
   "undead_unleashed:nerves_of_steel": {
     "criteria": {
       "nerves_of_steel": "2025-04-23 02:12:23 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-04-23 23:41:12 +0000"
     },
     "done": true
   },
@@ -1065,6 +1073,7 @@
       "minecraft:frozen_river": "2025-04-23 00:08:16 +0000",
       "minecraft:wooded_badlands": "2025-04-23 02:18:19 +0000",
       "minecraft:savanna_plateau": "2025-04-22 22:20:21 +0000",
+      "minecraft:beach": "2025-04-23 23:42:26 +0000",
       "minecraft:stony_peaks": "2025-04-22 21:52:20 +0000",
       "atmospheric:flourishing_dunes": "2025-04-23 02:19:22 +0000",
       "minecraft:sparse_jungle": "2025-04-23 20:08:59 +0000",
@@ -1604,6 +1613,7 @@
       "bread": "2025-04-22 22:13:01 +0000",
       "golden_apple": "2025-04-22 22:46:23 +0000",
       "golden_carrot": "2025-04-23 04:10:28 +0000",
+      "enchanted_golden_apple": "2025-04-23 23:23:02 +0000",
       "carrot": "2025-04-23 01:20:04 +0000"
     },
     "done": false
@@ -1824,6 +1834,12 @@
   "enigmaticlegacy:recipes/generic/forbidden_axe": {
     "criteria": {
       "has_items": "2025-04-23 04:46:02 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-04-23 23:47:42 +0000"
     },
     "done": true
   },
@@ -2519,6 +2535,12 @@
   "majruszsdifficulty:kill_yourself": {
     "criteria": {
       "kill_yourself": "2025-04-23 18:37:54 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-04-23 23:24:22 +0000"
     },
     "done": true
   },
