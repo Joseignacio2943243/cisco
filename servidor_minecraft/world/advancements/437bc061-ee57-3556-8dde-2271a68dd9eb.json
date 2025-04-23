@@ -48,6 +48,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/etherium_ore": {
+    "criteria": {
+      "generic_revelation": "2025-04-23 22:20:52 +0000"
+    },
+    "done": true
+  },
   "vinery:loam": {
     "criteria": {
       "has_the_recipe": "2025-04-22 22:15:35 +0000"
@@ -1097,6 +1103,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-04-23 22:25:47 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/misc/animal_guidebook": {
     "criteria": {
       "has_the_recipe": "2025-04-23 00:33:09 +0000"
@@ -1343,6 +1355,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-04-23 21:44:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-04-23 07:28:32 +0000"
@@ -1383,6 +1401,12 @@
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-04-22 22:15:35 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/bonus_wool_recipes": {
+    "criteria": {
+      "has_white_wool": "2025-04-23 22:10:00 +0000"
     },
     "done": true
   },
@@ -2212,6 +2236,7 @@
       "byg:araucaria_savanna": "2025-04-23 04:25:01 +0000",
       "byg:wailing_garth": "2025-04-23 07:30:04 +0000",
       "byg:red_rock_valley": "2025-04-23 02:43:55 +0000",
+      "byg:howling_peaks": "2025-04-23 21:45:41 +0000",
       "byg:aspen_forest": "2025-04-22 23:58:25 +0000",
       "byg:forgotten_forest": "2025-04-22 23:56:39 +0000",
       "byg:cardinal_tundra": "2025-04-23 00:10:41 +0000",
@@ -2273,6 +2298,12 @@
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2025-04-22 22:15:35 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/materials/ichor_droplet": {
+    "criteria": {
+      "has_items": "2025-04-23 22:16:11 +0000"
     },
     "done": true
   },

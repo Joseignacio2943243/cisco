@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-04-23 21:42:53 +0000"
+    },
+    "done": true
+  },
   "vinery:big_table": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:36:48 +0000"
@@ -446,6 +452,12 @@
     },
     "done": true
   },
+  "majruszsaccessories:booster_dropped": {
+    "criteria": {
+      "picked_up_booster": "2025-04-23 21:39:09 +0000"
+    },
+    "done": true
+  },
   "takesapillage:root": {
     "criteria": {
       "always": "2025-04-22 21:36:48 +0000"
@@ -584,6 +596,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-04-23 22:26:42 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:36:47 +0000"
@@ -651,6 +669,8 @@
       "minecraft:skeleton": "2025-04-23 20:11:51 +0000",
       "minecraft:phantom": "2025-04-23 21:04:22 +0000",
       "minecraft:wither_skeleton": "2025-04-23 07:52:16 +0000",
+      "minecraft:husk": "2025-04-23 22:26:28 +0000",
+      "minecraft:stray": "2025-04-23 22:26:42 +0000",
       "minecraft:zombie": "2025-04-22 22:02:38 +0000"
     },
     "done": false
@@ -738,6 +758,12 @@
       "requirement": "2025-04-23 07:23:19 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "smithingtable": "2025-04-23 21:39:20 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:book/materials/ancient_debris": {
     "criteria": {
@@ -1087,6 +1113,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-04-23 22:26:26 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-04-22 21:36:48 +0000"
@@ -1168,6 +1200,12 @@
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:36:47 +0000"
+    },
+    "done": true
+  },
+  "undead_unleashed:boo": {
+    "criteria": {
+      "boo": "2025-04-23 22:31:05 +0000"
     },
     "done": true
   },
@@ -1343,6 +1381,7 @@
     "criteria": {
       "byg:allium_fields": "2025-04-23 20:05:52 +0000",
       "byg:autumnal_taiga": "2025-04-23 00:10:07 +0000",
+      "byg:orchard": "2025-04-23 22:24:22 +0000",
       "byg:redwood_thicket": "2025-04-23 00:38:57 +0000",
       "byg:firecracker_shrubland": "2025-04-23 02:44:54 +0000",
       "byg:weeping_witch_forest": "2025-04-23 05:36:12 +0000",
@@ -1353,6 +1392,7 @@
       "byg:aspen_forest": "2025-04-23 20:09:41 +0000",
       "byg:forgotten_forest": "2025-04-23 20:08:54 +0000",
       "byg:cardinal_tundra": "2025-04-23 00:11:21 +0000",
+      "byg:baobab_savanna": "2025-04-23 22:23:34 +0000",
       "byg:amaranth_fields": "2025-04-23 20:23:25 +0000",
       "byg:coniferous_forest": "2025-04-23 03:06:00 +0000",
       "byg:ebony_woods": "2025-04-23 20:09:20 +0000",
@@ -1442,6 +1482,12 @@
       "has_the_recipe": "2025-04-22 21:36:48 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "target": "2025-04-23 22:32:06 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
@@ -1571,6 +1617,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-04-23 22:26:42 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_player_hurt": {
     "criteria": {
       "requirement": "2025-04-22 22:02:32 +0000",
@@ -1695,6 +1747,12 @@
   "meetyourfight:main/root": {
     "criteria": {
       "killed_something": "2025-04-22 22:02:35 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "smithingtable": "2025-04-23 21:39:20 +0000"
     },
     "done": true
   },

@@ -390,6 +390,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/relics/blazing_core": {
+    "criteria": {
+      "has_items": "2025-04-23 22:15:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-04-22 22:21:10 +0000"
@@ -584,6 +590,7 @@
   "enigmaticlegacy:main/all_spellstones": {
     "criteria": {
       "spellstone1": "2025-04-22 22:58:17 +0000",
+      "spellstone4": "2025-04-23 22:15:18 +0000",
       "spellstone5": "2025-04-23 19:00:42 +0000"
     },
     "done": false
@@ -593,6 +600,12 @@
       "has_parent_recipe": "2025-04-22 23:02:08 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-23 22:21:53 +0000"
+    },
+    "done": true
   },
   "enigmaticlegacy:book/tools/forbidden_axe": {
     "criteria": {
@@ -1420,6 +1433,12 @@
   "enigmaticaddons:book/misc/totem_of_malice": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-04-23 22:09:30 +0000"
     },
     "done": true
   },
@@ -2273,7 +2292,8 @@
   "enigmaticlegacy:book/relics/the_cube": {
     "criteria": {
       "has_item_1": "2025-04-22 22:58:17 +0000",
-      "has_item_5": "2025-04-23 19:00:42 +0000"
+      "has_item_5": "2025-04-23 19:00:42 +0000",
+      "has_item_4": "2025-04-23 22:15:18 +0000"
     },
     "done": false
   },
@@ -2291,14 +2311,17 @@
   },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
+      "byg:allium_fields": "2025-04-23 22:30:04 +0000",
       "byg:autumnal_taiga": "2025-04-23 00:09:50 +0000",
       "byg:redwood_thicket": "2025-04-22 22:25:21 +0000",
       "byg:firecracker_shrubland": "2025-04-23 19:27:08 +0000",
       "byg:weeping_witch_forest": "2025-04-23 05:36:39 +0000",
       "byg:araucaria_savanna": "2025-04-23 05:34:53 +0000",
       "byg:wailing_garth": "2025-04-23 07:49:59 +0000",
+      "byg:red_rock_valley": "2025-04-23 22:23:50 +0000",
       "byg:forgotten_forest": "2025-04-23 20:09:18 +0000",
       "byg:cardinal_tundra": "2025-04-23 00:11:14 +0000",
+      "byg:baobab_savanna": "2025-04-23 22:23:03 +0000",
       "byg:coniferous_forest": "2025-04-23 03:07:03 +0000",
       "byg:ebony_woods": "2025-04-23 20:09:19 +0000",
       "byg:temperate_rainforest": "2025-04-22 22:26:31 +0000",
@@ -2358,21 +2381,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "!bit13": "2025-04-23 21:14:20 +0000",
-      "!bit14": "2025-04-23 21:14:20 +0000",
-      "!bit11": "2025-04-23 21:14:20 +0000",
-      "!bit12": "2025-04-23 21:14:20 +0000",
-      "!bit10": "2025-04-23 21:14:20 +0000",
-      "!bit9": "2025-04-23 21:14:20 +0000",
-      "!bit8": "2025-04-23 21:14:20 +0000",
-      "!bit7": "2025-04-23 21:14:20 +0000",
-      "!bit6": "2025-04-23 21:14:20 +0000",
-      "!bit5": "2025-04-23 21:14:20 +0000",
-      "!bit4": "2025-04-23 21:14:20 +0000",
-      "!bit3": "2025-04-23 21:14:20 +0000",
-      "!bit2": "2025-04-23 21:14:20 +0000",
-      "!bit1": "2025-04-23 21:14:20 +0000",
-      "!bit0": "2025-04-23 21:14:20 +0000"
+      "!bit13": "2025-04-23 22:28:38 +0000",
+      "!bit14": "2025-04-23 22:28:38 +0000",
+      "!bit11": "2025-04-23 22:28:38 +0000",
+      "!bit12": "2025-04-23 22:28:38 +0000",
+      "!bit10": "2025-04-23 22:28:38 +0000",
+      "!bit9": "2025-04-23 22:28:38 +0000",
+      "!bit8": "2025-04-23 22:28:38 +0000",
+      "!bit7": "2025-04-23 22:28:38 +0000",
+      "!bit6": "2025-04-23 22:28:38 +0000",
+      "!bit5": "2025-04-23 22:28:38 +0000",
+      "!bit4": "2025-04-23 22:28:38 +0000",
+      "!bit3": "2025-04-23 22:28:38 +0000",
+      "!bit2": "2025-04-23 22:28:38 +0000",
+      "!bit1": "2025-04-23 22:28:38 +0000",
+      "!bit0": "2025-04-23 22:28:38 +0000"
     },
     "done": false
   },
