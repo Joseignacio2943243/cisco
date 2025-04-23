@@ -1081,17 +1081,17 @@
     },
     "done": true
   },
-  "quark:get_all_corundum": {
-    "criteria": {
-      "white": "2025-04-23 05:48:05 +0000"
-    },
-    "done": false
-  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-04-23 05:32:51 +0000"
     },
     "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "white": "2025-04-23 05:48:05 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
