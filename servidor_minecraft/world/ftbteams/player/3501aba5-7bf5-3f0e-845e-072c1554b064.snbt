@@ -2,7 +2,9 @@
 	id: "3501aba5-7bf5-3f0e-845e-072c1554b064"
 	type: "player"
 	player_name: "MamiLover"
-	ranks: { }
+	ranks: {
+		3501aba5-7bf5-3f0e-845e-072c1554b064: "owner"
+	}
 	properties: {
 		"ftbteams:display_name": "MamiLover"
 		"ftbteams:description": ""
