@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_dark_forest": "2025-04-23 06:16:03 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:36:48 +0000"
