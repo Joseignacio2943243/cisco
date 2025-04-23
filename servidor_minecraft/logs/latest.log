@@ -3829,3 +3829,22 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [23Apr2025 21:26:39.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> sabes como se usan los accesorios?
 [23Apr2025 21:27:27.537] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
 [23Apr2025 21:27:27.538] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[23Apr2025 21:29:09.420] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/510, l='ServerLevel[world]', x=1145.55, y=268.00, z=80.30] died, message: 'Unemployed was killed by Gress using magic'
+[23Apr2025 21:29:19.825] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/event/SimpleHarvestEvent$Source
+[23Apr2025 21:29:47.865] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/521, l='ServerLevel[world]', x=1185.62, y=88.00, z=78.89] died, message: 'Farmer hit the ground too hard'
+[23Apr2025 21:30:14.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set own game mode to Survival Mode]
+[23Apr2025 21:30:23.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set own game mode to Creative Mode]
+[23Apr2025 21:30:44.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 has completed the challenge [Awakened Equllibrium ]
+[23Apr2025 21:31:52.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Zombie]
+[23Apr2025 21:31:53.440] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Mode
+[23Apr2025 21:32:03.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Applied effect Greed to Gress]
+[23Apr2025 21:32:14.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Applied effect Greed to Gress]
+[23Apr2025 21:32:30.699] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[23Apr2025 21:35:39.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> jose
+[23Apr2025 21:35:43.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> como se usan los accesorios
+[23Apr2025 21:36:58.065] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/515, l='ServerLevel[world]', x=1186.65, y=271.00, z=58.66] died, message: 'Fisherman was killed by Gress using magic'
+[23Apr2025 21:37:17.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> W yo tengo un bolsillo de 27%
+[23Apr2025 21:37:52.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> vamos a la dungeooon
+[23Apr2025 21:39:09.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 has made the advancement [It Is Time For an Upgrade, Isn't It?]
+[23Apr2025 21:39:20.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 has made the advancement [Let's Get To Work]
+[23Apr2025 21:39:20.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Gave 1    [Smithing Table] to Ignacio29392]
