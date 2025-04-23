@@ -591,6 +591,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-23 23:09:38 +0000"
+    },
+    "done": true
+  },
   "vinery:cherry_chest_boat": {
     "criteria": {
       "has_the_recipe": "2025-04-22 22:15:35 +0000"
@@ -2295,6 +2301,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2025-04-23 23:14:30 +0000"
+    },
+    "done": false
+  },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2025-04-22 22:15:35 +0000"
@@ -2434,6 +2446,12 @@
   "majruszsdifficulty:kill_yourself": {
     "criteria": {
       "kill_yourself": "2025-04-23 02:22:02 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-04-23 23:10:23 +0000"
     },
     "done": true
   },
