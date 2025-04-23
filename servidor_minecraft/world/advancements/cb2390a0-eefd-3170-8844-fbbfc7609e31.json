@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "cisco_mod:lawbringer": {
+    "criteria": {
+      "lawbringer": "2025-04-23 20:52:23 +0000"
+    },
+    "done": true
+  },
   "vinery:cherry_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:36:47 +0000"
@@ -488,6 +494,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-04-23 21:04:22 +0000"
+    },
+    "done": false
+  },
   "undead_unleashed:shards_of_the_past": {
     "criteria": {
       "shards_of_the_past": "2025-04-23 20:11:52 +0000"
@@ -637,6 +649,7 @@
     "criteria": {
       "minecraft:blaze": "2025-04-23 07:36:41 +0000",
       "minecraft:skeleton": "2025-04-23 20:11:51 +0000",
+      "minecraft:phantom": "2025-04-23 21:04:22 +0000",
       "minecraft:wither_skeleton": "2025-04-23 07:52:16 +0000",
       "minecraft:zombie": "2025-04-22 22:02:38 +0000"
     },
@@ -1423,12 +1436,6 @@
       "has_the_recipe": "2025-04-22 21:36:48 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "direct": "2025-04-23 20:11:53 +0000"
-    },
-    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
