@@ -174,6 +174,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-04-23 07:16:07 +0000"
+    },
+    "done": true
+  },
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-04-22 22:15:35 +0000"
@@ -449,6 +455,12 @@
   "enigmaticlegacy:recipes/generic/hunter_guidebook": {
     "criteria": {
       "has_items": "2025-04-23 00:29:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-04-23 07:16:07 +0000"
     },
     "done": true
   },
@@ -1461,6 +1473,12 @@
     },
     "done": true
   },
+  "ars_nouveau:amethyst_golem_charm": {
+    "criteria": {
+      "has_amethyst_golem_charm": "2025-04-23 07:16:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-04-22 22:30:00 +0000"
@@ -1805,6 +1823,12 @@
     "criteria": {
       "inv_changed-ender_pearl": "2025-04-22 22:15:35 +0000",
       "inv_changed-diamond": "2025-04-22 22:15:35 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-04-23 07:16:07 +0000"
     },
     "done": true
   },
