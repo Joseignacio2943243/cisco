@@ -308,6 +308,12 @@
     },
     "done": true
   },
+  "apotheotic_additions:main/tower": {
+    "criteria": {
+      "enter_tower": "2025-04-24 02:27:13 +0000"
+    },
+    "done": true
+  },
   "vinery:dark_oak_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-04-22 23:22:28 +0000"
@@ -1670,12 +1676,6 @@
       "has_the_recipe": "2025-04-22 23:22:28 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "target": "2025-04-24 02:10:37 +0000"
-    },
-    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
