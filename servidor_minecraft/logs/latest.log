@@ -3922,3 +3922,32 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [24Apr2025 22:04:39.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> NO FUE APROPOSITO
 [24Apr2025 22:04:42.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> LO QERIA CARGAR
 [24Apr2025 22:06:09.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> nel
+[24Apr2025 22:12:14.597] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[24Apr2025 22:13:03.362] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[24Apr2025 22:13:03.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> vamos al end W
+[24Apr2025 22:13:03.661] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[24Apr2025 22:13:04.194] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[24Apr2025 22:13:04.194] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[24Apr2025 22:13:15.309] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/network/PacketANEffect$EffectType
+[24Apr2025 22:13:28.359] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 22:13:28.359] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[24Apr2025 22:13:28.359] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 22:14:16.822] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Overseer Karen the Wise'/6567, l='ServerLevel[world]', x=276.73, y=127.00, z=214.12] died: Overseer Karen the Wise was slain by Gress
+[24Apr2025 22:15:05.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> tienes una brujula?
+[24Apr2025 22:15:06.577] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Fox$Type
+[24Apr2025 22:15:06.728] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/ars_nouveau/geckolib3/core/PlayState
+[24Apr2025 22:15:07.011] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/TropicalFish$Pattern
+[24Apr2025 22:15:07.032] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[24Apr2025 22:15:07.299] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/axolotl/Axolotl$Variant
+[24Apr2025 22:15:10.479] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[24Apr2025 22:15:10.505] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting auviotre/enigmatic/addon/contents/entities/goal/CrossbowBlazeAttackGoal$CrossbowState
+[24Apr2025 22:15:10.507] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/teamabnormals/savage_and_ravage/common/entity/ai/goal/ImprovedCrossbowGoal$CrossbowState
+[24Apr2025 22:15:10.995] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/PathFindingStatus
+[24Apr2025 22:15:10.995] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/AbstractAdvancedPathNavigate$RestrictionType
+[24Apr2025 22:15:10.998] [AN stolen Minecolonies Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/SurfaceType
+[24Apr2025 22:15:22.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> una brujula de exploracion
+[24Apr2025 22:15:25.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> es una mision
+[24Apr2025 22:16:45.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> ocupamos matar aranas mutantes
+[24Apr2025 22:16:51.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> o ocupo miel
+[24Apr2025 22:16:53.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> si
+[24Apr2025 22:16:59.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> una ves me mato una kk

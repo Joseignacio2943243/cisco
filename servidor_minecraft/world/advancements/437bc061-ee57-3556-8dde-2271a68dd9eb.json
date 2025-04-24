@@ -2485,7 +2485,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "direct": "2025-04-24 21:36:42 +0000"
+      "not_target": "2025-04-24 22:04:27 +0000"
     },
     "done": false
   },
