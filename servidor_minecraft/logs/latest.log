@@ -3842,3 +3842,83 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [24Apr2025 21:47:24.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> a
 [24Apr2025 21:47:29.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> netherita
 [24Apr2025 21:47:42.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> como se hace esa
+[24Apr2025 21:48:32.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> como se llama
+[24Apr2025 21:48:45.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> darkstil?
+[24Apr2025 21:49:54.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> no me sale como se hace
+[24Apr2025 21:52:07.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> hagamos algo
+[24Apr2025 21:53:15.013] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[24Apr2025 21:55:06.147] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[24Apr2025 21:59:05.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> qe tanto crafteas qe namas veo qe salen misiones completadas
+[24Apr2025 21:59:49.943] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abel214 lost connection: Disconnected
+[24Apr2025 21:59:49.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 left the game
+[24Apr2025 21:59:50.393] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress lost connection: Disconnected
+[24Apr2025 21:59:50.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress left the game
+[24Apr2025 22:00:19.908] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[24Apr2025 22:00:19.952] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[24Apr2025 22:00:20.003] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[24Apr2025 22:00:20.054] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[24Apr2025 22:00:20.101] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[24Apr2025 22:00:20.157] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[24Apr2025 22:00:20.203] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[24Apr2025 22:00:20.251] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[24Apr2025 22:00:20.301] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[24Apr2025 22:00:20.352] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[24Apr2025 22:00:20.401] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[24Apr2025 22:00:20.453] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[24Apr2025 22:00:20.945] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[24Apr2025 22:00:20.985] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[24Apr2025 22:00:20.985] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[24Apr2025 22:00:21.043] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@466e67fe
+[24Apr2025 22:00:21.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abel214[/127.128.122.78:40819] logged in with entity id 6349 at (293.4385239713875, 180.0, 121.42040487366837)
+[24Apr2025 22:00:21.085] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to abel214
+[24Apr2025 22:00:21.086] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to abel214
+[24Apr2025 22:00:21.086] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to abel214
+[24Apr2025 22:00:21.086] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to abel214
+[24Apr2025 22:00:21.087] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to abel214
+[24Apr2025 22:00:21.088] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to abel214
+[24Apr2025 22:00:21.089] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to abel214
+[24Apr2025 22:00:21.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 joined the game
+[24Apr2025 22:00:21.186] [Server thread/INFO] [Jade/]: Syncing config to abel214 (437bc061-ee57-3556-8dde-2271a68dd9eb)
+[24Apr2025 22:00:21.268] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to abel214...
+[24Apr2025 22:00:21.269] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[24Apr2025 22:00:21.271] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[24Apr2025 22:00:21.272] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to abel214
+[24Apr2025 22:01:08.833] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[24Apr2025 22:01:08.881] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[24Apr2025 22:01:08.932] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[24Apr2025 22:01:08.980] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[24Apr2025 22:01:09.028] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[24Apr2025 22:01:09.078] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[24Apr2025 22:01:09.127] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[24Apr2025 22:01:09.175] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[24Apr2025 22:01:09.225] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[24Apr2025 22:01:09.276] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[24Apr2025 22:01:09.324] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[24Apr2025 22:01:09.370] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[24Apr2025 22:01:09.979] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[24Apr2025 22:01:10.020] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[24Apr2025 22:01:10.020] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[24Apr2025 22:01:10.105] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4daf9aad
+[24Apr2025 22:01:10.114] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gress[/127.39.22.126:52585] logged in with entity id 6892 at (297.69999998807907, 180.0, 122.6531834979836)
+[24Apr2025 22:01:10.157] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Gress
+[24Apr2025 22:01:10.157] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Gress
+[24Apr2025 22:01:10.157] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Gress
+[24Apr2025 22:01:10.157] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Gress
+[24Apr2025 22:01:10.159] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Gress
+[24Apr2025 22:01:10.160] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Gress
+[24Apr2025 22:01:10.160] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Gress
+[24Apr2025 22:01:10.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress joined the game
+[24Apr2025 22:01:10.311] [Server thread/INFO] [Jade/]: Syncing config to Gress (a0d83634-7b19-37e4-b8c9-a290e08b9bb8)
+[24Apr2025 22:01:10.384] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Gress...
+[24Apr2025 22:01:10.385] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[24Apr2025 22:01:10.386] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[24Apr2025 22:01:10.387] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Gress
+[24Apr2025 22:02:48.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has completed the challenge [Titan-Forged]
+[24Apr2025 22:02:51.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> perdon crei qe se guardaban y eran mias
+[24Apr2025 22:03:39.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> donde se usan las gemas
+[24Apr2025 22:04:12.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> no me deja vato
+[24Apr2025 22:04:33.788] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[24Apr2025 22:04:35.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> JAJAJA
+[24Apr2025 22:04:39.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> NO FUE APROPOSITO
+[24Apr2025 22:04:42.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> LO QERIA CARGAR
+[24Apr2025 22:06:09.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> nel
