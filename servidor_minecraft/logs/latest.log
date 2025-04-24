@@ -3780,3 +3780,10 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [24Apr2025 05:25:57.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> nambre
 [24Apr2025 05:26:00.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> tremenda base
 [24Apr2025 05:26:52.178] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 0 recipes!
+[24Apr2025 05:29:25.880] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[24Apr2025 05:29:34.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> sigue abajo
+[24Apr2025 05:29:37.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> no sale
+[24Apr2025 05:29:41.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> parece qe ya no esta
+[24Apr2025 05:29:59.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> no puedo destruir cosas
+[24Apr2025 05:36:59.148] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[24Apr2025 05:37:02.534] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
