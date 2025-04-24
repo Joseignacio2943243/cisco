@@ -947,6 +947,12 @@
     },
     "done": false
   },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2025-04-24 02:57:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2025-04-23 03:18:30 +0000"
@@ -2486,6 +2492,12 @@
       "has_the_recipe": "2025-04-22 21:44:43 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2025-04-24 02:48:58 +0000"
+    },
+    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
