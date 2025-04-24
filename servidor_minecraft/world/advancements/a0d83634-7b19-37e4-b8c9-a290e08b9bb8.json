@@ -259,6 +259,12 @@
     },
     "done": true
   },
+  "aether:icestone": {
+    "criteria": {
+      "icestone": "2025-04-24 03:39:37 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:44:43 +0000"
@@ -1119,6 +1125,7 @@
       "minecraft:jungle": "2025-04-23 18:54:22 +0000",
       "minecraft:ocean": "2025-04-23 22:39:36 +0000",
       "minecraft:snowy_beach": "2025-04-23 00:08:04 +0000",
+      "minecraft:flower_forest": "2025-04-24 04:54:19 +0000",
       "atmospheric:sparse_rainforest": "2025-04-22 21:55:29 +0000",
       "atmospheric:scrubland": "2025-04-24 00:09:13 +0000",
       "minecraft:deep_dark": "2025-04-23 20:29:03 +0000",
@@ -1258,6 +1265,12 @@
   "vinery:coarse_dirt_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "aether:gold_dungeon": {
+    "criteria": {
+      "kill_sun_spirit": "2025-04-24 04:51:42 +0000"
     },
     "done": true
   },
@@ -1721,6 +1734,12 @@
     },
     "done": true
   },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2025-04-24 03:42:52 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/discover_spellstone": {
     "criteria": {
       "spellstone": "2025-04-22 22:45:51 +0000"
@@ -1961,6 +1980,12 @@
     },
     "done": false
   },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-04-24 03:34:14 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2025-04-22 21:44:43 +0000"
@@ -2162,6 +2187,18 @@
     },
     "done": true
   },
+  "aether:obtain_egg": {
+    "criteria": {
+      "moa_egg": "2025-04-24 03:52:23 +0000"
+    },
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-04-24 03:36:12 +0000"
+    },
+    "done": true
+  },
   "vinery:grass_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:44:43 +0000"
@@ -2216,6 +2253,16 @@
       "red": "2025-04-23 06:01:19 +0000",
       "white": "2025-04-23 05:45:31 +0000",
       "violet": "2025-04-23 19:21:45 +0000"
+    },
+    "done": false
+  },
+  "deep_aether:explore_aether": {
+    "criteria": {
+      "deep_aether:mystic_aerglow_forest": "2025-04-24 03:37:35 +0000",
+      "aether:skyroot_meadow": "2025-04-24 03:36:12 +0000",
+      "aether:skyroot_forest": "2025-04-24 03:37:13 +0000",
+      "deep_aether:yagroot_swamp": "2025-04-24 03:40:47 +0000",
+      "deep_aether:aerlavender_fields": "2025-04-24 04:32:52 +0000"
     },
     "done": false
   },
@@ -2311,6 +2358,12 @@
     },
     "done": true
   },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2025-04-24 04:11:31 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2025-04-22 21:54:27 +0000"
@@ -2332,6 +2385,12 @@
   "enigmaticaddons:book/accessories/scorched_charm": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "aether:bronze_dungeon": {
+    "criteria": {
+      "kill_slider": "2025-04-24 03:47:54 +0000"
     },
     "done": true
   },
@@ -2424,7 +2483,9 @@
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:allium_fields": "2025-04-23 22:30:04 +0000",
+      "byg:prairie": "2025-04-24 04:55:03 +0000",
       "byg:autumnal_taiga": "2025-04-23 00:09:50 +0000",
+      "byg:orchard": "2025-04-24 04:55:17 +0000",
       "byg:redwood_thicket": "2025-04-22 22:25:21 +0000",
       "byg:firecracker_shrubland": "2025-04-23 19:27:08 +0000",
       "byg:weeping_witch_forest": "2025-04-23 05:36:39 +0000",
@@ -2492,12 +2553,6 @@
       "has_the_recipe": "2025-04-22 21:44:43 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "direct": "2025-04-24 02:48:58 +0000"
-    },
-    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
@@ -2745,6 +2800,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-04-22 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-04-24 03:36:12 +0000"
     },
     "done": true
   },
