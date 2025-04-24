@@ -3972,3 +3972,127 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [24Apr2025 05:05:29.204] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
 [24Apr2025 05:05:29.204] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
 [24Apr2025 05:05:29.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> el pedo ocupo cama
+[24Apr2025 05:05:37.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> me va hacer tp a el otro mundo
+[24Apr2025 05:05:45.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Gave 1    [Black Bed] to Gress]
+[24Apr2025 05:05:49.283] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[24Apr2025 05:05:49.285] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[24Apr2025 05:06:13.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Invisicreeper]
+[24Apr2025 05:06:18.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Invisicreeper]
+[24Apr2025 05:06:33.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> onta el bicho
+[24Apr2025 05:06:34.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to abel214]
+[24Apr2025 05:06:38.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Invisicreeper]
+[24Apr2025 05:06:49.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to abel214]
+[24Apr2025 05:06:55.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Invisicreeper]
+[24Apr2025 05:07:18.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to abel214]
+[24Apr2025 05:07:42.344] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 05:07:42.345] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[24Apr2025 05:07:42.345] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 05:07:42.345] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[24Apr2025 05:07:43.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to abel214]
+[24Apr2025 05:07:49.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to Ignacio29392]
+[24Apr2025 05:07:50.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
+[24Apr2025 05:07:51.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
+[24Apr2025 05:07:51.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
+[24Apr2025 05:08:07.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Mutant Creeper]
+[24Apr2025 05:08:09.338] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/entity/ai/goal/NagaMovementPattern$MovementState
+[24Apr2025 05:08:17.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to abel214]
+[24Apr2025 05:08:24.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> ando bien lag
+[24Apr2025 05:08:29.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> dejen salgo y entro
+[24Apr2025 05:08:34.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abel214 lost connection: Disconnected
+[24Apr2025 05:08:34.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 left the game
+[24Apr2025 05:08:34.504] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[24Apr2025 05:08:34.504] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 05:08:34.504] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[24Apr2025 05:08:34.504] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 05:08:55.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Lightning Bolt]
+[24Apr2025 05:08:57.881] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[24Apr2025 05:08:57.923] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[24Apr2025 05:08:57.969] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[24Apr2025 05:08:58.021] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[24Apr2025 05:08:58.068] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[24Apr2025 05:08:58.116] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[24Apr2025 05:08:58.168] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[24Apr2025 05:08:58.217] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[24Apr2025 05:08:58.268] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[24Apr2025 05:08:58.318] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[24Apr2025 05:08:58.369] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[24Apr2025 05:08:58.409] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[24Apr2025 05:08:58.828] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[24Apr2025 05:08:58.869] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[24Apr2025 05:08:58.869] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[24Apr2025 05:08:58.952] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6b36b773
+[24Apr2025 05:08:58.959] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abel214[/127.128.122.78:37281] logged in with entity id 6401 at (289.67608479123203, 152.0, 119.87585413427456)
+[24Apr2025 05:08:58.991] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to abel214
+[24Apr2025 05:08:58.991] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to abel214
+[24Apr2025 05:08:58.991] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to abel214
+[24Apr2025 05:08:58.991] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to abel214
+[24Apr2025 05:08:58.993] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to abel214
+[24Apr2025 05:08:58.994] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to abel214
+[24Apr2025 05:08:58.994] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to abel214
+[24Apr2025 05:08:59.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 joined the game
+[24Apr2025 05:08:59.121] [Server thread/INFO] [Jade/]: Syncing config to abel214 (437bc061-ee57-3556-8dde-2271a68dd9eb)
+[24Apr2025 05:08:59.175] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to abel214...
+[24Apr2025 05:08:59.175] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[24Apr2025 05:08:59.176] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[24Apr2025 05:08:59.176] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to abel214
+[24Apr2025 05:09:14.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Lightning Bolt]
+[24Apr2025 05:09:47.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to abel214]
+[24Apr2025 05:10:04.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to abel214]
+[24Apr2025 05:10:08.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Lightning Bolt]
+[24Apr2025 05:10:09.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 was struck by lightning
+[24Apr2025 05:10:25.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to abel214]
+[24Apr2025 05:10:58.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[24Apr2025 05:11:24.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to Ignacio29392]
+[24Apr2025 05:11:35.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to Ignacio29392]
+[24Apr2025 05:11:41.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to Ignacio29392]
+[24Apr2025 05:11:51.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to Ignacio29392]
+[24Apr2025 05:11:58.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to Ignacio29392]
+[24Apr2025 05:12:06.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to Ignacio29392]
+[24Apr2025 05:12:12.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to Ignacio29392]
+[24Apr2025 05:12:17.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to Ignacio29392]
+[24Apr2025 05:12:24.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to Ignacio29392]
+[24Apr2025 05:12:33.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> y la base
+[24Apr2025 05:12:53.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to Ignacio29392]
+[24Apr2025 05:13:00.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to Ignacio29392]
+[24Apr2025 05:13:07.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abel214 moved wrongly!
+[24Apr2025 05:13:09.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to Ignacio29392]
+[24Apr2025 05:13:16.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> me bugie
+[24Apr2025 05:13:24.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> hazme tp
+[24Apr2025 05:13:28.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> a gres
+[24Apr2025 05:13:29.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported abel214 to Ignacio29392]
+[24Apr2025 05:13:32.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was shot by Blüd
+[24Apr2025 05:13:32.730] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[24Apr2025 05:13:32.730] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[24Apr2025 05:13:32.730] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[24Apr2025 05:13:32.731] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[24Apr2025 05:13:32.731] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[24Apr2025 05:13:44.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> tp
+[24Apr2025 05:13:45.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> tp
+[24Apr2025 05:13:48.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported abel214 to Gress]
+[24Apr2025 05:13:48.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> ando bajo tierra
+[24Apr2025 05:13:59.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported 3 entities to Ignacio29392]
+[24Apr2025 05:14:03.044] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[24Apr2025 05:14:03.044] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 05:14:03.044] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[24Apr2025 05:14:03.044] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[24Apr2025 05:14:06.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set the weather to rain & thunder]
+[24Apr2025 05:14:30.960] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 05:14:30.960] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[24Apr2025 05:14:30.960] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 05:14:31.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Mutant Creeper]
+[24Apr2025 05:14:41.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Mutant Creeper]
+[24Apr2025 05:14:44.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Gress]
+[24Apr2025 05:14:47.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to abel214]
+[24Apr2025 05:14:59.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported 3 entities to Ignacio29392]
+[24Apr2025 05:15:15.606] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 05:15:15.607] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[24Apr2025 05:15:17.553] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[24Apr2025 05:15:17.553] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[24Apr2025 05:15:17.553] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[24Apr2025 05:15:17.556] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[24Apr2025 05:15:17.556] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 05:15:17.556] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[24Apr2025 05:15:17.556] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 05:15:21.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Lightning Bolt]
+[24Apr2025 05:15:42.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to abel214]
+[24Apr2025 05:15:46.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to abel214]
