@@ -1219,6 +1219,12 @@
     },
     "done": true
   },
+  "cisco_mod:sleeping_sword": {
+    "criteria": {
+      "sleeping_sword": "2025-04-24 07:05:19 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/forger_gem": {
     "criteria": {
       "has_items": "2025-04-23 01:23:09 +0000"
@@ -2476,6 +2482,12 @@
       "has_the_recipe": "2025-04-22 22:15:35 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2025-04-24 21:36:42 +0000"
+    },
+    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
