@@ -839,6 +839,12 @@
     },
     "done": true
   },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-04-24 01:58:12 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:game_stage_expert": {
     "criteria": {
       "is_triggered": "2025-04-22 23:40:01 +0000"
@@ -1296,6 +1302,12 @@
       "has_recipe_result": "2025-04-23 17:35:30 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-04-24 01:42:26 +0000"
+    },
+    "done": false
   },
   "enigmaticaddons:book/misc/ode_to_living": {
     "criteria": {

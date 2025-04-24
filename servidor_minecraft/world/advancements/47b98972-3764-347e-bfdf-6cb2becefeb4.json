@@ -479,6 +479,12 @@
     },
     "done": true
   },
+  "majruszsaccessories:booster_dropped": {
+    "criteria": {
+      "picked_up_booster": "2025-04-24 01:40:01 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/desolation_ring": {
     "criteria": {
       "has_parent_recipe": "2025-04-22 23:50:18 +0000"
@@ -732,6 +738,12 @@
   "comforts:hammock_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-22 23:22:28 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/mining_charm": {
+    "criteria": {
+      "has_items": "2025-04-24 01:46:57 +0000"
     },
     "done": true
   },
@@ -1273,6 +1285,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/mining_charm": {
+    "criteria": {
+      "has_the_recipe": "2025-04-24 01:46:57 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-22 23:22:28 +0000"
@@ -1640,26 +1658,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "!bit13": "2025-04-24 01:36:46 +0000",
-      "!bit14": "2025-04-24 01:36:46 +0000",
-      "!bit11": "2025-04-24 01:36:46 +0000",
-      "!bit12": "2025-04-24 01:36:46 +0000",
-      "!bit10": "2025-04-24 01:36:46 +0000",
-      "!bit9": "2025-04-24 01:36:46 +0000",
-      "!bit8": "2025-04-24 01:36:46 +0000",
-      "!bit7": "2025-04-24 01:36:46 +0000",
-      "!bit6": "2025-04-24 01:36:46 +0000",
-      "!bit5": "2025-04-24 01:36:46 +0000",
-      "!bit4": "2025-04-24 01:36:46 +0000",
-      "!bit3": "2025-04-24 01:36:46 +0000",
-      "!bit2": "2025-04-24 01:36:46 +0000",
-      "!bit1": "2025-04-24 01:36:46 +0000",
-      "!bit0": "2025-04-24 01:36:46 +0000"
-    },
-    "done": false
-  },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-22 23:22:28 +0000"
@@ -1792,6 +1790,12 @@
       "log_spam_fixer": "2025-04-22 23:22:29 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:recipes/generic/tome_uncrafting/withered_tome": {
+    "criteria": {
+      "has_items": "2025-04-24 01:58:11 +0000"
+    },
+    "done": true
   },
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
@@ -1944,6 +1948,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-04-24 01:42:26 +0000"
+    },
+    "done": false
+  },
   "enigmaticaddons:book/misc/ode_to_living": {
     "criteria": {
       "has_the_recipe": "2025-04-22 23:22:28 +0000"
@@ -1959,6 +1969,12 @@
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-22 23:22:28 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-04-24 01:39:56 +0000"
     },
     "done": true
   },
