@@ -765,6 +765,12 @@
     },
     "done": true
   },
+  "meetyourfight:main/dame_fortuna_kill": {
+    "criteria": {
+      "get_item": "2025-04-24 07:00:51 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-04-22 22:15:35 +0000"
