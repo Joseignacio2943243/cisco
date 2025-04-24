@@ -312,3 +312,87 @@
 [24Apr2025 00:29:00.752] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
 [24Apr2025 00:29:00.752] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
 [24Apr2025 00:30:37.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 has reached the goal [Cover Me In Bright Steel]
+[24Apr2025 00:34:40.799] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[24Apr2025 00:34:40.799] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[24Apr2025 00:34:40.800] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[24Apr2025 00:34:40.800] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 00:35:11.291] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[24Apr2025 00:35:11.331] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[24Apr2025 00:35:11.332] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[24Apr2025 00:35:11.337] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[24Apr2025 00:35:11.343] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[24Apr2025 00:35:11.353] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[24Apr2025 00:35:11.358] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[24Apr2025 00:35:11.365] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[24Apr2025 00:35:11.377] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[24Apr2025 00:35:11.441] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[24Apr2025 00:35:11.509] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[24Apr2025 00:35:11.512] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[24Apr2025 00:35:16.773] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[24Apr2025 00:35:16.785] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[24Apr2025 00:35:16.806] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[24Apr2025 00:35:16.902] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5aa2c1df
+[24Apr2025 00:35:16.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abel214[/127.128.122.78:42207] logged in with entity id 96836 at (67.69999998807907, 68.0, 1682.699999988079)
+[24Apr2025 00:35:16.935] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to abel214
+[24Apr2025 00:35:16.935] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to abel214
+[24Apr2025 00:35:16.935] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to abel214
+[24Apr2025 00:35:16.935] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to abel214
+[24Apr2025 00:35:16.936] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to abel214
+[24Apr2025 00:35:16.938] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to abel214
+[24Apr2025 00:35:16.938] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to abel214
+[24Apr2025 00:35:16.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 joined the game
+[24Apr2025 00:35:17.019] [Server thread/INFO] [Jade/]: Syncing config to abel214 (437bc061-ee57-3556-8dde-2271a68dd9eb)
+[24Apr2025 00:35:17.070] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to abel214...
+[24Apr2025 00:35:17.071] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[24Apr2025 00:35:17.071] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[24Apr2025 00:35:17.071] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to abel214
+[24Apr2025 00:36:10.054] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[24Apr2025 00:36:10.054] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[24Apr2025 00:36:10.054] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 00:37:03.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> hazme tp a ti jose
+[24Apr2025 00:37:15.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> jose
+[24Apr2025 00:37:18.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> tp
+[24Apr2025 00:38:23.903] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[24Apr2025 00:38:23.903] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 00:38:23.904] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[24Apr2025 00:38:23.904] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[24Apr2025 00:39:05.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> jose
+[24Apr2025 00:39:10.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> tengo el jamon infinto W
+[24Apr2025 00:39:27.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to abel214]
+[24Apr2025 00:40:12.652] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[24Apr2025 00:40:12.653] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[24Apr2025 00:40:12.653] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[24Apr2025 00:43:03.307] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[24Apr2025 00:43:03.307] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[24Apr2025 00:43:03.307] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 00:44:00.453] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[24Apr2025 00:44:00.500] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[24Apr2025 00:44:00.501] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[24Apr2025 00:44:00.551] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[24Apr2025 00:44:00.598] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[24Apr2025 00:44:00.648] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[24Apr2025 00:44:00.700] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[24Apr2025 00:44:00.751] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[24Apr2025 00:44:00.798] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[24Apr2025 00:44:00.855] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[24Apr2025 00:44:00.902] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[24Apr2025 00:44:00.949] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[24Apr2025 00:44:03.086] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[24Apr2025 00:44:03.126] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[24Apr2025 00:44:03.127] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[24Apr2025 00:44:03.208] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1649b724
+[24Apr2025 00:44:03.215] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gress[/127.39.22.126:37053] logged in with entity id 97519 at (67.69999998807907, 68.06099520283203, 1681.9228702537923)
+[24Apr2025 00:44:03.242] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Gress
+[24Apr2025 00:44:03.242] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Gress
+[24Apr2025 00:44:03.242] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Gress
+[24Apr2025 00:44:03.243] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Gress
+[24Apr2025 00:44:03.244] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Gress
+[24Apr2025 00:44:03.245] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Gress
+[24Apr2025 00:44:03.245] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Gress
+[24Apr2025 00:44:03.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress joined the game
+[24Apr2025 00:44:03.348] [Server thread/INFO] [Jade/]: Syncing config to Gress (a0d83634-7b19-37e4-b8c9-a290e08b9bb8)
+[24Apr2025 00:44:03.401] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Gress...
+[24Apr2025 00:44:03.401] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[24Apr2025 00:44:03.401] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[24Apr2025 00:44:03.402] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Gress
+[24Apr2025 00:44:14.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to NachoSigma04]
