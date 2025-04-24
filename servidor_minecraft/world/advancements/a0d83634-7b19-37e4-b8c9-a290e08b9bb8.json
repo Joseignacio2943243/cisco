@@ -187,6 +187,12 @@
     },
     "done": false
   },
+  "simplyswords:soulstealer": {
+    "criteria": {
+      "requirement": "2025-04-24 02:03:39 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/adventure_charm": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:44:43 +0000"

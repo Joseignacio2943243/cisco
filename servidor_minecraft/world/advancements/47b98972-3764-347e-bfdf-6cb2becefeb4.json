@@ -358,6 +358,12 @@
     },
     "done": true
   },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-04-24 02:04:25 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_lime": {
     "criteria": {
       "has_the_recipe": "2025-04-22 23:22:28 +0000"
@@ -764,6 +770,7 @@
       "minecraft:wither_skeleton": "2025-04-24 01:28:56 +0000",
       "minecraft:husk": "2025-04-23 01:32:14 +0000",
       "minecraft:stray": "2025-04-22 23:26:36 +0000",
+      "minecraft:silverfish": "2025-04-24 02:10:37 +0000",
       "minecraft:zombie": "2025-04-22 23:56:03 +0000"
     },
     "done": false
@@ -1657,6 +1664,12 @@
       "has_the_recipe": "2025-04-22 23:22:28 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "target": "2025-04-24 02:10:37 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {

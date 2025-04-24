@@ -3968,3 +3968,164 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [24Apr2025 02:03:04.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to NachoSigma04]
 [24Apr2025 02:03:09.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Carminite Ghastguard]
 [24Apr2025 02:03:19.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> JAJAJAJAJA
+[24Apr2025 02:03:27.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set own game mode to Creative Mode]
+[24Apr2025 02:03:39.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Stealer of Souls]
+[24Apr2025 02:03:51.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set own game mode to Spectator Mode]
+[24Apr2025 02:03:56.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported 4 entities to Ignacio29392]
+[24Apr2025 02:04:05.741] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Apr2025 02:04:05.741] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Apr2025 02:04:05.741] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Apr2025 02:04:05.741] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Apr2025 02:04:09.537] [Worker-Main3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[24Apr2025 02:04:09.538] [Worker-Main3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[24Apr2025 02:04:12.669] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Apr2025 02:04:12.669] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Apr2025 02:04:12.669] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Apr2025 02:04:12.669] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Apr2025 02:04:12.669] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Apr2025 02:04:12.670] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Apr2025 02:04:12.670] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Apr2025 02:04:12.671] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Apr2025 02:04:12.671] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Apr2025 02:04:12.671] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Apr2025 02:04:12.671] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Apr2025 02:04:25.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 has completed the challenge [Subspace Bubble]
+[24Apr2025 02:04:25.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported 4 entities to Gress]
+[24Apr2025 02:04:25.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21754ms or 435 ticks behind
+[24Apr2025 02:04:42.442] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[24Apr2025 02:04:47.171] [Worker-Main2/WARN] [ModernFix/]: The namespace incendium contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[24Apr2025 02:04:47.491] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[24Apr2025 02:04:47.492] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[24Apr2025 02:04:47.492] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 02:04:53.886] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[24Apr2025 02:04:53.886] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 02:04:53.886] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[24Apr2025 02:04:53.886] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 02:05:01.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> JAJAJAJJAA
+[24Apr2025 02:05:06.698] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[24Apr2025 02:05:06.699] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[24Apr2025 02:05:06.699] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 02:05:09.593] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[24Apr2025 02:05:09.593] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 02:05:14.697] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[24Apr2025 02:05:14.697] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 02:05:18.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set the weather to rain & thunder]
+[24Apr2025 02:05:20.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set the weather to rain & thunder]
+[24Apr2025 02:05:22.140] [Worker-Main3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Variant
+[24Apr2025 02:05:22.142] [Worker-Main3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[24Apr2025 02:05:43.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> eso es ke se fue
+[24Apr2025 02:05:51.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
+[24Apr2025 02:05:53.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> past the horizon es que se acabo
+[24Apr2025 02:05:53.416] [Worker-Main1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/WildenHunter$Animations
+[24Apr2025 02:05:54.550] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Apr2025 02:05:54.551] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Apr2025 02:05:54.551] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Apr2025 02:05:54.551] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Apr2025 02:05:55.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 was slain by Silverfish
+[24Apr2025 02:05:57.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> rising es que esta empezando
+[24Apr2025 02:05:58.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> JAJAJJAA
+[24Apr2025 02:06:00.150] [Worker-Main2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=201, y=51, z=176}
+[24Apr2025 02:06:04.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> SE LO COJIO UN LEPISMA
+[24Apr2025 02:06:09.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> tp
+[24Apr2025 02:06:09.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
+[24Apr2025 02:06:10.175] [Worker-Main3/WARN] [ModernFix/]: The namespace ctov contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[24Apr2025 02:06:19.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported abel214 to Gress]
+[24Apr2025 02:06:25.556] [pool-11-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[24Apr2025 02:06:29.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4032ms or 80 ticks behind
+[24Apr2025 02:06:31.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> JAJAJA
+[24Apr2025 02:06:36.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Royal Skeleton]
+[24Apr2025 02:06:49.184] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[24Apr2025 02:06:50.100] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[24Apr2025 02:06:50.100] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 02:06:50.101] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 02:06:51.886] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[24Apr2025 02:06:56.849] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=201, y=51, z=176}
+[24Apr2025 02:06:57.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> Tienen un royal atras
+[24Apr2025 02:06:58.424] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[24Apr2025 02:06:58.425] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.util.EntityTypeContainerContainable
+[24Apr2025 02:07:06.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Royal Skeleton]
+[24Apr2025 02:07:15.082] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3810ms or 76 ticks behind
+[24Apr2025 02:07:27.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was shot by Royal Skeleton
+[24Apr2025 02:07:30.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 was shot by Royal Skeleton
+[24Apr2025 02:07:35.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to NachoSigma04]
+[24Apr2025 02:07:38.552] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[24Apr2025 02:07:38.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported abel214 to NachoSigma04]
+[24Apr2025 02:07:39.032] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/ars_nouveau/geckolib3/core/builder/ILoopType$EDefaultLoopTypes
+[24Apr2025 02:07:48.365] [Worker-Main3/WARN] [ModernFix/]: The namespace repurposed_structures contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[24Apr2025 02:07:59.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 was shot by Royal Skeleton
+[24Apr2025 02:08:01.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> JAJAJAJA
+[24Apr2025 02:08:06.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> tpo
+[24Apr2025 02:08:09.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> TIENE 1544 DE VIDA
+[24Apr2025 02:08:11.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> JAJAJAJA
+[24Apr2025 02:08:15.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was shot by Royal Skeleton
+[24Apr2025 02:08:18.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> JAJAJAJAJA
+[24Apr2025 02:08:19.397] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 02:08:19.397] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[24Apr2025 02:08:19.397] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 02:08:20.008] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[24Apr2025 02:08:20.008] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 02:08:20.009] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[24Apr2025 02:08:20.009] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 02:08:22.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to NachoSigma04]
+[24Apr2025 02:08:24.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported abel214 to NachoSigma04]
+[24Apr2025 02:08:25.701] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Apr2025 02:08:38.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Zombie]
+[24Apr2025 02:08:39.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Zombie]
+[24Apr2025 02:08:39.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Zombie]
+[24Apr2025 02:08:59.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Zombie]
+[24Apr2025 02:09:22.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> eh we
+[24Apr2025 02:09:26.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> gress zombie vs esqueleto
+[24Apr2025 02:09:27.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> JAJAJAJAJA
+[24Apr2025 02:09:37.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> IRA WE
+[24Apr2025 02:09:40.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> TU ZOMBIE LE ESTA PEGANDO
+[24Apr2025 02:09:42.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> JAJAJAJAJA
+[24Apr2025 02:09:48.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was shot by Royal Skeleton
+[24Apr2025 02:09:49.285] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityZotzpyre from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[24Apr2025 02:09:49.287] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/itsmeow/whisperwoods/entity/EntityZotzpyre$SwoopingAttackGoal$MovementPhase
+[24Apr2025 02:09:50.906] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[24Apr2025 02:09:50.906] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 02:09:50.906] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[24Apr2025 02:09:50.906] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 02:09:51.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> JAJAJJA
+[24Apr2025 02:09:52.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 was shot by Royal Skeleton
+[24Apr2025 02:09:55.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> JAJAJAJAJAJA
+[24Apr2025 02:09:56.860] [Worker-Main3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/justinwon777/humancompanions/entity/ai/ArbalistRangedCrossbowAttackGoal$CrossbowState
+[24Apr2025 02:10:02.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to abel214]
+[24Apr2025 02:10:06.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported abel214 to Ignacio29392]
+[24Apr2025 02:10:09.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to Ignacio29392]
+[24Apr2025 02:10:24.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Silverfish]
+[24Apr2025 02:10:28.147] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gress'/8226, l='ServerLevel[world]', x=15597.61, y=69.50, z=29465.07] died: Gress was slain by Gress
+[24Apr2025 02:10:30.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Silverfish]
+[24Apr2025 02:10:45.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 was slain by Silverfish
+[24Apr2025 02:10:45.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Lightning Bolt]
+[24Apr2025 02:10:45.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 was struck by lightning whilst fighting Silverfish
+[24Apr2025 02:10:46.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 has made the advancement [Surge Protector]
+[24Apr2025 02:10:54.242] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Apr2025 02:10:54.242] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Apr2025 02:10:54.242] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Apr2025 02:10:54.242] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Apr2025 02:10:57.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported NachoSigma04 to Gress]
+[24Apr2025 02:11:00.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported abel214 to Gress]
+[24Apr2025 02:11:07.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Lightning Bolt]
+[24Apr2025 02:11:11.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Lightning Bolt]
+[24Apr2025 02:11:29.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> pablo porque no estamos vivos
+[24Apr2025 02:11:41.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Mutant Skeleton]
+[24Apr2025 02:11:48.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> no salgan we
+[24Apr2025 02:11:49.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> JAJAJAJA
+[24Apr2025 02:12:08.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[24Apr2025 02:12:17.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[24Apr2025 02:12:28.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[24Apr2025 02:12:31.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[24Apr2025 02:12:38.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[24Apr2025 02:12:41.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> JAJAJAJA
+[24Apr2025 02:12:42.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 was blown up by Creeper
+[24Apr2025 02:12:54.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported abel214 to NachoSigma04]
+[24Apr2025 02:13:01.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> no se supone que abel era inmune
+[24Apr2025 02:13:02.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> JAJAJAJA
+[24Apr2025 02:13:06.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Creeper]
+[24Apr2025 02:13:19.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 was shot by Mutant Skeleton
+[24Apr2025 02:13:21.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> JAJAJAJAJAJA
+[24Apr2025 02:13:26.349] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=-48, z=-26}
+[24Apr2025 02:13:34.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> JAJAJAJAJA
+[24Apr2025 02:13:36.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> JAJAJAJAJAJA
+[24Apr2025 02:13:39.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported NachoSigma04 to Gress]
