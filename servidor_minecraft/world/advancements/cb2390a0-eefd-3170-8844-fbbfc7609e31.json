@@ -279,6 +279,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-04-24 00:48:24 +0000",
       "in_better_skeleton_dungeon": "2025-04-23 06:23:04 +0000"
     },
     "done": false
@@ -1093,6 +1094,12 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-24 00:48:24 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-22 21:36:48 +0000"
@@ -1536,6 +1543,12 @@
       "has_recipe_result": "2025-04-23 20:32:57 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_desert": "2025-04-24 01:02:38 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
