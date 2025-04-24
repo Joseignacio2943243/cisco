@@ -168,6 +168,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-04-24 00:27:14 +0000"
+    },
+    "done": true
+  },
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-04-22 23:22:28 +0000"
@@ -397,6 +403,12 @@
   "vinery:fermentation_barrel": {
     "criteria": {
       "has_the_recipe": "2025-04-22 23:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-04-24 00:27:14 +0000"
     },
     "done": true
   },
@@ -693,6 +705,12 @@
       "log_spam_fixer": "2025-04-22 23:22:29 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:book/brewing/molten_heart_potion": {
+    "criteria": {
+      "has_items": "2025-04-24 00:26:58 +0000"
+    },
+    "done": true
   },
   "enigmaticlegacy:book/materials/astral_dust": {
     "criteria": {
@@ -1278,6 +1296,12 @@
     },
     "done": false
   },
+  "ars_nouveau:amethyst_golem_charm": {
+    "criteria": {
+      "has_amethyst_golem_charm": "2025-04-24 00:27:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-04-23 00:03:07 +0000"
@@ -1447,6 +1471,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-24 00:26:58 +0000"
+    },
+    "done": true
+  },
   "vinery:vinemaker_apron": {
     "criteria": {
       "has_the_recipe": "2025-04-22 23:22:28 +0000"
@@ -1567,6 +1597,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-04-24 00:26:58 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/astral_breaker": {
     "criteria": {
       "has_items": "2025-04-22 23:52:58 +0000"
@@ -1651,6 +1687,12 @@
     },
     "done": true
   },
+  "cisco_mod:cover_me_in_bright_steel": {
+    "criteria": {
+      "cover_me_in_bright_steel": "2025-04-24 00:30:37 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_yellow_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-22 23:22:28 +0000"
@@ -1673,6 +1715,12 @@
     "criteria": {
       "requirement": "2025-04-22 23:24:06 +0000",
       "log_spam_fixer": "2025-04-22 23:22:29 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/animal_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2025-04-24 00:26:58 +0000"
     },
     "done": true
   },
@@ -1805,6 +1853,12 @@
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-04-22 23:22:28 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/animal_guidebook": {
+    "criteria": {
+      "has_items": "2025-04-24 00:26:58 +0000"
     },
     "done": true
   },

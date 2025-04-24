@@ -255,3 +255,60 @@
 [24Apr2025 00:22:47.768] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
 [24Apr2025 00:22:47.768] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [24Apr2025 00:22:47.769] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Ignacio29392
+[24Apr2025 00:24:10.063] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[24Apr2025 00:24:10.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7938ms or 158 ticks behind
+[24Apr2025 00:24:47.446] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3d47eb80[id=<null>,name=abel214,properties={},legacy=false] (/127.128.122.78:54747) lost connection: Disconnected
+[24Apr2025 00:25:07.724] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[24Apr2025 00:25:07.724] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[24Apr2025 00:25:07.747] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[24Apr2025 00:25:07.945] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[24Apr2025 00:25:07.945] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[24Apr2025 00:25:07.946] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[24Apr2025 00:25:07.946] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[24Apr2025 00:25:08.165] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[24Apr2025 00:25:08.165] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[24Apr2025 00:25:08.165] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[24Apr2025 00:25:08.165] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[24Apr2025 00:25:08.223] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[24Apr2025 00:25:08.921] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[24Apr2025 00:25:08.926] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[24Apr2025 00:25:08.926] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[24Apr2025 00:25:09.001] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@51136afb
+[24Apr2025 00:25:09.007] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NachoSigma04[/127.121.235.163:49951] logged in with entity id 96129 at (100.09161519848037, 83.0, 1675.6964825066925)
+[24Apr2025 00:25:09.042] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to NachoSigma04
+[24Apr2025 00:25:09.042] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to NachoSigma04
+[24Apr2025 00:25:09.042] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to NachoSigma04
+[24Apr2025 00:25:09.042] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to NachoSigma04
+[24Apr2025 00:25:09.043] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to NachoSigma04
+[24Apr2025 00:25:09.045] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to NachoSigma04
+[24Apr2025 00:25:09.045] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to NachoSigma04
+[24Apr2025 00:25:09.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 joined the game
+[24Apr2025 00:25:09.185] [Server thread/INFO] [Jade/]: Syncing config to NachoSigma04 (47b98972-3764-347e-bfdf-6cb2becefeb4)
+[24Apr2025 00:25:09.262] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to NachoSigma04...
+[24Apr2025 00:25:09.263] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[24Apr2025 00:25:09.263] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[24Apr2025 00:25:09.263] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to NachoSigma04
+[24Apr2025 00:25:10.053] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[24Apr2025 00:25:10.053] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 00:25:10.053] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[24Apr2025 00:25:10.053] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 00:26:31.903] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[24Apr2025 00:26:31.903] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[24Apr2025 00:26:31.903] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 00:26:55.602] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[24Apr2025 00:26:55.603] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 00:26:55.603] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[24Apr2025 00:26:55.603] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 00:26:58.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 has made the advancement [Into Fire]
+[24Apr2025 00:26:58.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 has made the advancement [Local Librarian]
+[24Apr2025 00:27:14.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 has made the advancement [Hidden in the Depths]
+[24Apr2025 00:27:14.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 has made the advancement [Spooky Scary Skeleton]
+[24Apr2025 00:27:14.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 has made the advancement [Purple Amethyst Eater]
+[24Apr2025 00:27:39.652] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[24Apr2025 00:27:39.652] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 00:27:39.652] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[24Apr2025 00:27:39.652] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 00:29:00.751] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[24Apr2025 00:29:00.752] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[24Apr2025 00:29:00.752] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 00:30:37.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 has reached the goal [Cover Me In Bright Steel]
