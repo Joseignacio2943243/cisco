@@ -4007,3 +4007,39 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [24Apr2025 05:55:19.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> arre
 [24Apr2025 05:55:35.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> ke
 [24Apr2025 05:58:25.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> ocupo mas piedra gres
+[24Apr2025 05:59:21.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Invisicreeper]
+[24Apr2025 05:59:26.349] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[24Apr2025 05:59:26.349] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 05:59:26.349] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[24Apr2025 05:59:26.349] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[24Apr2025 05:59:31.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Invisicreeper]
+[24Apr2025 05:59:35.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Invisicreeper]
+[24Apr2025 05:59:45.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Invisicreeper]
+[24Apr2025 06:00:16.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Invisicreeper]
+[24Apr2025 06:00:29.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Invisicreeper]
+[24Apr2025 06:00:37.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Invisicreeper]
+[24Apr2025 06:00:46.744] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[24Apr2025 06:00:46.744] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 06:00:46.744] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[24Apr2025 06:00:46.745] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 06:01:21.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set the weather to rain & thunder]
+[24Apr2025 06:01:35.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> y la cama
+[24Apr2025 06:01:36.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Lightning Bolt]
+[24Apr2025 06:01:46.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Lightning Bolt]
+[24Apr2025 06:02:12.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 was doomed to fall by Invisicreeper
+[24Apr2025 06:02:20.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> vato de donde madres salen
+[24Apr2025 06:02:32.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> jose tp
+[24Apr2025 06:04:06.301] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[24Apr2025 06:04:22.443] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[24Apr2025 06:06:18.450] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting shadows/gateways/entity/GatewayEntity$FailureReason
+[24Apr2025 06:06:26.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> qe es eso gres
+[24Apr2025 06:06:37.801] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[24Apr2025 06:06:37.801] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[24Apr2025 06:06:37.801] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 06:06:40.653] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stal111/forbidden_arcanus/common/entity/lostsoul/LostSoul$Variant
+[24Apr2025 06:07:07.251] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[24Apr2025 06:07:07.251] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 06:07:07.252] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[24Apr2025 06:07:07.252] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[24Apr2025 06:08:06.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> has otro
+[24Apr2025 06:08:08.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> W
