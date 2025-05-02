@@ -78,6 +78,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/earth_heart": {
+    "criteria": {
+      "has_items": "2025-05-02 22:51:48 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2025-05-02 07:10:22 +0000"
@@ -324,6 +330,7 @@
   },
   "enigmaticlegacy:book/soul_loss": {
     "criteria": {
+      "incompletable": "2025-05-02 22:50:33 +0000",
       "is_cursed_one": "2025-05-02 22:10:33 +0000"
     },
     "done": true
@@ -379,6 +386,7 @@
   },
   "enigmaticlegacy:recipes/generic/twisted_mirror": {
     "criteria": {
+      "has_parent_recipe": "2025-05-02 22:51:48 +0000",
       "is_cursed_one": "2025-05-02 22:10:33 +0000"
     },
     "done": false
@@ -405,6 +413,12 @@
   "enigmaticlegacy:recipes/generic/hunter_guidebook": {
     "criteria": {
       "has_items": "2025-05-02 22:37:27 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/infinimeal": {
+    "criteria": {
+      "has_items": "2025-05-02 22:51:48 +0000"
     },
     "done": true
   },
@@ -504,6 +518,12 @@
       "is_cursed_one": "2025-05-02 22:10:33 +0000"
     },
     "done": false
+  },
+  "undead_unleashed:shards_of_the_past": {
+    "criteria": {
+      "shards_of_the_past": "2025-05-02 22:55:57 +0000"
+    },
+    "done": true
   },
   "morevillagers:root": {
     "criteria": {
@@ -646,7 +666,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-02 22:51:30 +0000",
       "minecraft:spider": "2025-05-02 22:33:45 +0000",
+      "minecraft:creeper": "2025-05-02 22:56:20 +0000",
       "minecraft:zombie": "2025-05-02 22:10:34 +0000"
     },
     "done": false
@@ -789,6 +811,12 @@
     },
     "done": false
   },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2025-05-02 22:51:40 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-05-02 07:10:22 +0000"
@@ -835,6 +863,12 @@
     "criteria": {
       "has_parent_recipe": "2025-05-02 07:10:22 +0000",
       "is_cursed_one": "2025-05-02 22:10:33 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/xp_scroll": {
+    "criteria": {
+      "has_items": "2025-05-02 22:52:21 +0000"
     },
     "done": false
   },
@@ -924,9 +958,10 @@
   },
   "enigmaticlegacy:recipes/generic/twisted_heart": {
     "criteria": {
+      "has_items": "2025-05-02 22:51:48 +0000",
       "is_cursed_one": "2025-05-02 22:10:33 +0000"
     },
-    "done": false
+    "done": true
   },
   "aquamirae:adventure/root": {
     "criteria": {
@@ -972,6 +1007,7 @@
   },
   "enigmaticlegacy:recipes/generic/cursed_stone": {
     "criteria": {
+      "has_parent_recipe": "2025-05-02 22:51:48 +0000",
       "is_cursed_one": "2025-05-02 22:10:33 +0000"
     },
     "done": false
@@ -1034,6 +1070,12 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-05-02 07:10:23 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-05-02 22:51:30 +0000"
     },
     "done": true
   },
@@ -1169,6 +1211,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/twisted_heart": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 22:51:48 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-05-02 07:10:22 +0000"
@@ -1298,6 +1346,12 @@
     },
     "done": false
   },
+  "majruszsaccessories:miner_guide": {
+    "criteria": {
+      "picked_up_accessory": "2025-05-02 22:49:31 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-05-02 07:10:22 +0000"
@@ -1340,6 +1394,12 @@
   "byg:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-05-02 22:26:53 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/infinimeal": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 22:51:48 +0000"
     },
     "done": true
   },
@@ -1544,9 +1604,21 @@
     },
     "done": true
   },
+  "enigmaticaddons:book/accessories/forger_gem": {
+    "criteria": {
+      "has_items": "2025-05-02 22:51:39 +0000"
+    },
+    "done": true
+  },
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-05-02 22:38:33 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "old_eye": "2025-05-02 22:51:40 +0000"
     },
     "done": true
   },
@@ -1643,6 +1715,12 @@
   "meetyourfight:main/root": {
     "criteria": {
       "killed_by_something": "2025-05-02 22:10:25 +0000"
+    },
+    "done": true
+  },
+  "majruszsaccessories:adventurer_kit": {
+    "criteria": {
+      "picked_up_accessory": "2025-05-02 22:48:50 +0000"
     },
     "done": true
   },

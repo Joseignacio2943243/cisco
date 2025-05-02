@@ -3963,3 +3963,14 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [02May2025 22:51:40.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Fortune Seeker]
 [02May2025 22:51:40.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [The Beginning of An Adventure]
 [02May2025 22:52:10.149] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/ICollateralMover$MoveResult
+[02May2025 22:53:19.549] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/18368, l='ServerLevel[world]', x=630.50, y=79.00, z=326.50]
+[02May2025 22:54:21.000] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/18834, l='ServerLevel[world]', x=655.50, y=70.00, z=207.50]
+[02May2025 22:55:41.109] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[02May2025 22:55:44.247] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/19258, l='ServerLevel[world]', x=430.50, y=80.00, z=165.50]
+[02May2025 22:55:57.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Shards of the Past]
+[02May2025 22:57:46.950] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/20020, l='ServerLevel[world]', x=595.50, y=71.00, z=266.50]
+[02May2025 22:59:39.449] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/20798, l='ServerLevel[world]', x=465.50, y=72.00, z=413.50]
+[02May2025 23:00:12.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has made the advancement [Spooky Scary Skeleton]
+[02May2025 23:00:30.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> PINCHES LEPISMAS
+[02May2025 23:01:09.230] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CursedArmor['CiscoBane'/21256, l='ServerLevel[world]', x=466.01, y=14.69, z=309.72] died: CiscoBane was slain by Gress
+[02May2025 23:01:56.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Elemental Might]
