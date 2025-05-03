@@ -4997,3 +4997,31 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [03May2025 23:28:30.945] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/108274, l='ServerLevel[world]', x=222.50, y=71.00, z=1637.50]
 [03May2025 23:30:36.294] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/109166, l='ServerLevel[world]', x=118.50, y=71.00, z=1441.50]
 [03May2025 23:30:38.993] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/109170, l='ServerLevel[world]', x=126.50, y=72.00, z=1454.50]
+[03May2025 23:30:59.593] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/109256, l='ServerLevel[world]', x=165.50, y=74.00, z=1458.50]
+[03May2025 23:31:17.843] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/109302, l='ServerLevel[world]', x=49.50, y=74.00, z=1560.50]
+[03May2025 23:31:40.094] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/109352, l='ServerLevel[world]', x=205.50, y=72.00, z=1469.50]
+[03May2025 23:31:41.502] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03May2025 23:31:41.503] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03May2025 23:31:46.249] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[03May2025 23:31:46.249] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03May2025 23:31:46.249] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03May2025 23:31:46.249] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03May2025 23:31:59.343] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/109873, l='ServerLevel[world]', x=47.50, y=74.00, z=1560.50]
+[03May2025 23:32:02.895] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/109894, l='ServerLevel[world]', x=198.50, y=69.00, z=1623.50]
+[03May2025 23:34:28.202] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[03May2025 23:34:28.202] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03May2025 23:34:28.202] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03May2025 23:34:28.202] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03May2025 23:34:46.466] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[03May2025 23:34:46.466] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[03May2025 23:34:46.466] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03May2025 23:34:52.644] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/112726, l='ServerLevel[world]', x=-332.50, y=73.00, z=1403.50]
+[03May2025 23:35:44.001] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[03May2025 23:35:44.002] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[03May2025 23:35:44.002] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03May2025 23:36:58.243] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/113085, l='ServerLevel[world]', x=-327.50, y=75.00, z=1379.50]
+[03May2025 23:37:05.245] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/113098, l='ServerLevel[world]', x=-361.50, y=73.00, z=1447.50]
+[03May2025 23:37:20.795] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/113255, l='ServerLevel[world]', x=-322.50, y=70.00, z=1351.50]
+[03May2025 23:37:21.903] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[03May2025 23:37:21.903] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03May2025 23:40:18.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has reached the goal [What a Dream!]

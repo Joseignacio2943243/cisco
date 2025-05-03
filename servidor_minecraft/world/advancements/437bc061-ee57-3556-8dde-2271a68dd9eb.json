@@ -102,6 +102,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-05-03 23:31:49 +0000"
+    },
+    "done": true
+  },
   "vinery:big_table": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
@@ -1580,12 +1586,15 @@
       "byg:allium_fields": "2025-05-02 23:14:42 +0000",
       "byg:coconino_meadow": "2025-05-02 22:30:36 +0000",
       "byg:prairie": "2025-05-02 22:44:26 +0000",
+      "byg:rainbow_beach": "2025-05-03 23:34:27 +0000",
       "byg:orchard": "2025-05-02 23:53:54 +0000",
+      "byg:fragment_forest": "2025-05-03 23:34:31 +0000",
       "byg:quartz_desert": "2025-05-03 23:10:06 +0000",
       "byg:warped_desert": "2025-05-03 22:35:46 +0000",
       "byg:magma_wastes": "2025-05-03 23:12:18 +0000",
       "byg:wailing_garth": "2025-05-03 22:36:22 +0000",
       "byg:crag_gardens": "2025-05-03 00:21:51 +0000",
+      "byg:forgotten_forest": "2025-05-03 23:34:39 +0000",
       "byg:crimson_gardens": "2025-05-03 23:17:24 +0000",
       "byg:amaranth_fields": "2025-05-03 20:05:49 +0000",
       "byg:weeping_mire": "2025-05-03 23:12:01 +0000",
@@ -1637,6 +1646,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "atmospheric:rainforest_basin": "2025-05-03 23:32:13 +0000",
       "atmospheric:rainforest": "2025-05-03 00:21:50 +0000",
       "minecraft:sunflower_plains": "2025-05-03 00:05:23 +0000",
       "minecraft:savanna_plateau": "2025-05-03 00:23:34 +0000",
@@ -1649,6 +1659,7 @@
       "minecraft:forest": "2025-05-02 23:53:32 +0000",
       "minecraft:jungle": "2025-05-03 00:21:54 +0000",
       "minecraft:ocean": "2025-05-02 23:55:03 +0000",
+      "atmospheric:sparse_rainforest_basin": "2025-05-03 23:34:09 +0000",
       "minecraft:windswept_savanna": "2025-05-02 23:48:50 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-03 00:21:43 +0000",
       "atmospheric:laurel_forest": "2025-05-03 00:21:46 +0000",
