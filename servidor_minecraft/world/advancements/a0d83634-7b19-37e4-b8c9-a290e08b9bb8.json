@@ -564,6 +564,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/blazing_core": {
+    "criteria": {
+      "has_items": "2025-05-03 05:44:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-05-02 22:09:52 +0000"
@@ -881,7 +887,8 @@
   },
   "enigmaticlegacy:main/all_spellstones": {
     "criteria": {
-      "spellstone1": "2025-05-02 23:25:10 +0000"
+      "spellstone1": "2025-05-02 23:25:10 +0000",
+      "spellstone4": "2025-05-03 05:44:23 +0000"
     },
     "done": false
   },
@@ -1583,7 +1590,8 @@
   },
   "enigmaticlegacy:book/relics/the_cube": {
     "criteria": {
-      "has_item_1": "2025-05-02 23:25:10 +0000"
+      "has_item_1": "2025-05-02 23:25:10 +0000",
+      "has_item_4": "2025-05-03 05:44:23 +0000"
     },
     "done": false
   },

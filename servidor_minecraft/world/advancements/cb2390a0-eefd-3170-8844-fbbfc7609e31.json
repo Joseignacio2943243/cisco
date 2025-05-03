@@ -622,10 +622,12 @@
       "minecraft:pillager": "2025-05-02 23:40:43 +0000",
       "minecraft:skeleton": "2025-05-03 05:27:48 +0000",
       "minecraft:zoglin": "2025-05-02 23:57:45 +0000",
+      "minecraft:hoglin": "2025-05-03 05:42:09 +0000",
       "minecraft:vindicator": "2025-05-03 05:20:01 +0000",
       "minecraft:spider": "2025-05-03 05:25:46 +0000",
       "minecraft:evoker": "2025-05-03 05:19:07 +0000",
       "minecraft:witch": "2025-05-02 23:49:43 +0000",
+      "minecraft:wither_skeleton": "2025-05-03 05:43:06 +0000",
       "minecraft:husk": "2025-05-03 05:30:47 +0000",
       "minecraft:zombie": "2025-05-02 23:20:36 +0000",
       "minecraft:drowned": "2025-05-02 23:24:31 +0000",
@@ -1361,6 +1363,12 @@
       "has_the_recipe": "2025-05-02 23:10:07 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "target": "2025-05-03 05:46:03 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
