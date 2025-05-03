@@ -120,6 +120,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-05-03 05:29:58 +0000"
+    },
+    "done": true
+  },
   "vinery:big_table": {
     "criteria": {
       "has_the_recipe": "2025-05-02 07:10:22 +0000"
@@ -207,6 +213,12 @@
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-05-02 07:10:23 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/bonus_wool_recipes": {
+    "criteria": {
+      "has_white_wool": "2025-05-03 05:30:05 +0000"
     },
     "done": true
   },
@@ -423,6 +435,12 @@
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-05-02 07:10:22 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/accessories/hell_blade_charm": {
+    "criteria": {
+      "has_items": "2025-05-03 05:30:49 +0000"
     },
     "done": true
   },
@@ -645,6 +663,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-05-02 22:26:53 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:storms_edge": {
+    "criteria": {
+      "requirement": "2025-05-03 05:30:40 +0000"
     },
     "done": true
   },
@@ -1309,6 +1333,18 @@
     },
     "done": true
   },
+  "simplyswords:twisted_blade": {
+    "criteria": {
+      "requirement": "2025-05-03 05:24:47 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-05-03 05:27:52 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-05-02 07:10:22 +0000"
@@ -1478,6 +1514,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2025-05-03 05:24:47 +0000"
+    },
+    "done": true
+  },
   "vinery:acacia_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-05-02 07:10:22 +0000"
@@ -1596,6 +1638,7 @@
       "byg:orchard": "2025-05-02 23:32:12 +0000",
       "byg:red_oak_forest": "2025-05-02 23:57:43 +0000",
       "byg:fragment_forest": "2025-05-02 23:58:35 +0000",
+      "byg:firecracker_shrubland": "2025-05-03 05:28:46 +0000",
       "byg:weeping_witch_forest": "2025-05-03 00:03:59 +0000",
       "byg:araucaria_savanna": "2025-05-03 00:15:50 +0000",
       "byg:crag_gardens": "2025-05-03 00:13:04 +0000",
@@ -1658,6 +1701,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "atmospheric:rainforest_basin": "2025-05-03 05:18:28 +0000",
       "atmospheric:rainforest": "2025-05-02 23:58:31 +0000",
       "minecraft:sunflower_plains": "2025-05-02 23:34:15 +0000",
       "minecraft:savanna_plateau": "2025-05-03 00:23:31 +0000",
@@ -1673,6 +1717,7 @@
       "minecraft:jungle": "2025-05-02 23:54:07 +0000",
       "atmospheric:sparse_rainforest_basin": "2025-05-02 23:59:32 +0000",
       "minecraft:windswept_savanna": "2025-05-02 23:46:34 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-03 05:18:38 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-02 23:56:44 +0000",
       "atmospheric:laurel_forest": "2025-05-03 00:00:02 +0000",
       "minecraft:savanna": "2025-05-02 23:54:00 +0000",
@@ -1752,6 +1797,12 @@
       "requirement": "2025-05-02 07:10:23 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_land_warm": "2025-05-03 05:21:07 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:book/materials/ender_rod": {
     "criteria": {
@@ -1929,6 +1980,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-05-03 05:30:05 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-05-02 07:10:22 +0000"
@@ -1998,6 +2055,12 @@
   "enigmaticlegacy:book/brewing/advanced_brewing": {
     "criteria": {
       "has_items": "2025-05-02 23:13:59 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/void_stone": {
+    "criteria": {
+      "has_items": "2025-05-03 05:30:44 +0000"
     },
     "done": true
   },
@@ -2106,6 +2169,12 @@
   "majruszsaccessories:adventurer_kit": {
     "criteria": {
       "picked_up_accessory": "2025-05-02 22:48:50 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2025-05-03 05:24:03 +0000"
     },
     "done": true
   },

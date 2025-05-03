@@ -3723,3 +3723,182 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [03May2025 05:12:42.202] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stal111/forbidden_arcanus/common/entity/lostsoul/LostSoul$Variant
 [03May2025 05:12:42.373] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 0 recipes!
 [03May2025 05:13:03.458] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[03May2025 05:16:33.851] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/content/mobs/entity/Stoneling$StonelingVariant
+[03May2025 05:16:52.813] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
+[03May2025 05:16:54.568] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[03May2025 05:16:58.077] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/ars_nouveau/geckolib3/core/PlayState
+[03May2025 05:16:58.399] [pool-11-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[03May2025 05:16:58.609] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[03May2025 05:16:58.812] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/PathFindingStatus
+[03May2025 05:16:58.813] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/AbstractAdvancedPathNavigate$RestrictionType
+[03May2025 05:16:58.816] [AN stolen Minecolonies Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/SurfaceType
+[03May2025 05:17:11.162] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[03May2025 05:17:11.165] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[03May2025 05:17:11.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> asdasd
+[03May2025 05:17:17.970] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[03May2025 05:17:31.175] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[03May2025 05:17:31.235] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[03May2025 05:17:31.235] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[03May2025 05:17:31.293] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[03May2025 05:17:31.351] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[03May2025 05:17:31.412] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[03May2025 05:17:31.466] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[03May2025 05:17:31.524] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[03May2025 05:17:31.583] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[03May2025 05:17:31.583] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[03May2025 05:17:31.642] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[03May2025 05:17:31.698] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[03May2025 05:17:32.798] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[03May2025 05:17:32.798] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md2c7463$lambda$onPiglinBarter$0$2 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[03May2025 05:17:33.552] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[03May2025 05:17:33.592] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[03May2025 05:17:33.593] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[03May2025 05:17:33.674] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5476efe9
+[03May2025 05:17:33.690] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ignacio29392[/127.218.48.122:54067] logged in with entity id 2813 at (-972.1768141190851, 82.0, 1240.1156574869435)
+[03May2025 05:17:33.741] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ignacio29392
+[03May2025 05:17:33.742] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ignacio29392
+[03May2025 05:17:33.742] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ignacio29392
+[03May2025 05:17:33.742] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ignacio29392
+[03May2025 05:17:33.744] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ignacio29392
+[03May2025 05:17:33.745] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ignacio29392
+[03May2025 05:17:33.745] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ignacio29392
+[03May2025 05:17:33.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 joined the game
+[03May2025 05:17:33.862] [Server thread/INFO] [Jade/]: Syncing config to Ignacio29392 (cb2390a0-eefd-3170-8844-fbbfc7609e31)
+[03May2025 05:17:33.961] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Ignacio29392...
+[03May2025 05:17:33.961] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[03May2025 05:17:33.962] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[03May2025 05:17:33.962] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Ignacio29392
+[03May2025 05:17:35.002] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/base/handler/SortingHandler$ItemType
+[03May2025 05:17:37.308] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[03May2025 05:18:12.582] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[03May2025 05:18:12.771] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[03May2025 05:18:20.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 has made the advancement [Campfire Song Song]
+[03May2025 05:18:21.162] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Variant
+[03May2025 05:18:21.162] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[03May2025 05:18:29.372] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[03May2025 05:18:29.587] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Mode
+[03May2025 05:18:30.005] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/TropicalFish$Pattern
+[03May2025 05:18:43.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[03May2025 05:19:05.229] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[03May2025 05:19:07.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 has made the advancement [The Beginning of An Adventure]
+[03May2025 05:19:07.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 has made the advancement [Fallen Sorcerer]
+[03May2025 05:19:12.290] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/ars_nouveau/geckolib3/core/builder/ILoopType$EDefaultLoopTypes
+[03May2025 05:19:17.919] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=35, y=-58, z=-32}
+[03May2025 05:19:18.539] [Worker-Main12/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[03May2025 05:19:22.658] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=35, y=-58, z=-32}
+[03May2025 05:19:34.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Applied effect Night Vision to Ignacio29392]
+[03May2025 05:19:43.487] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityZotzpyre from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[03May2025 05:19:43.488] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/itsmeow/whisperwoods/entity/EntityZotzpyre$SwoopingAttackGoal$MovementPhase
+[03May2025 05:19:58.257] [Worker-Main10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=-42, z=-299}
+[03May2025 05:19:59.463] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=35, y=-58, z=-32}
+[03May2025 05:20:15.170] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=35, y=-58, z=-32}
+[03May2025 05:20:19.798] [Worker-Main35/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/justinwon777/humancompanions/entity/ai/ArbalistRangedCrossbowAttackGoal$CrossbowState
+[03May2025 05:20:21.905] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[03May2025 05:20:59.196] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1157, y=73, z=955} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
+[03May2025 05:20:59.197] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-1157, y=73, z=955}
+[03May2025 05:21:02.455] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting alexthw/ars_elemental/common/entity/MermaidEntity$Variants
+[03May2025 05:21:06.628] [Worker-Main35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[03May2025 05:21:10.665] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/aqutheseal/celestisynth/api/animation/player/AnimationManager$AnimationsList
+[03May2025 05:21:10.667] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[03May2025 05:21:10.667] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[03May2025 05:21:10.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 was killed by Zombie using magic
+[03May2025 05:21:15.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Gress]
+[03May2025 05:21:55.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 was slain by Vindicator
+[03May2025 05:21:55.411] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03May2025 05:21:55.411] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 9 is dual wielding: false
+[03May2025 05:21:55.412] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[03May2025 05:21:55.412] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[03May2025 05:21:55.412] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[03May2025 05:21:58.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Gress]
+[03May2025 05:22:09.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 was slain by Vindicator
+[03May2025 05:22:12.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Gress]
+[03May2025 05:22:50.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 was killed by Zombie using magic
+[03May2025 05:22:53.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Gress]
+[03May2025 05:22:59.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Gress]
+[03May2025 05:23:07.572] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/event/SimpleHarvestEvent$Source
+[03May2025 05:24:03.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Cover Me In Emeralds]
+[03May2025 05:24:09.962] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[03May2025 05:24:47.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has completed the challenge [Titan-Forged]
+[03May2025 05:24:47.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Getting it Twisted]
+[03May2025 05:25:17.931] [Worker-Main10/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[03May2025 05:25:18.393] [Worker-Main10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=198, y=48, z=187}
+[03May2025 05:25:38.776] [Worker-Main11/WARN] [ModernFix/]: The namespace awesomedungeonnether contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[03May2025 05:25:41.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 has made the advancement [Creepie Crawly]
+[03May2025 05:25:57.976] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1078, y=69, z=1829} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[03May2025 05:25:57.977] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=-1078, y=69, z=1829}
+[03May2025 05:25:57.977] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1076, y=69, z=1829} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[03May2025 05:25:57.977] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=-1076, y=69, z=1829}
+[03May2025 05:25:57.977] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1077, y=70, z=1829} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=true] at location
+[03May2025 05:25:57.977] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=-1077, y=70, z=1829}
+[03May2025 05:25:57.977] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1076, y=70, z=1829} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
+[03May2025 05:25:57.977] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=-1076, y=70, z=1829}
+[03May2025 05:25:57.978] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1078, y=70, z=1829} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
+[03May2025 05:25:57.978] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-1078, y=70, z=1829}
+[03May2025 05:26:08.435] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[03May2025 05:26:13.159] [Worker-Main10/WARN] [ModernFix/]: The namespace minecolonies contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[03May2025 05:26:51.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 has made the advancement [Stone Age]
+[03May2025 05:27:01.727] [Worker-Main35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[03May2025 05:27:06.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
+[03May2025 05:27:48.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 has made the advancement [Shards of the Past]
+[03May2025 05:27:52.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Tools of the Trade]
+[03May2025 05:28:09.485] [Worker-Main12/WARN] [ModernFix/]: The namespace dungeons_enhanced contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[03May2025 05:28:15.647] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1387, y=67, z=1029} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
+[03May2025 05:28:15.647] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=-1387, y=67, z=1029}
+[03May2025 05:28:30.386] [Worker-Main12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03May2025 05:28:30.386] [Worker-Main12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03May2025 05:28:30.386] [Worker-Main12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03May2025 05:28:30.386] [Worker-Main12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03May2025 05:28:30.386] [Worker-Main12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03May2025 05:28:30.386] [Worker-Main12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03May2025 05:28:30.386] [Worker-Main12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03May2025 05:29:10.081] [Worker-Main12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03May2025 05:29:10.081] [Worker-Main12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03May2025 05:29:10.081] [Worker-Main12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03May2025 05:29:10.081] [Worker-Main12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03May2025 05:29:11.359] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/network/PacketANEffect$EffectType
+[03May2025 05:29:29.194] [Worker-Main11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03May2025 05:29:29.195] [Worker-Main11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03May2025 05:29:29.195] [Worker-Main11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03May2025 05:29:29.195] [Worker-Main11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03May2025 05:29:55.067] [Worker-Main10/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: -1690 109 936
+[03May2025 05:29:56.210] [Worker-Main11/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[03May2025 05:30:00.331] [Worker-Main35/INFO] [com.teampotato.redirector.Redirector/]: Redirecting potionstudios/byg/common/world/math/noise/fastnoise/FastNoise$Interp
+[03May2025 05:30:00.332] [Worker-Main35/INFO] [com.teampotato.redirector.Redirector/]: Redirecting potionstudios/byg/common/world/math/noise/fastnoise/FastNoise$NoiseType
+[03May2025 05:30:00.333] [Worker-Main35/INFO] [com.teampotato.redirector.Redirector/]: Redirecting potionstudios/byg/common/world/math/noise/fastnoise/FastNoise$FractalType
+[03May2025 05:30:00.333] [Worker-Main35/INFO] [com.teampotato.redirector.Redirector/]: Redirecting potionstudios/byg/common/world/math/noise/fastnoise/FastNoise$CellularDistanceFunction
+[03May2025 05:30:00.334] [Worker-Main35/INFO] [com.teampotato.redirector.Redirector/]: Redirecting potionstudios/byg/common/world/math/noise/fastnoise/FastNoise$CellularReturnType
+[03May2025 05:30:00.881] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[03May2025 05:30:07.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Gress]
+[03May2025 05:30:10.231] [Worker-Main12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=22, y=-11, z=-129}
+[03May2025 05:30:10.260] [Worker-Main10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=11, y=-12, z=-131}
+[03May2025 05:30:10.260] [Worker-Main10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=21, y=-11, z=-129}
+[03May2025 05:30:11.065] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1443, y=-43, z=766} but found not block entity block Block{iter_rpg:crumbling_hivestone} at location
+[03May2025 05:30:11.065] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{iter_rpg:crumbling_hivestone} but failed at location BlockPos{x=-1443, y=-43, z=766}
+[03May2025 05:30:11.065] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1442, y=-43, z=765} but found not block entity block Block{iter_rpg:cracked_hivestone} at location
+[03May2025 05:30:11.065] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{iter_rpg:cracked_hivestone} but failed at location BlockPos{x=-1442, y=-43, z=765}
+[03May2025 05:30:40.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Lightning Strikes Twice]
+[03May2025 05:31:11.854] [Worker-Main35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=11, y=-12, z=-116}
+[03May2025 05:31:11.867] [Worker-Main35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=22, y=-11, z=-115}
+[03May2025 05:32:00.883] [Worker-Main35/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03May2025 05:32:00.883] [Worker-Main35/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03May2025 05:32:00.883] [Worker-Main35/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03May2025 05:32:00.883] [Worker-Main35/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03May2025 05:32:06.311] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1381, y=67, z=741} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
+[03May2025 05:32:06.311] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-1381, y=67, z=741}
+[03May2025 05:32:15.647] [Worker-Main11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=201, y=51, z=176}
+[03May2025 05:35:01.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress withered away whilst fighting Wither Skeleton
+[03May2025 05:35:01.970] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Gress at X: -1514.5560687385912, Y: 180.36513126312084, Z: 949.1326437870367
+[03May2025 05:35:13.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to Ignacio29392]
+[03May2025 05:35:18.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Hoglin
+[03May2025 05:35:18.612] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Gress at X: -1502.699999988079, Y: 173.74383969911798, Z: 942.3000000119209
+[03May2025 05:35:21.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to Ignacio29392]
+[03May2025 05:35:37.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Hoglin
+[03May2025 05:35:37.415] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Gress at X: -1523.9376504731783, Y: 174.68729063548182, Z: 942.8788916113434
+[03May2025 05:35:50.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to Ignacio29392]
+[03May2025 05:36:11.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was shot by Wither Skeleton
+[03May2025 05:36:11.314] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Gress at X: -1510.300000011921, Y: 179.0, Z: 949.6999999880791
+[03May2025 05:36:23.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to Ignacio29392]
+[03May2025 05:36:34.061] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Gress picking up: PermanentItemEntity['Soul Crystal'/27030, l='ServerLevel[world]', x=-1510.30, y=180.50, z=949.70]
+[03May2025 05:36:34.061] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/27030, l='ServerLevel[world]', x=-1510.30, y=180.50, z=949.70]
+[03May2025 05:36:37.660] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Gress picking up: PermanentItemEntity['Soul Crystal'/24995, l='ServerLevel[world]', x=-1514.56, y=181.87, z=949.13]
+[03May2025 05:36:37.660] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/24995, l='ServerLevel[world]', x=-1514.56, y=181.87, z=949.13]
