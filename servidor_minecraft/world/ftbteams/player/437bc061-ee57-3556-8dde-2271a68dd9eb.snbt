@@ -2,9 +2,7 @@
 	id: "437bc061-ee57-3556-8dde-2271a68dd9eb"
 	type: "player"
 	player_name: "abel214"
-	ranks: {
-		437bc061-ee57-3556-8dde-2271a68dd9eb: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "abel214"
 		"ftbteams:description": ""
