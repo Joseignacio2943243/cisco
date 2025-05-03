@@ -5025,3 +5025,8 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [03May2025 23:37:21.903] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
 [03May2025 23:37:21.903] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
 [03May2025 23:40:18.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has reached the goal [What a Dream!]
+[03May2025 23:42:33.247] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/113463, l='ServerLevel[world]', x=18.48, y=82.00, z=1148.35] died, message: 'Farmer hit the ground too hard'
+[03May2025 23:43:29.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has completed the challenge [Lawbringer]
+[03May2025 23:44:24.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abel214 lost connection: Disconnected
+[03May2025 23:44:24.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 left the game
+[03May2025 23:44:24.100] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
