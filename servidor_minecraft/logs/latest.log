@@ -3641,3 +3641,5 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [03May2025 03:08:38.374] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundSeenAdvancementsPacket$Action
 [03May2025 03:08:38.376] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/CommandBlockEntity$Mode
 [03May2025 03:08:38.379] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/StructureBlockEntity$UpdateType
+[03May2025 03:16:38.076] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[03May2025 03:16:38.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ez
