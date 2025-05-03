@@ -4722,3 +4722,5 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [03May2025 22:53:14.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Supersolid Wizard]
 [03May2025 22:56:36.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress lost connection: Timed out
 [03May2025 22:56:36.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress left the game
+[03May2025 23:08:19.005] [Worker-Main510/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-88, y=-6, z=-28}
+[03May2025 23:08:19.005] [Worker-Main510/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-92, y=-7, z=-28}
