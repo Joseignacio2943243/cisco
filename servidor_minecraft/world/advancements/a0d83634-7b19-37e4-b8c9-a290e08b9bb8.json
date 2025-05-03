@@ -222,6 +222,12 @@
     },
     "done": true
   },
+  "simplyswords:sword_on_a_stick": {
+    "criteria": {
+      "requirement": "2025-05-03 21:28:50 +0000"
+    },
+    "done": true
+  },
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-05-02 07:10:23 +0000"
@@ -243,6 +249,12 @@
   "enigmaticlegacy:book/accessories/super_magnet_ring": {
     "criteria": {
       "has_the_recipe": "2025-05-02 23:03:50 +0000"
+    },
+    "done": true
+  },
+  "unusualend:we_have_a_problem": {
+    "criteria": {
+      "we_have_a_problem": "2025-05-03 21:32:55 +0000"
     },
     "done": true
   },
@@ -283,6 +295,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-05-03 21:20:23 +0000"
+    },
+    "done": false
+  },
   "enigmaticaddons:book/accessories/adventure_charm": {
     "criteria": {
       "has_the_recipe": "2025-05-02 07:10:22 +0000"
@@ -292,6 +310,12 @@
   "apotheosis:affix/root": {
     "criteria": {
       "sword": "2025-05-02 07:10:23 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-05-03 21:22:52 +0000"
     },
     "done": true
   },
@@ -1298,6 +1322,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-05-03 21:16:26 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/cursed_stone": {
     "criteria": {
       "has_parent_recipe": "2025-05-02 22:51:48 +0000",
@@ -1350,6 +1380,12 @@
   "enigmaticlegacy:recipes/generic/tome_uncrafting/corrupted_tome": {
     "criteria": {
       "has_items": "2025-05-02 23:15:44 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-05-03 21:20:23 +0000"
     },
     "done": true
   },

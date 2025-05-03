@@ -108,6 +108,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/etherium_ore": {
+    "criteria": {
+      "generic_revelation": "2025-05-03 21:39:02 +0000"
+    },
+    "done": true
+  },
   "vinery:cherry_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
@@ -218,6 +224,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-05-03 21:18:39 +0000",
       "in_better_spider_dungeon": "2025-05-03 00:02:09 +0000"
     },
     "done": false
@@ -682,6 +689,7 @@
       "minecraft:skeleton": "2025-05-02 22:44:56 +0000",
       "minecraft:vindicator": "2025-05-02 23:52:26 +0000",
       "minecraft:spider": "2025-05-02 23:24:35 +0000",
+      "minecraft:creeper": "2025-05-03 21:15:30 +0000",
       "minecraft:evoker": "2025-05-03 20:09:06 +0000",
       "minecraft:witch": "2025-05-02 23:13:36 +0000",
       "minecraft:cave_spider": "2025-05-03 20:43:58 +0000",
@@ -740,6 +748,12 @@
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:main/all_spellstones": {
+    "criteria": {
+      "spellstone1": "2025-05-03 21:23:36 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_orange_from_white": {
     "criteria": {
@@ -1089,6 +1103,12 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-05-03 21:18:39 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
@@ -1156,6 +1176,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/magnet_ring": {
+    "criteria": {
+      "spellstone": "2025-05-03 21:27:30 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/super_magnet_ring": {
     "criteria": {
       "has_parent_recipe": "2025-05-02 22:33:03 +0000"
@@ -1201,6 +1227,12 @@
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2025-05-03 21:16:04 +0000"
     },
     "done": true
   },
@@ -1343,6 +1375,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/the_cube": {
+    "criteria": {
+      "has_item_1": "2025-05-03 21:23:36 +0000"
+    },
+    "done": false
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-05-02 22:30:36 +0000"
@@ -1465,6 +1503,12 @@
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2025-05-03 21:45:11 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
@@ -1637,6 +1681,12 @@
     },
     "done": true
   },
+  "enigmaticaddons:book/accessories/forger_gem": {
+    "criteria": {
+      "has_items": "2025-05-03 21:39:20 +0000"
+    },
+    "done": true
+  },
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-05-02 23:34:31 +0000"
@@ -1646,6 +1696,12 @@
   "totw_modded:regular_tower": {
     "criteria": {
       "regular": "2025-05-02 23:50:31 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "rogue_eye": "2025-05-03 21:16:04 +0000"
     },
     "done": true
   },
@@ -1676,6 +1732,12 @@
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-05-03 00:01:28 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/golem_heart": {
+    "criteria": {
+      "has_items": "2025-05-03 21:23:36 +0000"
     },
     "done": true
   },
