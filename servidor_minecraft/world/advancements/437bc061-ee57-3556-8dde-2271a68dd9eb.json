@@ -344,6 +344,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/tome_uncrafting/tattered_tome": {
+    "criteria": {
+      "has_items": "2025-05-03 20:17:17 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
@@ -580,6 +586,12 @@
     },
     "done": false
   },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-05-03 20:30:37 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
@@ -652,9 +664,12 @@
       "minecraft:skeleton": "2025-05-02 22:44:56 +0000",
       "minecraft:vindicator": "2025-05-02 23:52:26 +0000",
       "minecraft:spider": "2025-05-02 23:24:35 +0000",
+      "minecraft:evoker": "2025-05-03 20:09:06 +0000",
       "minecraft:witch": "2025-05-02 23:13:36 +0000",
       "minecraft:silverfish": "2025-05-02 22:59:36 +0000",
       "minecraft:stray": "2025-05-02 23:37:19 +0000",
+      "minecraft:enderman": "2025-05-03 20:30:29 +0000",
+      "minecraft:vex": "2025-05-03 20:08:51 +0000",
       "minecraft:zombie": "2025-05-02 22:45:42 +0000"
     },
     "done": false
@@ -664,6 +679,12 @@
       "log_spam_fixer": "2025-05-02 22:30:36 +0000"
     },
     "done": false
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-05-03 20:06:23 +0000"
+    },
+    "done": true
   },
   "vinery:shelf": {
     "criteria": {
@@ -761,6 +782,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-03 20:14:13 +0000"
+    },
+    "done": true
+  },
   "vinery:wine_press": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
@@ -836,6 +863,12 @@
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {
       "has_parent_recipe": "2025-05-02 22:30:36 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/xp_scroll": {
+    "criteria": {
+      "has_items": "2025-05-03 20:08:05 +0000"
     },
     "done": false
   },
@@ -1322,6 +1355,7 @@
       "byg:prairie": "2025-05-02 22:44:26 +0000",
       "byg:orchard": "2025-05-02 23:53:54 +0000",
       "byg:crag_gardens": "2025-05-03 00:21:51 +0000",
+      "byg:amaranth_fields": "2025-05-03 20:05:49 +0000",
       "byg:basalt_barrera": "2025-05-02 23:53:28 +0000"
     },
     "done": false
@@ -1547,6 +1581,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "flint_knife": "2025-05-03 20:30:37 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
@@ -1628,6 +1668,12 @@
   "enigmaticaddons:book/misc/bless_amplifier": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-05-03 20:26:46 +0000"
     },
     "done": true
   },
