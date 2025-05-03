@@ -331,12 +331,6 @@
     },
     "done": true
   },
-  "enigmaticlegacy:book/misc/hunter_guidebook": {
-    "criteria": {
-      "has_the_recipe": "2025-05-02 22:37:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-05-02 22:43:27 +0000",
@@ -346,6 +340,12 @@
       "carrot": "2025-05-02 22:26:53 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:book/misc/hunter_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 22:37:27 +0000"
+    },
+    "done": true
   },
   "enigmaticlegacy:book/misc/mending_mixture": {
     "criteria": {
@@ -473,15 +473,15 @@
     },
     "done": true
   },
-  "enigmaticlegacy:recipes/generic/infinimeal": {
-    "criteria": {
-      "has_items": "2025-05-02 22:51:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-05-02 22:44:22 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/infinimeal": {
+    "criteria": {
+      "has_items": "2025-05-02 22:51:48 +0000"
     },
     "done": true
   },
@@ -1078,6 +1078,12 @@
     },
     "done": true
   },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_oak": "2025-05-03 00:13:58 +0000"
+    },
+    "done": false
+  },
   "dungeons_enhanced:root": {
     "criteria": {
       "entered_ruined_building": "2025-05-02 22:26:34 +0000"
@@ -1448,6 +1454,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-03 00:16:32 +0000"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2025-05-02 07:10:22 +0000"
@@ -1583,9 +1595,14 @@
       "byg:rainbow_beach": "2025-05-02 23:54:16 +0000",
       "byg:orchard": "2025-05-02 23:32:12 +0000",
       "byg:red_oak_forest": "2025-05-02 23:57:43 +0000",
+      "byg:fragment_forest": "2025-05-02 23:58:35 +0000",
+      "byg:weeping_witch_forest": "2025-05-03 00:03:59 +0000",
+      "byg:araucaria_savanna": "2025-05-03 00:15:50 +0000",
+      "byg:crag_gardens": "2025-05-03 00:13:04 +0000",
       "byg:autumnal_valley": "2025-05-02 22:11:31 +0000",
       "byg:skyris_vale": "2025-05-02 23:45:15 +0000",
       "byg:forgotten_forest": "2025-05-02 23:54:13 +0000",
+      "byg:amaranth_fields": "2025-05-03 00:14:01 +0000",
       "byg:basalt_barrera": "2025-05-02 23:55:04 +0000",
       "byg:maple_taiga": "2025-05-02 22:12:22 +0000"
     },
@@ -1621,15 +1638,15 @@
     },
     "done": false
   },
-  "enigmaticlegacy:book/enchantments/generic": {
-    "criteria": {
-      "has_items": "2025-05-02 23:13:57 +0000"
-    },
-    "done": true
-  },
   "endrem:main/eyes_recipe": {
     "criteria": {
       "eyes": "2025-05-02 23:03:50 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/enchantments/generic": {
+    "criteria": {
+      "has_items": "2025-05-02 23:13:57 +0000"
     },
     "done": true
   },
@@ -1641,17 +1658,23 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "atmospheric:rainforest": "2025-05-02 23:58:31 +0000",
       "minecraft:sunflower_plains": "2025-05-02 23:34:15 +0000",
+      "minecraft:savanna_plateau": "2025-05-03 00:23:31 +0000",
       "minecraft:beach": "2025-05-02 22:09:46 +0000",
       "minecraft:sparse_jungle": "2025-05-02 23:54:19 +0000",
       "minecraft:river": "2025-05-02 22:10:13 +0000",
       "minecraft:lukewarm_ocean": "2025-05-02 23:57:47 +0000",
       "minecraft:cold_ocean": "2025-05-02 22:10:01 +0000",
+      "atmospheric:aspen_parkland": "2025-05-03 00:03:58 +0000",
       "minecraft:forest": "2025-05-02 23:29:44 +0000",
       "minecraft:deep_cold_ocean": "2025-05-02 23:34:52 +0000",
+      "minecraft:windswept_forest": "2025-05-03 00:12:06 +0000",
       "minecraft:jungle": "2025-05-02 23:54:07 +0000",
+      "atmospheric:sparse_rainforest_basin": "2025-05-02 23:59:32 +0000",
       "minecraft:windswept_savanna": "2025-05-02 23:46:34 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-02 23:56:44 +0000",
+      "atmospheric:laurel_forest": "2025-05-03 00:00:02 +0000",
       "minecraft:savanna": "2025-05-02 23:54:00 +0000",
       "minecraft:plains": "2025-05-02 22:28:23 +0000"
     },

@@ -210,6 +210,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-03 00:02:09 +0000"
+    },
+    "done": false
+  },
   "enigmaticaddons:book/accessories/adventure_charm": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
@@ -785,6 +791,12 @@
     },
     "done": true
   },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-03 00:02:09 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/cursed_xp_scroll": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
@@ -860,6 +872,18 @@
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_oak": "2025-05-03 00:03:13 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-05-03 00:03:08 +0000"
     },
     "done": true
   },
@@ -1098,6 +1122,12 @@
     },
     "done": true
   },
+  "totw_modded:derelict_grass_tower": {
+    "criteria": {
+      "derelict_grass": "2025-05-03 00:22:14 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2025-05-02 22:35:54 +0000"
@@ -1291,6 +1321,7 @@
       "byg:coconino_meadow": "2025-05-02 22:30:36 +0000",
       "byg:prairie": "2025-05-02 22:44:26 +0000",
       "byg:orchard": "2025-05-02 23:53:54 +0000",
+      "byg:crag_gardens": "2025-05-03 00:21:51 +0000",
       "byg:basalt_barrera": "2025-05-02 23:53:28 +0000"
     },
     "done": false
@@ -1333,12 +1364,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "atmospheric:rainforest": "2025-05-03 00:21:50 +0000",
+      "minecraft:sunflower_plains": "2025-05-03 00:05:23 +0000",
+      "minecraft:savanna_plateau": "2025-05-03 00:23:34 +0000",
       "minecraft:beach": "2025-05-02 22:32:00 +0000",
       "minecraft:river": "2025-05-02 22:44:25 +0000",
       "minecraft:cold_ocean": "2025-05-02 22:32:01 +0000",
       "minecraft:forest": "2025-05-02 23:53:32 +0000",
+      "minecraft:jungle": "2025-05-03 00:21:54 +0000",
       "minecraft:ocean": "2025-05-02 23:55:03 +0000",
       "minecraft:windswept_savanna": "2025-05-02 23:48:50 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-03 00:21:43 +0000",
+      "atmospheric:laurel_forest": "2025-05-03 00:21:46 +0000",
       "minecraft:plains": "2025-05-02 22:39:07 +0000"
     },
     "done": false
@@ -1547,6 +1584,12 @@
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-05-03 00:01:28 +0000"
     },
     "done": true
   },
