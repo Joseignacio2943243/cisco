@@ -4644,3 +4644,81 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [03May2025 22:36:45.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> ya vi porqe me muero en fa
 [03May2025 22:36:50.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> ele scudo me roba regeneracion
 [03May2025 22:38:59.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [It Is Time For an Upgrade, Isn't It?]
+[03May2025 22:40:10.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was fireballed by Blaze
+[03May2025 22:40:10.767] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Gress at X: 8.317310201061659, Y: 94.0, Z: 246.33949594337724
+[03May2025 22:40:16.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Zombified Piglin
+[03May2025 22:40:16.402] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Gress at X: 26.235533490738476, Y: 253.64921753632396, Z: 1134.767911907123
+[03May2025 22:40:20.000] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Gress picking up: PermanentItemEntity['Soul Crystal'/79332, l='ServerLevel[world]', x=26.24, y=255.15, z=1134.77]
+[03May2025 22:40:20.001] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/79332, l='ServerLevel[world]', x=26.24, y=255.15, z=1134.77]
+[03May2025 22:40:30.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> voy a la tienda
+[03May2025 22:40:41.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Gress
+[03May2025 22:40:41.050] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Gress at X: 14.06225803020592, Y: 253.0, Z: 1149.4249757562443
+[03May2025 22:40:58.449] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Gress picking up: PermanentItemEntity['Soul Crystal'/79471, l='ServerLevel[world]', x=14.06, y=254.50, z=1149.42]
+[03May2025 22:40:58.449] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/79471, l='ServerLevel[world]', x=14.06, y=254.50, z=1149.42]
+[03May2025 22:41:22.947] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['Gress'/78078, l='ServerLevel[world]', x=37.27, y=76.00, z=1170.91] died: Gress fell from a high place
+[03May2025 22:41:23.450] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['Gress'/79331, l='ServerLevel[world]', x=35.67, y=76.00, z=1168.36] died: Gress was doomed to fall by Gress
+[03May2025 22:41:29.398] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['Gress'/79470, l='ServerLevel[world]', x=31.65, y=83.00, z=1167.88] died: Gress was doomed to fall by Gress
+[03May2025 22:41:58.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
+[03May2025 22:42:00.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was fireballed by Blaze
+[03May2025 22:42:00.964] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Gress at X: 8.694215648781782, Y: 95.50543849943493, Z: 244.96895489702518
+[03May2025 22:42:33.958] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Gress picking up: PermanentItemEntity['Soul Crystal'/80855, l='ServerLevel[world]', x=8.32, y=95.50, z=246.34]
+[03May2025 22:42:33.958] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/80855, l='ServerLevel[world]', x=8.32, y=95.50, z=246.34]
+[03May2025 22:42:34.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was fireballed by Blaze
+[03May2025 22:42:34.610] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Gress at X: 6.8348302833142265, Y: 94.0, Z: 246.21401358413505
+[03May2025 22:43:13.609] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Gress picking up: PermanentItemEntity['Soul Crystal'/81689, l='ServerLevel[world]', x=8.69, y=97.01, z=244.97]
+[03May2025 22:43:13.609] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/81689, l='ServerLevel[world]', x=8.69, y=97.01, z=244.97]
+[03May2025 22:43:14.214] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Gress picking up: PermanentItemEntity['Soul Crystal'/81687, l='ServerLevel[world]', x=6.83, y=95.50, z=246.21]
+[03May2025 22:43:14.214] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/81687, l='ServerLevel[world]', x=6.83, y=95.50, z=246.21]
+[03May2025 22:44:35.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Wither Skeleton
+[03May2025 22:44:35.111] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Gress at X: 3.422586965911392, Y: 91.0, Z: 238.35585416178495
+[03May2025 22:45:41.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
+[03May2025 22:45:45.562] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Gress picking up: PermanentItemEntity['Soul Crystal'/83056, l='ServerLevel[world]', x=3.42, y=92.50, z=238.36]
+[03May2025 22:45:45.562] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/83056, l='ServerLevel[world]', x=3.42, y=92.50, z=238.36]
+[03May2025 22:47:06.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Defunct Machinery]
+[03May2025 22:47:51.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=44, y=81, z=140} BlockPos{x=45, y=80, z=140}
+[03May2025 22:47:51.308] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=44, y=81, z=140} BlockPos{x=45, y=80, z=140}
+[03May2025 22:47:51.358] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=44, y=81, z=140} BlockPos{x=45, y=80, z=140}
+[03May2025 22:47:51.409] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=44, y=81, z=140} BlockPos{x=45, y=80, z=140}
+[03May2025 22:47:51.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=44, y=81, z=140} BlockPos{x=45, y=80, z=140}
+[03May2025 22:47:51.509] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=44, y=81, z=140} BlockPos{x=45, y=80, z=140}
+[03May2025 22:47:51.558] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=44, y=81, z=140} BlockPos{x=45, y=80, z=140}
+[03May2025 22:47:51.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=44, y=81, z=140} BlockPos{x=45, y=80, z=140}
+[03May2025 22:47:51.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=44, y=81, z=140} BlockPos{x=45, y=80, z=140}
+[03May2025 22:47:51.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=82, z=141} BlockPos{x=41, y=82, z=142}
+[03May2025 22:47:52.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=82, z=141} BlockPos{x=41, y=82, z=142}
+[03May2025 22:47:52.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=82, z=141} BlockPos{x=41, y=82, z=142}
+[03May2025 22:47:52.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=82, z=141} BlockPos{x=41, y=82, z=142}
+[03May2025 22:47:52.159] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=82, z=141} BlockPos{x=41, y=82, z=142}
+[03May2025 22:47:52.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=82, z=141} BlockPos{x=41, y=82, z=142}
+[03May2025 22:47:52.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=82, z=141} BlockPos{x=41, y=82, z=142}
+[03May2025 22:47:52.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=82, z=141} BlockPos{x=41, y=82, z=142}
+[03May2025 22:47:52.359] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=82, z=141} BlockPos{x=41, y=82, z=142}
+[03May2025 22:47:52.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=82, z=141} BlockPos{x=41, y=82, z=142}
+[03May2025 22:47:52.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=82, z=141} BlockPos{x=41, y=82, z=142}
+[03May2025 22:47:52.509] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=82, z=141} BlockPos{x=41, y=82, z=142}
+[03May2025 22:47:52.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=82, z=141} BlockPos{x=41, y=82, z=142}
+[03May2025 22:47:52.620] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=46, y=81, z=143} BlockPos{x=41, y=82, z=142}
+[03May2025 22:47:52.807] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=81, z=144} BlockPos{x=45, y=80, z=143}
+[03May2025 22:47:52.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=81, z=144} BlockPos{x=45, y=80, z=143}
+[03May2025 22:47:52.911] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=81, z=144} BlockPos{x=45, y=80, z=143}
+[03May2025 22:47:52.960] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=81, z=144} BlockPos{x=45, y=80, z=143}
+[03May2025 22:47:53.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=81, z=144} BlockPos{x=45, y=80, z=143}
+[03May2025 22:47:53.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=81, z=144} BlockPos{x=45, y=80, z=143}
+[03May2025 22:47:53.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=81, z=144} BlockPos{x=45, y=80, z=143}
+[03May2025 22:47:53.159] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=81, z=144} BlockPos{x=45, y=80, z=143}
+[03May2025 22:47:53.209] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=81, z=144} BlockPos{x=45, y=80, z=143}
+[03May2025 22:47:53.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=81, z=144} BlockPos{x=45, y=80, z=143}
+[03May2025 22:47:53.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=81, z=144} BlockPos{x=45, y=80, z=143}
+[03May2025 22:47:53.357] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=81, z=144} BlockPos{x=45, y=80, z=143}
+[03May2025 22:47:53.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=81, z=144} BlockPos{x=45, y=80, z=143}
+[03May2025 22:47:53.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=81, z=144} BlockPos{x=45, y=80, z=143}
+[03May2025 22:47:53.506] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=81, z=144} BlockPos{x=45, y=80, z=143}
+[03May2025 22:47:53.556] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=81, z=144} BlockPos{x=45, y=80, z=143}
+[03May2025 22:47:53.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=81, z=144} BlockPos{x=45, y=80, z=143}
+[03May2025 22:48:27.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Those Were the Days]
+[03May2025 22:51:40.070] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Samuel the Pit Master'/83395, l='ServerLevel[world]', x=-129.39, y=55.00, z=310.89] died: Samuel the Pit Master was slain by Gress
+[03May2025 22:53:04.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [War Pigs]
+[03May2025 22:53:07.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [A New Protector...]
+[03May2025 22:53:14.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Supersolid Wizard]
+[03May2025 22:56:36.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress lost connection: Timed out
+[03May2025 22:56:36.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress left the game

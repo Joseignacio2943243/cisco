@@ -325,6 +325,12 @@
     },
     "done": true
   },
+  "majruszsaccessories:booster_dropped": {
+    "criteria": {
+      "picked_up_booster": "2025-05-03 22:38:59 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/desolation_ring": {
     "criteria": {
       "has_parent_recipe": "2025-05-02 22:13:30 +0000",
@@ -478,17 +484,27 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/darkest_scroll": {
+    "criteria": {
+      "has_items": "2025-05-03 22:53:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-02 23:39:28 +0000",
+      "minecraft:blaze": "2025-05-03 22:38:56 +0000",
       "minecraft:skeleton": "2025-05-02 22:51:30 +0000",
       "minecraft:hoglin": "2025-05-03 05:46:54 +0000",
       "minecraft:vindicator": "2025-05-02 23:18:32 +0000",
       "minecraft:spider": "2025-05-02 22:33:45 +0000",
+      "minecraft:piglin_brute": "2025-05-03 22:51:40 +0000",
       "minecraft:creeper": "2025-05-02 22:56:20 +0000",
       "minecraft:evoker": "2025-05-02 23:43:57 +0000",
       "minecraft:slime": "2025-05-03 21:11:50 +0000",
+      "minecraft:zombified_piglin": "2025-05-03 22:41:22 +0000",
       "minecraft:wither_skeleton": "2025-05-02 23:23:42 +0000",
+      "minecraft:piglin": "2025-05-03 22:49:28 +0000",
       "minecraft:enderman": "2025-05-02 23:03:45 +0000",
       "minecraft:silverfish": "2025-05-03 20:48:29 +0000",
       "minecraft:stray": "2025-05-03 21:07:39 +0000",
@@ -1061,6 +1077,12 @@
     },
     "done": false
   },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2025-05-03 22:53:07 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/cursed_ring": {
     "criteria": {
       "fruit": "2025-05-02 22:10:33 +0000"
@@ -1070,6 +1092,7 @@
   "enigmaticlegacy:recipes/generic/avarice_scroll": {
     "criteria": {
       "has_parent_recipe": "2025-05-03 21:53:52 +0000",
+      "has_items2": "2025-05-03 22:53:14 +0000",
       "is_cursed_one": "2025-05-02 22:10:33 +0000"
     },
     "done": false
@@ -1077,6 +1100,12 @@
   "apotheosis:enchanting/enchanter": {
     "criteria": {
       "enchanting_table": "2025-05-02 23:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-03 22:48:27 +0000"
     },
     "done": true
   },
@@ -1196,7 +1225,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-05-03 22:22:44 +0000"
+      "minecraft:crimson_forest": "2025-05-03 22:22:44 +0000",
+      "minecraft:soul_sand_valley": "2025-05-03 22:52:30 +0000"
     },
     "done": false
   },
@@ -1729,6 +1759,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2025-05-03 22:47:06 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/mythic_gem": {
     "criteria": {
       "gem": "2025-05-02 22:26:01 +0000"
@@ -2072,6 +2108,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/discover_scroll": {
+    "criteria": {
+      "spellstone": "2025-05-03 22:53:14 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-05-02 07:10:23 +0000"
@@ -2385,6 +2427,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-05-03 22:53:04 +0000"
+    },
+    "done": true
+  },
   "immersive_paintings:misc/graffiti": {
     "criteria": {
       "has_item": "2025-05-02 22:10:03 +0000"
@@ -2463,6 +2511,7 @@
   "enigmaticlegacy:recipes/generic/cursed_scroll": {
     "criteria": {
       "has_parent_recipe": "2025-05-03 21:53:52 +0000",
+      "has_items1": "2025-05-03 22:53:14 +0000",
       "is_cursed_one": "2025-05-02 22:10:33 +0000"
     },
     "done": false
