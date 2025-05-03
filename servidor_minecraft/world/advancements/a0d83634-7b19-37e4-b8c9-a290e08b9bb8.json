@@ -797,6 +797,7 @@
     "criteria": {
       "minecraft:pillager": "2025-05-02 23:39:28 +0000",
       "minecraft:skeleton": "2025-05-02 22:51:30 +0000",
+      "minecraft:hoglin": "2025-05-03 05:46:54 +0000",
       "minecraft:vindicator": "2025-05-02 23:18:32 +0000",
       "minecraft:spider": "2025-05-02 22:33:45 +0000",
       "minecraft:creeper": "2025-05-02 22:56:20 +0000",
@@ -1645,6 +1646,7 @@
       "byg:rainbow_beach": "2025-05-02 23:54:16 +0000",
       "byg:orchard": "2025-05-02 23:32:12 +0000",
       "byg:red_oak_forest": "2025-05-02 23:57:43 +0000",
+      "byg:redwood_thicket": "2025-05-03 05:50:43 +0000",
       "byg:fragment_forest": "2025-05-02 23:58:35 +0000",
       "byg:firecracker_shrubland": "2025-05-03 05:28:46 +0000",
       "byg:weeping_witch_forest": "2025-05-03 00:03:59 +0000",
@@ -1774,6 +1776,12 @@
       "log_spam_fixer": "2025-05-02 07:10:24 +0000"
     },
     "done": false
+  },
+  "enigmaticaddons:book/materials/ichor_droplet": {
+    "criteria": {
+      "has_items": "2025-05-03 05:49:16 +0000"
+    },
+    "done": true
   },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
