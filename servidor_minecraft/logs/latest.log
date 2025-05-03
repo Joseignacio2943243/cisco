@@ -4193,3 +4193,110 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [03May2025 20:37:07.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> pon spawn vato
 [03May2025 20:37:10.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> ahi deje una cama
 [03May2025 20:37:27.547] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6561, l='ServerLevel[world]', x=786.70, y=67.00, z=1609.40] died, message: 'Unemployed was slain by Vindicator'
+[03May2025 20:38:05.356] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Gress picking up: PermanentItemEntity['Soul Crystal'/33932, l='ServerLevel[world]', x=841.30, y=29.91, z=1529.82]
+[03May2025 20:38:05.357] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/33932, l='ServerLevel[world]', x=841.30, y=29.91, z=1529.82]
+[03May2025 20:38:25.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has completed the challenge [Red as a ruby]
+[03May2025 20:38:51.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has reached the goal [Cover Me In Bright Steel]
+[03May2025 20:39:02.095] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/ICollateralMover$MoveResult
+[03May2025 20:41:19.099] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6473, l='ServerLevel[world]', x=803.30, y=67.00, z=1581.70] died, message: 'Unemployed was slain by Vindicator'
+[03May2025 20:44:36.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has made the advancement [Creepie Crawly]
+[03May2025 20:45:27.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> gracias amijo
+[03May2025 20:45:29.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> por tu ayuda
+[03May2025 20:45:49.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> me ubieses dicho
+[03May2025 20:45:56.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> JAJAJA
+[03May2025 20:46:00.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> 3 ENDERMAS
+[03May2025 20:46:10.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Enderman
+[03May2025 20:46:10.204] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Gress at X: 791.2195809085982, Y: 16.0, Z: 1504.6839292910051
+[03May2025 20:46:25.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> lado bueno
+[03May2025 20:46:29.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> ya se murieron
+[03May2025 20:46:34.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
+[03May2025 20:46:54.849] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Gress picking up: PermanentItemEntity['Soul Crystal'/37286, l='ServerLevel[world]', x=791.22, y=17.50, z=1504.68]
+[03May2025 20:46:54.849] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/37286, l='ServerLevel[world]', x=791.22, y=17.50, z=1504.68]
+[03May2025 20:47:27.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> hasta jefe hay JAJAJA
+[03May2025 20:49:20.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 withered away whilst fighting Wither Skeleton
+[03May2025 20:49:30.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> ya sabras
+[03May2025 20:49:40.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> lo unico qe me mata es el veneno
+[03May2025 20:49:45.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> y tenia qe ser de esqeleto
+[03May2025 20:49:49.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> wither
+[03May2025 20:50:05.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> mi problema es qe nose llegar
+[03May2025 20:51:01.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Cursed Armor
+[03May2025 20:51:01.855] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Gress at X: 813.6999999880791, Y: 10.0, Z: 1519.699999988079
+[03May2025 20:51:04.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> JAJAJA
+[03May2025 20:51:46.955] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress lost connection: Disconnected
+[03May2025 20:51:46.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress left the game
+[03May2025 20:51:47.002] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03May2025 20:53:50.595] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6474, l='ServerLevel[world]', x=835.45, y=69.00, z=1590.30] died, message: 'Unemployed was slain by Vindicator'
+[03May2025 20:53:56.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has made the advancement [Cover Me with Diamonds]
+[03May2025 20:54:02.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=806, y=12, z=1536} BlockPos{x=806, y=11, z=1536}
+[03May2025 20:54:02.854] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=806, y=12, z=1536} BlockPos{x=807, y=12, z=1536}
+[03May2025 20:54:03.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=806, y=12, z=1536} BlockPos{x=806, y=11, z=1537}
+[03May2025 20:54:03.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=806, y=12, z=1536} BlockPos{x=806, y=12, z=1537}
+[03May2025 20:54:03.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=806, y=12, z=1536} BlockPos{x=806, y=12, z=1537}
+[03May2025 20:54:03.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=806, y=12, z=1536} BlockPos{x=807, y=12, z=1536}
+[03May2025 20:56:53.396] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[03May2025 20:56:53.405] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[03May2025 20:56:53.446] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[03May2025 20:56:53.447] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[03May2025 20:56:53.447] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[03May2025 20:56:53.447] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[03May2025 20:56:53.447] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[03May2025 20:56:53.447] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[03May2025 20:56:53.459] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[03May2025 20:56:53.503] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[03May2025 20:56:53.551] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[03May2025 20:56:53.598] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[03May2025 20:56:57.322] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[03May2025 20:56:57.363] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[03May2025 20:56:57.366] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[03May2025 20:56:57.459] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@28efe697
+[03May2025 20:56:57.468] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gress[/127.69.127.111:56761] logged in with entity id 39196 at (7.5, 66.0, 0.5)
+[03May2025 20:56:57.530] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Gress
+[03May2025 20:56:57.534] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Gress
+[03May2025 20:56:57.534] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Gress
+[03May2025 20:56:57.534] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Gress
+[03May2025 20:56:57.538] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Gress
+[03May2025 20:56:57.541] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Gress
+[03May2025 20:56:57.541] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Gress
+[03May2025 20:56:57.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress joined the game
+[03May2025 20:56:57.660] [Server thread/INFO] [Jade/]: Syncing config to Gress (a0d83634-7b19-37e4-b8c9-a290e08b9bb8)
+[03May2025 20:56:57.740] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Gress...
+[03May2025 20:56:57.740] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[03May2025 20:56:57.740] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[03May2025 20:56:57.741] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Gress
+[03May2025 20:59:10.155] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CursedArmor['CiscoBane'/40526, l='ServerLevel[world]', x=836.41, y=10.00, z=1487.67] died: CiscoBane was slain by abel214
+[03May2025 21:00:03.452] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Gress picking up: PermanentItemEntity['Soul Crystal'/38322, l='ServerLevel[world]', x=813.70, y=11.50, z=1519.70]
+[03May2025 21:00:03.453] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/38322, l='ServerLevel[world]', x=813.70, y=11.50, z=1519.70]
+[03May2025 21:00:13.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> fa
+[03May2025 21:00:31.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> e
+[03May2025 21:00:52.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> no e reclamado ninguna mision W
+[03May2025 21:03:15.600] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6515, l='ServerLevel[world]', x=839.27, y=71.00, z=1598.50] died, message: 'Unemployed was slain by Vindicator'
+[03May2025 21:03:17.696] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6395, l='ServerLevel[world]', x=842.49, y=70.94, z=1597.21] died, message: 'Unemployed was slain by Vindicator'
+[03May2025 21:03:21.599] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/6557, l='ServerLevel[world]', x=881.78, y=66.00, z=1585.40] died, message: 'Leatherworker was chopped to bits by Skirmisher'
+[03May2025 21:04:20.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> deberiamos agarrar obsidiana para portal?
+[03May2025 21:06:06.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has reached the goal [Gotta Get Out of Here]
+[03May2025 21:06:26.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> si vi qe te fuiste en fa por eso me le lanze JAJAJA
+[03May2025 21:06:45.997] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CursedArmor['CiscoBane'/41160, l='ServerLevel[world]', x=798.70, y=2.00, z=1495.19] died: CiscoBane was frozen to death by Stray
+[03May2025 21:06:53.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> a mi me rompio los pantalones
+[03May2025 21:07:29.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> era el yo me largo
+[03May2025 21:08:16.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
+[03May2025 21:08:36.347] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[03May2025 21:08:36.347] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[03May2025 21:10:05.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> ontas
+[03May2025 21:10:13.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> e?
+[03May2025 21:11:25.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> son los de
+[03May2025 21:11:32.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> doned te pillemos tararatarara
+[03May2025 21:11:46.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has made the advancement [Ice Bucket Challenge]
+[03May2025 21:12:44.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> otra dungeon w
+[03May2025 21:12:46.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> caile
+[03May2025 21:12:58.712] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 3 in "main" inventory handler
+[03May2025 21:13:05.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> salen nivel 12 vro
+[03May2025 21:14:06.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> donde hcemos la casa
+[03May2025 21:14:33.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> otra dungeon w
+[03May2025 21:15:17.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> aqi no nos matan eda
+[03May2025 21:16:04.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has made the advancement [Welcome To The Jungle]
+[03May2025 21:16:04.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has made the advancement [The Beginning of An Adventure]
+[03May2025 21:16:25.509] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Hendrix the Manly'/48088, l='ServerLevel[world]', x=265.51, y=49.00, z=1118.32] died: Hendrix the Manly was slain by Gress
+[03May2025 21:16:26.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has completed the challenge [He Wasn't So Strong]
+[03May2025 21:16:34.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> perdoname vro
+[03May2025 21:17:39.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> arriba pa qe no vayan a rushearnos
+[03May2025 21:18:13.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> y si es subterranea con el jose explotamos

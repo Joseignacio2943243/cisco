@@ -162,6 +162,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-05-03 20:53:56 +0000"
+    },
+    "done": true
+  },
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-05-02 22:30:36 +0000"
@@ -320,6 +326,12 @@
     },
     "done": true
   },
+  "savage_and_ravage:adventure/creeper_spores": {
+    "criteria": {
+      "creeper_spores": "2025-05-03 20:44:36 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
@@ -353,6 +365,12 @@
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/netherite": {
+    "criteria": {
+      "has_scrap": "2025-05-03 20:40:18 +0000"
     },
     "done": true
   },
@@ -666,6 +684,7 @@
       "minecraft:spider": "2025-05-02 23:24:35 +0000",
       "minecraft:evoker": "2025-05-03 20:09:06 +0000",
       "minecraft:witch": "2025-05-02 23:13:36 +0000",
+      "minecraft:cave_spider": "2025-05-03 20:43:58 +0000",
       "minecraft:silverfish": "2025-05-02 22:59:36 +0000",
       "minecraft:stray": "2025-05-02 23:37:19 +0000",
       "minecraft:enderman": "2025-05-03 20:30:29 +0000",
@@ -733,6 +752,12 @@
       "smithingtable": "2025-05-02 22:42:09 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:book/materials/ancient_debris": {
+    "criteria": {
+      "has_scrap": "2025-05-03 20:40:18 +0000"
+    },
+    "done": true
   },
   "toms_storage:unlock_chest": {
     "criteria": {
@@ -1058,6 +1083,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/tome_uncrafting/corrupted_tome": {
+    "criteria": {
+      "has_items": "2025-05-03 21:04:36 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
@@ -1233,6 +1264,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-03 21:11:46 +0000"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
@@ -1398,6 +1435,7 @@
       "minecraft:beach": "2025-05-02 22:32:00 +0000",
       "minecraft:sparse_jungle": "2025-05-03 20:01:23 +0000",
       "minecraft:river": "2025-05-02 22:44:25 +0000",
+      "minecraft:dripstone_caves": "2025-05-03 20:38:50 +0000",
       "minecraft:cold_ocean": "2025-05-02 22:32:01 +0000",
       "minecraft:forest": "2025-05-02 23:53:32 +0000",
       "minecraft:jungle": "2025-05-03 00:21:54 +0000",

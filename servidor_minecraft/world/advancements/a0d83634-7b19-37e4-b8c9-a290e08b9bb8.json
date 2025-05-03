@@ -156,6 +156,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/recall_potion": {
+    "criteria": {
+      "spellstone": "2025-05-03 21:06:06 +0000"
+    },
+    "done": true
+  },
   "vinery:loam": {
     "criteria": {
       "has_the_recipe": "2025-05-02 07:10:22 +0000"
@@ -447,6 +453,12 @@
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-05-02 07:10:22 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/netherite": {
+    "criteria": {
+      "has_scrap": "2025-05-03 20:50:25 +0000"
     },
     "done": true
   },
@@ -795,6 +807,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/end_anchor": {
+    "criteria": {
+      "has_items": "2025-05-03 21:10:23 +0000"
+    },
+    "done": true
+  },
   "vinery:wine_rack_3": {
     "criteria": {
       "has_the_recipe": "2025-05-02 07:10:22 +0000"
@@ -828,8 +846,11 @@
       "minecraft:spider": "2025-05-02 22:33:45 +0000",
       "minecraft:creeper": "2025-05-02 22:56:20 +0000",
       "minecraft:evoker": "2025-05-02 23:43:57 +0000",
+      "minecraft:slime": "2025-05-03 21:11:50 +0000",
       "minecraft:wither_skeleton": "2025-05-02 23:23:42 +0000",
       "minecraft:enderman": "2025-05-02 23:03:45 +0000",
+      "minecraft:silverfish": "2025-05-03 20:48:29 +0000",
+      "minecraft:stray": "2025-05-03 21:07:39 +0000",
       "minecraft:zombie": "2025-05-02 22:10:34 +0000"
     },
     "done": false
@@ -915,7 +936,8 @@
   "enigmaticlegacy:main/all_spellstones": {
     "criteria": {
       "spellstone1": "2025-05-02 23:25:10 +0000",
-      "spellstone4": "2025-05-03 05:44:23 +0000"
+      "spellstone4": "2025-05-03 05:44:23 +0000",
+      "spellstone5": "2025-05-03 21:10:23 +0000"
     },
     "done": false
   },
@@ -1144,7 +1166,14 @@
   },
   "enigmaticlegacy:book/brewing/twisted_potion": {
     "criteria": {
+      "has_recall_potion": "2025-05-03 21:06:06 +0000",
       "is_cursed_one": "2025-05-02 22:10:33 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/escape_scroll": {
+    "criteria": {
+      "has_items": "2025-05-03 21:10:23 +0000"
     },
     "done": false
   },
@@ -1488,6 +1517,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/eye_of_nebula": {
+    "criteria": {
+      "has_items": "2025-05-03 21:10:23 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/scorched_charm": {
     "criteria": {
       "has_the_recipe": "2025-05-02 07:10:22 +0000"
@@ -1521,6 +1556,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-05-02 22:24:44 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:divine_ruby_advancement": {
+    "criteria": {
+      "divine_ruby_advancement": "2025-05-03 20:38:25 +0000"
     },
     "done": true
   },
@@ -1642,6 +1683,7 @@
   "enigmaticlegacy:book/relics/the_cube": {
     "criteria": {
       "has_item_1": "2025-05-02 23:25:10 +0000",
+      "has_item_5": "2025-05-03 21:10:23 +0000",
       "has_item_4": "2025-05-03 05:44:23 +0000"
     },
     "done": false
@@ -1999,6 +2041,12 @@
     },
     "done": true
   },
+  "cisco_mod:cover_me_in_bright_steel": {
+    "criteria": {
+      "cover_me_in_bright_steel": "2025-05-03 20:38:51 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_yellow_from_white": {
     "criteria": {
       "has_the_recipe": "2025-05-02 07:10:22 +0000"
@@ -2297,6 +2345,12 @@
   "vinery:cherry_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-05-02 07:10:22 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/end_anchor": {
+    "criteria": {
+      "has_the_recipe": "2025-05-03 21:10:23 +0000"
     },
     "done": true
   },
