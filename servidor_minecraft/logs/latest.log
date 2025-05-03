@@ -4347,3 +4347,300 @@ java.lang.IllegalArgumentException: No bonuses were provided.
 [03May2025 21:46:19.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> rushea gress
 [03May2025 21:46:39.553] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
 [03May2025 21:47:48.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> ola
+[03May2025 21:49:40.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ez
+[03May2025 21:50:19.140] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CursedArmor['CiscoBane'/59468, l='ServerLevel[world]', x=335.75, y=13.00, z=1116.75] died: CiscoBane was slain by Gress
+[03May2025 21:51:35.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
+[03May2025 21:51:56.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abel214 moved wrongly!
+[03May2025 21:52:06.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abel214 moved wrongly!
+[03May2025 21:52:18.553] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Minotaur['Mister Fred'/59954, l='ServerLevel[world]', x=245.26, y=13.00, z=1092.32] died: Mister Fred was slain by Gress
+[03May2025 21:52:33.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Best Friends Forever]
+[03May2025 21:53:22.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has made the advancement [The Secrets of Enchanting]
+[03May2025 21:55:26.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> como haces eso
+[03May2025 21:56:22.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Magery]
+[03May2025 21:56:31.121] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[03May2025 21:56:41.751] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/61676, l='ServerLevel[world]', x=18.48, y=85.00, z=1148.99] died, message: 'Farmer hit the ground too hard'
+[03May2025 21:57:08.141] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[03May2025 21:57:08.200] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[03May2025 21:57:08.204] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[03May2025 21:57:08.256] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[03May2025 21:57:08.313] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[03May2025 21:57:08.316] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[03May2025 21:57:08.371] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[03May2025 21:57:08.428] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[03May2025 21:57:08.484] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[03May2025 21:57:08.543] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[03May2025 21:57:08.602] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[03May2025 21:57:08.658] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[03May2025 21:57:09.903] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[03May2025 21:57:09.943] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[03May2025 21:57:09.944] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[03May2025 21:57:10.010] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@29c1d098
+[03May2025 21:57:10.022] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ignacio29392[/127.218.48.122:34525] logged in with entity id 62133 at (-4942.695591094265, 53.0, -1486.5533453428607)
+[03May2025 21:57:10.054] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ignacio29392
+[03May2025 21:57:10.054] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ignacio29392
+[03May2025 21:57:10.054] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ignacio29392
+[03May2025 21:57:10.054] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ignacio29392
+[03May2025 21:57:10.056] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ignacio29392
+[03May2025 21:57:10.057] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ignacio29392
+[03May2025 21:57:10.057] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ignacio29392
+[03May2025 21:57:10.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 joined the game
+[03May2025 21:57:10.273] [Server thread/INFO] [Jade/]: Syncing config to Ignacio29392 (cb2390a0-eefd-3170-8844-fbbfc7609e31)
+[03May2025 21:57:10.367] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Ignacio29392...
+[03May2025 21:57:10.369] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[03May2025 21:57:10.369] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[03May2025 21:57:10.370] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Ignacio29392
+[03May2025 21:57:11.167] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/TropicalFish$Pattern
+[03May2025 21:57:45.754] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/wesley1808/servercore/common/utils/BreedingCap
+[03May2025 22:00:31.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to Gress]
+[03May2025 22:00:36.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> ola amijos
+[03May2025 22:00:47.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported abel214 to Gress]
+[03May2025 22:00:59.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> Pq revives amijo
+[03May2025 22:01:13.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> ya lo tienes
+[03May2025 22:01:15.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> chang0
+[03May2025 22:01:24.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> ira amijo
+[03May2025 22:01:31.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Ol' Betsy]
+[03May2025 22:01:31.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Take Aim]
+[03May2025 22:01:31.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> ola
+[03May2025 22:01:35.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> A ver
+[03May2025 22:01:43.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> qe
+[03May2025 22:01:57.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> era pa ver amijo
+[03May2025 22:02:46.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> entonces donde hacemos la base
+[03May2025 22:03:22.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignacio29392 was kicked for floating too long!
+[03May2025 22:03:22.158] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignacio29392 lost connection: Flying is not enabled on this server
+[03May2025 22:03:22.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 left the game
+[03May2025 22:03:22.203] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03May2025 22:03:25.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> KJAJAJAJA
+[03May2025 22:03:39.317] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[03May2025 22:03:39.373] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[03May2025 22:03:39.428] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[03May2025 22:03:39.486] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[03May2025 22:03:39.543] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[03May2025 22:03:39.601] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[03May2025 22:03:39.658] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[03May2025 22:03:39.714] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[03May2025 22:03:39.714] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[03May2025 22:03:39.771] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[03May2025 22:03:39.826] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[03May2025 22:03:39.882] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[03May2025 22:03:40.157] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[03May2025 22:03:40.198] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[03May2025 22:03:40.198] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[03May2025 22:03:40.257] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5f5135a
+[03May2025 22:03:40.262] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ignacio29392[/127.218.48.122:49413] logged in with entity id 64742 at (35.1831818797244, 104.25513165828941, 1140.630893299087)
+[03May2025 22:03:40.295] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ignacio29392
+[03May2025 22:03:40.295] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ignacio29392
+[03May2025 22:03:40.295] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ignacio29392
+[03May2025 22:03:40.295] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ignacio29392
+[03May2025 22:03:40.297] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ignacio29392
+[03May2025 22:03:40.298] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ignacio29392
+[03May2025 22:03:40.298] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ignacio29392
+[03May2025 22:03:40.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 joined the game
+[03May2025 22:03:40.441] [Server thread/INFO] [Jade/]: Syncing config to Ignacio29392 (cb2390a0-eefd-3170-8844-fbbfc7609e31)
+[03May2025 22:03:40.537] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Ignacio29392...
+[03May2025 22:03:40.537] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[03May2025 22:03:40.537] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[03May2025 22:03:40.537] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Ignacio29392
+[03May2025 22:03:45.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Ignacio29392's game mode to Creative Mode
+[03May2025 22:04:04.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set own game mode to Survival Mode]
+[03May2025 22:04:33.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by abel214
+[03May2025 22:04:33.373] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Gress at X: 25.29695595510567, Y: 253.0, Z: 1135.7268480034975
+[03May2025 22:04:41.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> no era asi vro
+[03May2025 22:04:46.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> crei qe no te mataria de 2
+[03May2025 22:04:50.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> perdoname amijo
+[03May2025 22:04:50.870] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Dr. Michael Mark the Head of Potatoes'/64959, l='ServerLevel[world]', x=39.93, y=71.00, z=1188.23] died: Dr. Michael Mark the Head of Potatoes was slain by Ignacio29392
+[03May2025 22:04:51.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 has completed the challenge [He Wasn't So Strong]
+[03May2025 22:05:10.756] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Gress picking up: PermanentItemEntity['Soul Crystal'/65076, l='ServerLevel[world]', x=25.30, y=254.50, z=1135.73]
+[03May2025 22:05:10.757] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/65076, l='ServerLevel[world]', x=25.30, y=254.50, z=1135.73]
+[03May2025 22:06:19.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 has made the advancement [Spooky Scary Skeleton]
+[03May2025 22:07:28.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 has made the advancement [Epic!]
+[03May2025 22:07:51.104] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule cisco_mod:adventurer_boots/ancient/ANCIENT/1.0!
+[03May2025 22:07:51.104] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule cisco_mod:adventurer_boots/ancient/ABILITY/0.45!
+[03May2025 22:08:28.611] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule cisco_mod:adventurer_leggings/ancient/ANCIENT/1.0!
+[03May2025 22:08:38.803] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule cisco_mod:adventurer_chestplate/ancient/ANCIENT/1.0!
+[03May2025 22:08:39.457] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule cisco_mod:adventurer_chestplate/ancient/ANCIENT/1.0!
+[03May2025 22:08:46.157] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule cisco_mod:adventurer_chestplate/ancient/ANCIENT/1.0!
+[03May2025 22:09:10.265] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule cisco_mod:adventurer_chestplate/ancient/ANCIENT/1.0!
+[03May2025 22:09:33.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Zombie]
+[03May2025 22:10:10.410] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule simplyswords:twisted_blade/ancient/ANCIENT/1.0!
+[03May2025 22:10:26.206] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:crossbow/ancient/ANCIENT/1.0!
+[03May2025 22:10:38.696] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/67189, l='ServerLevel[world]', x=-122.50, y=77.00, z=1155.50]
+[03May2025 22:10:52.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Gave 20    [Arrow] to Ignacio29392]
+[03May2025 22:11:18.548] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/67300, l='ServerLevel[world]', x=-122.50, y=77.00, z=1153.50]
+[03May2025 22:11:22.004] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:crossbow/ancient/ANCIENT/1.0!
+[03May2025 22:11:29.415] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:crossbow/ancient/ANCIENT/1.0!
+[03May2025 22:11:35.153] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:crossbow/ancient/ANCIENT/1.0!
+[03May2025 22:11:43.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to abel214]
+[03May2025 22:12:15.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Mutant Skeleton]
+[03May2025 22:13:21.116] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[03May2025 22:13:28.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Summoned new Mutant Zombie]
+[03May2025 22:13:53.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 has reached the goal [Hulk Smash!]
+[03May2025 22:13:59.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has completed the challenge [Red as a ruby]
+[03May2025 22:14:01.974] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/61665, l='ServerLevel[world]', x=24.94, y=253.00, z=1131.86] died, message: 'Unemployed was slain by abel214'
+[03May2025 22:14:01.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has made the advancement [Bad Deal]
+[03May2025 22:14:05.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> a ver
+[03May2025 22:15:31.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has made the advancement [Local Librarian]
+[03May2025 22:15:31.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has made the advancement [Hidden in the Depths]
+[03May2025 22:16:05.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Ignacio29392
+[03May2025 22:16:05.257] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Gress at X: 36.69999998807907, Y: 255.0, Z: 1145.6803269931274
+[03May2025 22:16:08.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> XD
+[03May2025 22:16:10.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to Ignacio29392]
+[03May2025 22:16:10.359] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Gress picking up: PermanentItemEntity['Soul Crystal'/68699, l='ServerLevel[world]', x=36.70, y=256.50, z=1145.68]
+[03May2025 22:16:10.359] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/68699, l='ServerLevel[world]', x=36.70, y=256.50, z=1145.68]
+[03May2025 22:16:30.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Local Librarian]
+[03May2025 22:17:07.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has made the advancement [Purple Amethyst Eater]
+[03May2025 22:17:19.506] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/PathFindingStatus
+[03May2025 22:17:19.506] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/AbstractAdvancedPathNavigate$RestrictionType
+[03May2025 22:17:19.511] [AN stolen Minecolonies Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/SurfaceType
+[03May2025 22:17:43.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> vro deja de destruir mi casa
+[03May2025 22:18:15.402] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=24, y=254, z=1135} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=east,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[03May2025 22:18:36.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> tengo como 5 stacks de hierro
+[03May2025 22:18:37.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> JAJAJA
+[03May2025 22:18:49.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> y de oro igual
+[03May2025 22:18:56.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> ola
+[03May2025 22:19:19.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> JAJAJA
+[03May2025 22:19:21.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> No mames
+[03May2025 22:19:41.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> a cabron
+[03May2025 22:19:54.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> Contraer sida
+[03May2025 22:20:09.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> Esto es un asalto
+[03May2025 22:20:11.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> El culo o la vida
+[03May2025 22:20:27.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignacio29392 was kicked for floating too long!
+[03May2025 22:20:27.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignacio29392 lost connection: Flying is not enabled on this server
+[03May2025 22:20:27.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 left the game
+[03May2025 22:20:56.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[03May2025 22:20:59.198] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[03May2025 22:20:59.256] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[03May2025 22:20:59.314] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[03May2025 22:20:59.317] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[03May2025 22:20:59.372] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[03May2025 22:20:59.430] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[03May2025 22:20:59.487] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[03May2025 22:20:59.545] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[03May2025 22:20:59.601] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[03May2025 22:20:59.660] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[03May2025 22:20:59.715] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[03May2025 22:20:59.716] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[03May2025 22:21:00.057] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[03May2025 22:21:00.098] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[03May2025 22:21:00.098] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[03May2025 22:21:00.154] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5f9a35ce
+[03May2025 22:21:00.161] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ignacio29392[/127.218.48.122:41841] logged in with entity id 70248 at (32.19271033850414, 118.25574065410595, 1146.6678784721166)
+[03May2025 22:21:00.204] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ignacio29392
+[03May2025 22:21:00.212] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ignacio29392
+[03May2025 22:21:00.212] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ignacio29392
+[03May2025 22:21:00.212] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ignacio29392
+[03May2025 22:21:00.214] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ignacio29392
+[03May2025 22:21:00.215] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ignacio29392
+[03May2025 22:21:00.215] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ignacio29392
+[03May2025 22:21:00.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 joined the game
+[03May2025 22:21:00.363] [Server thread/INFO] [Jade/]: Syncing config to Ignacio29392 (cb2390a0-eefd-3170-8844-fbbfc7609e31)
+[03May2025 22:21:00.452] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Ignacio29392...
+[03May2025 22:21:00.452] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[03May2025 22:21:00.453] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[03May2025 22:21:00.453] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Ignacio29392
+[03May2025 22:21:01.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03May2025 22:21:01.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: > gamemode creative Ignacio29392> gamemode creative Ignacio29392<--[HERE]
+[03May2025 22:21:01.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03May2025 22:21:01.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: > gamemode creative Ignacio29392<--[HERE]
+[03May2025 22:21:07.802] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/event/SimpleHarvestEvent$Source
+[03May2025 22:21:08.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Ignacio29392's game mode to Creative Mode
+[03May2025 22:21:30.030] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[03May2025 22:21:30.030] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[03May2025 22:21:30.033] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[03May2025 22:21:30.053] [Worker-Main1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$Interp
+[03May2025 22:21:30.053] [Worker-Main1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$NoiseType
+[03May2025 22:21:30.054] [Worker-Main1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$FractalType
+[03May2025 22:21:30.057] [Worker-Main1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$CellularDistanceFunction
+[03May2025 22:21:30.057] [Worker-Main1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$CellularReturnType
+[03May2025 22:21:30.104] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 below top-6 above bottom]
+[03May2025 22:21:34.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Incendium]
+[03May2025 22:21:34.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [We Need to Go Deeper]
+[03May2025 22:21:34.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set own game mode to Survival Mode]
+[03May2025 22:21:34.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8826ms or 176 ticks behind
+[03May2025 22:21:41.776] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[03May2025 22:21:41.785] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[03May2025 22:21:43.488] [Worker-Main2/WARN] [ModernFix/]: The namespace bygonenether contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[03May2025 22:22:02.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> a la vergaa
+[03May2025 22:22:09.862] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[03May2025 22:22:14.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has made the advancement [Into Fire]
+[03May2025 22:22:27.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 has made the advancement [Boo!]
+[03May2025 22:22:42.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Ignacio29392 to abel214]
+[03May2025 22:22:57.328] [Server thread/WARN] [ModernFix/]: The namespace stalwart_dungeons contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[03May2025 22:23:11.171] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=4, z=-659}
+[03May2025 22:23:11.172] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=4, z=-660}
+[03May2025 22:23:11.172] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=4, z=-661}
+[03May2025 22:23:27.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has reached the goal [Cover Me In Bright Steel]
+[03May2025 22:23:34.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Teleported Gress to abel214]
+[03May2025 22:23:50.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Into Fire]
+[03May2025 22:24:10.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set own game mode to Creative Mode]
+[03May2025 22:24:17.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> me la pelas
+[03May2025 22:24:18.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> salu 2
+[03May2025 22:24:20.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ignacio29392: Set own game mode to Survival Mode]
+[03May2025 22:24:34.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> pero no me saco
+[03May2025 22:24:35.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> gg
+[03May2025 22:25:00.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ignacio29392> ahi vengo
+[03May2025 22:25:01.455] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignacio29392 lost connection: Disconnected
+[03May2025 22:25:01.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ignacio29392 left the game
+[03May2025 22:25:08.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Hidden in the Depths]
+[03May2025 22:25:08.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Purple Amethyst Eater]
+[03May2025 22:25:43.954] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=54, y=63, z=1185} BlockPos{x=54, y=62, z=1185}
+[03May2025 22:25:44.006] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=54, y=63, z=1185} BlockPos{x=54, y=62, z=1185}
+[03May2025 22:25:44.037] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=54, y=63, z=1185} BlockPos{x=54, y=62, z=1185}
+[03May2025 22:26:01.856] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=60, z=1188} BlockPos{x=57, y=62, z=1186}
+[03May2025 22:26:01.911] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=60, z=1188} BlockPos{x=57, y=62, z=1186}
+[03May2025 22:26:01.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=60, z=1188} BlockPos{x=57, y=62, z=1186}
+[03May2025 22:26:03.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> gress
+[03May2025 22:26:11.507] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[03May2025 22:26:11.507] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03May2025 22:26:11.508] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03May2025 22:26:12.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> checa como paso una mochila de cobre a otro material vro
+[03May2025 22:26:26.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has made the advancement [Multi-Disciplined]
+[03May2025 22:26:33.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> zy
+[03May2025 22:26:54.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Multi-Disciplined]
+[03May2025 22:27:52.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> duerme
+[03May2025 22:28:06.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress lost connection: Disconnected
+[03May2025 22:28:06.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress left the game
+[03May2025 22:31:33.194] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[03May2025 22:31:33.207] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[03May2025 22:31:33.248] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[03May2025 22:31:33.289] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[03May2025 22:31:33.337] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[03May2025 22:31:33.387] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[03May2025 22:31:33.440] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[03May2025 22:31:33.504] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[03May2025 22:31:33.553] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[03May2025 22:31:33.556] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[03May2025 22:31:33.602] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[03May2025 22:31:33.646] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[03May2025 22:31:36.250] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[03May2025 22:31:36.290] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[03May2025 22:31:36.291] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[03May2025 22:31:36.352] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@ff56deb
+[03May2025 22:31:36.358] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gress[/127.69.127.111:35459] logged in with entity id 75512 at (25.5, 253.5625, 1129.5)
+[03May2025 22:31:36.391] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Gress
+[03May2025 22:31:36.391] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Gress
+[03May2025 22:31:36.391] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Gress
+[03May2025 22:31:36.391] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Gress
+[03May2025 22:31:36.392] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Gress
+[03May2025 22:31:36.393] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Gress
+[03May2025 22:31:36.393] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Gress
+[03May2025 22:31:36.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress joined the game
+[03May2025 22:31:36.518] [Server thread/INFO] [Jade/]: Syncing config to Gress (a0d83634-7b19-37e4-b8c9-a290e08b9bb8)
+[03May2025 22:31:36.596] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Gress...
+[03May2025 22:31:36.597] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[03May2025 22:31:36.599] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[03May2025 22:31:36.599] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Gress
+[03May2025 22:33:36.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has completed the challenge [Strength in Darkness]
+[03May2025 22:33:40.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has completed the challenge [Ancient Craftmanship]
+[03May2025 22:33:50.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> caja
+[03May2025 22:34:30.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> haz portal al nether
+[03May2025 22:35:46.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has made the advancement [Incendium]
+[03May2025 22:35:46.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has made the advancement [We Need to Go Deeper]
+[03May2025 22:35:49.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has reached the goal [Sleeping Giant]
+[03May2025 22:36:34.342] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting potionstudios/byg/common/world/math/noise/fastnoise/FastNoise$Interp
+[03May2025 22:36:34.343] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting potionstudios/byg/common/world/math/noise/fastnoise/FastNoise$NoiseType
+[03May2025 22:36:34.343] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting potionstudios/byg/common/world/math/noise/fastnoise/FastNoise$FractalType
+[03May2025 22:36:34.344] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting potionstudios/byg/common/world/math/noise/fastnoise/FastNoise$CellularDistanceFunction
+[03May2025 22:36:34.344] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting potionstudios/byg/common/world/math/noise/fastnoise/FastNoise$CellularReturnType
+[03May2025 22:36:45.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> ya vi porqe me muero en fa
+[03May2025 22:36:50.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> ele scudo me roba regeneracion
+[03May2025 22:38:59.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [It Is Time For an Upgrade, Isn't It?]

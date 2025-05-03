@@ -292,8 +292,10 @@
     "criteria": {
       "salmon": "2025-05-02 23:22:14 +0000",
       "tropical_fish": "2025-05-02 23:21:18 +0000",
+      "apple": "2025-05-03 22:11:16 +0000",
       "bread": "2025-05-02 23:25:44 +0000",
-      "golden_apple": "2025-05-02 23:54:34 +0000"
+      "golden_apple": "2025-05-02 23:54:34 +0000",
+      "golden_carrot": "2025-05-03 22:05:06 +0000"
     },
     "done": false
   },
@@ -391,6 +393,12 @@
   "vinery:fermentation_barrel": {
     "criteria": {
       "has_the_recipe": "2025-05-02 23:10:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-03 22:06:19 +0000"
     },
     "done": true
   },
@@ -502,6 +510,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-05-03 22:07:28 +0000"
+    },
+    "done": true
+  },
   "vinery:loam_stairs": {
     "criteria": {
       "has_the_recipe": "2025-05-02 23:10:07 +0000"
@@ -547,6 +561,13 @@
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-05-02 23:26:13 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:hulk_smash": {
+    "criteria": {
+      "hammer_in_offhand": "2025-05-03 22:13:53 +0000",
+      "hammer_in_mainhand": "2025-05-03 22:13:53 +0000"
     },
     "done": true
   },
@@ -644,6 +665,7 @@
       "minecraft:hoglin": "2025-05-03 05:42:09 +0000",
       "minecraft:vindicator": "2025-05-03 05:20:01 +0000",
       "minecraft:spider": "2025-05-03 05:25:46 +0000",
+      "minecraft:creeper": "2025-05-03 22:04:50 +0000",
       "minecraft:evoker": "2025-05-03 05:19:07 +0000",
       "minecraft:phantom": "2025-05-03 05:53:58 +0000",
       "minecraft:witch": "2025-05-02 23:49:43 +0000",
@@ -987,6 +1009,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-05-03 22:04:51 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_fishing_hut": {
     "criteria": {
       "location0": "2025-05-02 23:20:24 +0000"
@@ -1069,6 +1097,12 @@
   "alexsmobs:alexsmobs/skelewag": {
     "criteria": {
       "killed_by": "2025-05-02 23:23:48 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2025-05-03 22:21:34 +0000"
     },
     "done": true
   },
@@ -1159,6 +1193,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-05-02 23:43:40 +0000"
+    },
+    "done": true
+  },
+  "undead_unleashed:boo": {
+    "criteria": {
+      "boo": "2025-05-03 22:22:27 +0000"
     },
     "done": true
   },
@@ -1405,6 +1445,26 @@
       "has_the_recipe": "2025-05-02 23:10:07 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "!bit13": "2025-05-03 22:24:45 +0000",
+      "!bit14": "2025-05-03 22:24:45 +0000",
+      "!bit11": "2025-05-03 22:24:45 +0000",
+      "!bit12": "2025-05-03 22:24:45 +0000",
+      "!bit10": "2025-05-03 22:24:45 +0000",
+      "!bit9": "2025-05-03 22:24:45 +0000",
+      "!bit8": "2025-05-03 22:24:45 +0000",
+      "!bit7": "2025-05-03 22:24:45 +0000",
+      "!bit6": "2025-05-03 22:24:45 +0000",
+      "!bit5": "2025-05-03 22:24:45 +0000",
+      "!bit4": "2025-05-03 22:24:45 +0000",
+      "!bit3": "2025-05-03 22:24:45 +0000",
+      "!bit2": "2025-05-03 22:24:45 +0000",
+      "!bit1": "2025-05-03 22:24:45 +0000",
+      "!bit0": "2025-05-03 22:24:45 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
