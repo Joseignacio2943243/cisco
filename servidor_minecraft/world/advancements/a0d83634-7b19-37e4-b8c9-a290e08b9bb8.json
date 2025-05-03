@@ -402,6 +402,12 @@
     },
     "done": true
   },
+  "dungeons_plus:adventure/find_snowy_temple": {
+    "criteria": {
+      "in_structure": "2025-05-03 06:18:10 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_lime": {
     "criteria": {
       "has_the_recipe": "2025-05-02 07:10:22 +0000"
@@ -976,6 +982,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-05-02 22:11:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-03 06:16:23 +0000"
     },
     "done": true
   },
@@ -1989,6 +2001,12 @@
       "log_spam_fixer": "2025-05-02 07:10:24 +0000"
     },
     "done": false
+  },
+  "endrem:main/cold_eye": {
+    "criteria": {
+      "cold_eye": "2025-05-03 06:24:00 +0000"
+    },
+    "done": true
   },
   "enigmaticlegacy:recipes/generic/cursed_scroll": {
     "criteria": {
