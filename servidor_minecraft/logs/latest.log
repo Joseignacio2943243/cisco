@@ -2133,3 +2133,21 @@
 [04May2025 03:12:58.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has reached the goal [The Harbinger]
 [04May2025 03:14:20.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [It Comes Back, Right?]
 [04May2025 03:15:26.287] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
+[04May2025 03:16:03.953] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[04May2025 03:16:03.953] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[04May2025 03:16:03.953] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[04May2025 03:16:03.954] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[04May2025 03:17:21.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> vato como picas asi
+[04May2025 03:17:39.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> digo proqe yo tambien qiero
+[04May2025 03:17:57.595] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[04May2025 03:17:57.595] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[04May2025 03:20:39.504] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4420, y=25, z=-2359} BlockPos{x=-4419, y=25, z=-2361}
+[04May2025 03:20:40.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4410, y=25, z=-2364} BlockPos{x=-4411, y=25, z=-2366}
+[04May2025 03:21:17.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [From The Shadows]
+[04May2025 03:21:22.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 was slain by Gress
+[04May2025 03:21:26.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> gres
+[04May2025 03:22:26.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abel214 moved wrongly!
+[04May2025 03:25:35.754] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress lost connection: Disconnected
+[04May2025 03:25:35.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress left the game
+[04May2025 03:29:41.228] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/323649, l='ServerLevel[world]', x=60.37, y=73.78, z=1130.05, removed=DISCARDED]
+[04May2025 03:29:41.228] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/323765, l='ServerLevel[world]', x=63.05, y=72.00, z=1134.67, removed=DISCARDED]

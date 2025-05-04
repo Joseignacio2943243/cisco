@@ -848,6 +848,12 @@
     },
     "done": true
   },
+  "simplyswords:mjolnir": {
+    "criteria": {
+      "requirement": "2025-05-04 03:14:20 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:game_stage_expert": {
     "criteria": {
       "is_triggered": "2025-05-03 22:21:34 +0000"
@@ -1310,6 +1316,12 @@
       "minecraft:soul_sand_valley": "2025-05-03 22:52:30 +0000"
     },
     "done": false
+  },
+  "simplyswords:shadowsting": {
+    "criteria": {
+      "requirement": "2025-05-04 03:21:17 +0000"
+    },
+    "done": true
   },
   "enigmaticaddons:book/misc/ode_to_living": {
     "criteria": {
