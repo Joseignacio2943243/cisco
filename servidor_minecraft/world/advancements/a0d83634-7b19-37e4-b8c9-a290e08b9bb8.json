@@ -435,6 +435,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/novelty_hat": {
+    "criteria": {
+      "sopa_de_macaco": "2025-05-04 03:05:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-05-02 22:19:10 +0000"
@@ -538,6 +544,7 @@
       "minecraft:creeper": "2025-05-02 22:56:20 +0000",
       "minecraft:evoker": "2025-05-02 23:43:57 +0000",
       "minecraft:slime": "2025-05-03 21:11:50 +0000",
+      "minecraft:phantom": "2025-05-04 02:59:25 +0000",
       "minecraft:zombified_piglin": "2025-05-03 22:41:22 +0000",
       "minecraft:wither_skeleton": "2025-05-02 23:23:42 +0000",
       "minecraft:husk": "2025-05-04 00:10:41 +0000",
@@ -583,6 +590,12 @@
   "apotheosis:affix/rare_gem": {
     "criteria": {
       "gem": "2025-05-02 22:11:03 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:troll_hunter": {
+    "criteria": {
+      "troll_hunter_0": "2025-05-04 03:04:17 +0000"
     },
     "done": true
   },
@@ -811,6 +824,12 @@
     },
     "done": true
   },
+  "ars_elemental:summon_skeleton_horse": {
+    "criteria": {
+      "summon_skeleton_horse": "2025-05-04 03:12:58 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-05-02 07:10:22 +0000"
@@ -844,6 +863,12 @@
   "comforts:hammock_yellow_from_white": {
     "criteria": {
       "has_the_recipe": "2025-05-02 07:10:22 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:rotten_king": {
+    "criteria": {
+      "rotten_king": "2025-05-04 03:05:24 +0000"
     },
     "done": true
   },
@@ -1712,6 +1737,12 @@
       "get_stone": "2025-05-02 22:38:07 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-05-04 02:59:25 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:book/brewing/haste_potion": {
     "criteria": {
