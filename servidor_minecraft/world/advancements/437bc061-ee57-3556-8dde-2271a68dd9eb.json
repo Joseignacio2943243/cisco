@@ -626,6 +626,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/brewing/haste_potion": {
+    "criteria": {
+      "has_items": "2025-05-04 01:30:31 +0000"
+    },
+    "done": true
+  },
   "vinery:loam_stairs": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
@@ -1012,6 +1018,12 @@
   "enigmaticaddons:book/accessories/cursed_xp_scroll": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-05-04 01:37:00 +0000"
     },
     "done": true
   },
@@ -1783,6 +1795,12 @@
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2025-05-04 01:37:02 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
