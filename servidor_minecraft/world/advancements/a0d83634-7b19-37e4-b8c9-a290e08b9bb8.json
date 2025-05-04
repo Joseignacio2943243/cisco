@@ -648,6 +648,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-05-04 01:41:32 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/night_scroll": {
     "criteria": {
       "has_the_recipe": "2025-05-02 07:10:22 +0000"
@@ -2450,6 +2456,12 @@
       "has_the_recipe": "2025-05-02 07:10:22 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2025-05-04 01:41:38 +0000"
+    },
+    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
