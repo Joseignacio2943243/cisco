@@ -152,6 +152,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:infernal_dunes": "2025-05-04 01:11:15 +0000",
       "incendium:volcanic_deltas": "2025-05-03 23:12:16 +0000"
     },
     "done": false
@@ -219,6 +220,12 @@
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
+    },
+    "done": true
+  },
+  "unusualend:we_have_a_problem": {
+    "criteria": {
+      "we_have_a_problem": "2025-05-04 00:50:33 +0000"
     },
     "done": true
   },
@@ -395,6 +402,12 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-05-04 01:11:15 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
@@ -480,6 +493,12 @@
       "has_items": "2025-05-02 23:26:52 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/redstonelamps": {
+    "criteria": {
+      "has_core_block": "2025-05-04 01:08:57 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:book/accessories/golden_ring": {
     "criteria": {
@@ -1172,6 +1191,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-05-04 01:16:08 +0000"
+    },
+    "done": true
+  },
   "vinery:vinemaker_boots": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
@@ -1199,6 +1224,12 @@
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2025-05-02 22:30:36 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:coronation": {
+    "criteria": {
+      "coronation": "2025-05-04 01:04:33 +0000"
     },
     "done": true
   },
@@ -1359,6 +1390,12 @@
     },
     "done": true
   },
+  "royalvariations:royal_variations_achievement": {
+    "criteria": {
+      "royal_variations_achievement": "2025-05-04 01:04:39 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/magnet_ring": {
     "criteria": {
       "spellstone": "2025-05-03 21:27:30 +0000"
@@ -1374,6 +1411,12 @@
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:rotten_king": {
+    "criteria": {
+      "rotten_king": "2025-05-04 01:04:39 +0000"
     },
     "done": true
   },
@@ -1470,6 +1513,12 @@
   "ars_nouveau:amethyst_golem_charm": {
     "criteria": {
       "has_amethyst_golem_charm": "2025-05-03 22:17:07 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2025-05-04 01:17:07 +0000"
     },
     "done": true
   },
@@ -1771,6 +1820,12 @@
     },
     "done": true
   },
+  "dungeons_plus:adventure/find_tower": {
+    "criteria": {
+      "in_structure": "2025-05-04 01:04:32 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_dia_pearl": {
     "criteria": {
       "inv_changed-ender_pearl": "2025-05-02 22:30:36 +0000",
@@ -1848,6 +1903,12 @@
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2025-05-02 22:30:36 +0000"
+    },
+    "done": true
+  },
+  "majruszsaccessories:lucky_rock": {
+    "criteria": {
+      "picked_up_accessory": "2025-05-04 01:12:10 +0000"
     },
     "done": true
   },

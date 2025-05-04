@@ -223,6 +223,12 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-05-04 01:05:04 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink": {
     "criteria": {
       "has_the_recipe": "2025-05-02 07:10:22 +0000"
@@ -414,6 +420,12 @@
   "morevillagers:root": {
     "criteria": {
       "always": "2025-05-02 07:10:23 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-05-04 01:01:28 +0000"
     },
     "done": true
   },
@@ -1454,6 +1466,12 @@
     },
     "done": true
   },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-05-04 01:05:04 +0000"
+    },
+    "done": false
+  },
   "apotheosis:affix/ancient": {
     "criteria": {
       "sword": "2025-05-02 23:52:21 +0000"
@@ -1519,6 +1537,12 @@
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-05-02 07:10:22 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-05-04 01:05:04 +0000"
     },
     "done": true
   },
@@ -1905,6 +1929,12 @@
     },
     "done": true
   },
+  "cisco_mod:ancient_craftmanship": {
+    "criteria": {
+      "ancient_craftmanship": "2025-05-04 00:59:52 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/eldritch_amulet": {
     "criteria": {
       "is_the_cursed_one": "2025-05-02 22:10:33 +0000"
@@ -2032,6 +2062,12 @@
   "vinery:stackable_log": {
     "criteria": {
       "has_the_recipe": "2025-05-02 07:10:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-05-04 01:15:32 +0000"
     },
     "done": true
   },
@@ -2192,6 +2228,12 @@
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-05-02 07:10:22 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/socket": {
+    "criteria": {
+      "socket": "2025-05-04 01:01:55 +0000"
     },
     "done": true
   },
@@ -2487,6 +2529,12 @@
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2025-05-02 07:10:22 +0000"
+    },
+    "done": true
+  },
+  "majruszsaccessories:lucky_rock": {
+    "criteria": {
+      "picked_up_accessory": "2025-05-04 01:09:46 +0000"
     },
     "done": true
   },
