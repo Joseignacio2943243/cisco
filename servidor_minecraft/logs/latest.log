@@ -1978,3 +1978,83 @@
 [04May2025 02:32:58.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> entonces a mi no me sirve eda
 [04May2025 02:34:13.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> vato busqemos a los bichos con coronas
 [04May2025 02:34:21.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> por matar 5 de cada tipo dan 5 monedas
+[04May2025 02:35:28.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress was kicked for floating too long!
+[04May2025 02:35:28.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress lost connection: Flying is not enabled on this server
+[04May2025 02:35:28.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress left the game
+[04May2025 02:35:46.879] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[04May2025 02:35:46.943] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[04May2025 02:35:46.999] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[04May2025 02:35:47.077] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[04May2025 02:35:47.078] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[04May2025 02:35:47.148] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[04May2025 02:35:47.195] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[04May2025 02:35:47.195] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[04May2025 02:35:47.253] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[04May2025 02:35:47.300] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[04May2025 02:35:47.347] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[04May2025 02:35:47.398] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[04May2025 02:35:47.847] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[04May2025 02:35:47.887] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[04May2025 02:35:47.888] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[04May2025 02:35:47.953] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@57ec8f77
+[04May2025 02:35:47.959] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gress[/127.69.127.111:44291] logged in with entity id 325571 at (48.13369526800855, 93.3234638674576, 1131.8809862261944)
+[04May2025 02:35:47.989] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Gress
+[04May2025 02:35:47.990] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Gress
+[04May2025 02:35:47.990] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Gress
+[04May2025 02:35:47.990] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Gress
+[04May2025 02:35:47.991] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Gress
+[04May2025 02:35:47.992] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Gress
+[04May2025 02:35:47.992] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Gress
+[04May2025 02:35:48.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress joined the game
+[04May2025 02:35:48.043] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/323649, l='ServerLevel[world]', x=60.37, y=73.78, z=1130.05, removed=DISCARDED]
+[04May2025 02:35:48.043] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/323765, l='ServerLevel[world]', x=63.05, y=72.00, z=1134.67, removed=DISCARDED]
+[04May2025 02:35:48.092] [Server thread/INFO] [Jade/]: Syncing config to Gress (a0d83634-7b19-37e4-b8c9-a290e08b9bb8)
+[04May2025 02:35:48.138] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Gress...
+[04May2025 02:35:48.138] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[04May2025 02:35:48.138] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[04May2025 02:35:48.139] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Gress
+[04May2025 02:35:49.407] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[04May2025 02:35:49.407] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[04May2025 02:35:49.408] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[04May2025 02:35:49.408] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[04May2025 02:35:49.408] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[04May2025 02:35:49.605] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[04May2025 02:35:49.605] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[04May2025 02:35:49.605] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[04May2025 02:35:49.606] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[04May2025 02:35:49.606] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[04May2025 02:36:08.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has completed the challenge [Cover Me in Debris]
+[04May2025 02:36:20.256] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[04May2025 02:36:20.256] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[04May2025 02:36:20.256] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[04May2025 02:36:25.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has reached the goal [Coronation]
+[04May2025 02:36:28.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Bony King]
+[04May2025 02:36:33.058] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[04May2025 02:36:33.058] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[04May2025 02:36:33.058] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[04May2025 02:36:33.058] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[04May2025 02:36:49.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abel214 has completed the challenge [Fit for a King]
+[04May2025 02:36:56.709] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Duchess Carson the Lame'/325928, l='ServerLevel[world]', x=59.15, y=72.61, z=1129.32] died: Duchess Carson the Lame was slain by Gress
+[04May2025 02:37:24.103] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[04May2025 02:37:24.103] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[04May2025 02:37:25.458] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[04May2025 02:37:25.458] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[04May2025 02:37:41.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> aver
+[04May2025 02:37:48.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> nel
+[04May2025 02:37:53.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> A
+[04May2025 02:37:57.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> aver yo
+[04May2025 02:38:11.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> porqe
+[04May2025 02:38:32.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> ey pero qe usas para bajar mas y tener mas durabilidad bro
+[04May2025 02:38:53.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> no me acordaba de esos JAJAA
+[04May2025 02:39:19.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> me qede sin netherita gg
+[04May2025 02:39:43.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> qe me tiraste
+[04May2025 02:40:00.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> uno creo
+[04May2025 02:42:54.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> valiendo
+[04May2025 02:42:57.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> ocupamos amatiaste
+[04May2025 02:43:06.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> 1
+[04May2025 02:43:55.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> ahora
+[04May2025 02:43:57.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> saca cofres
+[04May2025 02:44:00.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> de diamante
+[04May2025 02:44:25.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> kkk
+[04May2025 02:44:29.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> se ocupan 12
+[04May2025 02:44:41.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abel214> para qe sea mas espacio

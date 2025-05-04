@@ -498,9 +498,10 @@
   },
   "enigmaticlegacy:recipes/generic/redstonelamps": {
     "criteria": {
+      "has_parent_recipe": "2025-05-04 02:41:33 +0000",
       "has_core_block": "2025-05-04 01:08:57 +0000"
     },
-    "done": false
+    "done": true
   },
   "enigmaticlegacy:book/accessories/golden_ring": {
     "criteria": {
@@ -1307,6 +1308,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/shroomlamps": {
+    "criteria": {
+      "has_parent_recipe": "2025-05-04 02:41:33 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
@@ -1566,6 +1573,12 @@
     },
     "done": true
   },
+  "cisco_mod:fitforaking": {
+    "criteria": {
+      "fitforaking": "2025-05-04 02:36:49 +0000"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
@@ -1660,6 +1673,18 @@
   "enigmaticlegacy:book/accessories/xp_scroll": {
     "criteria": {
       "has_the_recipe": "2025-05-03 23:26:18 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/decorations/redstone_lantern": {
+    "criteria": {
+      "has_the_recipe": "2025-05-04 02:41:33 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/decorations/lamp": {
+    "criteria": {
+      "has_the_recipe": "2025-05-04 02:41:33 +0000"
     },
     "done": true
   },
@@ -1955,6 +1980,18 @@
       "log_spam_fixer": "2025-05-02 22:30:36 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:recipes/generic/lamps": {
+    "criteria": {
+      "has_core_block": "2025-05-04 02:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-05-04 02:36:08 +0000"
+    },
+    "done": true
   },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {

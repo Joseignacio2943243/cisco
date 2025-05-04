@@ -751,6 +751,12 @@
     },
     "done": true
   },
+  "royalvariations:bony_king": {
+    "criteria": {
+      "bony_king": "2025-05-04 02:36:28 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2025-05-02 07:10:22 +0000"
@@ -2108,6 +2114,12 @@
     },
     "done": true
   },
+  "royalvariations:coronation": {
+    "criteria": {
+      "coronation": "2025-05-04 02:36:25 +0000"
+    },
+    "done": true
+  },
   "vinery:grass_slab": {
     "criteria": {
       "has_the_recipe": "2025-05-02 07:10:22 +0000"
@@ -2233,6 +2245,12 @@
   "vinery:cherry_boat": {
     "criteria": {
       "has_the_recipe": "2025-05-02 07:10:22 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:royal_variations_achievement": {
+    "criteria": {
+      "royal_variations_achievement": "2025-05-04 02:36:28 +0000"
     },
     "done": true
   },
