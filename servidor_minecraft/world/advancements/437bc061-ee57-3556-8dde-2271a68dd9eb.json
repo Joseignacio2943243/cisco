@@ -913,7 +913,8 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
-      "smithingtable": "2025-05-02 22:42:09 +0000"
+      "smithingtable": "2025-05-02 22:42:09 +0000",
+      "stonecutter": "2025-05-04 03:34:31 +0000"
     },
     "done": false
   },
