@@ -144,6 +144,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/recall_potion": {
+    "criteria": {
+      "spellstone": "2025-05-04 00:33:37 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:volcanic_deltas": "2025-05-03 23:12:16 +0000"
@@ -619,6 +625,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-04 00:32:18 +0000"
+    },
+    "done": true
+  },
   "vinery:jungle_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
@@ -830,6 +842,12 @@
   "vinery:cherry_sign": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-05-04 00:24:37 +0000"
     },
     "done": true
   },
@@ -1075,6 +1093,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/brewing/twisted_potion": {
+    "criteria": {
+      "has_recall_potion": "2025-05-04 00:33:37 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:recipes/generic/escape_scroll": {
     "criteria": {
       "has_parent_recipe": "2025-05-03 23:26:18 +0000"
@@ -1248,6 +1272,12 @@
       "has_items": "2025-05-03 21:04:36 +0000"
     },
     "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "violet": "2025-05-04 00:29:50 +0000"
+    },
+    "done": false
   },
   "betterdungeons:zombie_dungeon": {
     "criteria": {
@@ -1704,12 +1734,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "not_target": "2025-05-04 00:18:13 +0000"
-    },
-    "done": false
-  },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-05-02 22:30:36 +0000"
@@ -1731,6 +1755,12 @@
   "enigmaticlegacy:recipes/generic/monster_charm": {
     "criteria": {
       "has_items": "2025-05-03 22:31:06 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/unholy_grail": {
+    "criteria": {
+      "spellstone": "2025-05-04 00:25:26 +0000"
     },
     "done": true
   },
@@ -1782,6 +1812,12 @@
       "log_spam_fixer": "2025-05-02 22:30:36 +0000"
     },
     "done": false
+  },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2025-05-04 00:32:16 +0000"
+    },
+    "done": true
   },
   "enigmaticlegacy:recipes/generic/avarice_scroll": {
     "criteria": {
@@ -2056,6 +2092,12 @@
   "incendium:root": {
     "criteria": {
       "requirement": "2025-05-03 22:35:46 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/unholy_grail": {
+    "criteria": {
+      "has_items": "2025-05-04 00:25:21 +0000"
     },
     "done": true
   },
