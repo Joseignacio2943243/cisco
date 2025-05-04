@@ -2218,6 +2218,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/magnet_ring": {
+    "criteria": {
+      "spellstone": "2025-05-04 01:28:31 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/super_magnet_ring": {
     "criteria": {
       "has_parent_recipe": "2025-05-02 22:11:00 +0000",
