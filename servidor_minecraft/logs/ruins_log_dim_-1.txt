@@ -1,0 +1,63 @@
+Did not find any Building data for ./config/ruins_config/mutated_ice_flats, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/frozen_ocean, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/mutated_mesa, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/redwood_taiga_hills, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/taiga, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/taiga_hills, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/jungle_edge, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/savanna, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/swampland, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/mutated_plains, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/taiga_cold, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/mutated_taiga, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/mutated_birch_forest, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/enchanted_forest, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/deadwood_forest, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/badlands, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/canyon, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/twilight_clearing, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/mushroom_forest, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/darklands_mountains, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/autumnal_wooded_hills, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/limestone_mountains, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/twilight_highlands, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/sand_hills, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/outer space, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/dark_realm, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/eerie, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/ulterior_outback, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/birch_forested_hills, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/vethea, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/iceika, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/limestone_crags, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/biome_meneglin, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/purified_dreadlands, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/eden, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/wildwood, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/darklands, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/abyssal_wastelands, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/thornlands, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/tainted_lands, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/dried_river, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/dead_oasis, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/darklands_hills, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/underworld, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/glacier, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/eldritch, creating empty folder for it: failed
+Did not find any Building data for ./config/ruins_config/desert_shrubland, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/forested_hills, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/sand_plains, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/oak_savannah, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/dark_forest, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/emptiness, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/red_desert, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/storage_biome, creating empty folder for it: failed
+
+Loading options from: /workspaces/cisco/servidor_minecraft/world/DIM-1
+tries_per_chunk_normal = 2
+chance_to_spawn_normal = 10.0
+templateInstancesMinDistance = 1024.0
+anyRuinsMinDistance = 128.0
+anySpawnMinDistance = 64
+anySpawnMaxDistance = 2147483647
+Ruins mod loaded successfully for world ./world/DIM-1, template files: 31
