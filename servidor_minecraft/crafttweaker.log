@@ -1,23 +1,23 @@
 [PREINITIALIZATION][SERVER][INFO] Thank you to the Patreon supporters below and others who make CraftTweaker possible!
-Ivy_
-Ncc1702
-Jellycraft
 Jessie Sims
-Hooley
+Spencer Gilbert
+Ivy_
 Peregrinus11
+Genryu
+DreamThorn
+NickT
+Quaternary
+Zuniroa
+Hooley
 embeddedt
+Jordan Pineo
 Lucas
 Belathus
-Genryu
-Pongo Sapiens
-NickT
 NerdyWhiteGuy
-Spencer Gilbert
+Pongo Sapiens
 Jonathan McManus
-Zuniroa
-DreamThorn
-Jordan Pineo
-Quaternary
+Ncc1702
+Jellycraft
 If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 
 [PREINITIALIZATION][SERVER][TRACE] Current loaders after merging: [[preinit]]
@@ -158,7 +158,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [PREINITIALIZATION][SERVER][TRACE] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Unique/Tools.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][TRACE] [preinit | SIDE_SERVER]: Skipping file {[-10:crafttweaker]: ModSpecific/DivineRPGVetheaRecipes.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][TRACE] [preinit | SIDE_SERVER]: Skipping file {[-10:crafttweaker]: ModSpecific/ProjectRedCore.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][SERVER][TRACE] Completed script loading in: 747ms
+[PREINITIALIZATION][SERVER][TRACE] Completed script loading in: 331ms
 [PREINITIALIZATION][SERVER][TRACE] Current loaders after merging: [[preinit], [alchemistry]]
 [PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [alchemistry]
 [PREINITIALIZATION][SERVER][TRACE] [alchemistry | SIDE_SERVER]: Skipping file {[100:crafttweaker]: Unique/GlobalVariables.zs} as we are currently loading with a different loader
@@ -293,7 +293,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [PREINITIALIZATION][SERVER][TRACE] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Unique/Tools.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][TRACE] [alchemistry | SIDE_SERVER]: Skipping file {[-10:crafttweaker]: ModSpecific/DivineRPGVetheaRecipes.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][TRACE] [alchemistry | SIDE_SERVER]: Skipping file {[-10:crafttweaker]: ModSpecific/ProjectRedCore.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][SERVER][TRACE] Completed script loading in: 16ms
+[PREINITIALIZATION][SERVER][TRACE] Completed script loading in: 15ms
 [PREINITIALIZATION][SERVER][INFO] Hey! Here is ZenUtils.
 [PREINITIALIZATION][SERVER][TRACE] Current loaders after merging: [[preinit], [alchemistry], [contenttweaker]]
 [PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [contenttweaker]
@@ -449,7 +449,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [PREINITIALIZATION][SERVER][TRACE] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Unique/Tools.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][TRACE] [contenttweaker | SIDE_SERVER]: Skipping file {[-10:crafttweaker]: ModSpecific/DivineRPGVetheaRecipes.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][TRACE] [contenttweaker | SIDE_SERVER]: Skipping file {[-10:crafttweaker]: ModSpecific/ProjectRedCore.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][SERVER][TRACE] Completed script loading in: 282ms
+[PREINITIALIZATION][SERVER][TRACE] Completed script loading in: 349ms
 [PREINITIALIZATION][SERVER][TRACE] Current loaders after merging: [[preinit], [alchemistry], [contenttweaker], [finalize_contenttweaker]]
 [PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [finalize_contenttweaker]
 [PREINITIALIZATION][SERVER][TRACE] [finalize_contenttweaker | SIDE_SERVER]: Skipping file {[100:crafttweaker]: Unique/GlobalVariables.zs} as we are currently loading with a different loader
@@ -584,7 +584,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [PREINITIALIZATION][SERVER][TRACE] [finalize_contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Unique/Tools.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][TRACE] [finalize_contenttweaker | SIDE_SERVER]: Skipping file {[-10:crafttweaker]: ModSpecific/DivineRPGVetheaRecipes.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][TRACE] [finalize_contenttweaker | SIDE_SERVER]: Skipping file {[-10:crafttweaker]: ModSpecific/ProjectRedCore.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][SERVER][TRACE] Completed script loading in: 14ms
+[PREINITIALIZATION][SERVER][TRACE] Completed script loading in: 16ms
 [INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
 [INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
 [INITIALIZATION][SERVER][TRACE] Current loaders after merging: [[preinit], [alchemistry], [contenttweaker], [finalize_contenttweaker], [recipeevent | crafttweaker]]
@@ -1145,7 +1145,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] Adding Crusher Recipe for Diamond
 [INITIALIZATION][SERVER][INFO] Adding Crusher Recipe for Diamond
 [INITIALIZATION][SERVER][INFO] Altering Melting Recipe(s) for <liquid:mithril>
-[INITIALIZATION][SERVER][INFO] Removing 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.OreDictItemTypeHandler$1@4234fc2, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[2xitem.thermalfoundation.material@72, 1xitem.thermalfoundation.material@72], chance=0.0), fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=40); 
+[INITIALIZATION][SERVER][INFO] Removing 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.OreDictItemTypeHandler$1@7e944b1, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[2xitem.thermalfoundation.material@72, 1xitem.thermalfoundation.material@72], chance=0.0), fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=40); 
 [INITIALIZATION][SERVER][INFO] Removing Crusher Recipe for output: Pulverized Mana Infused Metal
 [INITIALIZATION][SERVER][INFO] Adding Crusher Recipe for Pulverized Mana Infused Metal
 [INITIALIZATION][SERVER][INFO] Removes LightningCrusher Recipes
@@ -1707,7 +1707,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] Added new Spinning Wheel recipe. Input: Flax Output: Linen Thread
 [INITIALIZATION][SERVER][INFO] Adding tooltip for <atum:golden_date_enchanted>: "dj2.golden_date_enchanted.desc0"
 [INITIALIZATION][SERVER][INFO] Adding tooltip for <atum:golden_date_enchanted>: "dj2.golden_date_enchanted.desc1"
-[INITIALIZATION][SERVER][INFO] com.gildedgames.the_aether.api.enchantments.AetherEnchantment@601f6b34
+[INITIALIZATION][SERVER][INFO] com.gildedgames.the_aether.api.enchantments.AetherEnchantment@6bfa89f9
 [INITIALIZATION][SERVER][INFO] Adding tooltip for <atum:emmer_flour>: "dj2.emmer_flour.desc0"
 [INITIALIZATION][SERVER][INFO] Removing White Linen from ore dictionary entry woolWhite
 [INITIALIZATION][SERVER][INFO] Removing Orange Linen from ore dictionary entry woolOrange
@@ -2009,11 +2009,11 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] Adding tooltip for <contenttweaker:rainbow_slate>: "Infused stone inside of a Blood Altar"
 [INITIALIZATION][SERVER][INFO] Adding tooltip for <contenttweaker:vibrant_slate>: "Infused stone inside of a Blood Altar"
 [INITIALIZATION][SERVER][INFO] Adding tooltip for <contenttweaker:perfect_slate>: "Infused stone inside of a Blood Altar"
-[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@679a743f, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@3f1c3f53, chance=1.0); Properties: DurationXpRecipeProperties(duration=160, xp=0.0); 
+[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@1b3459e8, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@432efd05, chance=1.0); Properties: DurationXpRecipeProperties(duration=160, xp=0.0); 
 [INITIALIZATION][SERVER][INFO] Adding tooltip for <contenttweaker:unholy_essence>: "dj2.unholy_essence.desc0"
 [INITIALIZATION][SERVER][INFO] Adding tooltip for <contenttweaker:feather_of_the_wild_woods>: "dj2.feather_of_the_wild_woods.desc0"
-[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@385aa66f, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@b3cb79c, chance=1.0); Properties: DurationXpRecipeProperties(duration=100, xp=0.0); 
-[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@46cfee53, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@4fa0cbb1, chance=1.0); Properties: DurationXpRecipeProperties(duration=400, xp=0.0); 
+[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@50485e2f, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@3f59550f, chance=1.0); Properties: DurationXpRecipeProperties(duration=100, xp=0.0); 
+[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@17db7487, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@196c93, chance=1.0); Properties: DurationXpRecipeProperties(duration=400, xp=0.0); 
 [INITIALIZATION][SERVER][INFO] Adding tooltip for <contenttweaker:livingmatter>: "dj2.livingmatter.desc0"
 [INITIALIZATION][SERVER][INFO] Adding tooltip for <contenttweaker:livingmatter>: "dj2.livingmatter.desc1"
 [INITIALIZATION][SERVER][INFO] Adding tooltip for <contenttweaker:livingmatter>: "dj2.livingmatter.desc2"
@@ -2433,42 +2433,42 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] Adding ArcFurnace Recipe for Obscured Glass
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Blood Infusion Core
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Blood Infuser
-[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@2b0628a1, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@662eead5, chance=1.0); Properties: DurationXpRecipeProperties(duration=200, xp=0.5); 
-[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@aa256cf, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@75cc89e6, chance=1.0); Properties: DurationXpRecipeProperties(duration=100, xp=1.0); 
+[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@4686706, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@7021f354, chance=1.0); Properties: DurationXpRecipeProperties(duration=200, xp=0.5); 
+[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@255c1a01, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@4ce14aec, chance=1.0); Properties: DurationXpRecipeProperties(duration=100, xp=1.0); 
 [INITIALIZATION][SERVER][INFO] Setting max stack size of  Dark Power Gem to 64
-[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@44cd24ab, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@26a2e750, chance=1.0); Properties: DurationXpRecipeProperties(duration=1800, xp=5.0); 
-[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@6c2ee241, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@74a2d525, chance=1.0); Properties: DurationXpRecipeProperties(duration=900, xp=5.0); 
+[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@1cf80e96, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@4822a019, chance=1.0); Properties: DurationXpRecipeProperties(duration=1800, xp=5.0); 
+[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@3a2897a1, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@7f610ef7, chance=1.0); Properties: DurationXpRecipeProperties(duration=900, xp=5.0); 
 [INITIALIZATION][SERVER][INFO] Removing tooltip for <evilcraft:bowl_of_promises:1>: "Not used up in crafting."
-[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@107f480f, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@5136efea, chance=1.0); Properties: DurationXpRecipeProperties(duration=500, xp=5.0); 
-[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@7d89d8de, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@2da52db5, chance=1.0); Properties: DurationXpRecipeProperties(duration=100, xp=5.0); 
-[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@74a31039, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@67895410, chance=1.0); Properties: DurationXpRecipeProperties(duration=200, xp=1.5); 
-[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@6e5b7484, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@45baef5d, chance=1.0); Properties: DurationXpRecipeProperties(duration=200, xp=2.0); 
+[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@fbce428, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@907f893, chance=1.0); Properties: DurationXpRecipeProperties(duration=500, xp=5.0); 
+[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@7aef000c, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@7c982ecf, chance=1.0); Properties: DurationXpRecipeProperties(duration=100, xp=5.0); 
+[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@38ced69e, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@ec5beb4, chance=1.0); Properties: DurationXpRecipeProperties(duration=200, xp=1.5); 
+[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@4f920da9, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@d4dd787, chance=1.0); Properties: DurationXpRecipeProperties(duration=200, xp=2.0); 
 [INITIALIZATION][SERVER][INFO] Removing Undead Log from ore dictionary entry logWood
 [INITIALIZATION][SERVER][INFO] Removing Undead Plank from ore dictionary entry plankWood
 [INITIALIZATION][SERVER][INFO] Adding tooltip for <evilcraft:blood_chest>: "dj2.blood_chest.desc0"
-[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@7cf3611b, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@4dda81b2, chance=1.0); Properties: DurationXpRecipeProperties(duration=2000, xp=8.0); 
-[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@461de0ea, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@735743f9, chance=1.0); Properties: DurationXpRecipeProperties(duration=200, xp=8.0); 
-[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@bf344fc, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@220564f3, chance=1.0); Properties: DurationXpRecipeProperties(duration=1000, xp=2.0); 
-[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@3be2f96a, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@1251444c, chance=1.0); Properties: DurationXpRecipeProperties(duration=100, xp=2.0); 
-[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@270f8736, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@41206582, chance=1.0); Properties: DurationXpRecipeProperties(duration=5000, xp=10.0); 
-[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@6c9d71f6, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@74c55b8a, chance=1.0); Properties: DurationXpRecipeProperties(duration=300, xp=10.0); 
-[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@3c48644c, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@19d2da5b, chance=1.0); Properties: DurationXpRecipeProperties(duration=1000, xp=2.0); 
-[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@5d2d92b4, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@5ab85a26, chance=1.0); Properties: DurationXpRecipeProperties(duration=100, xp=2.0); 
-[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@897b939, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@1bc6624, chance=1.0); Properties: DurationXpRecipeProperties(duration=1000, xp=2.0); 
-[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@5f89027a, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@4101f0ab, chance=1.0); Properties: DurationXpRecipeProperties(duration=100, xp=2.0); 
+[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@5557db9b, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@8289b40, chance=1.0); Properties: DurationXpRecipeProperties(duration=2000, xp=8.0); 
+[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@121878db, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@4d38c074, chance=1.0); Properties: DurationXpRecipeProperties(duration=200, xp=8.0); 
+[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@4ddc92e1, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@6db7f506, chance=1.0); Properties: DurationXpRecipeProperties(duration=1000, xp=2.0); 
+[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@6a498f49, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@3b46ec7b, chance=1.0); Properties: DurationXpRecipeProperties(duration=100, xp=2.0); 
+[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@605da3c9, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@56281c31, chance=1.0); Properties: DurationXpRecipeProperties(duration=5000, xp=10.0); 
+[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@32d736a2, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@21aacd6e, chance=1.0); Properties: DurationXpRecipeProperties(duration=300, xp=10.0); 
+[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@2a3c03a3, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@12f8a5b7, chance=1.0); Properties: DurationXpRecipeProperties(duration=1000, xp=2.0); 
+[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@69b67fc0, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@625f2672, chance=1.0); Properties: DurationXpRecipeProperties(duration=100, xp=2.0); 
+[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@3b1a7693, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@6957bb33, chance=1.0); Properties: DurationXpRecipeProperties(duration=1000, xp=2.0); 
+[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@28a49a97, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@3fa0000, chance=1.0); Properties: DurationXpRecipeProperties(duration=100, xp=2.0); 
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Purifier
-[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.OreDictItemTypeHandler$1@207c3af1, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@29c99028, chance=1.0); Properties: DurationXpRecipeProperties(duration=100, xp=0.2); 
-[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@26bc3f04, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@3ff2ed70, chance=1.0); Properties: DurationXpRecipeProperties(duration=3000, xp=2.2); 
-[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@40d80851, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@5b1ade0, chance=1.0); Properties: DurationXpRecipeProperties(duration=600, xp=2.0); 
+[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.OreDictItemTypeHandler$1@7b11c85f, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@71724b83, chance=1.0); Properties: DurationXpRecipeProperties(duration=100, xp=0.2); 
+[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@3d489e6c, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@71f6e01e, chance=1.0); Properties: DurationXpRecipeProperties(duration=3000, xp=2.2); 
+[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@3b2e93b8, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@78ee3759, chance=1.0); Properties: DurationXpRecipeProperties(duration=600, xp=2.0); 
 [INITIALIZATION][SERVER][INFO] Adding ArcFurnace Recipe for Materialized Vengeance Essence
-[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@61d2d13a, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@49e3291d, chance=1.0); Properties: DurationXpRecipeProperties(duration=1200, xp=20.0); 
-[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@2b5a4d23, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@2bc04299, chance=1.0); Properties: DurationXpRecipeProperties(duration=150, xp=1.0); 
+[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@13254cee, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@5595a884, chance=1.0); Properties: DurationXpRecipeProperties(duration=1200, xp=20.0); 
+[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@44de3584, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@ba2ddf4, chance=1.0); Properties: DurationXpRecipeProperties(duration=150, xp=1.0); 
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Sanguinary Environmental Acc.
 [INITIALIZATION][SERVER][INFO] Adding ArcFurnace Recipe for Potentia Sphere
-[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@39f128ac, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@1626e201, chance=1.0); Properties: DurationXpRecipeProperties(duration=1000, xp=1.0); 
+[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@f825557, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@79b5c01b, chance=1.0); Properties: DurationXpRecipeProperties(duration=1000, xp=1.0); 
 [INITIALIZATION][SERVER][INFO] Adding ArcFurnace Recipe for Inverted Potentia
 [INITIALIZATION][SERVER][INFO] Translating item.items.evilcraft.blood_orb.filled.name to Evil Blood Orb
-[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@5a6892a9, fluidStack=net.minecraftforge.fluids.FluidStack@150ce00b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@6ba237c7, chance=1.0); Properties: DurationXpRecipeProperties(duration=1000, xp=10.0); 
+[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@75f47253, fluidStack=net.minecraftforge.fluids.FluidStack@610c3bdd, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@1a1833d5, chance=1.0); Properties: DurationXpRecipeProperties(duration=1000, xp=10.0); 
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Creative Blood Drop
 [INITIALIZATION][SERVER][INFO] ENDING EvilCraft.zs
 [INITIALIZATION][SERVER][TRACE] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: ModSpecific/ExtendedCrafting.zs}
@@ -4153,7 +4153,7 @@ Now go ahead, press K to open your quests, and I hope you'll have fun in Divine 
 [INITIALIZATION][SERVER][INFO] Adding ArcFurnace Recipe for item.projectred.core.itemResource.electrotine_silicon_comp.name
 [INITIALIZATION][SERVER][INFO] Adding Alloy Smelter Recipe for item.projectred.core.itemResource.electrotine_silicon_comp.name
 [INITIALIZATION][SERVER][INFO] ENDING ProjectRedCore.zs
-[INITIALIZATION][SERVER][TRACE] Completed script loading in: 2973ms
+[INITIALIZATION][SERVER][TRACE] Completed script loading in: 3194ms
 [POSTINITIALIZATION][SERVER][INFO] Removing recipes for various outputs
 [POSTINITIALIZATION][SERVER][INFO] Removing Shapeless recipes for <thermalfoundation:material:192> * 9
 [POSTINITIALIZATION][SERVER][INFO] Removing 0 Shapeless recipes.
@@ -9405,7 +9405,7 @@ Now go ahead, press K to open your quests, and I hope you'll have fun in Divine 
 [POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Chemical Oxidizer Recipe(s) for <gas:sulfurdioxide> * 100
 [POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Chemical Oxidizer Recipe(s) for <gas:sulfurdioxide> * 100
 [POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Chemical Oxidizer Recipe(s) for <gas:sulfurdioxide> * 100
-[POSTINITIALIZATION][SERVER][INFO] Removing 78 Mekanism Reaction Recipe(s) for [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3>, <gas:hydrogen> * 100], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3>, <gas:hydrogen> * 100], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3>, <gas:hydrogen> * 100], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3>, <gas:hydrogen> * 100], [<mekanism:otherdust:3>, <gas:hydrogen> * 100], [<mekanism:otherdust:3>, <gas:hydrogen> * 100]
+[POSTINITIALIZATION][SERVER][INFO] Removing 78 Mekanism Reaction Recipe(s) for [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3>, <gas:hydrogen> * 100], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3>, <gas:hydrogen> * 100], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3>, <gas:hydrogen> * 100], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3>, <gas:hydrogen> * 100], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3>, <gas:hydrogen> * 100], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3> * 9, <gas:hydrogen> * 1000], [<mekanism:otherdust:3>, <gas:hydrogen> * 100]
 [POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Chemical Injection Chamber Recipe(s) for <mekanism:otherdust:3>
 [POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Metallurgic Infuser Recipe(s) for <mekanism:otherdust:1>
 [POSTINITIALIZATION][SERVER][INFO] Removing 4 Mekanism Crusher Recipe(s) for <mekanism:otherdust:1>, <mekanism:otherdust:1>, <mekanism:otherdust:1>, <mekanism:otherdust:1>
@@ -12222,7 +12222,7 @@ Now go ahead, press K to open your quests, and I hope you'll have fun in Divine 
 [AVAILABLE][SERVER][INFO] Adding infusion recipe for: 1xitem.bewitchment.girdle_of_the_dryads@0
 [AVAILABLE][SERVER][INFO] Adding infusion recipe for: 1xitem.bewitchment.horseshoe@0
 [AVAILABLE][SERVER][INFO] Adding infusion recipe for: 1xitem.bewitchment.hecates_visage@0
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.daggerOfSacrifice@0 from: net.minecraft.item.crafting.Ingredient@67a7a07d minTier: 1, syphon: 5000, consumeRate: 100, drainRate: 100
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.daggerOfSacrifice@0 from: net.minecraft.item.crafting.Ingredient@3a58aa1 minTier: 1, syphon: 5000, consumeRate: 100, drainRate: 100
 [AVAILABLE][SERVER][INFO] Adding TartaricForge recipe for: 1xitem.bloodmagic.soulGem.@0 from: [1xitem.thermalfoundation.material@136,1xitem.shadowshard@0,1xitem.coralium@0,1xitem.items.evilcraft.dark_gem@0] minSouls: 1.0, soulDrain: 1.0
 [AVAILABLE][SERVER][INFO] Adding TartaricForge recipe for: 1xitem.bloodmagic.sentientSword@0 from: [1xitem.bloodmagic.soulGem.@0,1xitem.dreadiumsword@0] minSouls: 32.0, soulDrain: 4.0
 [AVAILABLE][SERVER][INFO] Adding TartaricForge recipe for: 1xitem.bloodmagic.sentientPickaxe@0 from: [1xitem.bloodmagic.soulGem.@0,1xitem.dreadiumpickaxe@0] minSouls: 32.0, soulDrain: 4.0
@@ -12231,22 +12231,22 @@ Now go ahead, press K to open your quests, and I hope you'll have fun in Divine 
 [AVAILABLE][SERVER][INFO] Adding TartaricForge recipe for: 1xitem.bloodmagic.sentientBow@0 from: [1xitem.corbow@0,1xitem.bloodmagic.soulGem.@1,1xitem.string@0,1xitem.string@0] minSouls: 75.0, soulDrain: 4.0
 [AVAILABLE][SERVER][INFO] Adding TartaricForge recipe for: 1xitem.bloodmagic.arcaneAshes@0 from: [1xitem.appliedenergistics2.material@45,1xitem.item_material@37,1xitem.natura.bonemeal_bag@0,1xitem.thermalfoundation.fertilizer@2] minSouls: 1.0, soulDrain: 1.0
 [AVAILABLE][SERVER][INFO] Adding AlchemyArray Recipe input=1xitem.bloodmagic.slate@0, catalyst=1xitem.actuallyadditions.item_engineer_goggles@0, output=1xitem.bloodmagic.sigil.divination@0, location=bloodmagic:textures/models/alchemyarrays/divinationsigil.png
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@0 from: net.minecraft.item.crafting.Ingredient@36a5caef minTier: 0, syphon: 1000, consumeRate: 40, drainRate: 40
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@0 from: net.minecraft.item.crafting.Ingredient@7ddc61a6 minTier: 0, syphon: 1000, consumeRate: 40, drainRate: 40
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@0 from: net.minecraft.item.crafting.Ingredient@18ebdb29 minTier: 0, syphon: 1000, consumeRate: 40, drainRate: 40
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@0 from: net.minecraft.item.crafting.Ingredient@7a30c8dc minTier: 0, syphon: 1000, consumeRate: 40, drainRate: 40
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@0 from: net.minecraft.item.crafting.Ingredient@625a97c7 minTier: 0, syphon: 1000, consumeRate: 40, drainRate: 40
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@0 from: net.minecraft.item.crafting.Ingredient@7c951b7b minTier: 0, syphon: 1000, consumeRate: 40, drainRate: 40
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@0 from: net.minecraft.item.crafting.Ingredient@3a61b553 minTier: 0, syphon: 1000, consumeRate: 40, drainRate: 40
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@0 from: net.minecraft.item.crafting.Ingredient@466bfceb minTier: 0, syphon: 1000, consumeRate: 40, drainRate: 40
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@0 from: net.minecraft.item.crafting.Ingredient@7039af4e minTier: 0, syphon: 1000, consumeRate: 40, drainRate: 40
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@1 from: net.minecraft.item.crafting.Ingredient@24a32cf1 minTier: 1, syphon: 2500, consumeRate: 60, drainRate: 60
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@2 from: net.minecraft.item.crafting.Ingredient@13dfde1b minTier: 2, syphon: 7500, consumeRate: 125, drainRate: 125
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@3 from: net.minecraft.item.crafting.Ingredient@acaf42f minTier: 3, syphon: 25000, consumeRate: 200, drainRate: 200
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@4 from: net.minecraft.item.crafting.Ingredient@373479e7 minTier: 4, syphon: 60000, consumeRate: 250, drainRate: 250
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@a4d1f54 minTier: 0, syphon: 2500, consumeRate: 10, drainRate: 10
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@7c5b4a5b minTier: 1, syphon: 12000, consumeRate: 15, drainRate: 15
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@601517d2 minTier: 2, syphon: 25000, consumeRate: 15, drainRate: 15
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@0 from: net.minecraft.item.crafting.Ingredient@7caadb22 minTier: 0, syphon: 1000, consumeRate: 40, drainRate: 40
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@0 from: net.minecraft.item.crafting.Ingredient@34d899f0 minTier: 0, syphon: 1000, consumeRate: 40, drainRate: 40
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@0 from: net.minecraft.item.crafting.Ingredient@56348af6 minTier: 0, syphon: 1000, consumeRate: 40, drainRate: 40
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@0 from: net.minecraft.item.crafting.Ingredient@3a8e26df minTier: 0, syphon: 1000, consumeRate: 40, drainRate: 40
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@0 from: net.minecraft.item.crafting.Ingredient@10d78967 minTier: 0, syphon: 1000, consumeRate: 40, drainRate: 40
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@0 from: net.minecraft.item.crafting.Ingredient@60b09594 minTier: 0, syphon: 1000, consumeRate: 40, drainRate: 40
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@0 from: net.minecraft.item.crafting.Ingredient@12a1d04e minTier: 0, syphon: 1000, consumeRate: 40, drainRate: 40
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@0 from: net.minecraft.item.crafting.Ingredient@59d2a41b minTier: 0, syphon: 1000, consumeRate: 40, drainRate: 40
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@0 from: net.minecraft.item.crafting.Ingredient@756282f7 minTier: 0, syphon: 1000, consumeRate: 40, drainRate: 40
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@1 from: net.minecraft.item.crafting.Ingredient@111aa5fa minTier: 1, syphon: 2500, consumeRate: 60, drainRate: 60
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@2 from: net.minecraft.item.crafting.Ingredient@da52437 minTier: 2, syphon: 7500, consumeRate: 125, drainRate: 125
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@3 from: net.minecraft.item.crafting.Ingredient@419bbbe4 minTier: 3, syphon: 25000, consumeRate: 200, drainRate: 200
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@4 from: net.minecraft.item.crafting.Ingredient@208ffc1a minTier: 4, syphon: 60000, consumeRate: 250, drainRate: 250
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@647eb884 minTier: 0, syphon: 2500, consumeRate: 10, drainRate: 10
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@2b3eb206 minTier: 1, syphon: 12000, consumeRate: 15, drainRate: 15
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@25ff0838 minTier: 2, syphon: 25000, consumeRate: 15, drainRate: 15
 [AVAILABLE][SERVER][INFO] Adding TartaricForge recipe for: 1xitem.bloodmagic.baseComponent@0 from: [1xitem.bucketWater@0,1xitem.bucketWater@0,1xtile.sugar_block@0,1xtile.SaltBlock@0] minSouls: 8.0, soulDrain: 4.0
 [AVAILABLE][SERVER][INFO] Adding TartaricForge recipe for: 1xitem.bloodmagic.baseComponent@1 from: [1xitem.bucketLava@0,1xitem.bucketLava@0,1xtile.contenttweaker.fluxed_electrum_block@0,1xtile.blockCoal@0] minSouls: 8.0, soulDrain: 4.0
 [AVAILABLE][SERVER][INFO] Adding TartaricForge recipe for: 1xitem.bloodmagic.baseComponent@2 from: [1xitem.glassBottle@0,1xitem.glassBottle@0,1xitem.immersiveengineering.toolupgrade@0,1xtile.immersiveengineering.wooden_device1@1] minSouls: 8.0, soulDrain: 4.0
@@ -12262,28 +12262,28 @@ Now go ahead, press K to open your quests, and I hope you'll have fun in Divine 
 [AVAILABLE][SERVER][INFO] Adding AlchemyTable recipe for: 1xtile.bloodmagic.path.@4 from: [1xtile.bloodmagic.path.@2,1xtile.bloodmagic.path.@2,1xtile.extrautils2:compressedcobblestone@2,1xtile.extrautils2:compressedcobblestone@2,1xitem.appliedenergistics2.material@45,1xitem.appliedenergistics2.material@45] syphon: 400, ticks: 10, minTier: 3
 [AVAILABLE][SERVER][INFO] Adding AlchemyTable recipe for: 1xtile.bloodmagic.path.@6 from: [1xtile.bloodmagic.path.@4,1xtile.bloodmagic.path.@4,1xtile.runed_obsidian@0,1xtile.runed_obsidian@0,1xtile.BasicBlock@2,1xtile.BasicBlock@2] syphon: 1600, ticks: 10, minTier: 3
 [AVAILABLE][SERVER][INFO] Adding TartaricForge recipe for: 1xitem.contenttweaker.binding_reagent@0 from: [1xitem.contenttweaker.rune_of_water@0,1xitem.contenttweaker.rune_of_fire@0,1xitem.contenttweaker.rune_of_earth@0,1xitem.contenttweaker.rune_of_air@0] minSouls: 64.0, soulDrain: 64.0
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@5ace5030 minTier: 3, syphon: 60000, consumeRate: 50, drainRate: 50
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@1 from: net.minecraft.item.crafting.Ingredient@60c96f7c minTier: 4, syphon: 4000, consumeRate: 50, drainRate: 50
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@2 from: net.minecraft.item.crafting.Ingredient@7871b33c minTier: 4, syphon: 9000, consumeRate: 50, drainRate: 50
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@3 from: net.minecraft.item.crafting.Ingredient@473bc583 minTier: 4, syphon: 16000, consumeRate: 50, drainRate: 50
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@4 from: net.minecraft.item.crafting.Ingredient@718e70ef minTier: 4, syphon: 25000, consumeRate: 50, drainRate: 50
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@5 from: net.minecraft.item.crafting.Ingredient@13766d6e minTier: 4, syphon: 36000, consumeRate: 50, drainRate: 50
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@6 from: net.minecraft.item.crafting.Ingredient@bacef0a minTier: 4, syphon: 49000, consumeRate: 50, drainRate: 50
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@7 from: net.minecraft.item.crafting.Ingredient@6495e3a8 minTier: 4, syphon: 64000, consumeRate: 50, drainRate: 50
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@8 from: net.minecraft.item.crafting.Ingredient@3e42f02e minTier: 4, syphon: 81000, consumeRate: 50, drainRate: 50
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@9 from: net.minecraft.item.crafting.Ingredient@76f0b20e minTier: 4, syphon: 100000, consumeRate: 50, drainRate: 50
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@10 from: net.minecraft.item.crafting.Ingredient@59e8248b minTier: 4, syphon: 121000, consumeRate: 50, drainRate: 50
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@11 from: net.minecraft.item.crafting.Ingredient@b9c525e minTier: 4, syphon: 144000, consumeRate: 50, drainRate: 50
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@12 from: net.minecraft.item.crafting.Ingredient@7060e428 minTier: 4, syphon: 169000, consumeRate: 50, drainRate: 50
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@13 from: net.minecraft.item.crafting.Ingredient@1e735c4e minTier: 4, syphon: 196000, consumeRate: 50, drainRate: 50
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@14 from: net.minecraft.item.crafting.Ingredient@23754bdc minTier: 4, syphon: 225000, consumeRate: 50, drainRate: 50
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@15 from: net.minecraft.item.crafting.Ingredient@77d6f486 minTier: 4, syphon: 256000, consumeRate: 50, drainRate: 50
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.activation_crystal@0 from: net.minecraft.item.crafting.Ingredient@3efa7bd0 minTier: 3, syphon: 100000, consumeRate: 60, drainRate: 60
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.scribe@1 from: net.minecraft.item.crafting.Ingredient@2c0ee7c0 minTier: 3, syphon: 40000, consumeRate: 60, drainRate: 60
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.scribe@2 from: net.minecraft.item.crafting.Ingredient@56756465 minTier: 3, syphon: 40000, consumeRate: 60, drainRate: 60
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.scribe@3 from: net.minecraft.item.crafting.Ingredient@f032a17 minTier: 3, syphon: 40000, consumeRate: 60, drainRate: 60
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.scribe@4 from: net.minecraft.item.crafting.Ingredient@7e5fe470 minTier: 3, syphon: 40000, consumeRate: 60, drainRate: 60
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.scribe@5 from: net.minecraft.item.crafting.Ingredient@25342c9c minTier: 3, syphon: 40000, consumeRate: 60, drainRate: 60
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@37d86e81 minTier: 3, syphon: 60000, consumeRate: 50, drainRate: 50
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@1 from: net.minecraft.item.crafting.Ingredient@67960522 minTier: 4, syphon: 4000, consumeRate: 50, drainRate: 50
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@2 from: net.minecraft.item.crafting.Ingredient@35b7d7f3 minTier: 4, syphon: 9000, consumeRate: 50, drainRate: 50
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@3 from: net.minecraft.item.crafting.Ingredient@208af56b minTier: 4, syphon: 16000, consumeRate: 50, drainRate: 50
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@4 from: net.minecraft.item.crafting.Ingredient@480af432 minTier: 4, syphon: 25000, consumeRate: 50, drainRate: 50
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@5 from: net.minecraft.item.crafting.Ingredient@5ad64a24 minTier: 4, syphon: 36000, consumeRate: 50, drainRate: 50
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@6 from: net.minecraft.item.crafting.Ingredient@4b3a1115 minTier: 4, syphon: 49000, consumeRate: 50, drainRate: 50
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@7 from: net.minecraft.item.crafting.Ingredient@8e4302c minTier: 4, syphon: 64000, consumeRate: 50, drainRate: 50
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@8 from: net.minecraft.item.crafting.Ingredient@3147d347 minTier: 4, syphon: 81000, consumeRate: 50, drainRate: 50
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@9 from: net.minecraft.item.crafting.Ingredient@263528d6 minTier: 4, syphon: 100000, consumeRate: 50, drainRate: 50
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@10 from: net.minecraft.item.crafting.Ingredient@7538fb3a minTier: 4, syphon: 121000, consumeRate: 50, drainRate: 50
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@11 from: net.minecraft.item.crafting.Ingredient@3d98a7ee minTier: 4, syphon: 144000, consumeRate: 50, drainRate: 50
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@12 from: net.minecraft.item.crafting.Ingredient@239b8ea4 minTier: 4, syphon: 169000, consumeRate: 50, drainRate: 50
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@13 from: net.minecraft.item.crafting.Ingredient@4be7654f minTier: 4, syphon: 196000, consumeRate: 50, drainRate: 50
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@14 from: net.minecraft.item.crafting.Ingredient@6759758a minTier: 4, syphon: 225000, consumeRate: 50, drainRate: 50
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@15 from: net.minecraft.item.crafting.Ingredient@643700a8 minTier: 4, syphon: 256000, consumeRate: 50, drainRate: 50
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.activation_crystal@0 from: net.minecraft.item.crafting.Ingredient@3d921ec9 minTier: 3, syphon: 100000, consumeRate: 60, drainRate: 60
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.scribe@1 from: net.minecraft.item.crafting.Ingredient@3c7c9e86 minTier: 3, syphon: 40000, consumeRate: 60, drainRate: 60
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.scribe@2 from: net.minecraft.item.crafting.Ingredient@42f8e31f minTier: 3, syphon: 40000, consumeRate: 60, drainRate: 60
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.scribe@3 from: net.minecraft.item.crafting.Ingredient@584a6085 minTier: 3, syphon: 40000, consumeRate: 60, drainRate: 60
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.scribe@4 from: net.minecraft.item.crafting.Ingredient@5ee9dd92 minTier: 3, syphon: 40000, consumeRate: 60, drainRate: 60
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.scribe@5 from: net.minecraft.item.crafting.Ingredient@6b9f067 minTier: 3, syphon: 40000, consumeRate: 60, drainRate: 60
 [AVAILABLE][SERVER][INFO] Adding TartaricForge recipe for: 1xitem.bloodmagic.soulGem.@2 from: [1xitem.bloodmagic.soulGem.@1,1xitem.contenttweaker.magical_core@0,1xitem.contenttweaker.holy_core@0,1xitem.contenttweaker.environmental_core@0] minSouls: 256.0, soulDrain: 128.0
 [AVAILABLE][SERVER][INFO] Adding AlchemyArray Recipe input=1xitem.bloodmagic.slate@1, catalyst=1xitem.bloodmagic.baseComponent@2, output=1xitem.bloodmagic.sigil.air@0, location=bloodmagic:textures/models/alchemyarrays/airsigil.png
 [AVAILABLE][SERVER][INFO] Adding AlchemyArray Recipe input=1xitem.bloodmagic.slate@0, catalyst=1xitem.bloodmagic.baseComponent@0, output=1xitem.bloodmagic.sigil.water@0, location=bloodmagic:textures/models/alchemyarrays/watersigil.png
@@ -12328,11 +12328,11 @@ Now go ahead, press K to open your quests, and I hope you'll have fun in Divine 
 [AVAILABLE][SERVER][INFO] Adding AlchemyTable recipe for: 1xitem.bloodmagic.baseComponent@28 from: [1xitem.netherStalkSeeds@0,1xitem.actuallyadditions.item_crystal@0,1xitem.contenttweaker.aquasalus@0] syphon: 2000, ticks: 200, minTier: 1
 [AVAILABLE][SERVER][INFO] Adding AlchemyTable recipe for: 1xitem.bloodmagic.baseComponent@29 from: [1xitem.netherStalkSeeds@0,1xitem.Ingot@3,1xitem.contenttweaker.incendium@0] syphon: 2000, ticks: 200, minTier: 1
 [AVAILABLE][SERVER][INFO] Adding 1 Botania Rune Altar Recipe(s) for <bloodmagic:blood_shard:1>
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@5fb99012 minTier: 4, syphon: 120000, consumeRate: 80, drainRate: 80
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@6aac59e6 minTier: 4, syphon: 120000, consumeRate: 80, drainRate: 80
 [AVAILABLE][SERVER][INFO] Adding TartaricForge recipe for: 1xitem.bloodmagic.soulGem.@4 from: [1xitem.bloodmagic.soulGem.@3,1xitem.manaResource@5] minSouls: 4096.0, soulDrain: 2048.0
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@1d62cad minTier: 5, syphon: 240000, consumeRate: 120, drainRate: 120
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.focus@0 from: net.minecraft.item.crafting.Ingredient@15846390 minTier: 5, syphon: 500000, consumeRate: 500, drainRate: 500
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.focus@1 from: net.minecraft.item.crafting.Ingredient@6985ae7e minTier: 5, syphon: 1000000, consumeRate: 500, drainRate: 500
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@7422bdbe minTier: 5, syphon: 240000, consumeRate: 120, drainRate: 120
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.focus@0 from: net.minecraft.item.crafting.Ingredient@167906a2 minTier: 5, syphon: 500000, consumeRate: 500, drainRate: 500
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.focus@1 from: net.minecraft.item.crafting.Ingredient@39d2a387 minTier: 5, syphon: 1000000, consumeRate: 500, drainRate: 500
 [AVAILABLE][SERVER][INFO] Adding TartaricForge recipe for: 1xitem.bloodmagic.baseComponent@18 from: [1xtile.bloodmagic.teleposer@0,1xitem.infused_enderpearl@0,1xitem.alchemistry:ingot@40,1xitem.alchemistry:ingot@40] minSouls: 1000.0, soulDrain: 144.0
 [AVAILABLE][SERVER][INFO] Adding TartaricForge recipe for: 1xitem.bloodmagic.baseComponent@17 from: [1xtile.bloodmagic.teleposer@0,1xitem.infused_enderpearl@0,1xitem.alchemistry:ingot@45,1xitem.alchemistry:ingot@45] minSouls: 1000.0, soulDrain: 144.0
 [AVAILABLE][SERVER][INFO] Adding AlchemyArray Recipe input=1xitem.contenttweaker.perfect_slate@0, catalyst=1xitem.bloodmagic.baseComponent@18, output=1xitem.bloodmagic.sigil.transposition@0, location=bloodmagic:textures/models/alchemyarrays/skeletonturret1.png
@@ -14047,10 +14047,10 @@ Now go ahead, press K to open your quests, and I hope you'll have fun in Divine 
 [AVAILABLE][SERVER][INFO] Altering Sawmill Recipe(s) for <contenttweaker:planks_firewood> * 6
 [AVAILABLE][SERVER][INFO] Altering Compactor Recipe(s) for <contenttweaker:fluxed_electrum_plate> in mode: ALL
 [AVAILABLE][SERVER][INFO] Altering Transposer Fill Recipe(s) for <liquid:redstone> * 8000
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.contenttweaker.hardened_blood_droplet@0 from: net.minecraft.item.crafting.Ingredient@47aa2aa5 minTier: 0, syphon: 1000, consumeRate: 25, drainRate: 25
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.contenttweaker.rainbow_slate@0 from: net.minecraft.item.crafting.Ingredient@501be2ca minTier: 5, syphon: 120000, consumeRate: 300, drainRate: 250
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.contenttweaker.vibrant_slate@0 from: net.minecraft.item.crafting.Ingredient@69e882a3 minTier: 5, syphon: 300000, consumeRate: 400, drainRate: 250
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.contenttweaker.perfect_slate@0 from: net.minecraft.item.crafting.Ingredient@66aab879 minTier: 5, syphon: 1000000, consumeRate: 500, drainRate: 250
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.contenttweaker.hardened_blood_droplet@0 from: net.minecraft.item.crafting.Ingredient@7be183c2 minTier: 0, syphon: 1000, consumeRate: 25, drainRate: 25
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.contenttweaker.rainbow_slate@0 from: net.minecraft.item.crafting.Ingredient@2be5d226 minTier: 5, syphon: 120000, consumeRate: 300, drainRate: 250
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.contenttweaker.vibrant_slate@0 from: net.minecraft.item.crafting.Ingredient@55d016e0 minTier: 5, syphon: 300000, consumeRate: 400, drainRate: 250
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.contenttweaker.perfect_slate@0 from: net.minecraft.item.crafting.Ingredient@4bce6552 minTier: 5, syphon: 1000000, consumeRate: 500, drainRate: 250
 [AVAILABLE][SERVER][INFO] Adding AlchemyTable recipe for: 1xitem.contenttweaker.simple_catalyst@0 from: [1xitem.glassBottle@0,1xitem.redstone@0,1xitem.yellowDust@0,1xitem.sulphur@0,1xitem.sugar@0,1xitem.thermalfoundation.material@99] syphon: 25, ticks: 2, minTier: 1
 [AVAILABLE][SERVER][INFO] Adding AlchemyTable recipe for: 1xitem.contenttweaker.aether@0 from: [1xitem.contenttweaker.simple_catalyst@0,1xitem.ghastTear@0,1xitem.yellowDust@0,1xtile.aerogel@0,1xitem.cloud_berry@0,1xitem.feather@0] syphon: 100, ticks: 10, minTier: 1
 [AVAILABLE][SERVER][INFO] Adding AlchemyTable recipe for: 1xitem.contenttweaker.aquasalus@0 from: [1xitem.contenttweaker.simple_catalyst@0,1xitem.bucketWater@0,1xitem.bucketWater@0,1xitem.dyePowder@0,1xitem.dewgonia@0,1xtile.waterlily@0] syphon: 100, ticks: 10, minTier: 1
@@ -14071,7 +14071,7 @@ Now go ahead, press K to open your quests, and I hope you'll have fun in Divine 
 [AVAILABLE][SERVER][INFO] Adding AlchemyTable recipe for: 1xitem.contenttweaker.tenebrae@0 from: [1xitem.contenttweaker.intensive_catalyst@0,1xitem.contenttweaker.crepitous@0,1xitem.contenttweaker.magicales@0,1xtile.contenttweaker.compressed_obsidian1@0,1xtile.block_alloy@6,dyeBlack] syphon: 20000, ticks: 10, minTier: 4
 [AVAILABLE][SERVER][INFO] Adding AlchemyTable recipe for: 1xitem.contenttweaker.praesidium@0 from: [1xitem.contenttweaker.intensive_catalyst@0,1xitem.contenttweaker.crepitous@0,1xitem.contenttweaker.sanctus@0,1xitem.splash_potion@0,1xtile.coraliumstone@0,1xtile.thermalfoundation.glass@2] syphon: 20000, ticks: 10, minTier: 4
 [AVAILABLE][SERVER][INFO] Adding AlchemyTable recipe for: 1xitem.contenttweaker.potentia@0 from: [1xitem.contenttweaker.intensive_catalyst@0,1xitem.contenttweaker.tempestas@0,1xitem.contenttweaker.magicales@0,1xtile.blockLapis@0,1xtile.draconicevolution:potentiometer@0,1xitem.aqua_ball@0] syphon: 20000, ticks: 10, minTier: 4
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.contenttweaker.blood_infused_leather@0 from: net.minecraft.item.crafting.Ingredient@7e14f67a minTier: 2, syphon: 8000, consumeRate: 50, drainRate: 50
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.contenttweaker.blood_infused_leather@0 from: net.minecraft.item.crafting.Ingredient@77e29513 minTier: 2, syphon: 8000, consumeRate: 50, drainRate: 50
 [AVAILABLE][SERVER][INFO] Adding TartaricForge recipe for: 1xitem.contenttweaker.dirty_reagent@0 from: [1xtile.dirt@1,1xtile.elemental_soil_air@0,1xtile.elemental_soil_water@0,1xtile.elemental_soil_fire@0] minSouls: 8.0, soulDrain: 4.0
 [AVAILABLE][SERVER][INFO] Adding TartaricForge recipe for: 1xitem.contenttweaker.wizards_reagent@0 from: [1xitem.amethyst_gem@0,1xitem.bewitchment.garnet@0,1xitem.bewitchment.opal@0,1xitem.amber@0] minSouls: 80.0, soulDrain: 12.0
 [AVAILABLE][SERVER][INFO] Adding TartaricForge recipe for: 1xitem.contenttweaker.neutral_reagent@0 from: [1xtile.clay@0,1xtile.quartzBlock@0,1xtile.concrete@8,1xtile.glass@0] minSouls: 300.0, soulDrain: 36.0
@@ -14499,7 +14499,7 @@ Now go ahead, press K to open your quests, and I hope you'll have fun in Divine 
 [AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for <minecraft:golden_horse_armor>
 [AVAILABLE][SERVER][INFO] Altering Crusher Recipe(s) for <thermalfoundation:material:1> * 4
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <thermalfoundation:material:1> * 4
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.blocklifeessenceprovideroutput@0 from: net.minecraft.item.crafting.Ingredient@73c0415a minTier: 5, syphon: 240000, consumeRate: 120, drainRate: 120
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.blocklifeessenceprovideroutput@0 from: net.minecraft.item.crafting.Ingredient@a41818b minTier: 5, syphon: 240000, consumeRate: 120, drainRate: 120
 [AVAILABLE][SERVER][INFO] Adding TartaricForge recipe for: 1xtile.blockwillprovideroutput@0 from: [1xitem.bloodmagic.willGauge@0,1xtile.modularmachinery.blockcasing@0,1xitem.contenttweaker.binding_reagent@0,1xtile.bloodmagic.path.@6] minSouls: 8192.0, soulDrain: 4096.0
 [AVAILABLE][SERVER][INFO] Adding TartaricForge recipe for: 1xitem.ma.crafting@6 from: [1xtile.cactus@0,1xtile.pumpkin@0,1xitem.reeds@0,1xitem.wheat@0] minSouls: 64.0, soulDrain: 16.0
 [AVAILABLE][SERVER][INFO] Altering Transposer Fill Recipe(s) for <liquid:water> * 10000
@@ -15035,79 +15035,79 @@ Now go ahead, press K to open your quests, and I hope you'll have fun in Divine 
 [AVAILABLE][SERVER][INFO] Altering Compactor Recipe(s) for <contenttweaker:silicon_plate> in mode: ALL
 [AVAILABLE][SERVER][INFO] Altering Compactor Recipe(s) for <contenttweaker:titanium_plate> in mode: ALL
 [AVAILABLE][SERVER][INFO] Altering Compactor Recipe(s) for <extendedcrafting:material:2> in mode: ALL
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:web>
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <contenttweaker:fluxed_electrum_ingot> * 2
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:flint> * 12
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <abyssalcraft:shadowgem>
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:prismarine_crystals> * 16
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <evilcraft:blood_waxed_coal>
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <enderio:block_infinity_fog> * 64
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <enderio:block_dark_steel_anvil>
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:slime>
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:end_rod> * 16
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <tinkersaddons:modifier_item>
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:ice> * 32
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <bhc:orange_heart>
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <actuallyadditions:block_breaker> * 16
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:redstone_block> * 12
 [AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <enderio:block_reinforced_obsidian>
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <roots:baffle_cap_mushroom> * 2
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <actuallyadditions:block_furnace_double> * 16
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:web>
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <aether_legacy:holystone> * 12
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <abyssalcraft:shadowgem>
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:tnt> * 16
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <contenttweaker:fluxed_electrum_ingot> * 2
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <actuallyadditions:item_damage_lens> * 4
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <mekanism:obsidiantnt> * 8
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:ghast_tear> * 4
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:feather> * 16
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:slime>
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <actuallyadditions:block_giant_chest> * 4
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <actuallyadditions:item_drill_upgrade_five_by_five>
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:furnace> * 64
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <enderio:block_killer_joe> * 4
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <quantumflux:craftingpiece> * 4
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <contenttweaker:aechomedirus>
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <evilcraft:dark_spike> * 2
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <actuallyadditions:item_solidified_experience> * 16
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <bibliocraft:compass>
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <mob_grinding_utils:saw_upgrade>
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <abyssalcraft:oblivionshard> * 4
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:ender_pearl> * 12
 [AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:tripwire_hook> * 16
 [AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:piston> * 16
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <extrautils2:ingredients:12>
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <mekanism:electrolyticcore>
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:arrow> * 16
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:tnt> * 16
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <roots:baffle_cap_mushroom> * 2
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <tconstruct:seared_furnace_controller> * 16
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <quantumflux:craftingpiece> * 4
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:iron_bars> * 64
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:experience_bottle> * 16
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <contenttweaker:dark_ingot> * 32
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <bibliocraft:compass>
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <betternether:egg_plant> * 16
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <mekanism:energyupgrade> * 8
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:gold_nugget>
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:ghast_tear> * 4
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <actuallyadditions:block_giant_chest> * 4
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <actuallyadditions:item_drill_upgrade_silk_touch>
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:golden_carrot> * 8
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <extrautils2:magicapple> * 8
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <bibliocraft:biblioglasses>
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <actuallyadditions:block_furnace_double> * 16
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:sea_lantern> * 16
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:string> * 16
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <contenttweaker:hyper_diamond_block>
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <industrialforegoing:mob_relocator> * 8
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <divinerpg:aqua_ball> * 12
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <contenttweaker:compressed_obsidian2> * 16
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <actuallyadditions:item_drill_upgrade_five_by_five>
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:sugar> * 16
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:fire_charge> * 32
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:gunpowder> * 16
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <evilcraft:dark_spike> * 2
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:redstone_block> * 12
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:feather> * 16
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <divinerpg:fury_fire>
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:lapis_block> * 20
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <abyssalcraft:oblivionshard> * 4
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:blaze_rod> * 16
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <actuallyadditions:item_damage_lens> * 4
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <quark:black_ash> * 16
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <contenttweaker:aechomedirus>
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <enderio:block_killer_joe> * 4
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:ender_pearl> * 12
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <aether_legacy:holystone> * 12
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <mob_grinding_utils:saw_upgrade>
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <enderio:item_capacitor_melodic>
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <mekanism:obsidiantnt> * 8
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <mysticalagradditions:stuff:1> * 2
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:glass_bottle> * 16
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:furnace> * 64
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <thaumcraft:flesh_block>
 [AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:nether_star>
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <evilcraft:vengeance_essence>
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:fish:2> * 16
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:gold_nugget>
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:fire_charge> * 32
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <actuallyadditions:item_drill_upgrade_silk_touch>
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <betternether:egg_plant> * 16
 [AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:cactus> * 16
-[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <actuallyadditions:item_solidified_experience> * 16
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <actuallyadditions:block_breaker> * 16
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <contenttweaker:hyper_diamond_block>
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <tinkersaddons:modifier_item>
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:iron_bars> * 64
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:glass_bottle> * 16
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <bhc:orange_heart>
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:string> * 16
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <evilcraft:blood_waxed_coal>
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <evilcraft:vengeance_essence>
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <thaumcraft:flesh_block>
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:flint> * 12
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <extrautils2:ingredients:12>
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <contenttweaker:compressed_obsidian2> * 16
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <enderio:item_capacitor_melodic>
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <divinerpg:fury_fire>
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <contenttweaker:dark_ingot> * 32
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:blaze_rod> * 16
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:arrow> * 16
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <industrialforegoing:mob_relocator> * 8
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:lapis_block> * 20
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <mekanism:energyupgrade> * 8
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <quark:black_ash> * 16
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <divinerpg:aqua_ball> * 12
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <enderio:block_dark_steel_anvil>
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <mysticalagradditions:stuff:1> * 2
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:sugar> * 16
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <tconstruct:seared_furnace_controller> * 16
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:experience_bottle> * 16
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:golden_carrot> * 8
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <mekanism:electrolyticcore>
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <enderio:block_infinity_fog> * 64
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:fish:2> * 16
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:end_rod> * 16
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:ice> * 32
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:prismarine_crystals> * 16
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:sea_lantern> * 16
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <bibliocraft:biblioglasses>
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <extrautils2:magicapple> * 8
+[AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <minecraft:gunpowder> * 16
 [AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <abyssalcraft:ccluster9> * 8
 [AVAILABLE][SERVER][INFO] Altering Enchanter Recipe(s) for <minecraft:book> and <abyssalcraft:dreadfragment> * 8
 [AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for <contenttweaker:electrotine_ore>

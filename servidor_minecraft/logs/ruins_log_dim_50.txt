@@ -1,5 +1,3 @@
-Did not find any Building data for ./config/ruins_config/oak_savannah, creating empty folder for it: failed
-Did not find any Building data for ./config/ruins_config/storage_biome, creating empty folder for it: failed
 
 Loading options from: /workspaces/cisco/servidor_minecraft/world/Abyssal_Wasteland
 tries_per_chunk_normal = 2
