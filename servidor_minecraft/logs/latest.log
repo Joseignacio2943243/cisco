@@ -3259,3 +3259,142 @@ java.lang.IllegalArgumentException: null
 [01Jul2025 20:59:36.215] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/ScrollWheelHandler
 [01Jul2025 20:59:36.218] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/InventoryHandler
 [01Jul2025 21:00:00.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> ke
+[01Jul2025 21:00:37.552] [Worker-Main1/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: -213 103 -619
+[01Jul2025 21:00:42.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:00:50.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[01Jul2025 21:00:57.032] [Worker-Main3/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: -232 112 -659
+[01Jul2025 21:01:01.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Spectator Mode]
+[01Jul2025 21:01:17.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Shadow_Heart1306]
+[01Jul2025 21:01:24.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:01:37.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:01:39.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 was blown up by Creeper
+[01Jul2025 21:01:50.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=35, y=70, z=-41}
+[01Jul2025 21:01:51.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=36, y=70, z=-42}
+[01Jul2025 21:01:52.057] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=36, y=70, z=-42}
+[01Jul2025 21:01:52.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=36, y=70, z=-42}
+[01Jul2025 21:01:52.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Shadow_Heart1306 to Joselin23]
+[01Jul2025 21:02:03.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 21:02:09.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:02:14.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 has reached the goal [Perfectly Shaped Rock]
+[01Jul2025 21:02:21.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 21:02:24.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:02:33.189] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:02:33.189] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:02:33.190] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:02:33.190] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:02:34.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> amigo mi aldea
+[01Jul2025 21:02:36.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 21:02:38.817] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:02:38.818] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:02:38.818] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:02:38.818] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:02:41.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> ke
+[01Jul2025 21:02:43.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Shadow_Heart1306]
+[01Jul2025 21:02:48.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:03:09.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 was blown up by Creeper
+[01Jul2025 21:03:22.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Shadow_Heart1306 to Joselin23]
+[01Jul2025 21:03:26.601] [Worker-Main5/WARN] [ModernFix/]: The namespace kaisyn contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[01Jul2025 21:03:31.542] [Worker-Main6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:03:54.314] [Worker-Main6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:04:05.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:04:14.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 21:04:20.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:04:20.786] [Worker-Main2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=-53, z=1724}
+[01Jul2025 21:04:26.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [People Are Strange]
+[01Jul2025 21:04:27.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 21:04:32.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:04:38.673] [Worker-Main5/WARN] [ModernFix/]: The namespace blue_skies contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[01Jul2025 21:04:47.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 21:04:50.972] [Worker-Main3/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: -856 107 -843
+[01Jul2025 21:04:53.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:05:01.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [First Village]
+[01Jul2025 21:05:04.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has made the advancement [First Village]
+[01Jul2025 21:05:12.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:05:12.382] [Worker-Main6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Variant
+[01Jul2025 21:05:12.383] [Worker-Main6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[01Jul2025 21:05:29.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> eh we
+[01Jul2025 21:05:32.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> reclama las misiones
+[01Jul2025 21:05:39.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 has made the advancement [Crops of the Wild]
+[01Jul2025 21:05:42.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:05:57.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> dale al 0
+[01Jul2025 21:06:02.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:06:12.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 21:06:14.553] [Worker-Main5/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: -995 98 -545
+[01Jul2025 21:06:18.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Shadow_Heart1306]
+[01Jul2025 21:06:21.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:06:23.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved too quickly! -17.647448945217093,-2.683159431071033,0.8956916323272708
+[01Jul2025 21:06:24.583] [Worker-Main3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/dragoni7/dreamland/common/world/feature/util/FastNoiseLite$NoiseType
+[01Jul2025 21:06:24.584] [Worker-Main3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/dragoni7/dreamland/common/world/feature/util/FastNoiseLite$RotationType3D
+[01Jul2025 21:06:24.585] [Worker-Main3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/dragoni7/dreamland/common/world/feature/util/FastNoiseLite$TransformType3D
+[01Jul2025 21:06:24.585] [Worker-Main3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/dragoni7/dreamland/common/world/feature/util/FastNoiseLite$FractalType
+[01Jul2025 21:06:24.585] [Worker-Main3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/dragoni7/dreamland/common/world/feature/util/FastNoiseLite$CellularDistanceFunction
+[01Jul2025 21:06:24.586] [Worker-Main3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/dragoni7/dreamland/common/world/feature/util/FastNoiseLite$CellularReturnType
+[01Jul2025 21:06:24.586] [Worker-Main3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/dragoni7/dreamland/common/world/feature/util/FastNoiseLite$DomainWarpType
+[01Jul2025 21:06:31.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:06:36.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:06:41.795] [Worker-Main2/WARN] [ModernFix/]: The namespace structory contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[01Jul2025 21:06:46.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:06:46.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Shadow_Heart1306> ninguna hice xd
+[01Jul2025 21:06:48.116] [Worker-Main4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/passive/ShadeMonitorEntity$Biomes
+[01Jul2025 21:06:48.472] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:06:48.477] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:06:48.478] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:06:48.478] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:06:48.478] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:06:48.478] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:06:48.478] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:06:48.478] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:06:48.478] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:06:48.478] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:06:48.478] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:06:57.381] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:06:57.385] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:07:17.899] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:07:17.899] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:07:18.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 21:07:24.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:07:26.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has reached the goal [Adventurer ]
+[01Jul2025 21:07:36.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:07:42.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:07:46.914] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:07:46.915] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:07:46.915] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:07:46.915] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:07:51.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 21:08:07.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 21:08:14.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:08:56.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Shadow_Heart1306]
+[01Jul2025 21:09:10.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:09:14.351] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:09:14.352] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:09:14.352] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:09:14.352] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:09:16.285] [Worker-Main6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:09:16.286] [Worker-Main6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:09:16.652] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:09:16.652] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:09:16.652] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:09:16.652] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:09:22.183] [Worker-Main6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:09:22.183] [Worker-Main6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:09:22.183] [Worker-Main6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:09:22.183] [Worker-Main6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:09:28.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[01Jul2025 21:09:32.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:09:33.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 was blown up by Creeper
+[01Jul2025 21:09:33.035] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/29965, l='ServerLevel[world]', x=38.92, y=63.94, z=-732.95] died, message: 'Farmer was blown up by Creeper'
+[01Jul2025 21:09:35.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Spectator Mode]
+[01Jul2025 21:09:46.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[01Jul2025 21:09:49.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> yo uq
+[01Jul2025 21:09:53.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> donde te moriste
+[01Jul2025 21:09:53.828] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:09:53.828] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:09:53.828] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:09:53.828] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:09:58.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:10:09.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Spectator Mode]
+[01Jul2025 21:10:20.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Shadow_Heart1306 to Joselin23]
+[01Jul2025 21:10:30.675] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:10:30.675] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:10:30.675] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:10:30.675] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
