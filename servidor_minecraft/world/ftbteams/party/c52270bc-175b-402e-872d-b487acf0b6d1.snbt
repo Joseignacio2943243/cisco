@@ -9,7 +9,7 @@
 	properties: {
 		"ftbteams:display_name": "Gress's Party"
 		"ftbteams:description": ""
-		"ftbteams:color": "#7B59FF"
+		"ftbteams:color": "#E8FF59"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 		"ftbchunks:allow_explosions": 0b

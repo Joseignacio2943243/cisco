@@ -637,6 +637,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-07-01 21:42:34 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_small_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-07-01 20:22:54 +0000"
@@ -3992,6 +3998,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2025-07-01 21:42:34 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_pickaxe_repairing": {
     "criteria": {
       "has_iron_pickaxe": "2025-07-01 21:36:56 +0000"
@@ -4184,6 +4196,12 @@
       "has_iron_ingot": "2025-07-01 21:36:46 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "target": "2025-07-01 21:42:35 +0000"
+    },
+    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {

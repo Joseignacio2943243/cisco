@@ -3632,3 +3632,15 @@ java.lang.IllegalArgumentException: null
 [01Jul2025 21:41:16.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Shadow_Heart1306) moved wrongly! 1.458740234375
 [01Jul2025 21:41:16.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Shadow_Heart1306) moved wrongly! 1.458740234375
 [01Jul2025 21:41:49.248] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/90322, l='ServerLevel[world]', x=421.50, y=73.00, z=-53.50]
+[01Jul2025 21:41:55.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoGOD has made the advancement [Diamonds!]
+[01Jul2025 21:42:36.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 was slain by Zombie
+[01Jul2025 21:43:04.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoGOD has made the advancement [Getting an Upgrade]
+[01Jul2025 21:44:12.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoGOD has made the advancement [Disme A Dozen]
+[01Jul2025 21:44:21.648] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/91257, l='ServerLevel[world]', x=421.50, y=69.00, z=-31.50]
+[01Jul2025 21:44:35.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoGOD has made the advancement [Not a Diamond]
+[01Jul2025 21:45:45.597] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/91745, l='ServerLevel[world]', x=419.50, y=73.00, z=-52.50]
+[01Jul2025 21:48:01.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoGOD has made the advancement [Monster Hunter]
+[01Jul2025 21:49:18.825] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Corvin the Rotten'/94073, l='ServerLevel[world]', x=117.98, y=61.00, z=-742.30] died: Corvin the Rotten was slain by Gress
+[01Jul2025 21:49:19.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has completed the challenge [Serious Dedication]
+[01Jul2025 21:49:29.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [What a Dungeon!]
+[01Jul2025 21:50:28.301] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/101250, l='ServerLevel[world]', x=333.50, y=73.00, z=-430.50]

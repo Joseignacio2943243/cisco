@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-07-01 21:49:43 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/falseweave": {
     "criteria": {
       "has_journal": "2025-07-01 20:14:17 +0000"
@@ -167,6 +173,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/skilltree/golden_ring": {
+    "criteria": {
+      "has_nuggets_gold": "2025-07-01 21:42:31 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/conjuration_essence_to_soul_sand": {
     "criteria": {
       "has_journal": "2025-07-01 20:14:17 +0000"
@@ -227,6 +239,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/tome_uncrafting/tattered_tome": {
+    "criteria": {
+      "has_items": "2025-07-01 21:49:25 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/skyroot_bookshelf": {
     "criteria": {
       "has_book": "2025-07-01 21:04:43 +0000"
@@ -266,6 +284,12 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2025-07-01 20:28:08 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
+    "criteria": {
+      "has_item": "2025-07-01 21:49:43 +0000"
     },
     "done": true
   },
@@ -1444,6 +1468,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-01 21:49:43 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sunrise_2": {
     "criteria": {
       "has_journal": "2025-07-01 20:14:17 +0000"
@@ -1627,6 +1657,12 @@
   "aquaculture:recipes/food/cooked_fish_fillet_from_smoking": {
     "criteria": {
       "has_items": "2025-07-01 20:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-01 21:49:43 +0000"
     },
     "done": true
   },
@@ -2006,6 +2042,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2025-07-01 20:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-01 21:42:31 +0000"
     },
     "done": true
   },
@@ -3010,6 +3052,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-01 21:49:43 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-07-01 20:14:17 +0000"
@@ -3073,6 +3121,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-07-01 20:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-01 21:42:31 +0000"
     },
     "done": true
   },
@@ -3178,6 +3232,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-01 21:49:43 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_11": {
     "criteria": {
       "has_journal": "2025-07-01 20:14:17 +0000"
@@ -3238,6 +3298,7 @@
       "entered_tower_of_the_undead": "2025-07-01 21:04:07 +0000",
       "entered_pirate_ship": "2025-07-01 20:17:25 +0000",
       "entered_fishing_ship": "2025-07-01 20:33:15 +0000",
+      "entered_large_dungeon": "2025-07-01 21:49:29 +0000",
       "entered_ruined_building": "2025-07-01 20:17:53 +0000"
     },
     "done": false
@@ -3356,6 +3417,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_cobblestone": {
+    "criteria": {
+      "has_item": "2025-07-01 21:49:43 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/manipulation_essence_to_diorite": {
     "criteria": {
       "has_journal": "2025-07-01 20:14:17 +0000"
@@ -3419,6 +3486,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-07-01 20:21:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:thats_a_dungeon": {
+    "criteria": {
+      "entered_large_dungeon": "2025-07-01 21:49:29 +0000"
     },
     "done": true
   },
@@ -3567,6 +3640,12 @@
   "farmersdelight:recipes/farmersdelight/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-07-01 20:19:47 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-07-01 21:49:43 +0000"
     },
     "done": true
   },
@@ -3804,6 +3883,12 @@
     },
     "done": true
   },
+  "vinery:dirt_slab": {
+    "criteria": {
+      "has_dirt": "2025-07-01 21:49:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-07-01 21:25:11 +0000"
@@ -3819,6 +3904,12 @@
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
       "in_water": "2025-07-01 20:21:52 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2025-07-01 21:49:43 +0000"
     },
     "done": true
   },
@@ -3891,6 +3982,12 @@
   "storagedrawers:recipes/storagedrawers/max_redstone_upgrade": {
     "criteria": {
       "has_template": "2025-07-01 20:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-07-01 21:49:19 +0000"
     },
     "done": true
   },
@@ -4084,6 +4181,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-07-01 20:44:29 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2025-07-01 21:49:43 +0000"
     },
     "done": true
   },
@@ -4401,6 +4504,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/skilltree/simple_necklace": {
+    "criteria": {
+      "has_nuggets_gold": "2025-07-01 21:42:31 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_challenge": {
     "criteria": {
       "has_journal": "2025-07-01 20:14:17 +0000"
@@ -4506,6 +4615,12 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_bricks_stonecutting": {
     "criteria": {
       "has_item": "2025-07-01 20:44:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_hoe_repairing": {
+    "criteria": {
+      "has_netherite_hoe": "2025-07-01 21:49:19 +0000"
     },
     "done": true
   },
@@ -4751,6 +4866,12 @@
   "ars_nouveau:recipes/ars_nouveau/ritual_fertility": {
     "criteria": {
       "has_journal": "2025-07-01 20:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-01 21:49:43 +0000"
     },
     "done": true
   },
@@ -5103,6 +5224,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-07-01 21:49:43 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/source_jar": {
     "criteria": {
       "has_journal": "2025-07-01 20:14:17 +0000"
@@ -5256,6 +5383,12 @@
   "smallships:recipes/transportation/mangrove_cog": {
     "criteria": {
       "in_water": "2025-07-01 20:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-01 21:49:43 +0000"
     },
     "done": true
   },
@@ -5767,6 +5900,12 @@
   "meetyourfight:main/root": {
     "criteria": {
       "killed_something": "2025-07-01 20:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-01 21:49:43 +0000"
     },
     "done": true
   },
