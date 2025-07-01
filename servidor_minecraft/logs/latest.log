@@ -3026,3 +3026,138 @@ java.lang.IllegalArgumentException: null
 [01Jul2025 20:39:10.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: The difficulty has been set to Hard]
 [01Jul2025 20:39:16.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
 [01Jul2025 20:39:20.487] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[01Jul2025 20:40:02.165] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/aqutheseal/celestisynth/api/animation/player/AnimationManager$AnimationsList
+[01Jul2025 20:40:02.167] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[01Jul2025 20:40:02.167] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[01Jul2025 20:40:02.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Skeleton
+[01Jul2025 20:40:20.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Shadow_Heart1306]
+[01Jul2025 20:40:38.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Lightning Bolt]
+[01Jul2025 20:40:39.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Lightning Bolt]
+[01Jul2025 20:40:45.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 20:40:46.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Silverqueen
+[01Jul2025 20:41:06.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 20:41:07.447] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/9038, l='ServerLevel[world]', x=-339.50, y=77.00, z=236.50]
+[01Jul2025 20:41:08.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Silverqueen]
+[01Jul2025 20:41:15.701] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/9150, l='ServerLevel[world]', x=-326.50, y=78.00, z=334.50]
+[01Jul2025 20:41:16.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Silverqueen
+[01Jul2025 20:41:16.365] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[01Jul2025 20:41:16.365] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
+[01Jul2025 20:41:16.365] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[01Jul2025 20:41:16.365] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[01Jul2025 20:41:16.365] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[01Jul2025 20:41:20.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Silverqueen]
+[01Jul2025 20:41:23.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Silverqueen
+[01Jul2025 20:41:29.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Silverqueen]
+[01Jul2025 20:41:40.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Shadow_Heart1306]
+[01Jul2025 20:41:44.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 20:41:46.846] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/9925, l='ServerLevel[world]', x=-317.50, y=79.00, z=232.50]
+[01Jul2025 20:41:47.997] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/9938, l='ServerLevel[world]', x=-360.50, y=80.00, z=249.50]
+[01Jul2025 20:41:56.148] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/9971, l='ServerLevel[world]', x=-393.50, y=82.00, z=374.50]
+[01Jul2025 20:41:58.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Silverqueen
+[01Jul2025 20:41:58.634] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[01Jul2025 20:41:58.634] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[01Jul2025 20:41:58.634] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[01Jul2025 20:41:58.634] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[01Jul2025 20:41:58.634] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[01Jul2025 20:42:15.561] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joselin23 lost connection: Disconnected
+[01Jul2025 20:42:15.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 left the game
+[01Jul2025 20:42:29.951] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 211
+[01Jul2025 20:42:30.011] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[01Jul2025 20:42:30.071] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[01Jul2025 20:42:30.072] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[01Jul2025 20:42:30.127] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[01Jul2025 20:42:30.195] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[01Jul2025 20:42:30.251] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[01Jul2025 20:42:30.307] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[01Jul2025 20:42:30.363] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[01Jul2025 20:42:30.423] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[01Jul2025 20:42:30.479] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[01Jul2025 20:42:30.481] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[01Jul2025 20:42:30.831] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[01Jul2025 20:42:30.841] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[01Jul2025 20:42:30.841] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 225
+[01Jul2025 20:42:30.916] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@18670d9f
+[01Jul2025 20:42:30.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joselin23[/127.82.83.202:50665] logged in with entity id 10661 at (-397.6301264290034, 47.33215326981796, 289.47636095902203)
+[01Jul2025 20:42:30.974] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Joselin23
+[01Jul2025 20:42:30.975] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Joselin23
+[01Jul2025 20:42:30.975] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Joselin23
+[01Jul2025 20:42:30.976] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Joselin23
+[01Jul2025 20:42:30.977] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Joselin23
+[01Jul2025 20:42:30.978] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Joselin23
+[01Jul2025 20:42:30.978] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Joselin23
+[01Jul2025 20:42:31.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 joined the game
+[01Jul2025 20:42:31.213] [Server thread/INFO] [Jade/]: Syncing config to Joselin23 (3b2022e1-5f64-368d-b807-60e46ae2ee21)
+[01Jul2025 20:42:31.232] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Joselin23...
+[01Jul2025 20:42:31.233] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[01Jul2025 20:42:31.235] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Joselin23
+[01Jul2025 20:42:45.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 20:43:03.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Dethroned Silverqueen]
+[01Jul2025 20:43:08.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Silverqueen]
+[01Jul2025 20:43:18.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 20:43:23.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Silverqueen]
+[01Jul2025 20:43:32.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Silverqueen
+[01Jul2025 20:43:38.597] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/11364, l='ServerLevel[world]', x=-379.50, y=78.00, z=362.50]
+[01Jul2025 20:43:45.696] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/11398, l='ServerLevel[world]', x=-326.50, y=78.00, z=335.50]
+[01Jul2025 20:43:52.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Silverqueen]
+[01Jul2025 20:44:29.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Stone Age]
+[01Jul2025 20:44:48.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Cursed Armor
+[01Jul2025 20:44:58.646] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/12417, l='ServerLevel[world]', x=-326.50, y=78.00, z=336.50]
+[01Jul2025 20:45:17.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 20:45:23.299] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/12553, l='ServerLevel[world]', x=-375.50, y=77.00, z=228.50]
+[01Jul2025 20:45:32.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Skeleton
+[01Jul2025 20:45:37.347] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/13086, l='ServerLevel[world]', x=-362.50, y=78.00, z=238.50]
+[01Jul2025 20:45:37.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Silverqueen]
+[01Jul2025 20:45:38.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Silverqueen]
+[01Jul2025 20:45:47.046] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/13207, l='ServerLevel[world]', x=-394.50, y=82.00, z=374.50]
+[01Jul2025 20:45:48.648] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/13217, l='ServerLevel[world]', x=-324.50, y=77.00, z=237.50]
+[01Jul2025 20:45:55.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has reached the goal [Adventure Time]
+[01Jul2025 20:45:56.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Silverqueen
+[01Jul2025 20:46:04.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Silverqueen]
+[01Jul2025 20:46:05.096] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/13600, l='ServerLevel[world]', x=-319.50, y=79.00, z=230.50]
+[01Jul2025 20:46:15.547] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/13644, l='ServerLevel[world]', x=-362.50, y=78.00, z=240.50]
+[01Jul2025 20:46:35.747] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/13738, l='ServerLevel[world]', x=-376.50, y=77.00, z=229.50]
+[01Jul2025 20:46:42.797] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/13752, l='ServerLevel[world]', x=-339.50, y=77.00, z=237.50]
+[01Jul2025 20:46:51.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was shot by Skeleton
+[01Jul2025 20:46:59.248] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/13991, l='ServerLevel[world]', x=-393.50, y=82.00, z=373.50]
+[01Jul2025 20:47:05.945] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/14167, l='ServerLevel[world]', x=-326.50, y=77.00, z=235.50]
+[01Jul2025 20:47:20.286] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_leggings] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[01Jul2025 20:47:20.287] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_shield] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[01Jul2025 20:47:20.287] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_chestplate] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[01Jul2025 20:47:20.287] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_melee] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[01Jul2025 20:47:20.287] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_shoes] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[01Jul2025 20:47:20.287] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_range] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[01Jul2025 20:47:20.287] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_helmet] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[01Jul2025 20:47:20.287] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_digger] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[01Jul2025 20:47:20.287] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:efficient_repairs_less_material_cost] from power ResourceKey[apoli:configured_power / origins-classes:efficient_repairs]
+[01Jul2025 20:47:20.287] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:efficient_repairs_more_combine_durability] from power ResourceKey[apoli:configured_power / origins-classes:efficient_repairs]
+[01Jul2025 20:47:20.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 has made the advancement [Diamonds!]
+[01Jul2025 20:47:23.595] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/14443, l='ServerLevel[world]', x=-324.50, y=78.00, z=336.50]
+[01Jul2025 20:47:26.196] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/14452, l='ServerLevel[world]', x=-319.50, y=79.00, z=232.50]
+[01Jul2025 20:47:30.397] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/14487, l='ServerLevel[world]', x=-325.50, y=77.00, z=237.50]
+[01Jul2025 20:47:34.349] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/14545, l='ServerLevel[world]', x=-395.50, y=82.00, z=372.50]
+[01Jul2025 20:47:35.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Necromancer]
+[01Jul2025 20:47:45.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was mauled by Necromancer's undead
+[01Jul2025 20:47:49.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Necromancer]
+[01Jul2025 20:47:54.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Necromancer]
+[01Jul2025 20:47:57.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Necromancer]
+[01Jul2025 20:48:22.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 20:48:33.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Lightning Bolt]
+[01Jul2025 20:48:34.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Lightning Bolt]
+[01Jul2025 20:48:37.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Shadow_Heart1306]
+[01Jul2025 20:48:38.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 burned to death
+[01Jul2025 20:48:52.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set the weather to rain & thunder]
+[01Jul2025 20:49:00.098] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/15645, l='ServerLevel[world]', x=-417.50, y=81.00, z=371.50]
+[01Jul2025 20:49:00.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Shadow_Heart1306]
+[01Jul2025 20:49:15.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Lightning Bolt]
+[01Jul2025 20:49:16.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Lightning Bolt]
+[01Jul2025 20:49:19.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 20:49:25.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Lightning Bolt]
+[01Jul2025 20:49:36.750] [Worker-Main1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[01Jul2025 20:49:36.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Lightning Bolt]
+[01Jul2025 20:49:38.703] [Worker-Main7/WARN] [ModernFix/]: The namespace dungeons_enhanced contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[01Jul2025 20:49:41.874] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=75, z=39} BlockPos{x=47, y=73, z=39}
+[01Jul2025 20:49:42.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 20:49:51.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Lightning Bolt]
+[01Jul2025 20:49:53.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Shadow_Heart1306]
+[01Jul2025 20:49:53.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 went up in flames
+[01Jul2025 20:50:11.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Shadow_Heart1306]
