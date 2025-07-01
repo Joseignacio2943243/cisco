@@ -44424,3 +44424,45 @@ java.lang.IllegalArgumentException: null
 [01Jul2025 23:19:46.133] [IO-Worker-14/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-17
 [01Jul2025 23:19:46.255] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jul2025 23:19:46.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 23:24:46.098] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-18
+[01Jul2025 23:24:46.098] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-19
+[01Jul2025 23:24:46.102] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-20
+[01Jul2025 23:24:46.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 23:24:46.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 23:25:39.539] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing network.pipeline.LegacyQueryHandlerMixin from pluto.mixins.json into net.minecraft.server.network.LegacyQueryHandler
+[01Jul2025 23:25:39.542] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing network.pipeline.Varint21FrameDecoderMixin from pluto.mixins.json into net.minecraft.network.Varint21FrameDecoder
+[01Jul2025 23:25:39.548] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/abdelaziz/pluto/common/network/VarintByteDecoder$DecodeResult
+[01Jul2025 23:25:39.552] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing networkstats.NettyPacketEncoderMixin from connectivity.mixins.json into net.minecraft.network.PacketEncoder
+[01Jul2025 23:25:39.557] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/ConnectionProtocol
+[01Jul2025 23:25:39.563] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing ConnectionProtocolMixin from connectivity.mixins.json into net.minecraft.network.ConnectionProtocol$PacketSet
+[01Jul2025 23:25:39.563] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Renaming synthetic method lambda$onAdd$1(Ljava/lang/Class;Lnet/minecraft/network/FriendlyByteBuf;)Lnet/minecraft/network/protocol/Packet; to md8c708a$lambda$onAdd$1$0 in connectivity.mixins.json:ConnectionProtocolMixin
+[01Jul2025 23:25:39.563] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Renaming synthetic method lambda$onAdd$0(Ljava/lang/Class;Lnet/minecraft/network/FriendlyByteBuf;)Lnet/minecraft/network/protocol/Packet; to md8c708a$lambda$onAdd$0$1 in connectivity.mixins.json:ConnectionProtocolMixin
+[01Jul2025 23:25:39.581] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundCustomChatCompletionsPacket$Action
+[01Jul2025 23:25:39.591] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing MapItemDataPacketMixin from moonlight-common.mixins.json into net.minecraft.network.protocol.game.ClientboundMapItemDataPacket
+[01Jul2025 23:25:39.592] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Renaming synthetic method lambda$moonlight$sendCustomDecorations$1(I)[Lnet/mehvahdjukaar/moonlight/api/map/CustomMapDecoration; to md8c708a$lambda$moonlight$sendCustomDecorations$1$0 in moonlight-common.mixins.json:MapItemDataPacketMixin
+[01Jul2025 23:25:39.592] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Renaming synthetic method lambda$moonlight$sendCustomDecorations$0(Lnet/minecraft/network/FriendlyByteBuf;Lnet/mehvahdjukaar/moonlight/api/map/CustomMapDecoration;)Lnet/mehvahdjukaar/moonlight/api/map/CustomMapDecoration; to md8c708a$lambda$moonlight$sendCustomDecorations$0$1 in moonlight-common.mixins.json:MapItemDataPacketMixin
+[01Jul2025 23:25:39.612] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundRecipePacket$State
+[01Jul2025 23:25:39.622] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/ServerScoreboard$Method
+[01Jul2025 23:25:39.633] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundClientCommandPacket$Action
+[01Jul2025 23:25:39.635] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/inventory/ClickType
+[01Jul2025 23:25:39.639] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundInteractPacket$ActionType
+[01Jul2025 23:25:39.644] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundPlayerActionPacket$Action
+[01Jul2025 23:25:39.645] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundPlayerCommandPacket$Action
+[01Jul2025 23:25:39.648] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundResourcePackPacket$Action
+[01Jul2025 23:25:39.649] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundSeenAdvancementsPacket$Action
+[01Jul2025 23:25:39.651] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/CommandBlockEntity$Mode
+[01Jul2025 23:25:39.653] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/StructureBlockEntity$UpdateType
+[01Jul2025 23:25:40.035] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.maxCapacityPerThread: 4096
+[01Jul2025 23:25:40.035] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.ratio: 8
+[01Jul2025 23:25:40.035] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.chunkSize: 32
+[01Jul2025 23:25:40.035] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.blocking: false
+[01Jul2025 23:29:46.097] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-21
+[01Jul2025 23:29:46.098] [IO-Worker-21/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-22
+[01Jul2025 23:29:46.098] [IO-Worker-21/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-23
+[01Jul2025 23:29:46.108] [IO-Worker-21/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-24
+[01Jul2025 23:29:46.108] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
+[01Jul2025 23:29:46.108] [IO-Worker-21/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
+[01Jul2025 23:29:46.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 23:29:46.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 23:30:57.194] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[01Jul2025 23:30:57.195] [IO-Worker-27/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
