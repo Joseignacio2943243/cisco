@@ -3570,3 +3570,65 @@ java.lang.IllegalArgumentException: null
 [01Jul2025 21:29:16.896] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/69892, l='ServerLevel[world]', x=114.50, y=72.00, z=-577.50]
 [01Jul2025 21:29:59.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
 [01Jul2025 21:30:27.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> pasa tus kords
+[01Jul2025 21:31:48.763] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[01Jul2025 21:32:11.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 was slain by Esdras the Eager
+[01Jul2025 21:32:33.880] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guardian['Esdras the Eager'/75981, l='ServerLevel[world]', x=40.36, y=59.82, z=-198.45] died: Esdras the Eager was slain by Gress
+[01Jul2025 21:32:35.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [It Is Time For an Upgrade, Isn't It?]
+[01Jul2025 21:33:10.506] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[01Jul2025 21:34:02.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_Heart1306 moved wrongly!
+[01Jul2025 21:34:06.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 was slain by Deepling
+[01Jul2025 21:35:01.549] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/79845, l='ServerLevel[world]', x=26.50, y=72.00, z=-550.50]
+[01Jul2025 21:35:24.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Brog the Bulwark'/77643, l='ServerLevel[world]', x=29.87, y=59.00, z=-455.13] died: Brog the Bulwark was slain by Gress
+[01Jul2025 21:36:19.845] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/81257, l='ServerLevel[world]', x=112.50, y=72.00, z=-575.50]
+[01Jul2025 21:36:46.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 has made the advancement [Acquire Hardware]
+[01Jul2025 21:36:56.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 has made the advancement [Isn't It Iron Pick]
+[01Jul2025 21:36:57.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 has made the advancement [Suit Up]
+[01Jul2025 21:37:04.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Skeleton
+[01Jul2025 21:37:04.257] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[01Jul2025 21:37:04.257] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[01Jul2025 21:37:04.258] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[01Jul2025 21:37:04.258] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[01Jul2025 21:37:04.258] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[01Jul2025 21:37:42.746] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/83736, l='ServerLevel[world]', x=27.50, y=72.00, z=-550.50]
+[01Jul2025 21:37:58.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Skeleton
+[01Jul2025 21:39:21.747] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/87671, l='ServerLevel[world]', x=32.50, y=70.00, z=-548.50]
+[01Jul2025 21:40:15.996] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/87807, l='ServerLevel[world]', x=28.50, y=72.00, z=-552.50]
+[01Jul2025 21:40:59.102] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 211
+[01Jul2025 21:40:59.102] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[01Jul2025 21:40:59.329] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[01Jul2025 21:40:59.329] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[01Jul2025 21:40:59.329] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[01Jul2025 21:40:59.330] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[01Jul2025 21:40:59.561] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[01Jul2025 21:40:59.561] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[01Jul2025 21:40:59.601] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[01Jul2025 21:40:59.601] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[01Jul2025 21:40:59.601] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[01Jul2025 21:40:59.644] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[01Jul2025 21:41:00.548] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[01Jul2025 21:41:00.553] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[01Jul2025 21:41:00.557] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 225
+[01Jul2025 21:41:00.665] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7031fc80
+[01Jul2025 21:41:00.675] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NachoGOD[/127.102.51.68:43703] logged in with entity id 87913 at (320.52336817555386, 63.0, -73.30000001192093)
+[01Jul2025 21:41:00.708] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to NachoGOD
+[01Jul2025 21:41:00.708] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to NachoGOD
+[01Jul2025 21:41:00.709] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to NachoGOD
+[01Jul2025 21:41:00.709] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to NachoGOD
+[01Jul2025 21:41:00.710] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to NachoGOD
+[01Jul2025 21:41:00.711] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to NachoGOD
+[01Jul2025 21:41:00.711] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to NachoGOD
+[01Jul2025 21:41:00.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoGOD joined the game
+[01Jul2025 21:41:00.784] [Server thread/INFO] [Jade/]: Syncing config to NachoGOD (10bf5ed9-8ab6-3e0c-a9f7-96d604f34895)
+[01Jul2025 21:41:00.791] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to NachoGOD...
+[01Jul2025 21:41:00.792] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[01Jul2025 21:41:00.792] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to NachoGOD
+[01Jul2025 21:41:03.749] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/88458, l='ServerLevel[world]', x=113.50, y=72.00, z=-577.50]
+[01Jul2025 21:41:16.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Shadow_Heart1306) moved wrongly! 1.458740234375
+[01Jul2025 21:41:16.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Shadow_Heart1306) moved wrongly! 1.458740234375
+[01Jul2025 21:41:16.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Shadow_Heart1306) moved wrongly! 1.458740234375
+[01Jul2025 21:41:16.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Shadow_Heart1306) moved wrongly! 1.458740234375
+[01Jul2025 21:41:16.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Shadow_Heart1306) moved wrongly! 1.458740234375
+[01Jul2025 21:41:16.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Shadow_Heart1306) moved wrongly! 1.458740234375
+[01Jul2025 21:41:16.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Shadow_Heart1306) moved wrongly! 1.458740234375
+[01Jul2025 21:41:16.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Shadow_Heart1306) moved wrongly! 1.458740234375
+[01Jul2025 21:41:49.248] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/90322, l='ServerLevel[world]', x=421.50, y=73.00, z=-53.50]
