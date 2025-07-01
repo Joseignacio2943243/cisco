@@ -3644,3 +3644,23 @@ java.lang.IllegalArgumentException: null
 [01Jul2025 21:49:19.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has completed the challenge [Serious Dedication]
 [01Jul2025 21:49:29.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [What a Dungeon!]
 [01Jul2025 21:50:28.301] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/101250, l='ServerLevel[world]', x=333.50, y=73.00, z=-430.50]
+[01Jul2025 21:52:37.866] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Shadow_Heart1306'/102839, l='ServerLevel[world]', x=136.83, y=60.56, z=-807.59] died: Shadow_Heart1306 was slain by Gress
+[01Jul2025 21:53:14.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 was slain by Kex the Mean
+[01Jul2025 21:53:24.675] [Worker-Main2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=108, y=-12, z=-77}
+[01Jul2025 21:53:24.675] [Worker-Main2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=109, y=-12, z=-78}
+[01Jul2025 21:53:24.675] [Worker-Main2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=108, y=-12, z=-79}
+[01Jul2025 21:53:24.676] [Worker-Main2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=107, y=-12, z=-78}
+[01Jul2025 21:53:25.148] [Worker-Main5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[01Jul2025 21:53:42.240] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:53:42.240] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:53:42.240] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:53:42.240] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:54:14.748] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/114807, l='ServerLevel[world]', x=345.50, y=72.00, z=-461.50]
+[01Jul2025 21:54:17.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoGOD has made the advancement [Tower of Power]
+[01Jul2025 21:55:36.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> pene
+[01Jul2025 21:55:45.850] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[01Jul2025 21:55:45.850] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[01Jul2025 21:57:22.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 was slain by Meature
+[01Jul2025 21:58:21.198] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/117364, l='ServerLevel[world]', x=33.50, y=70.00, z=-550.50]
+[01Jul2025 21:59:09.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 was slain by Deepling Brute
+[01Jul2025 22:00:10.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 was slain by Cursed Armor
