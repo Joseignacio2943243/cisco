@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/flowering_azalea_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-01 22:03:12 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/manipulation_essence_to_mycelium": {
     "criteria": {
       "has_journal": "2025-07-01 20:17:38 +0000"
@@ -311,6 +317,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-07-01 22:02:56 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/greater_experience_gem": {
     "criteria": {
       "has_journal": "2025-07-01 20:17:38 +0000"
@@ -350,6 +362,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2025-07-01 20:17:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-01 22:03:12 +0000"
     },
     "done": true
   },
@@ -462,6 +480,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/azalea_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-01 22:03:12 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/mangrove_drakkar": {
     "criteria": {
       "in_water": "2025-07-01 20:21:52 +0000"
@@ -483,6 +507,12 @@
   "aether:recipes/redstone/skyroot_tripwire_hook": {
     "criteria": {
       "has_string": "2025-07-01 20:27:55 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-01 22:03:12 +0000"
     },
     "done": true
   },
@@ -579,6 +609,12 @@
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-07-01 20:17:38 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-01 22:03:12 +0000"
     },
     "done": true
   },
@@ -1868,6 +1904,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-07-01 22:02:56 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/quantify_key": {
     "criteria": {
       "has_template": "2025-07-01 20:17:38 +0000"
@@ -1969,6 +2011,12 @@
   "ars_nouveau:recipes/ars_nouveau/ritual_conjure_island_desert": {
     "criteria": {
       "has_journal": "2025-07-01 20:17:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-01 22:03:12 +0000"
     },
     "done": true
   },
@@ -2197,6 +2245,12 @@
     },
     "done": true
   },
+  "twigs:recipes/stick_from_twig": {
+    "criteria": {
+      "has_item": "2025-07-01 22:05:44 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/dark_oak_brigg": {
     "criteria": {
       "in_water": "2025-07-01 20:21:52 +0000"
@@ -2224,6 +2278,12 @@
   "morevillagers:recipes/mining_bench": {
     "criteria": {
       "has_iron_pickaxe": "2025-07-01 20:23:46 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/butter": {
+    "criteria": {
+      "has_water_bucket": "2025-07-01 22:02:56 +0000"
     },
     "done": true
   },
@@ -2570,6 +2630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-01 22:03:12 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-07-01 20:17:38 +0000"
@@ -2697,6 +2763,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-01 22:03:12 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-07-01 20:17:38 +0000"
@@ -2718,6 +2790,12 @@
   "ars_nouveau:recipes/building_blocks/manipulation_essence_to_diorite": {
     "criteria": {
       "has_journal": "2025-07-01 20:17:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-01 22:02:56 +0000"
     },
     "done": true
   },
@@ -3202,6 +3280,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-01 22:03:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-07-01 20:27:55 +0000"
@@ -3247,6 +3331,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-07-01 20:17:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-07-01 22:02:56 +0000"
     },
     "done": true
   },
@@ -3441,6 +3531,12 @@
   "farmersdelight:recipes/farmersdelight/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-07-01 20:27:42 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-01 22:03:12 +0000"
     },
     "done": true
   },
@@ -3859,6 +3955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-01 22:03:12 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sconce": {
     "criteria": {
       "has_journal": "2025-07-01 20:17:38 +0000"
@@ -3955,6 +4057,12 @@
     },
     "done": false
   },
+  "aether:recipes/transportation/skyroot_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-01 22:03:12 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/archwood_chest": {
     "criteria": {
       "has_journal": "2025-07-01 20:17:38 +0000"
@@ -4037,6 +4145,12 @@
   "smallships:recipes/transportation/jungle_brigg": {
     "criteria": {
       "in_water": "2025-07-01 20:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-01 22:03:12 +0000"
     },
     "done": true
   },
