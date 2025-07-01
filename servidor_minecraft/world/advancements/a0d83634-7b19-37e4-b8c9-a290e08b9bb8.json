@@ -690,6 +690,12 @@
     },
     "done": true
   },
+  "undead_unleashed:boo": {
+    "criteria": {
+      "boo": "2025-07-01 20:50:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-07-01 20:19:47 +0000"
@@ -1449,6 +1455,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-01 20:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-01 20:53:32 +0000"
+    },
+    "done": true
+  },
   "constructionwand:recipes/tools/diamond_wand": {
     "criteria": {
       "has_item": "2025-07-01 20:19:47 +0000"
@@ -1772,6 +1790,12 @@
       "log_spam_fixer": "2025-07-01 20:14:19 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-01 20:53:32 +0000"
+    },
+    "done": true
   },
   "ars_nouveau:recipes/misc/wing_to_leather": {
     "criteria": {
@@ -2421,6 +2445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-07-01 20:53:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-01 20:40:28 +0000"
@@ -2607,6 +2637,12 @@
     },
     "done": true
   },
+  "savage_and_ravage:adventure/creeper_spores": {
+    "criteria": {
+      "creeper_spores": "2025-07-01 20:53:45 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-07-01 20:14:17 +0000"
@@ -2766,6 +2802,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-01 20:53:32 +0000"
+    },
+    "done": true
+  },
   "vinery:spruce_wine_rack_big": {
     "criteria": {
       "has_spruce_planks": "2025-07-01 20:40:28 +0000"
@@ -2865,6 +2907,12 @@
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2025-07-01 20:19:34 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2025-07-01 20:53:34 +0000"
     },
     "done": true
   },
@@ -3386,6 +3434,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-07-01 20:55:58 +0000",
       "atmospheric:rainforest_basin": "2025-07-01 20:23:20 +0000",
       "atmospheric:rainforest": "2025-07-01 20:23:19 +0000",
       "minecraft:birch_forest": "2025-07-01 20:16:00 +0000",
@@ -3395,8 +3444,10 @@
       "minecraft:river": "2025-07-01 20:20:11 +0000",
       "atmospheric:aspen_parkland": "2025-07-01 20:35:12 +0000",
       "minecraft:forest": "2025-07-01 20:15:59 +0000",
+      "minecraft:lush_caves": "2025-07-01 20:52:36 +0000",
       "minecraft:ocean": "2025-07-01 20:17:20 +0000",
       "atmospheric:laurel_forest": "2025-07-01 20:16:01 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-01 20:51:49 +0000",
       "minecraft:savanna": "2025-07-01 20:14:19 +0000"
     },
     "done": false
@@ -3428,6 +3479,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-07-01 20:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-01 20:53:32 +0000"
     },
     "done": true
   },
@@ -3866,6 +3923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-01 20:53:32 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/dark_oak_galley": {
     "criteria": {
       "in_water": "2025-07-01 20:21:52 +0000"
@@ -3894,6 +3957,12 @@
     "criteria": {
       "requirement": "2025-07-01 20:26:32 +0000",
       "log_spam_fixer": "2025-07-01 20:14:19 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2025-07-01 20:56:08 +0000"
     },
     "done": true
   },
@@ -4228,6 +4297,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-01 20:53:32 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-07-01 20:14:17 +0000"
@@ -4549,6 +4624,12 @@
   "ars_nouveau:recipes/ars_nouveau/arcane_pedestal": {
     "criteria": {
       "has_journal": "2025-07-01 20:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-01 20:53:32 +0000"
     },
     "done": true
   },

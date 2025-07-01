@@ -3161,3 +3161,101 @@ java.lang.IllegalArgumentException: null
 [01Jul2025 20:49:53.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Shadow_Heart1306]
 [01Jul2025 20:49:53.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 went up in flames
 [01Jul2025 20:50:11.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Shadow_Heart1306]
+[01Jul2025 20:50:18.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Shadow_Heart1306]
+[01Jul2025 20:50:24.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Lightning Bolt]
+[01Jul2025 20:50:25.410] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15882, l='ServerLevel[world]', x=-556.49, y=62.00, z=273.30] died, message: 'Unemployed was slain by Gress'
+[01Jul2025 20:50:27.397] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[01Jul2025 20:50:27.397] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[01Jul2025 20:50:27.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Shadow_Heart1306]
+[01Jul2025 20:50:28.786] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15902, l='ServerLevel[world]', x=-556.49, y=62.00, z=273.69] died, message: 'Unemployed was slain by Gress'
+[01Jul2025 20:50:35.027] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15903, l='ServerLevel[world]', x=-557.32, y=62.00, z=272.93] died, message: 'Unemployed was slain by Gress'
+[01Jul2025 20:50:35.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Boo!]
+[01Jul2025 20:50:43.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Applied effect Regeneration to Shadow_Heart1306]
+[01Jul2025 20:50:45.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Shadow_Heart1306]
+[01Jul2025 20:50:48.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Applied effect Regeneration to Shadow_Heart1306]
+[01Jul2025 20:50:52.598] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=35, y=-58, z=-32}
+[01Jul2025 20:50:53.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Lightning Bolt]
+[01Jul2025 20:50:53.837] [Worker-Main6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[01Jul2025 20:50:55.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Shadow_Heart1306]
+[01Jul2025 20:50:59.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Applied effect Regeneration to Shadow_Heart1306]
+[01Jul2025 20:50:59.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Applied effect Regeneration to Shadow_Heart1306]
+[01Jul2025 20:51:02.714] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/PathFindingStatus
+[01Jul2025 20:51:02.715] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/AbstractAdvancedPathNavigate$RestrictionType
+[01Jul2025 20:51:02.718] [AN stolen Minecolonies Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/SurfaceType
+[01Jul2025 20:51:12.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 20:51:24.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Lightning Bolt]
+[01Jul2025 20:51:31.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 20:51:34.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Lightning Bolt]
+[01Jul2025 20:51:41.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Lightning Bolt]
+[01Jul2025 20:51:48.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Lightning Bolt]
+[01Jul2025 20:51:53.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Shadow_Heart1306]
+[01Jul2025 20:52:07.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Lightning Bolt]
+[01Jul2025 20:52:16.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Applied effect Regeneration to Shadow_Heart1306]
+[01Jul2025 20:52:21.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Lightning Bolt]
+[01Jul2025 20:52:26.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Applied effect Regeneration to Shadow_Heart1306]
+[01Jul2025 20:52:33.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 has made the advancement [Apothic Affixes]
+[01Jul2025 20:52:35.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Applied effect Saturation to Shadow_Heart1306]
+[01Jul2025 20:52:41.793] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=-48, z=-26}
+[01Jul2025 20:52:41.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved too quickly! 7.658394716162832,-7.083633515299724,-0.18553582642260835
+[01Jul2025 20:52:41.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 20:52:41.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4202ms or 84 ticks behind
+[01Jul2025 20:52:43.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 has made the advancement [Stone Age]
+[01Jul2025 20:52:47.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Lightning Bolt]
+[01Jul2025 20:52:49.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Lightning Bolt]
+[01Jul2025 20:52:53.621] [Worker-Main5/WARN] [ModernFix/]: The namespace mowziesmobs contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[01Jul2025 20:52:58.994] [Worker-Main2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=367, y=39, z=-750}
+[01Jul2025 20:53:00.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 20:53:17.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 20:53:23.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 20:53:31.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 20:53:32.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 20:53:32.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 20:53:34.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [What Was That!?]
+[01Jul2025 20:53:45.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Creepie Crawly]
+[01Jul2025 20:53:51.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Mutant Creeper]
+[01Jul2025 20:54:15.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Shadow_Heart1306]
+[01Jul2025 20:54:34.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Mutant Zombie]
+[01Jul2025 20:54:38.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Zombie
+[01Jul2025 20:54:44.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 20:54:52.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Lightning Bolt]
+[01Jul2025 20:54:54.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 20:54:54.675] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[01Jul2025 20:54:54.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> yiyi papa ff
+[01Jul2025 20:54:58.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Lightning Bolt]
+[01Jul2025 20:55:00.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 20:55:22.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set the weather to clear]
+[01Jul2025 20:55:38.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Shadow_Heart1306]
+[01Jul2025 20:56:05.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> mira arriba
+[01Jul2025 20:56:07.270] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[01Jul2025 20:56:07.277] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[01Jul2025 20:56:18.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> a benese
+[01Jul2025 20:56:23.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> sube
+[01Jul2025 20:56:31.456] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 20:56:31.456] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 20:56:31.457] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 20:56:31.457] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 20:56:46.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
+[01Jul2025 20:57:21.833] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[01Jul2025 20:57:30.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Epic!]
+[01Jul2025 20:57:30.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Mutant Skeleton]
+[01Jul2025 20:57:40.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Suit Up]
+[01Jul2025 20:57:56.934] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot barrel in minecraft:overworld at BlockPos{x=88, y=68, z=-699} as the loot table 'dungeons_arise:chests/mushroom_house/mushroom_house_barrel' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[01Jul2025 20:58:09.299] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[01Jul2025 20:58:16.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Applied effect Night Vision to Joselin23]
+[01Jul2025 20:58:22.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Mutant Skeleton]
+[01Jul2025 20:58:41.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Mutant Skeleton]
+[01Jul2025 20:58:48.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> no me acuerdo
+[01Jul2025 20:58:50.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 was shot by Mutant Skeleton
+[01Jul2025 20:59:04.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> su cuerpo flotando en el mar we
+[01Jul2025 20:59:05.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> JAJAJAJAJA
+[01Jul2025 20:59:12.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Shadow_Heart1306 to Joselin23]
+[01Jul2025 20:59:19.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> ese wey se lo encontro de verdad
+[01Jul2025 20:59:21.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> JAAJAJA
+[01Jul2025 20:59:22.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 has made the advancement ['X' Marks the Spot]
+[01Jul2025 20:59:30.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 has made the advancement [Not a Diamond]
+[01Jul2025 20:59:33.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 20:59:36.213] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/Action
+[01Jul2025 20:59:36.213] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/SortingHandler
+[01Jul2025 20:59:36.215] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/ScrollWheelHandler
+[01Jul2025 20:59:36.218] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/InventoryHandler
+[01Jul2025 21:00:00.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> ke
