@@ -379,6 +379,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_from_pebble": {
+    "criteria": {
+      "has_item": "2025-07-01 21:10:04 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2025-07-01 20:33:22 +0000"
@@ -637,6 +643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-07-01 21:13:25 +0000"
+    },
+    "done": true
+  },
   "dreamland:grant_book_on_first_join": {
     "criteria": {
       "tick": "2025-07-01 20:33:23 +0000"
@@ -865,6 +877,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/pot": {
+    "criteria": {
+      "has_terracotta": "2025-07-01 21:13:25 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/ars_elemental/stripped_yellow_archwood": {
     "criteria": {
       "has_journal": "2025-07-01 20:33:22 +0000"
@@ -971,18 +989,22 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-07-01 21:11:31 +0000",
+      "minecraft:deep_ocean": "2025-07-01 21:18:12 +0000",
       "minecraft:sunflower_plains": "2025-07-01 21:04:28 +0000",
       "minecraft:birch_forest": "2025-07-01 20:35:54 +0000",
       "minecraft:beach": "2025-07-01 20:44:40 +0000",
       "minecraft:dark_forest": "2025-07-01 20:35:10 +0000",
       "minecraft:lukewarm_ocean": "2025-07-01 20:34:25 +0000",
       "minecraft:river": "2025-07-01 20:35:24 +0000",
+      "minecraft:jagged_peaks": "2025-07-01 21:11:24 +0000",
       "atmospheric:aspen_parkland": "2025-07-01 20:52:57 +0000",
       "minecraft:forest": "2025-07-01 20:36:23 +0000",
       "minecraft:lush_caves": "2025-07-01 20:52:42 +0000",
       "minecraft:ocean": "2025-07-01 20:35:27 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-01 20:55:08 +0000",
       "atmospheric:laurel_forest": "2025-07-01 20:51:47 +0000",
+      "minecraft:meadow": "2025-07-01 21:07:19 +0000",
       "minecraft:savanna": "2025-07-01 20:33:24 +0000",
       "minecraft:plains": "2025-07-01 21:04:15 +0000"
     },
@@ -1382,6 +1404,12 @@
   "ars_nouveau:recipes/ars_nouveau/volcanic_sourcelink": {
     "criteria": {
       "has_journal": "2025-07-01 20:33:23 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rocky_dirt": {
+    "criteria": {
+      "has_item": "2025-07-01 21:10:04 +0000"
     },
     "done": true
   },
@@ -2121,6 +2149,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2025-07-01 20:33:23 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2025-07-01 21:12:38 +0000"
     },
     "done": true
   },

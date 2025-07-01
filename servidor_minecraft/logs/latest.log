@@ -3398,3 +3398,126 @@ java.lang.IllegalArgumentException: null
 [01Jul2025 21:10:30.675] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [01Jul2025 21:10:30.675] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [01Jul2025 21:10:30.675] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:10:39.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 21:10:44.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> gress explota un creper
+[01Jul2025 21:10:47.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> :D
+[01Jul2025 21:10:49.148] [Worker-Main7/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: -861 97 -1095
+[01Jul2025 21:10:52.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> D:
+[01Jul2025 21:10:59.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set the weather to rain & thunder]
+[01Jul2025 21:11:06.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 21:11:14.536] [Worker-Main1/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: -1386 99 -609
+[01Jul2025 21:11:18.670] [Worker-Main5/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: -1406 150 -957
+[01Jul2025 21:11:20.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 21:11:28.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> que entre nacho alv
+[01Jul2025 21:11:29.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 21:11:46.662] [Worker-Main2/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: -1441 102 -602
+[01Jul2025 21:11:47.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 21:11:54.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 21:12:02.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joselin23 moved too quickly! -5.4820141471557235,-3.374999184257973,-7.971378827670833
+[01Jul2025 21:12:05.299] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=247, y=-11, z=-115}
+[01Jul2025 21:12:30.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> yo voy bien
+[01Jul2025 21:12:33.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 21:12:38.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 21:13:01.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:13:05.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was blown up by Creeper
+[01Jul2025 21:13:20.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> ke
+[01Jul2025 21:13:22.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[01Jul2025 21:13:32.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> lo normal
+[01Jul2025 21:13:35.406] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-58, z=-81}
+[01Jul2025 21:13:35.406] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=45, y=-57, z=-79}
+[01Jul2025 21:13:35.406] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=-78}
+[01Jul2025 21:13:35.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved too quickly! -15.269919289867062,3.6840197061378035,-8.655944465445316
+[01Jul2025 21:13:35.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> pero explotan x40
+[01Jul2025 21:14:16.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Gress to Joselin23]
+[01Jul2025 21:14:23.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Spectator Mode]
+[01Jul2025 21:14:24.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> mira
+[01Jul2025 21:14:28.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> vuela y mira la casa
+[01Jul2025 21:14:46.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 21:15:02.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:15:20.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was blown up by Creeper
+[01Jul2025 21:15:21.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved too quickly! -3.280459388426607,-7.063345053846973,6.605741986384714
+[01Jul2025 21:15:21.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18892ms or 377 ticks behind
+[01Jul2025 21:15:21.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joselin23 moved too quickly! 5.6788356875283625,0.0,8.541981611355482
+[01Jul2025 21:15:24.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> ALABERGA
+[01Jul2025 21:15:31.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> JAJAJAJA
+[01Jul2025 21:15:32.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> SI
+[01Jul2025 21:15:35.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Gress to Joselin23]
+[01Jul2025 21:15:41.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> ahorita le bajo
+[01Jul2025 21:15:46.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Gress to Joselin23]
+[01Jul2025 21:15:54.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> ia
+[01Jul2025 21:15:58.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Houston, We Have A Problem]
+[01Jul2025 21:16:02.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Shadow_Heart1306]
+[01Jul2025 21:16:04.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
+[01Jul2025 21:16:07.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:16:15.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:16:20.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:16:21.718] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/25276, l='ServerLevel[world]', x=-45.50, y=71.00, z=-735.00] was struck by lightning LightningBolt['Lightning Bolt'/43758, l='ServerLevel[world]', x=-45.50, y=71.00, z=-734.50].
+[01Jul2025 21:16:22.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:16:23.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[01Jul2025 21:16:25.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Vex
+[01Jul2025 21:16:39.902] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/44605, l='ServerLevel[world]', x=-317.50, y=36.00, z=-125.50]
+[01Jul2025 21:16:41.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> no mames ress ya nose donde moriste
+[01Jul2025 21:16:58.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Mutant Creeper]
+[01Jul2025 21:17:02.098] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[01Jul2025 21:17:13.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 was slain by Mutant Creeper
+[01Jul2025 21:17:24.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> TENDRE QUE SALIR DICE
+[01Jul2025 21:17:25.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> JAJAJAJA
+[01Jul2025 21:17:28.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Shadow_Heart1306 to Joselin23]
+[01Jul2025 21:17:32.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_Heart1306 was kicked for floating too long!
+[01Jul2025 21:17:32.422] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_Heart1306 lost connection: Flying is not enabled on this server
+[01Jul2025 21:17:32.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 left the game
+[01Jul2025 21:17:32.466] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jul2025 21:17:35.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> JAJAJAJAJA
+[01Jul2025 21:17:40.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 21:17:45.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> ke entre
+[01Jul2025 21:17:47.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Vex
+[01Jul2025 21:17:54.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[01Jul2025 21:17:57.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> gg
+[01Jul2025 21:18:00.856] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 211
+[01Jul2025 21:18:00.857] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[01Jul2025 21:18:00.857] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[01Jul2025 21:18:01.064] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[01Jul2025 21:18:01.064] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[01Jul2025 21:18:01.067] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[01Jul2025 21:18:01.068] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[01Jul2025 21:18:01.283] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[01Jul2025 21:18:01.324] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[01Jul2025 21:18:01.324] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[01Jul2025 21:18:01.324] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[01Jul2025 21:18:01.324] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[01Jul2025 21:18:01.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> esta todo pasado d lanza
+[01Jul2025 21:18:01.738] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[01Jul2025 21:18:01.748] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[01Jul2025 21:18:01.800] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 225
+[01Jul2025 21:18:01.860] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@43c5760f
+[01Jul2025 21:18:01.870] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shadow_Heart1306[/127.148.239.241:50465] logged in with entity id 49037 at (21.547848140770718, 67.79661611272378, -772.6283262410351)
+[01Jul2025 21:18:01.932] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Shadow_Heart1306
+[01Jul2025 21:18:01.932] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Shadow_Heart1306
+[01Jul2025 21:18:01.933] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Shadow_Heart1306
+[01Jul2025 21:18:01.933] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Shadow_Heart1306
+[01Jul2025 21:18:01.936] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Shadow_Heart1306
+[01Jul2025 21:18:01.938] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Shadow_Heart1306
+[01Jul2025 21:18:01.938] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Shadow_Heart1306
+[01Jul2025 21:18:01.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 joined the game
+[01Jul2025 21:18:02.019] [Server thread/INFO] [Jade/]: Syncing config to Shadow_Heart1306 (63c1f849-6aea-30b1-9bf8-ab837ae00f2e)
+[01Jul2025 21:18:02.027] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Shadow_Heart1306...
+[01Jul2025 21:18:02.027] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[01Jul2025 21:18:02.028] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Shadow_Heart1306
+[01Jul2025 21:18:07.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> boi a salir un rato, tienen suerte amigos
+[01Jul2025 21:18:08.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> prefiero un permadeath :hot_face:
+[01Jul2025 21:18:18.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> cuando buelva lo follo
+[01Jul2025 21:18:29.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> como media hora
+[01Jul2025 21:18:33.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joselin23> igual les dejo un rejalo we
+[01Jul2025 21:18:49.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set the weather to clear]
+[01Jul2025 21:18:57.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
+[01Jul2025 21:19:00.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was shot by Pillager
+[01Jul2025 21:19:16.750] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/54085, l='ServerLevel[world]', x=-318.50, y=31.00, z=-141.50]
+[01Jul2025 21:19:17.850] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/54215, l='ServerLevel[world]', x=-319.50, y=35.00, z=-116.50]
+[01Jul2025 21:19:42.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joselin23 lost connection: Disconnected
+[01Jul2025 21:19:42.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 left the game
+[01Jul2025 21:20:02.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 was slain by Kex the Mean
+[01Jul2025 21:20:22.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 was slain by Skeleton
+[01Jul2025 21:20:39.889] [Worker-Main2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[01Jul2025 21:20:42.219] [Worker-Main3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=198, y=48, z=187}
+[01Jul2025 21:20:48.309] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=-48, z=-26}
+[01Jul2025 21:20:49.053] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting alexthw/ars_elemental/common/entity/MermaidEntity$Variants
