@@ -3521,3 +3521,52 @@ java.lang.IllegalArgumentException: null
 [01Jul2025 21:20:42.219] [Worker-Main3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=198, y=48, z=187}
 [01Jul2025 21:20:48.309] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=-48, z=-26}
 [01Jul2025 21:20:49.053] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting alexthw/ars_elemental/common/entity/MermaidEntity$Variants
+[01Jul2025 21:21:05.266] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/60163, l='ServerLevel[world]', x=-1267.70, y=100.00, z=-1169.30] died, message: 'Unemployed was slain by Equestrian'
+[01Jul2025 21:21:05.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Ice Bucket Challenge]
+[01Jul2025 21:21:06.462] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/60293, l='ServerLevel[world]', x=-1212.74, y=99.31, z=-1198.70] died, message: 'Fisherman was slain by Equestrian'
+[01Jul2025 21:21:08.878] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/60056, l='ServerLevel[world]', x=-1263.15, y=100.75, z=-1180.48] died, message: 'Unemployed was slain by Equestrian'
+[01Jul2025 21:21:09.302] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:21:09.302] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:21:09.302] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:21:09.302] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jul2025 21:21:21.620] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/60299, l='ServerLevel[world]', x=-1212.46, y=95.00, z=-1177.49] died, message: 'Unemployed was slain by Slugger'
+[01Jul2025 21:22:24.402] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/60326, l='ServerLevel[world]', x=-1265.85, y=101.00, z=-1198.70] died, message: 'Fletcher was slain by Zombie'
+[01Jul2025 21:22:28.155] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/60162, l='ServerLevel[world]', x=-1224.14, y=94.00, z=-1172.82] died, message: 'Unemployed was slain by Zombie'
+[01Jul2025 21:22:58.437] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[01Jul2025 21:22:58.438] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[01Jul2025 21:22:58.438] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[01Jul2025 21:22:58.446] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$Interp
+[01Jul2025 21:22:58.446] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$NoiseType
+[01Jul2025 21:22:58.447] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$FractalType
+[01Jul2025 21:22:58.448] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$CellularDistanceFunction
+[01Jul2025 21:22:58.448] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$CellularReturnType
+[01Jul2025 21:22:58.955] [Worker-Main1/WARN] [ModernFix/]: The namespace bygonenether contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[01Jul2025 21:23:00.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [We Need to Go Deeper]
+[01Jul2025 21:23:00.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Incendium]
+[01Jul2025 21:23:00.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadow_Heart1306 moved too quickly! 0.0,0.553528534129228,-9.99600055809401
+[01Jul2025 21:23:00.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6051ms or 121 ticks behind
+[01Jul2025 21:23:32.667] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5478, y=10, z=90631}
+[01Jul2025 21:23:43.234] [Worker-Main7/WARN] [ModernFix/]: The namespace savage_and_ravage contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[01Jul2025 21:23:43.243] [Worker-Main7/WARN] [ModernFix/]: The namespace repurposed_structures contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[01Jul2025 21:23:51.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 was shot by Skeleton
+[01Jul2025 21:24:33.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Strange Biomes]
+[01Jul2025 21:24:44.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 was slain by Esdras the Eager
+[01Jul2025 21:25:33.823] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[01Jul2025 21:25:35.721] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[01Jul2025 21:25:37.178] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[01Jul2025 21:25:37.277] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/65457, l='ServerLevel[world]', x=351.50, y=71.00, z=62.50]
+[01Jul2025 21:25:40.447] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: creeper for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"creeper",note:"12",powered:"false"}}
+[01Jul2025 21:25:40.485] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"8",powered:"false"}}
+[01Jul2025 21:25:40.486] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"5",powered:"false"}}
+[01Jul2025 21:26:37.597] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/67758, l='ServerLevel[world]', x=114.50, y=72.00, z=-576.50]
+[01Jul2025 21:27:33.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
+[01Jul2025 21:27:51.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Into Fire]
+[01Jul2025 21:28:03.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 has made the advancement [Barrel Booty]
+[01Jul2025 21:28:05.399] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/68983, l='ServerLevel[world]', x=34.50, y=70.00, z=-548.50]
+[01Jul2025 21:28:07.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 has made the advancement [Hunt and Gather]
+[01Jul2025 21:28:07.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadow_Heart1306 has made the advancement [I Found It Underground]
+[01Jul2025 21:28:41.946] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/69161, l='ServerLevel[world]', x=32.50, y=70.00, z=-549.50]
+[01Jul2025 21:29:14.899] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/69757, l='ServerLevel[world]', x=34.50, y=70.00, z=-549.50]
+[01Jul2025 21:29:16.896] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/69892, l='ServerLevel[world]', x=114.50, y=72.00, z=-577.50]
+[01Jul2025 21:29:59.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
+[01Jul2025 21:30:27.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> pasa tus kords

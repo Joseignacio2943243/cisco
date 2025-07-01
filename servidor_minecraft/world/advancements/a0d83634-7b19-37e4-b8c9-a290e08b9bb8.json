@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-01 21:24:06 +0000"
+    },
+    "done": true
+  },
   "vinery:big_table": {
     "criteria": {
       "has_iron_ingot": "2025-07-01 20:19:47 +0000"
@@ -311,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-01 21:24:06 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/twilightforest/iron_ladder": {
     "criteria": {
       "has_iron_bars": "2025-07-01 20:40:18 +0000"
@@ -486,6 +498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-01 21:25:11 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/wixie_hat": {
     "criteria": {
       "has_journal": "2025-07-01 20:14:17 +0000"
@@ -561,6 +579,12 @@
   "nethersdelight:recipes/nethersdelight/diamond_machete": {
     "criteria": {
       "has_diamond": "2025-07-01 20:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-07-01 21:18:58 +0000"
     },
     "done": true
   },
@@ -687,6 +711,12 @@
   "aether:recipes/decorations/skyroot_smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-07-01 20:19:47 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/nethersdelight/nether_brick_smoker": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-01 21:25:11 +0000"
     },
     "done": true
   },
@@ -876,6 +906,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/decayed_workbench": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-01 21:25:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_glazed_terracotta": {
     "criteria": {
       "has_magenta_terracotta": "2025-07-01 21:13:02 +0000"
@@ -976,6 +1012,12 @@
   "smallships:recipes/transportation/dark_oak_drakkar": {
     "criteria": {
       "in_water": "2025-07-01 20:21:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-07-01 21:25:56 +0000"
     },
     "done": true
   },
@@ -1136,6 +1178,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-07-01 21:24:01 +0000",
+      "minecraft:soul_sand_valley": "2025-07-01 21:23:01 +0000"
+    },
+    "done": false
+  },
   "immersive_armors:recipes/misc/heavy": {
     "criteria": {
       "has_item": "2025-07-01 21:04:14 +0000"
@@ -1175,6 +1224,12 @@
   "nethersdelight:recipes/nethersdelight/iron_machete": {
     "criteria": {
       "has_iron_ingot": "2025-07-01 20:19:47 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-07-01 21:23:00 +0000"
     },
     "done": true
   },
@@ -1286,6 +1341,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-01 21:23:00 +0000"
+    },
+    "done": true
+  },
   "constructionwand:recipes/tools/iron_wand": {
     "criteria": {
       "has_item": "2025-07-01 20:19:47 +0000"
@@ -1377,9 +1438,21 @@
     },
     "done": true
   },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:weeping_valley": "2025-07-01 21:24:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-07-01 21:04:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-07-01 21:21:05 +0000"
     },
     "done": true
   },
@@ -1617,6 +1690,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/brewing/haste_potion": {
+    "criteria": {
+      "has_items": "2025-07-01 21:24:06 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/birch_brigg": {
     "criteria": {
       "in_water": "2025-07-01 20:21:52 +0000"
@@ -1785,6 +1864,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-01 21:23:00 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/mythic_gem": {
     "criteria": {
       "gem": "2025-07-01 20:23:57 +0000"
@@ -1824,6 +1909,12 @@
   "aether:recipes/decorations/skyroot_jukebox": {
     "criteria": {
       "has_diamond": "2025-07-01 20:19:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-07-01 21:25:56 +0000"
     },
     "done": true
   },
@@ -2055,9 +2146,21 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "bacon_and_eggs": "2025-07-01 21:25:56 +0000"
+    },
+    "done": false
+  },
   "ecologics:recipes/ecologics/coconut_boat": {
     "criteria": {
       "in_water": "2025-07-01 20:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-01 21:25:11 +0000"
     },
     "done": true
   },
@@ -2291,6 +2394,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-01 21:21:05 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2025-07-01 20:14:17 +0000"
@@ -2474,6 +2583,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-01 21:25:11 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-07-01 20:14:17 +0000"
@@ -2495,6 +2610,12 @@
   "ars_nouveau:recipes/ars_nouveau/manipulation_essence_to_cascading_sapling": {
     "criteria": {
       "has_journal": "2025-07-01 20:14:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-07-01 21:25:56 +0000"
     },
     "done": true
   },
@@ -2715,6 +2836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-01 21:25:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-01 20:40:28 +0000"
@@ -2895,6 +3022,12 @@
     },
     "done": true
   },
+  "twigs:recipes/schist/schist": {
+    "criteria": {
+      "has_item": "2025-07-01 21:24:06 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/twilightforest/wood/dark_oak_banister": {
     "criteria": {
       "has_item": "2025-07-01 21:08:04 +0000"
@@ -2925,6 +3058,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-07-01 21:21:05 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/manipulation_essence_to_andesite": {
     "criteria": {
       "has_journal": "2025-07-01 20:14:17 +0000"
@@ -2940,6 +3079,18 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-07-01 20:14:17 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/obsidian_skull": {
+    "criteria": {
+      "has_item": "2025-07-01 21:21:05 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/nethersdelight/soul_compost_from_hoglin_hide": {
+    "criteria": {
+      "has_soil": "2025-07-01 21:24:20 +0000"
     },
     "done": true
   },
@@ -3064,6 +3215,12 @@
   "aquaculture:recipes/decorations/spruce_fish_mount": {
     "criteria": {
       "has_items": "2025-07-01 20:14:17 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite": {
+    "criteria": {
+      "has_item": "2025-07-01 21:24:06 +0000"
     },
     "done": true
   },
@@ -3296,7 +3453,8 @@
       "minecraft:evoker": "2025-07-01 20:25:16 +0000",
       "minecraft:silverfish": "2025-07-01 20:44:05 +0000",
       "minecraft:vex": "2025-07-01 20:25:15 +0000",
-      "minecraft:zombie": "2025-07-01 20:22:15 +0000"
+      "minecraft:zombie": "2025-07-01 20:22:15 +0000",
+      "minecraft:zombie_villager": "2025-07-01 21:21:42 +0000"
     },
     "done": false
   },
@@ -3396,6 +3554,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-01 21:25:11 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/iron_storage_upgrade": {
     "criteria": {
       "has_template": "2025-07-01 20:14:17 +0000"
@@ -3474,6 +3638,12 @@
     },
     "done": true
   },
+  "twigs:recipes/bloodstone/bloodstone": {
+    "criteria": {
+      "has_item": "2025-07-01 21:24:06 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:root": {
     "criteria": {
       "entered_pirate_ship": "2025-07-01 20:17:25 +0000"
@@ -3510,6 +3680,12 @@
     },
     "done": true
   },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2025-07-01 21:23:00 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/dark_oak_seat": {
     "criteria": {
       "has_plank": "2025-07-01 21:12:46 +0000"
@@ -3525,6 +3701,12 @@
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2025-07-01 20:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-01 21:25:11 +0000"
     },
     "done": true
   },
@@ -3612,6 +3794,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2025-07-01 21:23:00 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-07-01 20:14:17 +0000"
@@ -3678,6 +3866,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/nethersdelight/soul_compost_from_warped_roots": {
+    "criteria": {
+      "has_soil": "2025-07-01 21:24:20 +0000"
+    },
+    "done": true
+  },
   "transmog:recipes/transmog.creative_tab/void_fragment": {
     "criteria": {
       "has_item": "2025-07-01 20:27:19 +0000"
@@ -3711,6 +3905,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-07-01 20:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-01 21:25:11 +0000"
     },
     "done": true
   },
@@ -3975,6 +4175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-07-01 21:24:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-07-01 20:14:17 +0000"
@@ -4107,6 +4313,12 @@
     },
     "done": true
   },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:weeping_valley": "2025-07-01 21:24:33 +0000"
+    },
+    "done": false
+  },
   "ars_nouveau:recipes/ars_nouveau/mundane_belt": {
     "criteria": {
       "has_journal": "2025-07-01 20:14:17 +0000"
@@ -4134,6 +4346,12 @@
   "ars_nouveau:recipes/ars_nouveau/archwood_fence_gate": {
     "criteria": {
       "has_journal": "2025-07-01 20:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-01 21:25:11 +0000"
     },
     "done": true
   },
@@ -4194,6 +4412,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-07-01 20:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-01 21:24:06 +0000"
     },
     "done": true
   },
@@ -4412,6 +4636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-01 21:24:06 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-07-01 20:14:17 +0000"
@@ -4487,6 +4717,12 @@
   "apotheosis:affix/chests": {
     "criteria": {
       "sword": "2025-07-01 20:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-01 21:21:05 +0000"
     },
     "done": true
   },
@@ -5019,6 +5255,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-07-01 21:25:15 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:recipes/void_lily": {
     "criteria": {
       "has_amethyst_shard": "2025-07-01 20:27:24 +0000"
@@ -5073,6 +5315,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-01 21:24:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-01 21:12:46 +0000"
@@ -5118,6 +5366,12 @@
   "ars_nouveau:recipes/building_blocks/manipulation_essence_to_deepslate": {
     "criteria": {
       "has_journal": "2025-07-01 20:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-01 21:25:11 +0000"
     },
     "done": true
   },
@@ -5245,6 +5499,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-07-01 20:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-01 21:24:06 +0000"
     },
     "done": true
   },
