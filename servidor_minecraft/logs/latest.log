@@ -7342,3 +7342,4 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [18Jul2025 02:16:28.866] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/cisco/servidor_minecraft/bclib-sync (allowDelete=true)
 [18Jul2025 02:17:26.394] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress lost connection: Timed out
 [18Jul2025 02:17:26.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress left the game
+[18Jul2025 02:19:20.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ez
