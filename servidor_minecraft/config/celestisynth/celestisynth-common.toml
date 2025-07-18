@@ -79,6 +79,20 @@
 	#Enables the increasing of Poltergeist's Cosmic Steel Annihilation damage with smash height.
 	"Enable Height Damage" = true
 
+["Value Modifiers - Frostbound"]
+	#Define how much damage does the Frostbound deal in a specified attack skill.
+	#Range: 0.0 ~ 1000.0
+	"Damage: Dance of the Seven-Thousand Snowflakes" = 17.5
+	#Define how much damage does the Frostbound deal in a specified attack skill.
+	#Range: 0.0 ~ 1000.0
+	"Damage: Calamity Frost Cast" = 10.0
+	#Define the duration of the cooldown provided by the Frostbound in a particular attack skill, measured in ticks.
+	#Range: 0 ~ 1000
+	"Cooldown: Dance of the Seven-Thousand Snowflakes" = 160
+	#Define the duration of the cooldown provided by the Frostbound in a particular attack skill, measured in ticks.
+	#Range: 0 ~ 1000
+	"Cooldown: Calamity Frost Cast" = 100
+
 ["Value Modifiers - Aquaflora"]
 	#Define how much damage does the Aquaflora deal in a specified attack skill.
 	#Range: 0.0 ~ 1000.0

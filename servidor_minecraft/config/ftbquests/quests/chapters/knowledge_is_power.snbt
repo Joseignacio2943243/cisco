@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "knowledge_is_power"
-	group: "26E23D519F52B5AE"
+	group: "3B0CDB8395E59365"
 	icon: "minecraft:writable_book"
 	id: "52F4BEAF4E532963"
 	order_index: 0
@@ -38,11 +38,11 @@
 			description: [
 				"You will encounter many &cpowerful &4enemies &fthroughout your journey,You should however be especially careful of these &4foes:"
 				""
-				"&4Infernal &4enemies &fare creatures &dspontaneously &cempowered &fby &9magic &ffrom &0the fallen realm. &fThis can occur at random to any hostile mob granting them increased stats and &dspecial effects.&fThese formidable &4foes &fcan be spotted by the &5purple particles &fthey emit."
+				"&4Infernal &4enemies : &fare creatures &dspontaneously &cempowered &fby &9magic &ffrom &0the fallen realm. &fThis can occur at random to any hostile mob granting them increased stats and &dspecial effects.&fThese formidable &4foes &fcan be spotted by the &5purple particles &fthey emit."
 				""
-				"&3Dungeon Masters &fare powerful enemies who can often be found guarding chests in dungeons. In order to access these chests they will need to be defeated."
+				"&3Dungeon Masters : &fare powerful enemies who can often be found guarding chests in dungeons. In order to access these chests they will need to be defeated."
 				""
-				"&dApothic bosses &fare powerful enemies who drop &9arcane &floot when killed. A special sound and notification is given to the player when one spawns nearby."
+				"&dApothic bosses : &fare powerful enemies who drop &9arcane &floot when killed. A special sound and notification is given to the player when one spawns nearby."
 			]
 			icon: "forbidden_arcanus:eternal_obsidian_skull"
 			id: "1648B6BCB07BB084"
@@ -74,7 +74,7 @@
 				"&dEnchantments &fcan be applied to your gear at &dthe enchanting table &fand will also increase your &cstrength &fdrastically.&dThe enchanting table &fcan be configured in many ways to obtain very &cpowerful &denchantments."
 			]
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "apotheosis:gem"
 				tag: {
 					gem: "apotheosis:the_end/endersurge"
@@ -151,10 +151,15 @@
 			description: [
 				"During the age of &6heroes &egods &fcreated &cpowerful &5artifacts &fto aid mortals . However the mortals gained such immense &cpower &fthat the &egods &fthemselves became weary."
 				""
-				"A mysterious &2primordial &edeity &fknown as &0\"the Dark One\" &fsacrificed a small portion of his immense &cpower &fto lay a curse upon these &5artifacts &fso that they may only be used by those willing to undergo great sacrifice."
+				"A mysterious &2primordial &edeity &fknown as &0\"the Dark One\" &fsacrificed a small portion of his immense &cpower &fto lay a curse upon these &5artifacts &fso that only those willing to undergo great sacrifice may wield them."
 			]
 			icon: {
-				Count: 1b
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
 				id: "enigmaticlegacy:cursed_ring"
 				tag: {
 					affix_data: {
@@ -165,6 +170,7 @@
 				}
 			}
 			id: "7F414903DEAF07F3"
+			invisible: true
 			rewards: [{
 				id: "46DE04349C4EF39E"
 				item: "skilltree:wisdom_scroll"
@@ -186,7 +192,10 @@
 			description: [
 				"You possess the same &0dark &cpower &fas i which will one day allow you to wear my equipment."
 				""
-				"&0The Dark One &ffears what stirs within you and will attempt to make your journey harder at certain points:"
+				"However to fully awaken it and ascend to &egodhood &fyou will need to defeat &4the fell king &fand absorb the &2primordial &fessence he has acquired from &0the realm of the fallen."
+				""
+				"&0The Dark One &fwishes to prevent your Ascent to &egodhood &fhowever and will make your journey harder at certain"
+				"points:"
 				""
 				"&aTrial 1&f :  Begins at the start of your journey increasing enemy cohesion , lethality in addition the possibility of a blood moon."
 				""

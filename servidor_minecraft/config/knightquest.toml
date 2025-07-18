@@ -26,32 +26,31 @@
 	"Should axe throwables apply poison effect" = false
 
 ["Netherman Configuration"]
-	"Can the Netherman be summoned?" = true
-	"Should spawn a lightning bolt when summoned?" = true
-	"Should generate particles when spawning?" = true
-	#Probability of teleporting when hit
-	#Range: 0.0 ~ 1.0
-	"Teleport Probability" = 0.5
-	#Should it restore blocks converted to lava back to their original state after dying?
-	"Restore Blocks Post Death" = true
-	#Amount of experience dropped upon death
+	#Range: 100.0 ~ 2000.0
+	"How much health should the Netherman spawn with?" = 450.0
+	#Range: 6.0 ~ 50.0
+	"Amount of damage dealt per normal hit" = 16.0
+	"Should the Netherman teleport when hit?" = true
+	#Random number between the interval stated below
+	#Range: 0 ~ 30
+	"Minimum time for fire attack (seconds)" = 3
+	#Range: 0 ~ 60
+	"Maximum time for fire attack (seconds)" = 7
+	#Range: 0 ~ 10
+	"Maximum number of Netherman clones that can spawn per attack" = 4
+	#Range: 0 ~ 2000
+	"Freeze ticks applied by ice attack" = 300
+	#Range: 0 ~ 30
+	"Minimum time for darkness attack (seconds)" = 3
+	#Range: 0 ~ 60
+	"Maximum time for darkness attack (seconds)" = 7
+	#Range: 0 ~ 2000
+	"Ticks of freeze applied by Netherman clone explosions" = 200
+	#Range: 0.0 ~ 10.0
+	"Explosion radius of Netherman projectiles" = 3.0
+	"Should it restore blocks converted to lava back to their original state after dying?" = true
 	#Range: 0 ~ 3000
-	"Experience Drop Amount" = 500
-	#Should lightning strike in its third phase?
-	"Lightning Strike in Phase Three" = true
-	#How often should a lightning bolt fall in the third phase (20 ticks = 1 second)?
-	#Range: 10 ~ 200
-	"Lightning Tick Interval" = 40
-	#Range: 1.0 ~ 3.0
-	"Speed of the snow particles in the winter storm" = 1.5
-	#Range: 10 ~ 200
-	"Number of particles generated in the winter storm" = 60
-	#Defines the radius for Netherman's Winter Storm Attack
-	#Range: 1.0 ~ 30.0
-	"Winter Storm Attack Radius" = 26.0
-	#Defines the speed at which players freeze during the Winter Attack
-	#Range: 0 ~ 20
-	"Frozen Ticks" = 4
+	"Amount of experience dropped upon death" = 500
 
 ["Drop Chance Configuration"]
 	#Drop chance for small essence must be changed inside knightlib.toml
@@ -79,7 +78,7 @@
 	"Should Warlord Set effect apply to itself?" = false
 	#Range: 1 ~ 40
 	"Effect radius for Warlord Set" = 15
-	#Range: 0.5 ~ 10.0
+	#Range: 1.0 ~ 10.0
 	"Healing amount for Zombie Set" = 1.0
 	#Range: 1 ~ 1000
 	"Time in ticks for Zombie Set healing interval" = 120
@@ -101,6 +100,8 @@
 	"Maximum height to apply effect for Silverfish Set" = 50
 	#Range: 0 ~ 15
 	"Maximum light level to grant effect for Skulk Set" = 4
+	#Range: 0.1 ~ 1.0
+	"Teleport chance for Enderman Set" = 0.4
 
 ["Armor Set Passives Enabler Configuration"]
 	"Enable Deepslate Set Passive" = true
@@ -141,4 +142,63 @@
 	"Enable Zombie Set Passive" = true
 	"Enable Silverfish Set Passive" = true
 	"Enable Skeleton Set Passive" = true
+
+["General Configuration"]
+	#The amount of armor pieces required to apply a set effect, which means that if this value is set to 1, you can equip 4 different armors pieces and receive the passive effects of each set.
+	#Range: 1 ~ 4
+	"Required armor pieces to apply a full-set bonus effect" = 4
+
+["Weapon Configuration"]
+	#The following cooldowns and timings, per se, are measured in ticks (1 second = 20 ticks)
+	#Range: 0 ~ 20000
+	"Cooldown of the Cleaver weapon when using its active ability" = 1800
+	#Range: 0 ~ 20000
+	"Cooldown of the Khopesh weapon when using its active ability" = 500
+	#Range: 0 ~ 20000
+	"Cooldown of the Kukri weapon when using its active ability" = 300
+	#Range: 0 ~ 20000
+	"Cooldown of the Nail weapon when using its active ability" = 100
+	#Range: 0 ~ 20000
+	"Cooldown of the Paladin weapon when using its active ability" = 500
+	#Range: 0 ~ 20000
+	"Cooldown of the Uchigatana weapon when using its active ability" = 400
+	#Range: 0 ~ 6000
+	"Duration of the speed boost from the Kukri's active ability" = 120
+	#Range: 0 ~ 10000
+	"Number of freeze ticks applied by the Kukri per hit" = 125
+	#Range: 0 ~ 600
+	"Duration of invulnerability from the Paladin's active ability" = 100
+	#Range: 0.0 ~ 50.0
+	"Dash power of the nail (this should stay low unless you wanna go to the moon)" = 1.5
+	#Extra damage modifiers are measured as percentages: 0 means no extra damage, 1 means 100% extra base damage (resulting in 200% total).
+	#Range: 0.0 ~ 4.0
+	"Extra damage dealt by the Uchigatana when using its active ability" = 0.6
+	#Range: 0.0 ~ 4.0
+	"Extra damage dealt by the Uchigatana through its passive ability" = 0.2
+	#Range: 0.0 ~ 1.0
+	"Maximum health the opponent can have for the Uchigatana's passive ability to take effect" = 0.5
+	#Range: 0 ~ 1000
+	"Duration of the Khopesh's active ability (reflection)" = 160
+	#Range: 0.0 ~ 1.0
+	"Chance to burn the opponent with the Khopesh's passive ability" = 0.15
+	#Range: 0 ~ 400
+	"Interval (in ticks) at which the Paladin's passive ability regenerates health" = 30
+	#Range: 0.0 ~ 1.0
+	"Maximum percentage of health that the Paladin's passive ability can regenerate" = 0.5
+	#Range: 0 ~ 100
+	"Amount of health restored by the Paladin's passive ability" = 1
+	#Range: 0 ~ 4000
+	"Duration of the Cleaver's active ability" = 600
+	#Range: 0.0 ~ 4.0
+	"Extra damage dealt by the Cleaver through its passive ability" = 0.2
+	#Range: 0.0 ~ 1.0
+	"Minimum health the opponent must have for the Cleaver's passive ability to take effect" = 0.5
+
+["Weapon Enabler Configuration"]
+	"Enable Cleaver weapon abilities" = true
+	"Enable Khopesh weapon abilities" = true
+	"Enable Kukri weapon abilities" = true
+	"Enable Nail weapon abilities" = true
+	"Enable Paladin weapon abilities" = true
+	"Enable Uchigatana weapon abilities" = true
 

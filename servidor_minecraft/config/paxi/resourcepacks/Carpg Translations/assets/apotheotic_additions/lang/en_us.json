@@ -34,6 +34,8 @@
 "comment_id": "/Items",
   "rarity.apotheotic_additions:esoteric": "Esoteric",
   "item.apotheotic_additions.heirloom_material": "Core of the Family",
+  "item.apotheosis.gem.irons_spellbooks:abyssal": "Abyssal Gem",
+  "item.apotheosis.gem.irons_spellbooks:eldritch": "Dark One Gem",
   "item.apotheosis.gem.apotheosis:heirloom": "Ancestral %s",
   "item.apotheosis.gem.apotheotic_additions:heirloom": "Ancestral %s",
   "rarity.apotheotic_additions:heirloom": "Heirloom",

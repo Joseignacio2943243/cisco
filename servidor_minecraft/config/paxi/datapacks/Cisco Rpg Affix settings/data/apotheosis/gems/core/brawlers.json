@@ -4,8 +4,7 @@
 	"quality": 0,
 	"dimensions": [
 	],
-	"bonuses": [
-		{
+	"bonuses": [{
 			"type": "apotheosis:attribute",
 			"gem_class": {
 				"key": "light_weapon",
@@ -17,12 +16,12 @@
 			"attribute": "minecraft:generic.attack_speed",
 			"operation": "MULTIPLY_BASE",
 			"values": {
-				"common": 0.02,
-				"uncommon": 0.05,
-				"rare": 0.105,
-				"epic": 0.155,
-				"mythic": 0.205,
-				"ancient": 0.25
+				"common": 0.10,
+				"uncommon": 0.15,
+				"rare": 0.20,
+				"epic": 0.25,
+				"mythic": 0.35,
+				"ancient": 0.50
 			}
 		},
 		{
@@ -39,10 +38,10 @@
 			"values": {
 				"common": 1,
 				"uncommon": 2,
-				"rare": 3,
-				"epic": 4,
-				"mythic": 5,
-				"ancient": 6
+				"rare": 4,
+				"epic": 6,
+				"mythic": 8,
+				"ancient": 10
 			}
 		},
 		{
@@ -53,7 +52,7 @@
 					"heavy_weapon"
 				]
 			},
-			"attribute": "apotheosis:armor_pierce",
+			"attribute": "attributeslib:armor_pierce",
 			"operation": "ADDITION",
 			"values": {
 				"common": 1,
@@ -83,46 +82,46 @@
 				"ancient": 0.30
 			}
 		},
-		{
-			"type": "apotheosis:attribute",
-			"gem_class": {
-				"key": "curios",
-				"types": [
-					"curios:ring",
-		"curios:head",
-		"curios:hostility_curse",
-		"curios:necklace",
-		"curios:back",
-		"curios:an_focus",
-		"curios:bangle",
-		"curios:body",
-		"curios:bundle",
-		"curios:quiver",
-		"curios:spellstone",
-		"curios:bracelet",
-		"curios:hands",
-		"curios:belt",
-		"curios:charm",
-		"curios:feet",
-		"curios:talisman",
-		"curios:aether_ring",
-        "curios:aether_cape",
-        "curios:aether_gloves",
-        "curios:aether_accessory",
-        "curios:aether_shield",
-        "curios:aether_pendant"
-				]
-			},
-			"attribute": "minecraft:generic.max_health",
-			"operation": "ADDITION",
-			"values": {
-				"common": 0.5,
-				"uncommon": 0.75,
-				"rare": 1,
-				"epic": 2,
-				"mythic": 3,
-				"ancient": 4
-			}
+			{
+				"type": "apotheosis:attribute",
+				"gem_class": {
+					"key": "curios",
+					"types": [
+						"curios:ring",
+			"curios:head",
+			"curios:hostility_curse",
+			"curios:necklace",
+			"curios:back",
+			"curios:an_focus",
+			"curios:bangle",
+			"curios:body",
+			"curios:bundle",
+			"curios:quiver",
+			"curios:spellstone",
+			"curios:bracelet",
+			"curios:hands",
+			"curios:belt",
+			"curios:charm",
+			"curios:feet",
+			"curios:talisman",
+			"curios:aether_ring",
+			"curios:aether_cape",
+			"curios:aether_gloves",
+			"curios:aether_accessory",
+			"curios:aether_shield",
+			"curios:aether_pendant"
+					]
+				},
+				"attribute": "minecraft:generic.max_health",
+				"operation": "ADDITION",
+				"values": {
+					"common": 0.5,
+					"uncommon": 0.75,
+					"rare": 1,
+					"epic": 2,
+					"mythic": 3,
+					"ancient": 4
+				}
 		}
 	]
 }

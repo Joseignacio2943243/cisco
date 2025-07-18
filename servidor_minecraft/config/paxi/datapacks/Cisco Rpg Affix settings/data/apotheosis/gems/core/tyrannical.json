@@ -5,8 +5,7 @@
 	"unique": true,
 	"dimensions": [
 	],
-	"bonuses": [
-		{
+	"bonuses": [{
 			"type": "apotheosis:attribute",
 			"gem_class": {
 				"key": "heavy_weapon",
@@ -14,15 +13,15 @@
 					"heavy_weapon"
 				]
 			},
-			"attribute": "apotheosis:current_hp_damage",
+			"attribute": "attributeslib:current_hp_damage",
 			"operation": "ADDITION",
 			"values": {
-				"common": 0.009,
-				"uncommon": 0.01,
-				"rare": 0.02,
-				"epic": 0.03,
-				"mythic": 0.04,
-				"ancient": 0.05
+				"common": 0.001,
+				"uncommon": 0.002,
+				"rare": 0.003,
+				"epic": 0.005,
+				"mythic": 0.007,
+				"ancient": 0.01
 			}
 		},
 		{
@@ -50,8 +49,7 @@
 			"gem_class": {
 				"key": "core_armor",
 				"types": [
-					"chestplate",
-					"leggings"
+					"chestplate", "leggings"
 				]
 			},
 			"attribute": "minecraft:generic.armor_toughness",
@@ -77,53 +75,78 @@
 			"operation": "MULTIPLY_TOTAL",
 			"values": {
 				"common": 0.05,
-				"uncommon": 0.08,
-				"rare": 0.10,
-				"epic": 0.15,
-				"mythic": 0.20,
-				"ancient": 0.25
+				"uncommon": 0.10,
+				"rare": 0.15,
+				"epic": 0.225,
+				"mythic": 0.3,
+				"ancient": 0.425
 			}
 		},
-		{
-			"type": "apotheosis:attribute",
+        {
+			"type": "apotheosis:mob_effect",
 			"gem_class": {
-				"key": "curios",
+				"key": "ranged_weapon",
 				"types": [
-					"curios:ring",
-		"curios:head",
-		"curios:necklace",
-		"curios:back",
-		"curios:an_focus",
-		"curios:bangle",
-		"curios:body",
-		"curios:bundle",
-		"curios:quiver",
-		"curios:spellstone",
-		"curios:hostility_curse",
-		"curios:bracelet",
-		"curios:hands",
-		"curios:belt",
-		"curios:charm",
-		"curios:feet",
-		"curios:talisman",
-		"curios:aether_ring",
-        "curios:aether_cape",
-        "curios:aether_gloves",
-        "curios:aether_accessory",
-        "curios:aether_shield",
-        "curios:aether_pendant"
+					"bow",
+					"crossbow"
 				]
 			},
-			"attribute": "apotheosis:current_hp_damage",
-			"operation": "ADDITION",
+			"mob_effect": "attributeslib:bleeding",
+            "stack_on_reapply": true,
+			"target": "arrow_target",
 			"values": {
-				"common": 0.0015,
-				"uncommon": 0.0025,
-				"rare": 0.004,
-				"epic": 0.0065,
-				"mythic": 0.009,
-				"ancient": 0.0125
+				"mythic": {
+					"duration": 160,
+					"amplifier": 0,
+					"cooldown": 40
+				},
+				"ancient": {
+					"duration": 160,
+					"amplifier": 1,
+					"cooldown": 40
+				}
 			}
+		},
+			{
+				"type": "apotheosis:attribute",
+				"gem_class": {
+					"key": "curios",
+					"types": [
+						"curios:ring",
+			"curios:head",
+			"curios:necklace",
+			"curios:back",
+			"curios:an_focus",
+			"curios:bangle",
+			"curios:body",
+			"curios:bundle",
+			"curios:quiver",
+			"curios:spellstone",
+			"curios:hostility_curse",
+			"curios:bracelet",
+			"curios:hands",
+			"curios:belt",
+			"curios:charm",
+			"curios:feet",
+			"curios:talisman",
+			"curios:aether_ring",
+			"curios:aether_cape",
+			"curios:aether_gloves",
+			"curios:aether_accessory",
+			"curios:aether_shield",
+			"curios:aether_pendant"
+					]
+				},
+				"attribute": "apotheosis:current_hp_damage",
+				"operation": "ADDITION",
+				"values": {
+					"common": 0.0015,
+					"uncommon": 0.0025,
+					"rare": 0.004,
+					"epic": 0.0065,
+					"mythic": 0.009,
+					"ancient": 0.0125
+				}
 		}
 	]
 }

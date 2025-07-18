@@ -1,6 +1,8 @@
+
+#General Config Section. See https://readme.firstdarkdev.xyz/simple-rpc/introduction/
 [general]
-	#The Application ID of the Discord App to use. Replace this with your client id from the discord dashboard to change the name of the app
-	applicationID = 1165685787153670235
+	#The Application ID of the Discord App to use
+	applicationID = 1333159018772041728
 	#Enable/Disable the mod
 	enabled = true
 	#Enable/Disable debugging mode. WARNING: MAY CAUSE LOG SPAM!
@@ -12,60 +14,64 @@
 	#Internal Version Number. NO TOUCHY!
 	version = 18
 
+#The Game Loading event
 [init]
 	#Enable/Disable the Game Loading Event
 	enabled = true
 	#The first line of text under the app name
-	description = "Sharpening weapons..."
+	description = "Sharpening weapons.."
 	#The second line of text under the app name
 	state = "Game Starting..."
-	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["ciscoadventurerpgre"]
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["embedded_cover"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "It's Minecraft %mcver%, but modded"
-	#The Asset ID/URL of the image to display as the small image
+	#The Asset ID of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods installed"
-	#The buttons to display on Discord 
+	#The buttons to display on Discord
 	buttons = []
 
+#The Main Menu event
 [main_menu]
 	#Enable/Disable the Main Menu Event
 	enabled = true
 	#The first line of text under the app name
-	description = "Preparing for an adventure..."
-	#The second line of text under the app name
-	state = "Choosing a destination..."
-	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["ciscoadventurerpgre"]
+	description = "%player% Choosing a destination.."
+	#The seconds line of text under the app name
+	state = "Chilling in the menu"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["embedded_cover"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "It's Minecraft %mcver%, but modded"
-	#The Asset ID/URL of the image to display as the small image
+	#The Asset ID of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods installed"
-	#The buttons to display on Discord 
+	#The buttons to display on Discord
 	buttons = []
 
+#The Server List event
 [server_list]
 	#Enable/Disable the Server List Event
 	enabled = true
 	#The first line of text under the app name
-	description = "Looking for other adventurers.."
+	description = "%player% is looking for a party..."
 	#The second line of text under the app name
-	state = "Grouping up..."
-	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["ciscoadventurerpgre"]
+	state = "Searching for friends"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["embedded_cover"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "It's Minecraft %mcver%, but modded"
-	#The Asset ID/URL of the image to display as the small image
+	#The Asset ID of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods installed"
-	#The buttons to display on Discord 
+	#The buttons to display on Discord
 	buttons = []
 
+#The Realms Screen event
 [realms_list]
 	#Enable/Disable the Realms Screen Event
 	enabled = true
@@ -73,71 +79,75 @@
 	description = "%player% is looking for a Realm"
 	#The second line of text under the app name
 	state = "Browsing Realms"
-	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["ciscoadventurerpgre"]
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["embedded_cover"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "It's Minecraft %mcver%, but modded"
-	#The Asset ID/URL of the image to display as the small image
+	#The Asset ID of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods installed"
-	#The buttons to display on Discord 
+	#The buttons to display on Discord
 	buttons = []
 
+#The Join Game Event
 [join_game]
 	#Enable/Disable the Join Game Event
 	enabled = true
 	#The first line of text under the app name
-	description = "%player% is joining a game"
+	description = "%player% is starting an adventure"
 	#The second line of text under the app name
 	state = "Joining Game"
-	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["ciscoadventurerpgre"]
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["embedded_cover"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "It's Minecraft %mcver%, but modded"
-	#The Asset ID/URL of the image to display as the small image
+	#The Asset ID of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods installed"
-	#The buttons to display on Discord 
+	#The buttons to display on Discord
 	buttons = []
 
+#The Single Player Event
 [single_player]
 	#Enable/Disable the Single Player Event
 	enabled = true
 	#The first line of text under the app name
-	description = "Currently In %world%"
+	description = "Adventuring alone in %world%"
 	#The second line of text under the app name
-	state = "Adventuring alone..."
-	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["ciscoadventurerpgre"]
+	state = "Playing lonely mode"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["embedded_cover"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "It's Minecraft %mcver%, but modded"
-	#The Asset ID/URL of the image to display as the small image
+	#The Asset ID of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods installed"
-	#The buttons to display on Discord 
+	#The buttons to display on Discord
 	buttons = []
 
+#The Multi Player Event
 [multi_player]
 	#Enable/Disable the Multi Player Event
 	enabled = true
 	#The first line of text under the app name
-	description = "Playing on %servername% with %players% players"
+	description = "Adventuring in a group on %servername% with %players% players"
 	#The second line of text under the app name
-	state = "Adventuring with freinds.."
-	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["ciscoadventurerpgre"]
+	state = "Playing online"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["embedded_cover"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "It's Minecraft %mcver%, but modded"
-	#The Asset ID/URL of the image to display as the small image
+	#The Asset ID of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods installed"
-	#The buttons to display on Discord 
+	#The buttons to display on Discord
 	buttons = []
 
+#The Realms Game Event
 [realms]
 	#Enable/Disable the Realms Game Event
 	enabled = true
@@ -145,40 +155,44 @@
 	description = "Playing on %realmname%"
 	#The second line of text under the app name
 	state = "Playing on a Realm"
-	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["ciscoadventurerpgre"]
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["embedded_cover"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "It's Minecraft %mcver%, but modded"
-	#The Asset ID/URL of the image to display as the small image
+	#The Asset ID of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%realmdescription%"
-	#The buttons to display on Discord 
+	#The buttons to display on Discord
 	buttons = []
 
+#Fallback event for disabled events
 [generic]
 	#The first line of text under the app name
-	description = "Exploring the realm.."
+	description = "Adventuring..."
 	#The second line of text under the app name
-	state = "On an adventure..."
-	#The Asset ID/URL of the image to display as the large image
-	largeImageKey = ["ciscoadventurerpgre"]
+	state = ""
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["embedded_cover"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "It's Minecraft %mcver%, but modded"
-	#The Asset ID/URL of the image to display as the small image
+	#The Asset ID of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods installed"
-	#The buttons to display on Discord 
+	#The buttons to display on Discord
 	buttons = []
 
+#Custom Config Variables that you can use
 [custom]
 	#Must these variables be parsed along with other variables
 	enabled = true
 	#Your custom variables to add
 	variables = []
 
+#Dimension Information Overrides
 [dimension_overrides]
+	#Allows you to override the displayed values for dimensions
 	enabled = false
 
 	[[dimension_overrides.dimensions]]
@@ -210,5 +224,4 @@
 		smallImageKey = ["mclogo"]
 		smallImageText = "%mods% mods installed"
 		buttons = []
-
 

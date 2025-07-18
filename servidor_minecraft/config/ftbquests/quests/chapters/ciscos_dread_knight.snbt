@@ -2,10 +2,36 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: "diamond"
 	filename: "ciscos_dread_knight"
-	group: "26E23D519F52B5AE"
-	icon: "apotheosis:mythic_material"
+	group: "3B0CDB8395E59365"
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			"celestisynth:celestisynthitemstackcapabilities": {
+				cs.aquaSkin: 0
+			}
+		}
+		id: "apotheosis:mythic_material"
+	}
 	id: "2E1FB48E562F5408"
-	order_index: 2
+	images: [
+		{
+			height: 10.0d
+			image: "cataclysm:textures/entity/flame_strike_sigil.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: 18.0d
+			y: -17.0d
+		}
+		{
+			height: 12.0d
+			image: "cataclysm:textures/entity/soul_flame_strike_sigil.png"
+			rotation: 0.0d
+			width: 12.0d
+			x: 18.0d
+			y: -31.5d
+		}
+	]
+	order_index: 7
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -39,6 +65,20 @@
 					item: "cisco_mod:champion_coin"
 					type: "item"
 				}
+				{
+					count: 3
+					id: "45E05224094642B9"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cisco_mod:champion_loot_bag"
+					}
+					type: "item"
+				}
 			]
 			size: 3.0d
 			subtitle: "Abyssal Terror"
@@ -55,10 +95,8 @@
 		}
 		{
 			dependencies: [
-				"7A17144A30D85646"
 				"1C30C21B739D5F98"
 				"55FC85A0AAE7B542"
-				"33D9D6496A8344B6"
 				"6EEDFAA5ECCD6D69"
 			]
 			dependency_requirement: "all_started"
@@ -79,6 +117,20 @@
 					count: 7
 					id: "45E10A34D5716745"
 					item: "cisco_mod:champion_coin"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4C5D977C8584884E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cisco_mod:champion_loot_bag"
+					}
 					type: "item"
 				}
 			]
@@ -103,7 +155,7 @@
 				"Can be summoned near &9water &fwith the &cshell horn &fwhilst in the &bIce Maze biome."
 			]
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "aquamirae:three_bolt_helmet"
 				tag: {
 					Damage: 0
@@ -128,7 +180,7 @@
 			tasks: [{
 				entity: "aquamirae:captain_cornelia"
 				icon: {
-					Count: 1b
+					Count: 1
 					id: "aquamirae:three_bolt_helmet"
 					tag: {
 						Damage: 0
@@ -145,7 +197,7 @@
 				value: 1L
 			}]
 			title: "Slay The Ghost of Captain Cornelia"
-			x: 15.0d
+			x: 12.0d
 			y: -10.5d
 		}
 		{
@@ -175,6 +227,20 @@
 					count: 13
 					id: "421606BF3AEB4956"
 					item: "cisco_mod:champion_coin"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "0AFD20F630B820A3"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cisco_mod:champion_loot_bag"
+					}
 					type: "item"
 				}
 			]
@@ -213,6 +279,20 @@
 					item: "cisco_mod:champion_coin"
 					type: "item"
 				}
+				{
+					count: 2
+					id: "3FD8C5CE17E63086"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cisco_mod:champion_loot_bag"
+					}
+					type: "item"
+				}
 			]
 			size: 3.0d
 			subtitle: "The Harbinger"
@@ -228,14 +308,22 @@
 			y: -25.5d
 		}
 		{
-			dependencies: ["0E673FBC14FEDA40"]
+			dependencies: ["33355CF6FE34D418"]
 			dependency_requirement: "all_started"
 			description: [
 				"                  &dGatekeeper"
 				""
 				"Can be found in the &3deep &0dark."
 			]
-			icon: "minecraft:sculk_shrieker"
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:sculk_shrieker"
+			}
 			id: "7D57DE098B9C58D2"
 			rewards: [
 				{
@@ -247,6 +335,20 @@
 					count: 9
 					id: "2A6E3F82B2BA8872"
 					item: "cisco_mod:champion_coin"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "58C60D099377C2AE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cisco_mod:champion_loot_bag"
+					}
 					type: "item"
 				}
 			]
@@ -299,13 +401,30 @@
 			y: -22.5d
 		}
 		{
-			dependencies: ["468FD1BC76CAA38A"]
-			description: [
-				"                    &6Tier 2"
-				""
-				"Found within a dungeon in the &5everdawn &ddimension."
+			dependencies: [
+				"3109450AC20BB4CF"
+				"43DFF70CCC78EE26"
+				"4831B33EC2E02725"
+				"0E673FBC14FEDA40"
+				"11AE539045CFF66D"
+				"368E9A4D5A17F2E4"
+				"5C4C5ED10BEFCB22"
+				"0F73EE0DAB5E37FD"
 			]
-			icon: "minecraft:cobweb"
+			description: [
+				"                  &dGatekeeper"
+				""
+				"Found within the &6burning arena &fin the &cnether &ddimension."
+			]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "cataclysm:flame_eye"
+			}
 			id: "33355CF6FE34D418"
 			rewards: [
 				{
@@ -319,37 +438,48 @@
 					item: "cisco_mod:champion_coin"
 					type: "item"
 				}
-			]
-			size: 3.0d
-			subtitle: "Swatting Spiders"
-			tasks: [{
-				entity: "blue_skies:arachnarch"
-				icon: {
-					Count: 1b
-					id: "enemyexpansion:spiderlatch_helmet"
-					tag: {
-						Damage: 0
-						affix_data: {
-							affixes: {
-								"apotheosis:socket": 0.0f
+				{
+					count: 2
+					id: "35B65EB1B63CD3D3"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
 							}
 						}
+						id: "cisco_mod:champion_loot_bag"
 					}
+					type: "item"
+				}
+			]
+			size: 3.0d
+			subtitle: "King of Flame"
+			tasks: [{
+				entity: "cataclysm:ignis"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:flame_eye"
 				}
 				id: "6B64403DBD28CCC2"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Slay the Arachnarch"
-			x: 21.0d
-			y: -10.5d
+			title: "Slay Ignis"
+			x: 18.0d
+			y: -15.0d
 		}
 		{
 			dependencies: ["468FD1BC76CAA38A"]
 			description: [
 				"                    &6Tier 2"
 				""
-				"Found within the &anature dungeon &fin the &eeverbright &ddimension."
+				"Can be summoned by using a &0shard of uncertainty &fon a &5blackstone pedastal."
 			]
 			id: "5C4C5ED10BEFCB22"
 			rewards: [
@@ -366,70 +496,49 @@
 				}
 			]
 			size: 3.0d
-			subtitle: "Striking at Starlight"
+			subtitle: "Menacing Monarch"
 			tasks: [{
-				entity: "blue_skies:starlit_crusher"
-				icon: "blue_skies:starlit_sapling"
+				entity: "soulsweapons:chaos_monarch"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "soulsweapons:blackstone_pedestal"
+				}
 				id: "66EAB0D95AB09ABA"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Slay the Starlit Crusher"
-			x: 18.0d
+			title: "Slay the Monarch of Chaos"
+			x: 15.0d
 			y: -10.5d
 		}
 		{
 			description: [
 				"                    &aTier 1"
 				""
-				"Defeat &5Rosalyne &fthe blade of dusk. Summoned using the &ddusk key."
+				"Defeat &1the Fallen Icon &fand &eHarbinger of Moonlight."
+				""
+				"&fCan be summoned by using an &6essence of eventide &fon an &8old soul altar."
 			]
 			icon: {
-				Count: 1b
-				id: "meetyourfight:twilights_thorn"
-				tag: {
-					Damage: 0
-				}
-			}
-			id: "7A17144A30D85646"
-			rewards: [
-				{
-					id: "44149861F96DF866"
-					type: "xp_levels"
-					xp_levels: 20
-				}
-				{
-					count: 5
-					id: "0253F233E0B2B31A"
-					item: "cisco_mod:champion_coin"
-					type: "item"
-				}
-			]
-			size: 3.0d
-			subtitle: "Blade of dusk"
-			tasks: [{
-				entity: "meetyourfight:rosalyne"
-				icon: {
-					Count: 1b
-					id: "meetyourfight:twilights_thorn"
-					tag: {
-						Damage: 0
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
 					}
 				}
-				id: "75B439A424F585F7"
-				type: "kill"
-				value: 1L
-			}]
-			title: "Slay Rosalyne"
-			x: 24.0d
-			y: 0.0d
-		}
-		{
-			description: [
-				"                    &aTier 1"
-				""
-				"Defeat the &eLady of Luck. &fSummoned using the &cdevil's ante."
-			]
+				id: "soulsweapons:moonlight_greatsword"
+				tag: {
+					Damage: 0
+					affix_data: {
+						sockets: 1
+					}
+				}
+			}
 			id: "6EEDFAA5ECCD6D69"
 			rewards: [
 				{
@@ -445,23 +554,38 @@
 				}
 			]
 			size: 3.0d
-			subtitle: "Lady Luck "
+			subtitle: "Harbinger of Moonlight"
 			tasks: [{
-				entity: "meetyourfight:dame_fortuna"
-				icon: "meetyourfight:devils_ante"
+				entity: "soulsweapons:moonknight"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "soulsweapons:moonlight_greatsword"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
 				id: "0EDA2162C28F3BBF"
-				title: "Slay Dame Fortuna"
+				title: "Slay The Fallen Icon"
 				type: "kill"
 				value: 1L
 			}]
-			x: 18.0d
+			title: "Slay the Fallen Icon"
+			x: 22.5d
 			y: 0.0d
 		}
 		{
 			description: [
-				"                    &aTier 1 "
+				"                       &aTier 1 "
 				""
-				"Defeat the &6Ancient Swampjaw. &fSummoned using the &cfossil bait."
+				"Defeat the &6Old Champion's Remains &fand &5Frenzied Shade. &fCan be located using the &bMoonstone Compass."
 			]
 			id: "55FC85A0AAE7B542"
 			rewards: [
@@ -471,30 +595,63 @@
 					xp_levels: 15
 				}
 				{
-					count: 5
+					count: 7
 					id: "01B93821E739088D"
-					item: "cisco_mod:champion_coin"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cisco_mod:champion_coin"
+					}
 					type: "item"
 				}
 			]
 			size: 3.0d
-			subtitle: "Smashing Swampjaw"
-			tasks: [{
-				entity: "meetyourfight:swampjaw"
-				icon: "meetyourfight:fossil_bait"
-				id: "3C0592059CDAF0AE"
-				type: "kill"
-				value: 1L
-			}]
-			title: "Slay Swampjaw"
-			x: 12.0d
+			subtitle: "Frenzied Shade"
+			tasks: [
+				{
+					entity: "soulsweapons:draugr_boss"
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "soulsweapons:boss_compass"
+					}
+					id: "3C0592059CDAF0AE"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "soulsweapons:night_shade"
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "soulsweapons:lord_soul_dark"
+					}
+					id: "1B903E1B3EAD801F"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "Slay The Old Champion's Remains"
+			x: 13.5d
 			y: 0.0d
 		}
 		{
 			description: [
 				"                    &aTier 1"
 				""
-				"Slay the mysterious &eBell Ringer. &fSummoned using the &dhaunted bell."
+				"Slay &1The Returning Knight. &fCan be summoned by using a &dlost soul &fon an &8old soul altar."
 			]
 			id: "1C30C21B739D5F98"
 			rewards: [
@@ -511,17 +668,25 @@
 				}
 			]
 			size: 3.0d
-			subtitle: "The Bell Ringer"
+			subtitle: "Old Soul"
 			tasks: [{
-				entity: "meetyourfight:bellringer"
-				icon: "meetyourfight:haunted_bell"
+				entity: "soulsweapons:returning_knight"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "soulsweapons:altar_block"
+				}
 				id: "02E30AD0558F717C"
-				title: "Slay The Bellringer"
+				title: "Slay The Returning Knight"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat The Bell Ringer"
-			x: 15.0d
+			title: "Slay The Returning Knight"
+			x: 18.0d
 			y: 0.0d
 		}
 		{
@@ -550,7 +715,7 @@
 			tasks: [{
 				entity: "irons_spellbooks:dead_king"
 				icon: {
-					Count: 1b
+					Count: 1
 					id: "twilightforest:skeleton_skull_candle"
 					tag: {
 						BlockEntityTag: {
@@ -564,7 +729,7 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 12.0d
+			x: 9.0d
 			y: -10.5d
 		}
 		{
@@ -730,6 +895,20 @@
 					type: "xp_levels"
 					xp_levels: 35
 				}
+				{
+					count: 3
+					id: "1973087EBC4DD553"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cisco_mod:champion_loot_bag"
+					}
+					type: "item"
+				}
 			]
 			size: 3.0d
 			subtitle: "Into the Sands"
@@ -745,83 +924,98 @@
 			y: -28.5d
 		}
 		{
-			description: [
-				"                    &aTier 1"
-				""
-				"The &1Insatiable &fcan be summoned by killing animals near rivers and other large bodies of water."
-				""
-				"It's spawn egg may also be purchased from the cisco's wares shop."
-			]
-			id: "33D9D6496A8344B6"
-			rewards: [
-				{
-					count: 5
-					id: "0BCC03D43C66D12D"
-					item: "cisco_mod:champion_coin"
-					type: "item"
-				}
-				{
-					id: "7CCA12A57915047C"
-					type: "xp_levels"
-					xp_levels: 20
-				}
-			]
-			size: 3.0d
-			subtitle: "Insatiable Woes"
-			tasks: [{
-				entity: "iter_rpg:insatiable"
-				icon: {
-					Count: 1b
-					id: "iter_rpg:water_armor_helmet"
-					tag: {
-						Damage: 0
-						affix_data: {
-							affixes: {
-								"apotheosis:socket": 0.0f
-							}
-						}
-					}
-				}
-				id: "3001DBA182272F59"
-				title: "Slay the Insatiable"
-				type: "kill"
-				value: 1L
-			}]
-			x: 21.0d
-			y: 0.0d
-		}
-		{
 			dependencies: ["7D57DE098B9C58D2"]
 			description: [
-				"                    &4Tier 3"
+				"                           &4Tier 3"
 				""
-				"The &5Sorrow Sealed &fcan be found within the sorrowspire somewhere in the nether."
+				"These twin bosses can be summoned using the &5chaos orb."
 			]
-			icon: "iter_rpg:crystal_tear"
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "soulsweapons:soul_reaper"
+				tag: {
+					Damage: 0
+					affix_data: {
+						sockets: 1
+					}
+				}
+			}
 			id: "021E592772515E8C"
 			rewards: [
 				{
-					count: 9
+					count: 18
 					id: "07B361EEF9493975"
-					item: "cisco_mod:champion_coin"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cisco_mod:champion_coin"
+					}
 					type: "item"
 				}
 				{
 					id: "6442998F719C17B3"
 					type: "xp_levels"
-					xp_levels: 25
+					xp_levels: 50
 				}
 			]
 			size: 3.0d
-			subtitle: "Slayer of Sorrow"
-			tasks: [{
-				entity: "iter_rpg:sorrowsealed"
-				icon: "iter_rpg:hollow_visage"
-				id: "787946C125F4A5AE"
-				title: "Slay the Sorrow Sealed"
-				type: "kill"
-				value: 1L
-			}]
+			subtitle: "Deadly Duo"
+			tasks: [
+				{
+					entity: "soulsweapons:day_stalker"
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "soulsweapons:soul_reaper"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					id: "787946C125F4A5AE"
+					title: "Slay the Day Stalker"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "soulsweapons:night_prowler"
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "soulsweapons:dawnbreaker"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					id: "7A1BF0C7D0D0CE74"
+					title: "Slay the Night Prowler"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "Slay the Day Stalker and Night Prowler"
 			x: 18.0d
 			y: -22.5d
 		}
@@ -879,7 +1073,7 @@
 			tasks: [{
 				entity: "mowziesmobs:umvuthi"
 				icon: {
-					Count: 1b
+					Count: 1
 					id: "mowziesmobs:sol_visage"
 					tag: {
 						affix_data: {
@@ -895,7 +1089,7 @@
 				value: 1L
 			}]
 			title: "Slay Umvuthi"
-			x: 9.0d
+			x: 6.0d
 			y: -10.5d
 		}
 		{
@@ -924,7 +1118,7 @@
 			tasks: [{
 				entity: "mowziesmobs:frostmaw"
 				icon: {
-					Count: 1b
+					Count: 1
 					id: "mowziesmobs:ice_crystal"
 					tag: {
 						Damage: 0
@@ -939,18 +1133,10 @@
 			y: -10.5d
 		}
 		{
-			dependencies: [
-				"3109450AC20BB4CF"
-				"43DFF70CCC78EE26"
-				"368E9A4D5A17F2E4"
-				"33355CF6FE34D418"
-				"5C4C5ED10BEFCB22"
-				"0F73EE0DAB5E37FD"
-				"11AE539045CFF66D"
-			]
+			dependencies: ["468FD1BC76CAA38A"]
 			dependency_requirement: "all_started"
 			description: [
-				"                   &dGatekeeper"
+				"                     &6Tier 2"
 				""
 				"&0The Ferrous Wroughtnaut &fcan be found within a structure &7underground."
 			]
@@ -973,7 +1159,7 @@
 			tasks: [{
 				entity: "mowziesmobs:ferrous_wroughtnaut"
 				icon: {
-					Count: 1b
+					Count: 1
 					id: "mowziesmobs:wrought_helmet"
 					tag: {
 						affix_data: {
@@ -988,53 +1174,135 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 18.0d
-			y: -15.0d
+			x: 21.0d
+			y: -10.5d
 		}
 		{
-			dependencies: ["7D57DE098B9C58D2"]
+			dependencies: ["468FD1BC76CAA38A"]
 			description: [
-				"                  &dGatekeeper"
+				"                     &6Tier 2"
 				""
-				"This dark entity resides in the &bfrosted &8prison &fwhich can be found underground or using the &aeye of curse."
+				"Slay the &0Decaying King.&f It's lair can be found in the &cnether &fusing a moonstone compass."
 			]
-			id: "51AE1E2D5ED26F57"
+			id: "4831B33EC2E02725"
+			rewards: [{
+				count: 7
+				id: "2CDB25D430048A72"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cisco_mod:champion_coin"
+				}
+				type: "item"
+			}]
+			size: 3.0d
+			subtitle: "Darkin Demon"
+			tasks: [{
+				entity: "soulsweapons:accursed_lord_boss"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "soulsweapons:darkin_blade"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				id: "3F5BAE266D364012"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Slay the Decaying King"
+			x: 30.0d
+			y: -10.5d
+		}
+		{
+			dependencies: [
+				"2879C3284A204B6E"
+				"284CC876C5BF4841"
+				"712F03F19DE662F9"
+				"5C65E6DBA9948523"
+				"4DF63948665C18B3"
+			]
+			description: [
+				"               &dGatekeeper"
+				""
+				"This &aphantom general &fcan be found in his domain the &bfrosted prison."
+				""
+				"&bThe frosted prison &fcan be located using the &aeye of curse."
+			]
+			id: "4C3CAC9897B0C4DD"
 			rewards: [
 				{
-					count: 11
-					id: "59EAC35D821F42EB"
-					item: "cisco_mod:champion_coin"
+					id: "7633E2CB123F221E"
+					type: "xp_levels"
+					xp_levels: 40
+				}
+				{
+					count: 15
+					id: "5324BB7E40E78113"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cisco_mod:champion_coin"
+					}
 					type: "item"
 				}
 				{
-					id: "11ECCF8C937D7F42"
-					type: "xp_levels"
-					xp_levels: 35
+					count: 4
+					id: "48508901CD63E2F9"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cisco_mod:champion_loot_bag"
+					}
+					type: "item"
 				}
 			]
 			size: 3.0d
-			subtitle: "Dark Deeds"
+			subtitle: "Malevolent Maledictus"
 			tasks: [{
 				entity: "cataclysm:maledictus"
 				icon: {
-					Count: 1b
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
 					id: "cataclysm:cursium_helmet"
 					tag: {
 						Damage: 0
 						affix_data: {
-							affixes: {
-								"apotheosis:socket": 0.0f
-							}
+							sockets: 1
 						}
 					}
 				}
-				id: "098BDACE01ACBD24"
-				title: "Slay Maledictus"
+				id: "6A025B46849AE46F"
 				type: "kill"
 				value: 1L
 			}]
+			title: "Slay Maledictus"
 			x: 18.0d
-			y: -31.5d
+			y: -33.5d
 		}
 	]
 	title: "{\"text\":\"Deus Interfectorem\",\"color\":\"gold\",\"bold\":false,\"underlined\":false}"

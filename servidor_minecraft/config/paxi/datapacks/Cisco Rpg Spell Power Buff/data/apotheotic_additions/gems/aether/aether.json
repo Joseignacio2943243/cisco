@@ -3,8 +3,8 @@
 		"type": "forge:mod_loaded",
 		"modid": "aether"
 	}],
-	"weight": 5,
-	"quality": 1.5,
+	"weight": 1,
+	"quality": 1,
 	"dimensions": ["aether:the_aether"],
 	"unique": true,
 	"min_rarity": "mythic",
@@ -17,11 +17,14 @@
 					"helmet"
 				]
 			},
-			"attribute": "apotheosis:experience_gained",
+			"attribute": "attributeslib:elytra_flight",
 			"operation": "ADDITION",
 			"values": {
-				"mythic": 0.5,
-				"ancient": 1
+				"mythic": 1,
+				"ancient": 1,
+				"apotheotic_additions:artifact": 1,
+				"apotheotic_additions:heirloom": 1,
+				"apotheotic_additions:esoteric": 1
 			}
 		},
 		{
@@ -32,11 +35,14 @@
 					"chestplate"
 				]
 			},
-			"attribute": "apotheosis:overheal",
+			"attribute": "attributeslib:creative_flight",
 			"operation": "ADDITION",
 			"values": {
-				"mythic": 0.5,
-				"ancient": 1
+				"mythic": 0,
+				"ancient": 0,
+				"apotheotic_additions:artifact": 0,
+				"apotheotic_additions:heirloom": 0,
+				"apotheotic_additions:esoteric": 1
 			}
 		}
 ]

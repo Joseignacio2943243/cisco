@@ -2,3 +2,4 @@ To correctly update your server replace the following folders with the ones foun
 
 Mods folder
 Config folder
+Scripts folder.

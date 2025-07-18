@@ -33,15 +33,9 @@
   },
   "loot": {
     "entries": {
-      "minecraft:chests/ruined_portal": 0.075,
-      "[\\w]+:chests\\/[\\w_\\/]*(nether|hell|lava|magma|fire|burn|fortress)[\\w_\\/]*": 0.075,
-      "[\\w]+:chests\\/[\\w_\\/]*(bastion|piglin)[\\w_\\/]*": 0.075
-    }
-  },
-  "style": {
-    "background": {
-      "f_135804_": "relics",
-      "f_135805_": "textures/gui/description/backgrounds/default.png"
+      "minecraft:chests/ruined_portal": 0.025,
+      "[\\w]+:chests\\/[\\w_\\/]*(nether|hell|lava|magma|fire|burn|fortress)[\\w_\\/]*": 0.025,
+      "[\\w]+:chests\\/[\\w_\\/]*(bastion|piglin)[\\w_\\/]*": 0.025
     }
   }
 }

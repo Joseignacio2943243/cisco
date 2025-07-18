@@ -1,14 +1,14 @@
 {
 	id: "1BB200604848D14F"
 	loot_size: 1
-	order_index: 6
+	order_index: 5
 	rewards: [
 		{ item: "aquaculture:neptunium_ingot", weight: 0.5f }
 		{ count: 5, item: "aquaculture:neptunium_nugget" }
 		{
 			count: 5
 			item: {
-				Count: 1b
+				Count: 1
 				id: "aquaculture:worm"
 				tag: {
 					Damage: 0

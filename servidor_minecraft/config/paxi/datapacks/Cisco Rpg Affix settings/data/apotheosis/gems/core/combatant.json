@@ -5,8 +5,7 @@
 	"dimensions": [
 	],
 	"unique": true,
-	"bonuses": [
-		{
+	"bonuses": [{
 			"type": "apotheosis:attribute",
 			"gem_class": {
 				"key": "ranged_weapon",
@@ -16,15 +15,15 @@
 					"crossbow"
 				]
 			},
-			"attribute": "apotheosis:arrow_damage",
+			"attribute": "attributeslib:arrow_damage",
 			"operation": "MULTIPLY_BASE",
 			"values": {
-				"common": 0.05,
-				"uncommon": 0.15,
-				"rare": 0.20,
-				"epic": 0.30,
-				"mythic": 0.40,
-				"ancient": 0.50
+				"common": 5.55,
+				"uncommon": 10.15,
+				"rare": 20.20,
+				"epic": 25.30,
+				"mythic": 30.40,
+				"ancient": 35.50
 			}
 		},
 		{
@@ -40,10 +39,10 @@
 			"values": {
 				"common": 0.05,
 				"uncommon": 0.075,
-				"rare": 0.105,
-				"epic": 0.155,
-				"mythic": 0.175,
-				"ancient": 0.205
+				"rare": 0.125,
+				"epic": 0.175,
+				"mythic": 0.225,
+				"ancient": 0.275
 			}
 		},
 		{
@@ -64,45 +63,45 @@
 				"ancient": 0.40
 			}
 		},
-		{
-			"type": "apotheosis:damage_reduction",
-			"gem_class": {
-				"key": "curios",
-				"types": [
-					"curios:ring",
-		"curios:head",
-		"curios:necklace",
-		"curios:back",
-		"curios:an_focus",
-		"curios:hostility_curse",
-		"curios:bangle",
-		"curios:body",
-		"curios:bundle",
-		"curios:quiver",
-		"curios:spellstone",
-		"curios:bracelet",
-		"curios:hands",
-		"curios:belt",
-		"curios:charm",
-		"curios:feet",
-		"curios:talisman",
-		"curios:aether_ring",
-        "curios:aether_cape",
-        "curios:aether_gloves",
-        "curios:aether_accessory",
-        "curios:aether_shield",
-        "curios:aether_pendant"
-				]
-			},
-			"damage_type": "physical",
-			"values": {
-				"common": 0.015,
-				"uncommon": 0.0205,
-				"rare": 0.0275,
-				"epic": 0.0355,
-				"mythic": 0.0425,
-				"ancient": 0.0625
-			}
+			{
+				"type": "apotheosis:damage_reduction",
+				"gem_class": {
+					"key": "curios",
+					"types": [
+						"curios:ring",
+			"curios:head",
+			"curios:necklace",
+			"curios:back",
+			"curios:an_focus",
+			"curios:hostility_curse",
+			"curios:bangle",
+			"curios:body",
+			"curios:bundle",
+			"curios:quiver",
+			"curios:spellstone",
+			"curios:bracelet",
+			"curios:hands",
+			"curios:belt",
+			"curios:charm",
+			"curios:feet",
+			"curios:talisman",
+			"curios:aether_ring",
+			"curios:aether_cape",
+			"curios:aether_gloves",
+			"curios:aether_accessory",
+			"curios:aether_shield",
+			"curios:aether_pendant"
+					]
+				},
+				"damage_type": "physical",
+				"values": {
+					"common": 0.015,
+					"uncommon": 0.0205,
+					"rare": 0.0275,
+					"epic": 0.0355,
+					"mythic": 0.0425,
+					"ancient": 0.0625
+				}
 		}
 	]
 }

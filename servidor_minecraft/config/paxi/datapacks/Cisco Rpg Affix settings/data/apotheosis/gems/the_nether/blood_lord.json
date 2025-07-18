@@ -4,8 +4,7 @@
 	"dimensions": [ "minecraft:the_nether" ],
 	"unique": true,
 	"min_rarity": "rare",
-	"bonuses": [
-		{
+	"bonuses": [{
 			"type": "apotheosis:attribute",
 			"gem_class": {
 				"key": "light_weapon",
@@ -14,15 +13,15 @@
 					"trident"
 				]
 			},
-			"attribute": "apotheosis:life_steal",
+			"attribute": "attributeslib:life_steal",
 			"operation": "ADDITION",
 			"values": {
-				"common": 0.015,
-				"uncommon": 0.025,
-				"rare": 0.035,
-				"epic": 0.045,
-				"mythic": 0.075,
-				"ancient": 0.105
+				"common": 0.05,
+				"uncommon": 0.07,
+				"rare": 0.12,
+				"epic": 0.15,
+				"mythic": 0.20,
+				"ancient": 0.25
 			}
 		},
 		{
@@ -34,16 +33,15 @@
 					"heavy_weapon"
 				]
 			},
-			"modifiers": [
-				{
+			"modifiers": [{
 					"attribute": "minecraft:generic.attack_damage",
 					"operation": "MULTIPLY_TOTAL",
 					"values": {
-						"uncommon": 0.15,
-						"rare": 0.25,
-						"epic": 0.35,
-						"mythic": 0.45,
-						"ancient": 0.5
+						"uncommon": 0.10,
+						"rare": 0.15,
+						"epic": 0.20,
+						"mythic": 0.25,
+						"ancient": 0.30
 					}
 				},
 				{
@@ -67,7 +65,7 @@
 					"chestplate"
 				]
 			},
-			"attribute": "apotheosis:healing_received",
+			"attribute": "attributeslib:healing_received",
 			"operation": "ADDITION",
 			"values": {
 				"uncommon": 0.15,
@@ -130,47 +128,6 @@
 					"heal_factor": 0.65,
 					"cooldown": 1000
 				}
-			}
-		},
-		{
-			"type": "apotheosis:attribute",
-			"gem_class": {
-				"key": "curios",
-				"types": [
-					"curios:ring",
-		"curios:head",
-		"curios:necklace",
-		"curios:back",
-		"curios:hostility_curse",
-		"curios:an_focus",
-		"curios:bangle",
-		"curios:body",
-		"curios:bundle",
-		"curios:quiver",
-		"curios:spellstone",
-		"curios:bracelet",
-		"curios:hands",
-		"curios:belt",
-		"curios:charm",
-		"curios:feet",
-		"curios:talisman",
-		"curios:aether_ring",
-        "curios:aether_cape",
-        "curios:aether_gloves",
-        "curios:aether_accessory",
-        "curios:aether_shield",
-        "curios:aether_pendant"
-					
-				]
-			},
-			"attribute": "minecraft:generic.attack_damage",
-					"operation": "MULTIPLY_TOTAL",
-					"values": {
-						"uncommon": 0.01,
-						"rare": 0.025,
-						"epic": 0.04,
-						"mythic": 0.06,
-						"ancient": 0.08
 			}
 		}
 	]

@@ -4,7 +4,7 @@
 		"modid": "undergarden"
 	}],
 	"weight": 5,
-	"quality": 1.5,
+	"quality": 4.5,
 	"dimensions": ["undergarden:undergarden"],
 	"unique": true,
 	"min_rarity": "rare",
@@ -20,10 +20,13 @@
 			"attribute": "minecraft:generic.max_health",
 			"operation": "ADDITION",
 			"values": {
-				"rare": 4.0,
-				"epic": 6.0,
-				"mythic": 8.0,
-				"ancient": 10.0
+				"rare": 3.0,
+				"epic": 4.0,
+				"mythic": 5.0,
+				"ancient": 6.0,
+				"apotheotic_additions:artifact": 8,
+				"apotheotic_additions:heirloom": 10,
+				"apotheotic_additions:esoteric": 12
 			}
 		},
 		{
@@ -34,13 +37,16 @@
 					"helmet"
 				]
 			},
-			"attribute": "apotheosis:life_steal",
+			"attribute": "attributeslib:life_steal",
 			"operation": "MULTIPLY_TOTAL",
 			"values": {
-				"rare": 0.50,
-				"epic": 0.625,
-				"mythic": 0.75,
-				"ancient": 0.90
+				"rare": 0.1,
+				"epic": 0.15,
+				"mythic": 0.2,
+				"ancient": 0.25,
+				"apotheotic_additions:artifact": 0.3,
+				"apotheotic_additions:heirloom": 0.35,
+				"apotheotic_additions:esoteric": 0.4
 			}
 		},
 		{
@@ -58,59 +64,30 @@
 			"values": {
 				"mythic": {
 					"duration": 180,
-					"amplifier": 1,
-					"cooldown": 500
+					"amplifier": 0,
+					"cooldown": 800
 				},
 				"ancient": {
 					"duration": 240,
+					"amplifier": 0,
+					"cooldown": 800
+				},
+				"apotheotic_additions:artifact": {
+					"duration": 300,
+					"amplifier": 1,
+					"cooldown": 800
+				},
+				"apotheotic_additions:heirloom": {
+					"duration": 360,
+					"amplifier": 1,
+					"cooldown": 700
+				},
+				"apotheotic_additions:esoteric": {
+					"duration": 420,
 					"amplifier": 2,
-					"cooldown": 500
+					"cooldown": 700
 				}
 			}
-		},
-		{
-				"type": "apotheosis:attribute",
-				"gem_class": {
-					"key": "curios",
-					"types": [
-						"curios:ring",
-						"curios:hostility_curse",
-						"curios:head",
-						"curios:necklace",
-						"curios:back",
-						"curios:an_focus",
-						"curios:bangle",
-						"curios:body",
-						"curios:bundle",
-						"curios:quiver",
-						"curios:spellstone",
-						"curios:artifact_head",
-						"curios:artifact_necklace",
-						"curios:artifact_body",
-						"curios:artifact_belt",
-						"curios:artifact_bracelet",
-						"curios:hands",
-						"curios:belt",
-						"curios:charm",
-						"curios:feet",
-						"curios:talisman",
-						"curios:aether_ring",
-						"curios:aether_cape",
-						"curios:aether_gloves",
-						"curios:aether_accessory",
-						"curios:aether_shield",
-						"curios:aether_pendant",
-						"curios:trinkets"
-		]
-	},
-	"attribute": "apotheosis:life_steal",
-	"operation": "MULTIPLY_TOTAL",
-	"values": {
-		"rare": 0.01,
-		"epic": 0.03,
-		"mythic": 0.04,
-		"ancient": 0.05
-				}
-			}
-		]
+		}
+]
 }

@@ -40,13 +40,7 @@
   },
   "loot": {
     "entries": {
-      "[\\w]+:chests\\/[\\w_\\/]*village[\\w_\\/]*": 0.075
-    }
-  },
-  "style": {
-    "background": {
-      "f_135804_": "relics",
-      "f_135805_": "textures/gui/description/backgrounds/default.png"
+      "[\\w]+:chests\\/[\\w_\\/]*village[\\w_\\/]*": 0.025
     }
   }
 }

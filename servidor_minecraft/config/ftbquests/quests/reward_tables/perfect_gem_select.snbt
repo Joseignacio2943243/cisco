@@ -1,155 +1,260 @@
 {
 	id: "060EA01EEDC372F7"
 	loot_size: 1
-	order_index: 15
+	order_index: 13
 	rewards: [
 		{
 			item: {
-				Count: 1b
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
 				id: "apotheosis:gem"
 				tag: {
+					affix_data: {
+						rarity: "apotheosis:ancient"
+					}
 					gem: "apotheosis:core/combatant"
-					rarity: "ancient"
 				}
 			}
 		}
 		{
 			item: {
-				Count: 1b
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
 				id: "apotheosis:gem"
 				tag: {
+					affix_data: {
+						rarity: "apotheosis:ancient"
+					}
 					gem: "apotheosis:core/ballast"
-					rarity: "ancient"
 				}
 			}
 		}
 		{
 			item: {
-				Count: 1b
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
 				id: "apotheosis:gem"
 				tag: {
+					affix_data: {
+						rarity: "apotheosis:ancient"
+					}
 					gem: "apotheosis:core/brawlers"
-					rarity: "ancient"
 				}
 			}
 		}
 		{
 			item: {
-				Count: 1b
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
 				id: "apotheosis:gem"
 				tag: {
+					affix_data: {
+						rarity: "apotheosis:ancient"
+					}
 					gem: "apotheosis:core/breach"
-					rarity: "ancient"
 				}
 			}
 		}
 		{
 			item: {
-				Count: 1b
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
 				id: "apotheosis:gem"
 				tag: {
+					affix_data: {
+						rarity: "apotheosis:ancient"
+					}
 					gem: "apotheosis:core/guardian"
-					rarity: "ancient"
 				}
 			}
 		}
 		{
 			item: {
-				Count: 1b
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
 				id: "apotheosis:gem"
 				tag: {
+					affix_data: {
+						rarity: "apotheosis:ancient"
+					}
 					gem: "apotheosis:core/lunar"
-					rarity: "ancient"
 				}
 			}
 		}
 		{
 			item: {
-				Count: 1b
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
 				id: "apotheosis:gem"
 				tag: {
+					affix_data: {
+						rarity: "apotheosis:ancient"
+					}
 					gem: "apotheosis:core/samurai"
-					rarity: "ancient"
 				}
 			}
 		}
 		{
 			item: {
-				Count: 1b
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
 				id: "apotheosis:gem"
 				tag: {
+					affix_data: {
+						rarity: "apotheosis:ancient"
+					}
 					gem: "apotheosis:core/solar"
-					rarity: "ancient"
 				}
 			}
 		}
 		{
 			item: {
-				Count: 1b
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
 				id: "apotheosis:gem"
 				tag: {
+					affix_data: {
+						rarity: "apotheotic_additions:esoteric"
+					}
 					gem: "apotheotic_additions:modded/archmage"
-					rarity: "ancient"
 				}
 			}
 		}
 		{
 			item: {
-				Count: 1b
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
 				id: "apotheosis:gem"
 				tag: {
+					affix_data: {
+						rarity: "apotheosis:ancient"
+					}
 					gem: "apotheosis:the_end/endersurge"
-					rarity: "ancient"
 				}
 			}
 		}
 		{
 			item: {
-				Count: 1b
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
 				id: "apotheosis:gem"
 				tag: {
+					affix_data: {
+						rarity: "apotheosis:ancient"
+					}
 					gem: "apotheosis:overworld/earth"
-					rarity: "ancient"
 				}
 			}
 		}
 		{
 			item: {
-				Count: 1b
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
 				id: "apotheosis:gem"
 				tag: {
+					affix_data: {
+						rarity: "apotheosis:ancient"
+					}
 					gem: "apotheosis:the_nether/blood_lord"
-					rarity: "ancient"
 				}
 			}
 		}
 		{
 			item: {
-				Count: 1b
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
 				id: "apotheosis:gem"
 				tag: {
+					affix_data: {
+						rarity: "apotheotic_additions:esoteric"
+					}
 					gem: "apotheotic_additions:modded/ars_mana"
-					rarity: "ancient"
 				}
 			}
 		}
 		{
 			item: {
-				Count: 1b
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
 				id: "apotheosis:gem"
 				tag: {
+					affix_data: {
+						rarity: "apotheotic_additions:esoteric"
+					}
 					gem: "apotheotic_additions:modded/armor"
-					rarity: "ancient"
 				}
 			}
 		}
 		{
 			item: {
-				Count: 1b
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
 				id: "apotheosis:gem"
 				tag: {
+					affix_data: {
+						rarity: "apotheosis:ancient"
+					}
 					gem: "apotheosis:core/warlord"
-					rarity: "ancient"
 				}
 			}
 		}

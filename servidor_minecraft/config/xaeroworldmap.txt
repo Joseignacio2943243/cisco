@@ -1,5 +1,5 @@
-ignoreUpdate:175
-updateNotification:false
+ignoreUpdate:179
+updateNotification:true
 allowInternetAccess:true
 differentiateByServerAddress:true
 caveMapsAllowed:true

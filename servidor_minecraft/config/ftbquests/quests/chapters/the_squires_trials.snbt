@@ -2,24 +2,38 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: "hexagon"
 	filename: "the_squires_trials"
-	group: "26E23D519F52B5AE"
+	group: "3B0CDB8395E59365"
 	id: "744084D7C7EA8A6C"
-	order_index: 1
+	images: [{
+		height: 22.0d
+		image: "kubejs:textures/fallenpose1.png"
+		rotation: 0.0d
+		width: 22.0d
+		x: 4.5d
+		y: -1.0d
+	}]
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
 			description: [
-				"I sense a familiar &cpower &fwithin you. You may be able to aid me in my quest to defeat &4the fell king."
+				"&6Cisco &fsensed a familiar &cpower &fwithin the champion. Believing they may be able to aid him in his quest to defeat &4the fell king &fhe offered his guidance."
 				""
-				"Take these items and begin the journey to increase your &4strength&f. "
-				""
-				"I will approach you when i feel you are ready."
+				"Relive the champion's journey and ascent to legendary status."
 			]
 			icon: {
-				Count: 1b
-				id: "simplyswords:emberblade"
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "cisco_mod:absolute_equillibrium"
 				tag: {
 					Damage: 0
+					affix_data: {
+						sockets: 1
+					}
 				}
 			}
 			id: "6F010E22CD886969"
@@ -27,7 +41,7 @@
 				{
 					id: "3915EA0EA87EA1F7"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "immersive_armors:wooden_helmet"
 						tag: {
 							Damage: 0
@@ -38,7 +52,7 @@
 				{
 					id: "42BCAFBACD08D777"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "immersive_armors:wooden_leggings"
 						tag: {
 							Damage: 0
@@ -49,7 +63,7 @@
 				{
 					id: "168BCCC39841DB5E"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "immersive_armors:wooden_boots"
 						tag: {
 							Damage: 0
@@ -60,7 +74,7 @@
 				{
 					id: "0450AE0AB51CF58F"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "immersive_armors:wooden_chestplate"
 						tag: {
 							Damage: 0
@@ -71,7 +85,7 @@
 				{
 					id: "2046B74EDCA1E887"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "minecraft:wooden_sword"
 						tag: {
 							Damage: 0
@@ -113,7 +127,7 @@
 			dependencies: ["159FD707980D3015"]
 			description: ["Up close and personal."]
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "minecraft:iron_sword"
 				tag: {
 					Damage: 0
@@ -129,7 +143,7 @@
 				{
 					id: "07F2D81786A4D0D0"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "simplyswords:iron_longsword"
 						tag: {
 							Damage: 0
@@ -140,7 +154,7 @@
 				{
 					id: "6FD6A41F0F72C3FF"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "minecraft:shield"
 						tag: {
 							Damage: 0
@@ -222,7 +236,7 @@
 				"Which path will you choose?"
 			]
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "ars_nouveau:caster_tome"
 				tag: { }
 			}
@@ -241,7 +255,15 @@
 				{
 					count: 20
 					id: "45DE7F2B9D1856D8"
-					item: "ars_nouveau:source_berry"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "ars_nouveau:sourceberry_bush"
+					}
 					type: "item"
 				}
 				{
@@ -275,6 +297,15 @@
 				}
 				{
 					exclude_from_claim_all: true
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:golden_apple"
+					}
 					id: "700E1922F6322EB6"
 					table_id: 7887617014360776363L
 					type: "choice"
@@ -296,14 +327,19 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["1050696B001AF863"]
+			dependencies: ["22B92DE71F6F923D"]
 			description: [
 				"There is a tale of a &6legendary relic &fwhich lies in the possesion of the &avillagers.&f"
 				""
 				"Perhaps if you can gain their favor they may entrust it to you?"
 			]
 			icon: {
-				Count: 1b
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
 				id: "simplyswords:dormant_relic"
 				tag: {
 					Damage: 0
@@ -319,7 +355,7 @@
 				{
 					id: "061837A36064468A"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "simplyswords:dormant_relic"
 						tag: {
 							Damage: 0
@@ -344,7 +380,7 @@
 				}
 			]
 			title: "The relic of the ancients"
-			x: -4.5d
+			x: -1.0d
 			y: -4.5d
 		}
 		{
@@ -455,7 +491,7 @@
 				{
 					id: "56D88873C3BE8FBB"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "minecraft:flint_and_steel"
 						tag: {
 							Damage: 0
@@ -546,11 +582,18 @@
 				{
 					id: "09DE92BC1BD3184D"
 					item: {
-						Count: 1b
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
 						id: "apotheosis:gem"
 						tag: {
+							affix_data: {
+								rarity: "apotheotic_additions:esoteric"
+							}
 							gem: "apotheotic_additions:modded/ars_mana"
-							rarity: "mythic"
 						}
 					}
 					type: "item"
@@ -619,7 +662,7 @@
 				{
 					id: "1CCD0204D23A47E5"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "minecraft:potion"
 						tag: {
 							Potion: "minecraft:regeneration"
@@ -630,7 +673,7 @@
 				{
 					id: "7A8AF9A329988DCE"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "minecraft:potion"
 						tag: {
 							Potion: "minecraft:regeneration"
@@ -641,7 +684,7 @@
 				{
 					id: "6A8E497CE21C5E9E"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "minecraft:potion"
 						tag: {
 							Potion: "minecraft:regeneration"
@@ -685,7 +728,7 @@
 			tasks: [{
 				id: "6B5745A38353222B"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "simplyswords:righteous_relic"
 					tag: {
 						Damage: 0
@@ -704,7 +747,15 @@
 			rewards: [
 				{
 					id: "7E21A7A3843925F7"
-					item: "simplyswords:runic_tablet"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "simplyswords:runic_tablet"
+					}
 					type: "item"
 				}
 				{
@@ -722,7 +773,7 @@
 			tasks: [{
 				id: "41D7A87DF060E327"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "simplyswords:tainted_relic"
 					tag: {
 						Damage: 0
@@ -777,7 +828,7 @@
 				{
 					id: "42B8416D7744D978"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "apotheosis:potion_charm"
 						tag: {
 							Damage: 0
@@ -804,8 +855,8 @@
 				item: "cataclysm:flame_eye"
 				type: "item"
 			}]
-			x: 20.0d
-			y: -1.5d
+			x: 20.5d
+			y: 0.5d
 		}
 		{
 			dependencies: [
@@ -817,6 +868,8 @@
 				"                  &dGatekeeper"
 				""
 				"The &4nether &bstar &fobtained from slaying the &0Wither &fis used in the crafting of very powerful items."
+				""
+				"The wither will grow in strength every time you defeat it."
 			]
 			icon: "minecraft:wither_skeleton_skull"
 			id: "64286A21FDB8288F"
@@ -861,7 +914,7 @@
 				"Use the &eashes &fon the altar in the center of the &4arena &fand extinguish &6The King of Flames."
 			]
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "cataclysm:ignitium_helmet"
 				tag: {
 					Damage: 0
@@ -884,7 +937,7 @@
 			tasks: [{
 				entity: "cataclysm:ignis"
 				icon: {
-					Count: 1b
+					Count: 1
 					id: "cataclysm:ignitium_helmet"
 					tag: {
 						Damage: 0
@@ -900,8 +953,8 @@
 				value: 1L
 			}]
 			title: "Slay the flame king"
-			x: 22.5d
-			y: -1.5d
+			x: 23.5d
+			y: 0.5d
 		}
 		{
 			dependencies: ["2A5A2B19FD4A1ABE"]
@@ -931,7 +984,7 @@
 				type: "item"
 			}]
 			title: "Not gold but certainly glitters"
-			x: -1.0d
+			x: -4.5d
 			y: 0.0d
 		}
 		{
@@ -985,7 +1038,7 @@
 				"These three are a good starting point."
 			]
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "endrem:old_eye"
 				tag: {
 					Damage: 0
@@ -1003,7 +1056,7 @@
 				{
 					id: "09F6D59F4C37D75A"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "endrem:rogue_eye"
 						tag: {
 							Damage: 0
@@ -1014,7 +1067,7 @@
 				{
 					id: "031105FC4193EBA0"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "endrem:nether_eye"
 						tag: {
 							Damage: 0
@@ -1025,7 +1078,7 @@
 				{
 					id: "6684A63AB4A2AAC4"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "endrem:wither_eye"
 						tag: {
 							Damage: 0
@@ -1037,124 +1090,6 @@
 			title: "Collecting the 12 eyes"
 			x: 21.5d
 			y: 3.0d
-		}
-		{
-			dependencies: ["441A82CED3F13122"]
-			description: [
-				"One of the most powerful metals  known to us."
-				""
-				"Used in crafting the legendary &5Dreadsteel Armor &fand weapons. "
-			]
-			id: "5F9E436831D414F2"
-			rewards: [{
-				id: "5EB6E0ABC0B81F7E"
-				item: {
-					Count: 1b
-					id: "apotheosis:gem"
-					tag: {
-						gem: "apotheosis:the_end/endersurge"
-						rarity: "ancient"
-					}
-				}
-				type: "item"
-			}]
-			subtitle: "Acquiring Dreadsteel"
-			tasks: [{
-				id: "5AFBE1892DF60DF9"
-				item: "dreadsteel:dreadsteel_ingot"
-				type: "item"
-			}]
-			x: 20.0d
-			y: 0.5d
-		}
-		{
-			dependencies: ["5F9E436831D414F2"]
-			description: ["&5Dreadsteel Armor &fprovides immunity to many damage types such as &6fire &fand &blightning &fwhile providing high base armor and toughness."]
-			id: "5BD0DD3AA6849F8B"
-			rewards: [
-				{
-					id: "006FC67216290BCA"
-					item: "dreadsteel:kit_white"
-					type: "item"
-				}
-				{
-					id: "5AE135A05303FF60"
-					item: "dreadsteel:kit_black"
-					type: "item"
-				}
-				{
-					id: "2CF7688A7FB543FA"
-					item: "dreadsteel:kit_bronze"
-					type: "item"
-				}
-			]
-			shape: "hexagon"
-			subtitle: "Becoming the DreadKnight"
-			tasks: [
-				{
-					id: "45ADEAFA40456454"
-					item: {
-						Count: 1b
-						id: "dreadsteel:dreadsteel_helmet"
-						tag: {
-							affix_data: {
-								affixes: {
-									"apotheosis:socket": 0.0f
-								}
-							}
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "5F0E16D5E4CE279C"
-					item: {
-						Count: 1b
-						id: "dreadsteel:dreadsteel_chestplate"
-						tag: {
-							affix_data: {
-								affixes: {
-									"apotheosis:socket": 0.0f
-								}
-							}
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "63BA8E35DC80B38D"
-					item: {
-						Count: 1b
-						id: "dreadsteel:dreadsteel_leggings"
-						tag: {
-							affix_data: {
-								affixes: {
-									"apotheosis:socket": 0.0f
-								}
-							}
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "7A0A5BDA77C91CF9"
-					item: {
-						Count: 1b
-						id: "dreadsteel:dreadsteel_boots"
-						tag: {
-							affix_data: {
-								affixes: {
-									"apotheosis:socket": 0.0f
-								}
-							}
-						}
-					}
-					type: "item"
-				}
-			]
-			title: "Dread Knight"
-			x: 22.5d
-			y: 0.5d
 		}
 		{
 			dependencies: ["1AB06DC31FD237A6"]
@@ -1194,6 +1129,8 @@
 				"Not even the &5Ender Dragon &fcan stand before your &4might&f ."
 				""
 				"Slay her and liberate the &dend dimension."
+				""
+				"Each time you battle her she will grow  in strength."
 			]
 			icon: "minecraft:dragon_head"
 			id: "2F764777B6E4D941"
@@ -1306,11 +1243,18 @@
 				{
 					id: "62D03D236AF83B0C"
 					item: {
-						Count: 1b
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
 						id: "apotheosis:gem"
 						tag: {
+							affix_data: {
+								rarity: "apotheotic_additions:esoteric"
+							}
 							gem: "apotheotic_additions:modded/archmage"
-							rarity: "mythic"
 						}
 					}
 					type: "item"
@@ -1364,11 +1308,18 @@
 				{
 					id: "307CA6B22E227589"
 					item: {
-						Count: 1b
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
 						id: "apotheosis:gem"
 						tag: {
+							affix_data: {
+								rarity: "apotheosis:ancient"
+							}
 							gem: "apotheosis:core/warlord"
-							rarity: "mythic"
 						}
 					}
 					type: "item"
@@ -1388,7 +1339,7 @@
 			tasks: [{
 				id: "623D0CAFDC9FCFDE"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "simplyswords:sunfire"
 					tag: {
 						Damage: 0
@@ -1407,11 +1358,18 @@
 				{
 					id: "7CDC17260D54B392"
 					item: {
-						Count: 1b
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
 						id: "apotheosis:gem"
 						tag: {
+							affix_data: {
+								rarity: "apotheosis:ancient"
+							}
 							gem: "apotheosis:core/warlord"
-							rarity: "mythic"
 						}
 					}
 					type: "item"
@@ -1431,7 +1389,7 @@
 			tasks: [{
 				id: "4446DA4144047D8A"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "simplyswords:harbinger"
 					tag: {
 						Damage: 0
@@ -1441,33 +1399,6 @@
 			}]
 			x: 2.5d
 			y: -12.0d
-		}
-		{
-			dependencies: ["1AA5DCEFEC43DCA6"]
-			description: ["This fancy table can be used to change the &5appearance &fof items such as &1armor &fand even make them invisible."]
-			id: "643F3DBD508A8B37"
-			rewards: [
-				{
-					count: 30
-					id: "185B7CC2407D756F"
-					item: "minecraft:amethyst_shard"
-					type: "item"
-				}
-				{
-					id: "0B90A6089B359208"
-					type: "xp_levels"
-					xp_levels: 5
-				}
-			]
-			subtitle: "Changing Colours"
-			tasks: [{
-				id: "77EF10BF9F9B0016"
-				item: "transmog:transmogrification_table"
-				type: "item"
-			}]
-			title: "Transmoggin time!"
-			x: 2.5d
-			y: 0.0d
 		}
 		{
 			dependencies: ["068B6DC27BC66D89"]
@@ -1481,7 +1412,7 @@
 				{
 					id: "343DA0EE2F71E7E9"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "ars_nouveau:starbuncle_charm"
 						tag: { }
 					}
@@ -1502,7 +1433,7 @@
 			tasks: [{
 				id: "7186C720D9C1212B"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ars_nouveau:starbuncle_charm"
 					tag: { }
 				}
@@ -1518,11 +1449,18 @@
 			rewards: [{
 				id: "6AF6AEC9E5521C1C"
 				item: {
-					Count: 1b
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
 					id: "apotheosis:gem"
 					tag: {
+						affix_data: {
+							rarity: "apotheosis:ancient"
+						}
 						gem: "apotheosis:the_nether/inferno"
-						rarity: "ancient"
 					}
 				}
 				type: "item"
@@ -1532,7 +1470,7 @@
 				{
 					id: "5A287F70C48D9222"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cataclysm:ignitium_chestplate"
 						tag: {
 							Damage: 0
@@ -1543,7 +1481,7 @@
 				{
 					id: "1A7802F6F1DCCF43"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cataclysm:ignitium_leggings"
 						tag: {
 							Damage: 0
@@ -1554,7 +1492,7 @@
 				{
 					id: "61FD24E11BD52A91"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cataclysm:ignitium_boots"
 						tag: {
 							Damage: 0
@@ -1565,7 +1503,7 @@
 				{
 					id: "78F65745BAF9E385"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cataclysm:ignitium_helmet"
 						tag: {
 							Damage: 0
@@ -1575,8 +1513,8 @@
 				}
 			]
 			title: "Craft the Ignitium set"
-			x: 25.0d
-			y: -1.5d
+			x: 26.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["3E13EB56EE51145F"]
@@ -1631,7 +1569,7 @@
 		}
 		{
 			dependencies: ["28B406CDB662AAF8"]
-			description: ["The ultimate reforging table."]
+			description: ["This reforging table allows you reroll up to &6mythic &ftier affixes."]
 			id: "78C3CC2B67ED66B6"
 			rewards: [{
 				count: 6
@@ -1639,7 +1577,7 @@
 				item: "apotheosis:mythic_material"
 				type: "item"
 			}]
-			subtitle: "Master Reforger"
+			subtitle: "Divine Temper"
 			tasks: [{
 				id: "5994EC545EA3E42B"
 				item: "apotheosis:reforging_table"
@@ -1715,7 +1653,7 @@
 			tasks: [{
 				id: "3105BCFB68A24220"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "apotheosis:potion_charm"
 					tag: {
 						Damage: 0
@@ -1842,7 +1780,7 @@
 				{
 					id: "0F5248E1F54F9FAD"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:brightsteel_helmet"
 						tag: {
 							Damage: 0
@@ -1858,7 +1796,7 @@
 				{
 					id: "59634160EEA2AC0B"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:brightsteel_chestplate"
 						tag: {
 							Damage: 0
@@ -1874,7 +1812,7 @@
 				{
 					id: "26C0B12FCAC951AD"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:brightsteel_leggings"
 						tag: {
 							Damage: 0
@@ -1890,7 +1828,7 @@
 				{
 					id: "69E95C0190AA791A"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:brightsteel_boots"
 						tag: {
 							Damage: 0
@@ -1923,7 +1861,7 @@
 				{
 					id: "7213A647A63A33CD"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:gilded_eagle_helmet"
 						tag: {
 							Damage: 0
@@ -1939,7 +1877,7 @@
 				{
 					id: "2DA5BD1B224D4B53"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:gilded_eagle_chestplate"
 						tag: {
 							Damage: 0
@@ -1955,7 +1893,7 @@
 				{
 					id: "1A33FECCEC5139E3"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:gilded_eagle_leggings"
 						tag: {
 							Damage: 0
@@ -1971,7 +1909,7 @@
 				{
 					id: "4D2C9C07C86252EC"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:gilded_eagle_boots"
 						tag: {
 							Damage: 0
@@ -2010,7 +1948,7 @@
 			tasks: [{
 				id: "5102E1EE0B19EC49"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "cisco_mod:brightsteel_multi_tool"
 					tag: {
 						Damage: 0
@@ -2025,187 +1963,6 @@
 			}]
 			x: 11.5d
 			y: -5.0d
-		}
-		{
-			description: [
-				"&aMounted Zombies &fhave been attacking travelers and must be"
-				"dealt with."
-			]
-			id: "4D11A9DAFE60575B"
-			rewards: [
-				{
-					id: "3B2C1E51DDFF16C7"
-					type: "xp_levels"
-					xp_levels: 10
-				}
-				{
-					id: "32A3487495A1DC49"
-					item: "skilltree:wisdom_scroll"
-					type: "item"
-				}
-			]
-			subtitle: "Mounted Menace"
-			tasks: [{
-				entity: "enemyexpansion:equestrian"
-				icon: {
-					Count: 1b
-					id: "twilightforest:zombie_skull_candle"
-					tag: {
-						BlockEntityTag: {
-							CandleAmount: 1
-							CandleColor: 0
-						}
-					}
-				}
-				id: "324F22F77B43133E"
-				title: "Kill Equestrians"
-				type: "kill"
-				value: 10L
-			}]
-			x: -4.5d
-			y: -8.5d
-		}
-		{
-			dependencies: ["23864A4966441D61"]
-			description: ["These annoying little creatures have been terrorising villages , get rid of them."]
-			id: "1050696B001AF863"
-			rewards: [
-				{
-					id: "672684F597E30C7A"
-					item: "skilltree:wisdom_scroll"
-					type: "item"
-				}
-				{
-					id: "52B75C5FA298A1BF"
-					type: "xp_levels"
-					xp_levels: 7
-				}
-				{
-					id: "0366D348CA29E39E"
-					item: {
-						Count: 1b
-						id: "ringsofascension:ring_strength"
-						tag: {
-							affix_data: {
-								affixes: {
-									"apotheosis:socket": 0.0f
-								}
-							}
-						}
-					}
-					type: "item"
-				}
-			]
-			subtitle: "Mincing Meat"
-			tasks: [{
-				entity: "enemyexpansion:meature"
-				icon: {
-					Count: 1b
-					id: "enemyexpansion:meathead_helmet"
-					tag: {
-						Damage: 0
-						affix_data: {
-							affixes: {
-								"apotheosis:socket": 0.0f
-							}
-						}
-					}
-				}
-				id: "7BC4E425808B02B2"
-				title: "Kill Meatures"
-				type: "kill"
-				value: 20L
-			}]
-			x: -7.0d
-			y: -4.5d
-		}
-		{
-			description: ["&cRogue Knights &fwander these lands and pose a threat to the safety of the villagers. Destroy them."]
-			icon: {
-				Count: 1b
-				id: "undead_unleashed:grave_metal_helmet"
-				tag: {
-					Damage: 0
-					affix_data: {
-						affixes: {
-							"apotheosis:socket": 0.0f
-						}
-					}
-				}
-			}
-			id: "44B380D57A6721F1"
-			rewards: [
-				{
-					id: "3238C61749301F1D"
-					type: "xp_levels"
-					xp_levels: 10
-				}
-				{
-					id: "18B92E3814727747"
-					item: "skilltree:wisdom_scroll"
-					type: "item"
-				}
-			]
-			subtitle: "Forsaken Oaths"
-			tasks: [{
-				entity: "undead_unleashed:frenzied_knight"
-				icon: {
-					Count: 1b
-					id: "undead_unleashed:grave_metal_sword"
-					tag: {
-						Damage: 0
-						affix_data: {
-							affixes: {
-								"apotheosis:socket": 0.0f
-							}
-						}
-					}
-				}
-				id: "5FB2B4C28390DB5A"
-				type: "kill"
-				value: 15L
-			}]
-			title: "Defeat Rogue Knights"
-			x: -9.5d
-			y: -6.5d
-		}
-		{
-			description: ["Masters of the &5Undead &fhave been ressurecting corpses in the world and must be stopped."]
-			id: "5305DB03904E4CEB"
-			rewards: [
-				{
-					id: "59A66BE8C01711DD"
-					type: "xp_levels"
-					xp_levels: 10
-				}
-				{
-					id: "332470ED8800FEBC"
-					item: "skilltree:wisdom_scroll"
-					type: "item"
-				}
-			]
-			subtitle: "Grave Danger"
-			tasks: [{
-				entity: "undead_unleashed:graveriser"
-				icon: {
-					Count: 1b
-					id: "immersive_armors:bone_helmet"
-					tag: {
-						Damage: 0
-						affix_data: {
-							affixes: {
-								"apotheosis:socket": 0.0f
-							}
-						}
-					}
-				}
-				id: "0F890F787DB85213"
-				title: "Slay Graverisers"
-				type: "kill"
-				value: 6L
-			}]
-			x: -9.5d
-			y: -8.5d
 		}
 		{
 			description: ["The &0spider &fpopulation has grown out of hand, reduce thier numbers."]
@@ -2226,132 +1983,21 @@
 			tasks: [{
 				entity: "minecraft:spider"
 				icon: {
-					Count: 1b
-					id: "blue_skies:arachnarch_trophy"
-					tag: {
-						BlockStateTag: {
-							tier: "bronze"
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
 						}
 					}
+					id: "minecraft:fermented_spider_eye"
 				}
 				id: "53712273863B9AA2"
 				title: "Slay Spiders"
 				type: "kill"
-				value: 20L
-			}]
-			title: "Slay Spiders"
-			x: -4.5d
-			y: -6.5d
-		}
-		{
-			description: [
-				"&dGate pearls &fcan be crafted to summon waves of specific creatures."
-				""
-				"Craft the &2zombie pearl &fand open it's gate, then defeat the onslaught in time."
-			]
-			id: "2C3C0839D2E8803B"
-			rewards: [
-				{
-					id: "1E88A742C555C7FE"
-					item: {
-						Count: 1b
-						id: "gateways:gate_pearl"
-						tag: {
-							gateway: "gateways:zombie_gate_large"
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "356491183A091EC7"
-					item: "skilltree:wisdom_scroll"
-					type: "item"
-				}
-			]
-			subtitle: "Opening the zombie gate"
-			tasks: [{
-				id: "04FBCF924199AC0A"
-				item: {
-					Count: 1b
-					id: "gateways:gate_pearl"
-					tag: {
-						gateway: "gateways:zombie_gate"
-					}
-				}
-				type: "item"
-			}]
-			x: -1.5d
-			y: -8.5d
-		}
-		{
-			description: ["Hostile &2Goblins &fare becoming a nuissance , take care of them."]
-			id: "67C8D98A2FE55A26"
-			rewards: [
-				{
-					id: "7A802888F62E232D"
-					type: "xp_levels"
-					xp_levels: 25
-				}
-				{
-					count: 2
-					id: "219576432CC6CFB9"
-					item: "skilltree:wisdom_scroll"
-					type: "item"
-				}
-			]
-			subtitle: "Goblin Grief"
-			tasks: [
-				{
-					entity: "enemyexpansion:goblin"
-					icon: "enemyexpansion:goblin_spawn_egg"
-					id: "37CBF39E47939C42"
-					type: "kill"
-					value: 10L
-				}
-				{
-					entity: "iter_rpg:hobgoblin"
-					icon: "iter_rpg:hobgoblin_spawn_egg"
-					id: "4056AFC1E6AD1AFC"
-					type: "kill"
-					value: 3L
-				}
-				{
-					entity: "iter_rpg:goblin_warrior"
-					icon: "iter_rpg:goblin_warrior_spawn_egg"
-					id: "1A69EF9BADF5BCEC"
-					type: "kill"
-					value: 5L
-				}
-			]
-			title: "Slay Goblins"
-			x: -7.0d
-			y: -8.5d
-		}
-		{
-			description: ["&cBlood Sucking Demons &froam the lands preying on man and beast alike...Send them back to hell."]
-			id: "623E59B20E99F9A3"
-			rewards: [
-				{
-					id: "0E3E1399A0797D52"
-					type: "xp_levels"
-					xp_levels: 5
-				}
-				{
-					id: "5FC3228784DC4192"
-					item: "skilltree:wisdom_scroll"
-					type: "item"
-				}
-			]
-			subtitle: "Vanquishing Vampires"
-			tasks: [{
-				entity: "enemyexpansion:vampire"
-				icon: "irons_spellbooks:blood_vial"
-				id: "03A4DF05B6747430"
-				type: "kill"
 				value: 10L
 			}]
-			title: "Slay Vampires"
-			x: -7.0d
+			title: "Slay Spiders"
+			x: -9.5d
 			y: -6.5d
 		}
 		{
@@ -2366,9 +2012,13 @@
 			tasks: [{
 				id: "1A2B267D5FC7A321"
 				item: {
-					Count: 1b
-					id: "xpbook:xp_tome"
-					tag: { }
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "globalxp:xp_block"
 				}
 				type: "item"
 			}]
@@ -2383,7 +2033,7 @@
 				{
 					id: "2851B67B9D2346CA"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:adventurer_helmet"
 						tag: {
 							Damage: 0
@@ -2399,7 +2049,7 @@
 				{
 					id: "2FCE7F85A84DFA86"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:adventurer_leggings"
 						tag: {
 							Damage: 0
@@ -2415,7 +2065,7 @@
 				{
 					id: "098C37AEFC13F39F"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:adventurer_boots"
 						tag: {
 							Damage: 0
@@ -2438,7 +2088,7 @@
 			tasks: [{
 				id: "133116A1A8C00969"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "cisco_mod:adventurer_chestplate"
 					tag: {
 						Damage: 0
@@ -2469,7 +2119,7 @@
 			tasks: [{
 				id: "3493AA4B96B64710"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "cisco_mod:bright_pickaxe"
 					tag: {
 						Damage: 0
@@ -2500,7 +2150,7 @@
 			tasks: [{
 				id: "57E58D4156407778"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "cisco_mod:dark_pickaxe"
 					tag: {
 						Damage: 0
@@ -2541,11 +2191,14 @@
 			tasks: [{
 				entity: "sons_of_sins:betrayed_guzzler"
 				icon: {
-					Count: 1b
+					Count: 1
 					ForgeCaps: {
 						Parent: {
 							Items: [ ]
 							Size: 11
+						}
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
 						}
 					}
 					id: "sons_of_sins:flesh_carcass"
@@ -2561,7 +2214,7 @@
 				type: "kill"
 				value: 5L
 			}]
-			x: -1.5d
+			x: -7.0d
 			y: -6.5d
 		}
 		{
@@ -2589,7 +2242,7 @@
 			tasks: [{
 				id: "7CD0B0FCDCF1D32B"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "irons_spellbooks:copper_spell_book"
 					tag: {
 						ISB_spellbook: {
@@ -2653,7 +2306,7 @@
 				{
 					id: "262E5568EC1387EF"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "irons_spellbooks:scroll"
 						tag: {
 							ISB_spell: {
@@ -2667,7 +2320,7 @@
 				{
 					id: "111465C0C6153F77"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "irons_spellbooks:scroll"
 						tag: {
 							ISB_spell: {
@@ -2708,11 +2361,18 @@
 					count: 2
 					id: "619E675C073D7098"
 					item: {
-						Count: 1b
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
 						id: "apotheosis:gem"
 						tag: {
+							affix_data: {
+								rarity: "apotheotic_additions:artifact"
+							}
 							gem: "apotheotic_additions:modded/ars_mana"
-							rarity: "rare"
 						}
 					}
 					type: "item"
@@ -2727,11 +2387,18 @@
 			tasks: [{
 				id: "40B767A977DC69CC"
 				item: {
-					Count: 1b
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
 					id: "apotheosis:gem"
 					tag: {
+						affix_data: {
+							rarity: "apotheosis:rare"
+						}
 						gem: "apotheotic_additions:modded/archmage"
-						rarity: "mythic"
 					}
 				}
 				type: "item"
@@ -2766,11 +2433,18 @@
 			tasks: [{
 				id: "61CB8B87270806ED"
 				item: {
-					Count: 1b
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
 					id: "apotheosis:gem"
 					tag: {
+						affix_data: {
+							rarity: "apotheosis:uncommon"
+						}
 						gem: "irons_spellbooks:fire"
-						rarity: "mythic"
 					}
 				}
 				type: "item"
@@ -2825,7 +2499,7 @@
 				{
 					id: "625C09FAF289C7B4"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "irons_spellbooks:scroll"
 						tag: {
 							ISB_spell: {
@@ -2847,7 +2521,7 @@
 			tasks: [{
 				id: "1628342F0518689F"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "irons_spellbooks:netherite_spell_book"
 					tag: {
 						ISB_spellbook: {
@@ -2874,7 +2548,7 @@
 			rewards: [{
 				id: "29B613BDBE1DB49F"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "irons_spellbooks:scroll"
 					tag: {
 						ISB_spell: {
@@ -2916,7 +2590,7 @@
 			tasks: [{
 				id: "238A6E8D53570C6C"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "cisco_mod:darksteel_multitool"
 					tag: {
 						Damage: 0
@@ -2988,7 +2662,7 @@
 			tasks: [{
 				entity: "minecraft:elder_guardian"
 				icon: {
-					Count: 1b
+					Count: 1
 					id: "endrem:guardian_eye"
 					tag: {
 						Damage: 0
@@ -3021,7 +2695,7 @@
 				{
 					id: "55E554FD2BF1C027"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:darksteel_armor_helmet"
 						tag: {
 							Damage: 0
@@ -3037,7 +2711,7 @@
 				{
 					id: "6F896BFC713B0AD1"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:darksteel_armor_chestplate"
 						tag: {
 							Damage: 0
@@ -3053,7 +2727,7 @@
 				{
 					id: "0B09A5D8028CB67D"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:darksteel_armor_leggings"
 						tag: {
 							Damage: 0
@@ -3069,7 +2743,7 @@
 				{
 					id: "142FCC4FE0D7A51C"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:darksteel_armor_boots"
 						tag: {
 							Damage: 0
@@ -3088,97 +2762,213 @@
 			y: -3.0d
 		}
 		{
-			description: [
-				"&cHunstman &fare very potent threats to villagers due to thier lethality at range. "
-				""
-				"Eradicate as many as you can."
-			]
-			id: "3BCCBB577ED5F71C"
+			dependencies: ["78C3CC2B67ED66B6"]
+			description: ["This table uses sigils of enhancement to further increase the power of your reforged affixes."]
+			id: "3AF40CDF74652218"
 			rewards: [
 				{
-					id: "73F5A44728A2132B"
+					count: 2
+					id: "2F95EDBBE2EB8D88"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "apotheosis:sigil_of_enhancement"
+					}
+					type: "item"
+				}
+				{
+					id: "4DA73B9CD97D2F4C"
 					type: "xp_levels"
 					xp_levels: 10
 				}
-				{
-					id: "167222701725C32F"
-					item: "skilltree:wisdom_scroll"
-					type: "item"
-				}
 			]
-			subtitle: "Hunting Huntsmen"
+			subtitle: "Unlimited Power"
 			tasks: [{
-				entity: "enemyexpansion:huntsman"
-				icon: {
-					Count: 1b
-					id: "minecraft:bow"
-					tag: {
-						Damage: 0
-						affix_data: {
-							affixes: {
-								"apotheosis:socket": 0.0f
-							}
+				id: "76A12BC4249B06C7"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
 						}
 					}
+					id: "apotheosis:augmenting_table"
 				}
-				id: "718015E8F08EB6CD"
-				title: "Slay huntsman"
-				type: "kill"
-				value: 10L
+				type: "item"
 			}]
-			title: "Slay Huntsmen"
-			x: 0.5d
-			y: -8.5d
+			x: 17.5d
+			y: -3.5d
 		}
 		{
-			description: ["&8Silverfish &6Queens &fhave developed the ability to takeover and control desecrated corpses making them extremely dangerous. "]
-			icon: {
-				Count: 1b
-				id: "enemyexpansion:silverhead_helmet"
-				tag: {
-					Damage: 0
-					affix_data: {
-						affixes: {
-							"apotheosis:socket": 0.0f
-						}
-					}
-				}
-			}
-			id: "454C1951C03D73CD"
+			dependencies: ["5E23B10D82DBB573"]
+			description: [
+				"The bounty board allows you  to accept and complete small tasks in exchange for rewards."
+				""
+				"They can usually be found in villages."
+			]
+			id: "22B92DE71F6F923D"
 			rewards: [
 				{
-					id: "39BF922747490D20"
-					type: "xp_levels"
-					xp_levels: 15
-				}
-				{
-					id: "0B3C92BD8E0330FD"
-					item: "skilltree:wisdom_scroll"
-					type: "item"
-				}
-			]
-			subtitle: "Descrated and Dethroned"
-			tasks: [{
-				entity: "enemyexpansion:silverqueen"
-				icon: {
-					Count: 1b
-					id: "enemyexpansion:silverhead_helmet"
-					tag: {
-						Damage: 0
-						affix_data: {
-							affixes: {
-								"apotheosis:socket": 0.0f
+					count: 2
+					id: "06530CE90242D24B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
 							}
 						}
+						id: "skilltree:wisdom_scroll"
 					}
+					type: "item"
 				}
-				id: "0A00EA90BED153E2"
-				title: "Slay Silverqueens"
-				type: "kill"
-				value: 7L
+				{
+					id: "7A38697E4BFE6E43"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			subtitle: "Bargains and Bounties"
+			tasks: [{
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "bountiful:bountyboard"
+				}
+				id: "1A263570CDDF9B6D"
+				observe_type: 0
+				timer: 0L
+				title: "Find a bounty board"
+				to_observe: "bountiful:bountyboard"
+				type: "observation"
 			}]
-			x: 0.5d
-			y: -6.5d
+			title: "Find a Bounty Board"
+			x: -4.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["23864A4966441D61"]
+			description: [
+				"The villagers may be able to aid you in your journey  providing resources in exchange for protection."
+				""
+				"Seek out a village."
+			]
+			id: "5E23B10D82DBB573"
+			rewards: [
+				{
+					id: "0CF4739943D73205"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "skilltree:wisdom_scroll"
+					}
+					type: "item"
+				}
+				{
+					id: "4F50820E93AB7699"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			subtitle: "Voyages and Villages"
+			tasks: [{
+				advancement: "morevillagers:first_village"
+				criterion: ""
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "easy_villagers:villager"
+				}
+				id: "29A1A6480898D63D"
+				title: "Find a village"
+				type: "advancement"
+			}]
+			x: -7.0d
+			y: -4.5d
+		}
+		{
+			description: ["This reforging table allows you reroll up to &0esoteric &ftier affixes."]
+			id: "6C3BF7E0C3286EF7"
+			rewards: [{
+				count: 5
+				id: "33E188B4022A1893"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "apotheotic_additions:esoteric_material"
+				}
+				type: "item"
+			}]
+			subtitle: "Eldritch Steel"
+			tasks: [{
+				id: "7E40A35F7865FA04"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "esotericreforging:esoteric_reforging_table"
+				}
+				type: "item"
+			}]
+			x: 19.5d
+			y: -1.5d
+		}
+		{
+			description: ["This reforging table allows you reroll up to &cancient &ftier affixes."]
+			id: "0A9E8BACB6289283"
+			rewards: [{
+				count: 6
+				id: "5ECC301798D3B08D"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "apotheosis:ancient_material"
+				}
+				type: "item"
+			}]
+			subtitle: "Timeless Temper"
+			tasks: [{
+				id: "38523F1C296DC5D0"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "ancientreforging:ancient_reforging_table"
+				}
+				type: "item"
+			}]
+			x: 21.5d
+			y: -1.5d
 		}
 	]
 	title: "{\"text\":\"The Champion's Trials\",\"color\":\"light_purple\",\"bold\":false,\"underlined\":false}"

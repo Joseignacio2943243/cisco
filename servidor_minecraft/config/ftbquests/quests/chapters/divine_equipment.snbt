@@ -2,9 +2,14 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "divine_equipment"
-	group: "7430EEAC0040B392"
+	group: "103C318287AA2A0F"
 	icon: {
-		Count: 1b
+		Count: 1
+		ForgeCaps: {
+			"celestisynth:celestisynthitemstackcapabilities": {
+				cs.aquaSkin: 0
+			}
+		}
 		id: "cisco_mod:equillibrium"
 		tag: {
 			Damage: 0
@@ -16,18 +21,30 @@
 		}
 	}
 	id: "08FFA9A856E66C0A"
+	images: [{
+		height: 15.0d
+		image: "kubejs:textures/fellkingpose1.png"
+		rotation: 0.0d
+		width: 15.0d
+		x: -13.0d
+		y: -3.5d
+	}]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{
-			dependency_requirement: "all_started"
 			description: [
-				"I fashioned an &6ornate armor set &fand one by one, i gained the favour of the &egods &fobtaining four unique blessings for the pieces of armor."
+				"&6Cisco &fthen fashioned an &6ornate &farmor set &fand one by one, he gained the favour of the &egods. &fHe would obtain four unique blessings one for each piece of armor."
 				""
-				"The &cpower &fcontained within was at first too much for me but with deep meditation i learned to &dcontrol &fand even amplify it with my own &cstrength."
+				"The &cpower &fcontained within the armor was at first too much for his body to withstand. However, with deep meditation and focus he learned to &dcontrol &fand even amplify it with his own &cstrength."
 			]
 			icon: {
-				Count: 1b
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
 				id: "cisco_mod:ciscos_armor_chestplate"
 				tag: {
 					Damage: 0
@@ -39,7 +56,6 @@
 				}
 			}
 			id: "340BCEB3585A311C"
-			optional: true
 			rewards: [{
 				count: 7
 				id: "21A7FB9FD1B51976"
@@ -52,7 +68,7 @@
 				{
 					id: "54178A1D799CBA7D"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:ciscos_armor_helmet"
 						tag: {
 							Damage: 0
@@ -68,7 +84,7 @@
 				{
 					id: "4A2B77793B5729F6"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:ciscos_armor_chestplate"
 						tag: {
 							Damage: 0
@@ -84,7 +100,7 @@
 				{
 					id: "6943B96722573F85"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:ciscos_armor_leggings"
 						tag: {
 							Damage: 0
@@ -100,7 +116,7 @@
 				{
 					id: "0220C612F6045F71"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:ciscos_armor_boots"
 						tag: {
 							Damage: 0
@@ -119,11 +135,10 @@
 			y: -5.0d
 		}
 		{
-			dependency_requirement: "all_started"
 			description: [
-				"I needed a &cpowerful weapon &fand so i travelled to the depths of &4&fhell to find the most resilent &0material &fknown at the time."
+				"&6Cisco &fneeded a &cpowerful weapon &fand so he travelled to the depths of &4&fhell in a bid to find the most resilent &0material &fknown at the time."
 				""
-				"With it i fashioned a &cblade &fdecorating it with softer more &6ornate metals. "
+				"With it he fashioned a &cblade &fdecorating it with softer more &6ornate metals. "
 			]
 			id: "4CC94BA5994DB6F7"
 			rewards: [{
@@ -137,7 +152,7 @@
 			tasks: [{
 				id: "470D6AD56DD0046D"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "cisco_mod:slumbering_equillibrium"
 					tag: {
 						Damage: 0
@@ -154,14 +169,8 @@
 			y: 6.25d
 		}
 		{
-			dependency_requirement: "all_started"
-			description: [
-				"I inserted the &4gem &fand the &cblade &elit&f up before me."
-				""
-				"Enemies hit with it were torched by &ddragonfire."
-			]
+			description: ["&6Cisco &finserted the &4gem &fand the &cblade &elit&f up before him. Enemies struck with it were torched by &ddragonfire."]
 			id: "4D13391578E4A553"
-			optional: true
 			rewards: [{
 				count: 7
 				id: "693904D6A251D92A"
@@ -173,7 +182,7 @@
 			tasks: [{
 				id: "01B7E8AD99E9A72C"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "cisco_mod:equillibrium"
 					tag: {
 						Damage: 0
@@ -193,9 +202,9 @@
 			dependencies: ["4D13391578E4A553"]
 			dependency_requirement: "all_started"
 			description: [
-				"My friend and legendary blacksmith &4arthas, &fwhilst maintaining the  blade thought it would be more efficient to use it as a lighter variant of the original. This would allow for faster more agile attacks . "
+				"&6Cisco's &ffriend and legendary blacksmith &4arthas, &fwhilst maintaining the  blade thought it would be more efficient to use it as a lighter variant of the original. This would allow for faster more agile attacks . "
 				""
-				"Reluctant i allowed &4him &fto make his modifications upon the assurance that he would return it to its original state if need be."
+				"Reluctant &6Cisco &fallowed &4him &fto make his modifications upon the assurance that he would return it to its original state if need be."
 			]
 			id: "35898195DCC583A6"
 			rewards: [
@@ -215,7 +224,7 @@
 			tasks: [{
 				id: "40C05FACCF503096"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "cisco_mod:refined_equillibrium"
 					tag: {
 						Damage: 0
@@ -232,14 +241,12 @@
 			y: -1.25d
 		}
 		{
-			dependency_requirement: "all_started"
 			description: [
-				"An &4unforseen enemy&f....my brothers and sisters in the &eheavens &fslain.. at the brink of death, through sheer rage, my true &cpower &r&ffinally awakens."
+				"An &4unforseen enemy&f.... his brothers and sisters in the &eheavens &fslain.. at the brink of death, through sheer rage, &6Cisco's &ftrue &cpower &r&ffinally awakened."
 				""
-				"I feel the hold of something &0sinister, &fbut also a &cstrength &ffar beyond anything ive felt before. &0Tainted &fbut &ereborn,  &fi vowed to avenge the lost."
+				"He felt the hold of something &0sinister, &fbut also a &cstrength &ffar beyond anything he had felt before. &0Tainted &fbut &ereborn,  &fhe vowed to avenge the lost."
 			]
 			id: "4B3AED224389528F"
-			optional: true
 			rewards: [{
 				count: 3
 				id: "049329C71CABE6ED"
@@ -251,7 +258,7 @@
 			tasks: [{
 				id: "3CE11BE2A58E2307"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "cisco_mod:nightfall"
 					tag: {
 						Damage: 0
@@ -268,11 +275,10 @@
 			y: -8.75d
 		}
 		{
-			dependency_requirement: "all_started"
 			description: [
-				"I cut my way through what felt like thousands of the &4Fell King's&f forces. My &cstrength &fonly increased with each swing of Nightfall."
+				"&6Cisco &fcut his way through what felt like thousands of the &4Fell King's&f forces. His &cstrength however, &fonly increased with each swing of &cNightfall."
 				""
-				"Perhaps &4he &fgrew tired of his &0legion's &fincompetence or thought it best to put an end to me &4himself. &fAfter hours of furious fighting I stood atop his defeated body."
+				"Perhaps &4he &fgrew tired of his &0legion's &fincompetence or thought it best to put an end to &6Cisco &4himself &fthe &4fell king &fwould descend upon &6Cisco &fwith an unmatched ferocity . &fAfter hours of furious fighting &6Cisco &fwould stand atop his defeated body."
 			]
 			id: "45D8D5B8D47651DF"
 			rewards: [
@@ -293,7 +299,7 @@
 				{
 					id: "53D5CC05466B385D"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:fallen_hero_armor_helmet"
 						tag: {
 							Damage: 0
@@ -309,7 +315,7 @@
 				{
 					id: "47BBD902328916C4"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:fallen_hero_armor_chestplate"
 						tag: {
 							Damage: 0
@@ -325,7 +331,7 @@
 				{
 					id: "5C550D8346D71F37"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:fallen_hero_armor_leggings"
 						tag: {
 							Damage: 0
@@ -341,7 +347,7 @@
 				{
 					id: "5C3A4594A7C39BAB"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:fallen_hero_armor_boots"
 						tag: {
 							Damage: 0
@@ -360,14 +366,12 @@
 			y: -12.5d
 		}
 		{
-			dependency_requirement: "all_started"
 			description: [
-				"I enhanced and refined the &4gem &funtill the &cpower &fwithin overflowed so vigourously i thought it would consume itself. "
+				"&6Cisco &fenhanced and refined the &4gem &funtill the &cpower &fwithin it overflowed so vigourously he thought the gem would consume itself. "
 				""
 				"With the &4gem &fnow stable it was finally ready to serve it's purpose. "
 			]
 			id: "5AFA5CB101E31BE4"
-			optional: true
 			rewards: [{
 				count: 3
 				id: "7940159F83CA50B6"
@@ -385,11 +389,10 @@
 			y: 2.5d
 		}
 		{
-			dependency_requirement: "all_started"
 			description: [
-				"I knelt down and lifted &4the fell king's &fhelm revealing not the face of a demon but the bloodied grin of &4arthas&f...the blacksmith ... one who i had considered a close freind."
+				"&6Cisco &fknelt down and lifted &4the fell king's &fhelm revealing not the face of a demon but the bloodied grin of &4arthas&f...the blacksmith ... one who he had considered a close freind."
 				""
-				"He lifted his arm slowly....There was a brief pause before a sudden searing pain in my chest completely paralysed me. I could see a &0dark energy &fleaving my body being transfered to him. The colour returned to his face as &4he &fgot back up to his feet."
+				"&4Arthas &flifted his arm slowly....There was a brief pause before a sudden searing pain in &6Cisco's &fchest completely paralysed him. &6Cisco &fcould see a &0dark energy &fleaving his body being transfered to &4Arthas. &fThe colour returned to &4Arthas' &fface as &4he &fgot back up to his feet."
 			]
 			id: "479168EE1144DBB1"
 			rewards: [
@@ -411,7 +414,7 @@
 				{
 					id: "4F36F8D02DC09DCD"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:fell_king_armor_helmet"
 						tag: {
 							Damage: 0
@@ -427,7 +430,7 @@
 				{
 					id: "0800CD5694D83FFC"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:fell_king_armor_chestplate"
 						tag: {
 							Damage: 0
@@ -443,7 +446,7 @@
 				{
 					id: "6D25A92BD4B6C973"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:fell_king_armor_leggings"
 						tag: {
 							Damage: 0
@@ -459,7 +462,7 @@
 				{
 					id: "37475132E347887F"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:fell_king_armor_boots"
 						tag: {
 							Damage: 0
@@ -478,11 +481,10 @@
 			y: -12.5d
 		}
 		{
-			dependency_requirement: "all_started"
 			description: [
-				"Weakened i tried to get to my feet.. But a vicious strike from &5Fell Ragnarok &fshattered my chestplate and sent me flying off a nearby cliff edge."
+				"Severely weakened &6Cisco &ftried in vain to get to his feet.. But a deliberate and vicious strike from &5Fell Ragnarok &fwould &fshatter his chestplate and send him flying off a nearby cliff edge."
 				""
-				"As i plunged into the depths i could see &4his &fonce familiar face staring down at me his eyes blazing with &0dark energy &fand utter contempt as &4he &fslowly turned his back and walked away, leaving me to my fate."
+				"As he plunged into the depths he could see &4Arthas' &fonce familiar face staring down at him eyes blazing with &0dark energy &fand utter contempt as &4he &fslowly turned his back walking away, leaving &6Cisco &fto his fate."
 			]
 			id: "49EB4B9AE3365883"
 			rewards: [
@@ -503,7 +505,7 @@
 			tasks: [{
 				id: "1FDD850C578CBABF"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "cisco_mod:fell_ragnarok"
 					tag: {
 						Damage: 0
@@ -521,14 +523,19 @@
 		}
 		{
 			description: [
-				"I used the last portion of my &4power &fto teleport myself to the &dend dimension &faverting impending doom. &fThere the &5enderdragon &fembraced me as her kin whilst i recuperated ."
+				"&6Cisco &fused the last portion of his &4power &fto teleport himself to the &dend dimension &fsuccessfully &faverting impending doom. &fThere the &5enderdragon &fembraced him as her kin whilst he slowly recuperated ."
 				""
-				"I lack the &4power &fto defeat &4the &4fell &4king &falone &fbut perhaps you can... I wish to test your &4strength &fand &fshould you be able to defeat me, i will show you how to &asummon &4the &4fell &4king &fso we can end him once and for all. "
+				"&6Cisco &frealised he &flacked the &4power &fto defeat &4the &4fell &4king &falone &fand thus beseeched the aid of a champion. He however, wished to test the champion's &4strength &fbefore allowing to fight &4Arthas."
 				""
-				"Craft and use the &6talisman &6of &6challenge &fand we shall begin your &btrial."
+				"Uttering these words to the champion \"Craft and use the &6talisman &6of &6challenge &fand we shall begin your &btrial\"."
 			]
 			icon: {
-				Count: 1b
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
 				id: "cisco_mod:ciscos_armor_helmet"
 				tag: {
 					Damage: 0
@@ -581,13 +588,13 @@
 		{
 			dependencies: ["134D9801D13D58F5"]
 			description: [
-				"During my journey to the &5fallen realm &fin search of a way to defeat &4the Fell King &fi stumbled upon his soldiers mining a mysterious &0dark crystal. &fUpon thorough examination it dawned on me that it was indeed the source of his immense &cpower."
+				"During &6Cisco's &fjourney to the &5fallen realm &fin search of a way to defeat &4the Fell King &fhe stumbled upon &4Arthas' &fsoldiers mining a mysterious &0dark crystal. &fUpon thorough examination it dawned on him that it was indeed the source of &4Arthas' &fimmense &cpower."
 				""
-				"&fAfter many experiments i was able to tamper with the unique &9magical &fsignature to create a weakening effect. "
+				"&fAfter many experiments &6Cisco &fwas able to tamper with the unique &9magical &fsignature of the crystal to create a weakening effect. "
 				""
-				"Craft an &5altar &fto use as a gateway then &0corrupt &fthe &etalisman &fwith the &0fell fragments.&f This altar will extract his primordial essence once he is defeated."
+				"He instructed the champion to create an &5altar &fusing it as a gateway, then to &0corrupt &fthe &etalisman &fwith the &0fell fragments. &fThe altar would then extract &4Arthas' &f primordial essence once he was defeated."
 				""
-				"&fUse the &0corrupted &etalisman &fon the &5altar &fand defeat &4the &4Fell king &ftaking your rightful place among divinity."
+				"Once again instructing his champion \"&fUse the &0corrupted &etalisman &fon the &5altar &fand defeat &4the &4Fell king &f taking your rightful place as divinity\"."
 			]
 			id: "238511D8E52BB53E"
 			rewards: [
@@ -615,7 +622,7 @@
 				{
 					entity: "cisco_mod:fellkingboss"
 					icon: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:fell_king_armor_helmet"
 						tag: {
 							Damage: 0
@@ -648,11 +655,11 @@
 		}
 		{
 			description: [
-				"The son of a &afarmerwoman &fand an &0unknown god &fi grew up being no stronger than the average mortal. Despite this my half brothers and sisters in the &eheavens&f always looked favourably upon me and intervened at key points in my life."
+				"The son of a &afarmerwoman &fand an &0unknown god &6Cisco &fgrew up being no stronger than the average mortal. Despite this his half brothers and sisters in the &eheavens&f looked favourably upon him intervening at key points in his life."
 				""
-				"I did however have a natural apptitude for things &1arcane &fand so the minute i was of age i left my small village to enroll with &dthe order of the owl &fat &2the grand citadel. "
+				"&6Cisco &fhowever, had a natural apptitude for things &1arcane &fand so the minute he was of age he left his small village to enroll with &dthe order of the owl &fat &2the grand citadel. "
 				""
-				"&fThere i eventually attained the rank of &bSage. &fTime passed and i grew bored deciding to embark on a journey to truly make a name for myself. Using my knowledge of &9alchemy &fi forged a &4ruby &fthat would be help me borrow and harness the &edivine gifts &fof my more powerful kin."
+				"&fThere he would relatively quickly attain the prestigous rank of &bSage. &6Cisco &fwould eventually grow bored of the citadel deciding to embark on a journey to truly make a name for himself. Using his knowledge of &9alchemy &fhe forged a &4ruby &fthat would help him borrow and harness the &edivine gifts &fof his more powerful &ekin."
 			]
 			id: "288608ED892DC5EB"
 			rewards: [{
@@ -672,5 +679,5 @@
 			y: 10.0d
 		}
 	]
-	title: "{\"text\":\"Cisco's Fate\",\"color\":\"dark_red\",\"bold\":true,\"underlined\":false}"
+	title: "{\"text\":\"Cisco's Legacy\",\"color\":\"dark_red\",\"bold\":true,\"underlined\":false}"
 }

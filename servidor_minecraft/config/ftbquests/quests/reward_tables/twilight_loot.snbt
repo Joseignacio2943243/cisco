@@ -1,14 +1,14 @@
 {
 	id: "10B1A06C859FCE72"
 	loot_size: 1
-	order_index: 11
+	order_index: 10
 	rewards: [
 		{ count: 3, item: "twilightforest:fiery_ingot" }
 		{ count: 3, item: "twilightforest:ironwood_ingot" }
 		{ count: 3, item: "twilightforest:knightmetal_ingot" }
 		{
 			item: {
-				Count: 1b
+				Count: 1
 				id: "twilightforest:ore_magnet"
 				tag: {
 					Damage: 0
@@ -18,7 +18,7 @@
 		}
 		{
 			item: {
-				Count: 1b
+				Count: 1
 				id: "twilightforest:triple_bow"
 				tag: {
 					Damage: 0
@@ -33,7 +33,7 @@
 		}
 		{
 			item: {
-				Count: 1b
+				Count: 1
 				id: "twilightforest:seeker_bow"
 				tag: {
 					Damage: 0
@@ -48,7 +48,7 @@
 		}
 		{
 			item: {
-				Count: 1b
+				Count: 1
 				id: "twilightforest:ice_bow"
 				tag: {
 					Damage: 0
@@ -63,7 +63,7 @@
 		}
 		{
 			item: {
-				Count: 1b
+				Count: 1
 				id: "twilightforest:ender_bow"
 				tag: {
 					Damage: 0

@@ -1,5 +1,5 @@
 {
-	"type": "apotheosis:damage_reduction",
+	"type": "attributeslib:damage_reduction",
 	"damage_type": "PHYSICAL",
 	"values": {
 		"rare": {

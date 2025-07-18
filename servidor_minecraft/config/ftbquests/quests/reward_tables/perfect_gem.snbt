@@ -1,45 +1,73 @@
 {
 	id: "2C54ED209558957D"
 	loot_size: 1
-	order_index: 13
+	order_index: 12
 	rewards: [
 		{
 			item: {
-				Count: 1b
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
 				id: "apotheosis:gem"
 				tag: {
+					affix_data: {
+						rarity: "apotheosis:ancient"
+					}
 					gem: "apotheosis:core/warlord"
-					rarity: "ancient"
 				}
 			}
 		}
 		{
 			item: {
-				Count: 1b
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
 				id: "apotheosis:gem"
 				tag: {
+					affix_data: {
+						rarity: "apotheosis:ancient"
+					}
 					gem: "apotheosis:core/combatant"
-					rarity: "ancient"
 				}
 			}
 		}
 		{
 			item: {
-				Count: 1b
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
 				id: "apotheosis:gem"
 				tag: {
+					affix_data: {
+						rarity: "apotheotic_additions:esoteric"
+					}
 					gem: "apotheotic_additions:modded/archmage"
-					rarity: "ancient"
 				}
 			}
 		}
 		{
 			item: {
-				Count: 1b
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
 				id: "apotheosis:gem"
 				tag: {
+					affix_data: {
+						rarity: "apotheosis:ancient"
+					}
 					gem: "apotheosis:the_end/endersurge"
-					rarity: "ancient"
 				}
 			}
 		}

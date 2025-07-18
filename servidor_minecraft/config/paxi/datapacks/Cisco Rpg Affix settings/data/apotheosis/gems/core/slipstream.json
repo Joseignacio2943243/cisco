@@ -2,11 +2,10 @@
 	"variant": "slipstream",
 	"weight": 10,
 	"quality": 0,
+	"unique": true,
 	"dimensions": [
 	],
-	"unique": true,
-	"bonuses": [
-		{
+	"bonuses": [{
 			"type": "apotheosis:attribute",
 			"gem_class": {
 				"key": "ranged_weapon",
@@ -15,7 +14,7 @@
 					"crossbow"
 				]
 			},
-			"attribute": "apotheosis:draw_speed",
+			"attribute": "attributeslib:draw_speed",
 			"operation": "MULTIPLY_BASE",
 			"values": {
 				"common": 0.10,
@@ -35,7 +34,7 @@
 					"pickaxe"
 				]
 			},
-			"attribute": "apotheosis:mining_speed",
+			"attribute": "attributeslib:mining_speed",
 			"operation": "MULTIPLY_BASE",
 			"values": {
 				"common": 0.05,
@@ -54,7 +53,7 @@
 					"boots"
 				]
 			},
-			"attribute": "apotheosis:dodge_chance",
+			"attribute": "attributeslib:dodge_chance",
 			"operation": "ADDITION",
 			"values": {
 				"common": 0.025,
@@ -65,46 +64,46 @@
 				"ancient": 0.15
 			}
 		},
-		{
-			"type": "apotheosis:attribute",
-			"gem_class": {
-				"key": "curios",
-				"types": [
-					"curios:ring",
-		"curios:head",
-		"curios:necklace",
-		"curios:back",
-		"curios:an_focus",
-		"curios:bangle",
-		"curios:body",
-		"curios:bundle",
-		"curios:quiver",
-		"curios:hostility_curse",
-		"curios:spellstone",
-		"curios:bracelet",
-		"curios:hands",
-		"curios:belt",
-		"curios:charm",
-		"curios:feet",
-		"curios:talisman",
-		"curios:aether_ring",
-        "curios:aether_cape",
-        "curios:aether_gloves",
-        "curios:aether_accessory",
-        "curios:aether_shield",
-        "curios:aether_pendant"
-				]
-			},
-			"attribute": "apotheosis:mining_speed",
-			"operation": "MULTIPLY_BASE",
-			"values": {
-				"common": 0.025,
-				"uncommon": 0.075,
-				"rare": 0.1125,
-				"epic": 0.15,
-				"mythic": 0.1875,
-				"ancient": 0.225
-			}
+			{
+				"type": "apotheosis:attribute",
+				"gem_class": {
+					"key": "curios",
+					"types": [
+						"curios:ring",
+			"curios:head",
+			"curios:necklace",
+			"curios:back",
+			"curios:an_focus",
+			"curios:bangle",
+			"curios:body",
+			"curios:bundle",
+			"curios:quiver",
+			"curios:hostility_curse",
+			"curios:spellstone",
+			"curios:bracelet",
+			"curios:hands",
+			"curios:belt",
+			"curios:charm",
+			"curios:feet",
+			"curios:talisman",
+			"curios:aether_ring",
+			"curios:aether_cape",
+			"curios:aether_gloves",
+			"curios:aether_accessory",
+			"curios:aether_shield",
+			"curios:aether_pendant"
+					]
+				},
+				"attribute": "attributeslib:mining_speed",
+				"operation": "MULTIPLY_BASE",
+				"values": {
+					"common": 0.025,
+					"uncommon": 0.075,
+					"rare": 0.1125,
+					"epic": 0.15,
+					"mythic": 0.1875,
+					"ancient": 0.225
+				}
 		}
 	]
 }

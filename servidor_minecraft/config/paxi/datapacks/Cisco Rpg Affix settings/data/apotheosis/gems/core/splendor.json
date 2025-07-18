@@ -4,8 +4,7 @@
 	"quality": 0,
 	"dimensions": [
 	],
-	"bonuses": [
-		{
+	"bonuses": [{
 			"type": "apotheosis:attribute",
 			"gem_class": {
 				"key": "core_armor",
@@ -39,7 +38,7 @@
 					"pickaxe"
 				]
 			},
-			"attribute": "apotheosis:experience_gained",
+			"attribute": "attributeslib:experience_gained",
 			"operation": "MULTIPLY_TOTAL",
 			"values": {
 				"common": 0.075,
@@ -69,46 +68,46 @@
 				"ancient": 0.70
 			}
 		},
-		{
-			"type": "apotheosis:attribute",
-			"gem_class": {
-				"key": "curios",
-				"types": [
-					"curios:ring",
-		"curios:head",
-		"curios:necklace",
-		"curios:back",
-		"curios:an_focus",
-		"curios:bangle",
-		"curios:body",
-		"curios:bundle",
-		"curios:hostility_curse",
-		"curios:quiver",
-		"curios:spellstone",
-		"curios:bracelet",
-		"curios:hands",
-		"curios:belt",
-		"curios:charm",
-		"curios:feet",
-		"curios:talisman",
-		"curios:aether_ring",
-        "curios:aether_cape",
-        "curios:aether_gloves",
-        "curios:aether_accessory",
-        "curios:aether_shield",
-        "curios:aether_pendant"
-				]
-			},
-			"attribute": "minecraft:generic.luck",
-			"operation": "ADDITION",
-			"values": {
-				"common": 0.25,
-				"uncommon": 0.75,
-				"rare": 1.375,
-				"epic": 2,
-				"mythic": 2.5,
-				"ancient": 3
-			}
+			{
+				"type": "apotheosis:attribute",
+				"gem_class": {
+					"key": "curios",
+					"types": [
+						"curios:ring",
+			"curios:head",
+			"curios:necklace",
+			"curios:back",
+			"curios:an_focus",
+			"curios:bangle",
+			"curios:body",
+			"curios:bundle",
+			"curios:hostility_curse",
+			"curios:quiver",
+			"curios:spellstone",
+			"curios:bracelet",
+			"curios:hands",
+			"curios:belt",
+			"curios:charm",
+			"curios:feet",
+			"curios:talisman",
+			"curios:aether_ring",
+			"curios:aether_cape",
+			"curios:aether_gloves",
+			"curios:aether_accessory",
+			"curios:aether_shield",
+			"curios:aether_pendant"
+					]
+				},
+				"attribute": "minecraft:generic.luck",
+				"operation": "ADDITION",
+				"values": {
+					"common": 0.25,
+					"uncommon": 0.75,
+					"rare": 1.375,
+					"epic": 2,
+					"mythic": 2.5,
+					"ancient": 3
+				}
 		}
 	]
 }

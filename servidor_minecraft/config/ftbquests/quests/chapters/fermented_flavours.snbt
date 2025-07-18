@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "fermented_flavours"
-	group: "4BADE329D55A3F9E"
+	group: "023383BFD724C232"
 	id: "54B793592E713627"
 	order_index: 1
 	quest_links: [ ]
@@ -59,33 +59,6 @@
 			title: "Craft the grapevine pot"
 			x: 0.0d
 			y: -3.5d
-		}
-		{
-			description: ["Used to crush apples into apple mash a useful ingredient for certain wine recipes."]
-			id: "2BF5BB222FD6B9B2"
-			rewards: [
-				{
-					id: "7D8A0060352DB78F"
-					type: "xp_levels"
-					xp_levels: 5
-				}
-				{
-					count: 10
-					id: "07850C1D4879B044"
-					item: "minecraft:apple"
-					type: "item"
-				}
-			]
-			size: 2.0d
-			subtitle: "Apple Masher"
-			tasks: [{
-				id: "491964F66863EB76"
-				item: "vinery:wine_press"
-				type: "item"
-			}]
-			title: "Craft the Apple press"
-			x: 0.0d
-			y: 4.0d
 		}
 		{
 			description: ["Found in biomes all over your world find every species of red grape."]
@@ -179,7 +152,7 @@
 			tasks: [{
 				id: "1EBA1641D5DD697D"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "vinery:stal_wine"
 					tag: {
 						Year: 0
@@ -210,7 +183,7 @@
 			tasks: [{
 				id: "34205526B6D0AFBC"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "vinery:strad_wine"
 					tag: {
 						Year: 0
@@ -233,7 +206,7 @@
 			tasks: [{
 				id: "1098183B49C9D36A"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "vinery:magnetic_wine"
 					tag: {
 						Year: 0
@@ -264,7 +237,7 @@
 			tasks: [{
 				id: "15A3E080783B87D3"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "vinery:chorus_wine"
 					tag: {
 						Year: 0
@@ -295,7 +268,7 @@
 			tasks: [{
 				id: "55E30EB10B088D76"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "vinery:aegis_wine"
 					tag: {
 						Year: 0
@@ -318,7 +291,7 @@
 			tasks: [{
 				id: "251D39565BE8C9E4"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "vinery:solaris_wine"
 					tag: {
 						Year: 0
@@ -349,7 +322,7 @@
 			tasks: [{
 				id: "0F1A8EFA3F39EAD8"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "vinery:noir_wine"
 					tag: {
 						Year: 0
@@ -380,7 +353,7 @@
 			tasks: [{
 				id: "50B1220A270213EE"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "vinery:bolvar_wine"
 					tag: {
 						Year: 0
@@ -388,8 +361,8 @@
 				}
 				type: "item"
 			}]
-			x: -7.0d
-			y: 2.0d
+			x: 12.5d
+			y: -2.0d
 		}
 		{
 			description: ["Provides mild regeneration when consumed."]
@@ -411,7 +384,7 @@
 			tasks: [{
 				id: "5F92CB3F05500AA4"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "vinery:cherry_wine"
 					tag: {
 						Year: 0
@@ -442,7 +415,7 @@
 			tasks: [{
 				id: "517EC566D6B24A96"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "vinery:clark_wine"
 					tag: {
 						Year: 0
@@ -450,7 +423,7 @@
 				}
 				type: "item"
 			}]
-			x: 6.5d
+			x: 12.5d
 			y: 2.0d
 		}
 		{
@@ -473,7 +446,7 @@
 			tasks: [{
 				id: "4D3811F67E7E633F"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "vinery:jellie_wine"
 					tag: {
 						Year: 0
@@ -504,7 +477,7 @@
 			tasks: [{
 				id: "468BA96E1F3CE01E"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "vinery:apple_wine"
 					tag: {
 						Year: 0
@@ -535,7 +508,7 @@
 			tasks: [{
 				id: "02F28030B2E5845B"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "vinery:red_wine"
 					tag: {
 						Year: 0
@@ -545,37 +518,6 @@
 			}]
 			x: -9.0d
 			y: -2.0d
-		}
-		{
-			description: ["Makes you glow making you more visible to other players."]
-			id: "40646DDF0D2B8ECB"
-			rewards: [
-				{
-					id: "7FCD2CA81FDCEA2A"
-					type: "xp_levels"
-					xp_levels: 5
-				}
-				{
-					exclude_from_claim_all: true
-					id: "6A5B60753CB18590"
-					table_id: 9151115841851796944L
-					type: "choice"
-				}
-			]
-			subtitle: "Winery"
-			tasks: [{
-				id: "554A642ED7DBB625"
-				item: {
-					Count: 1b
-					id: "vinery:praetorian_wine"
-					tag: {
-						Year: 0
-					}
-				}
-				type: "item"
-			}]
-			x: -9.0d
-			y: 2.0d
 		}
 		{
 			description: ["Grants a speed bonus and the ability to walk on water when consumed."]
@@ -597,7 +539,7 @@
 			tasks: [{
 				id: "3CDE5E2740E4A601"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "vinery:chenet_wine"
 					tag: {
 						Year: 0
@@ -606,37 +548,6 @@
 				type: "item"
 			}]
 			x: -13.0d
-			y: 0.0d
-		}
-		{
-			description: ["Powerful healing wine."]
-			id: "7B004324BBDA7AF3"
-			rewards: [
-				{
-					id: "4D26A37C0A567ABA"
-					type: "xp_levels"
-					xp_levels: 5
-				}
-				{
-					exclude_from_claim_all: true
-					id: "055567D63F2B9D9C"
-					table_id: 9151115841851796944L
-					type: "random"
-				}
-			]
-			subtitle: "Winery"
-			tasks: [{
-				id: "30E8F19E344DE85C"
-				item: {
-					Count: 1b
-					id: "vinery:king_danis_wine"
-					tag: {
-						Year: 0
-					}
-				}
-				type: "item"
-			}]
-			x: 12.5d
 			y: 0.0d
 		}
 		{
@@ -659,7 +570,7 @@
 			tasks: [{
 				id: "7FEE5B02BA5E42E0"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "vinery:mellohi_wine"
 					tag: {
 						Year: 0
@@ -682,7 +593,7 @@
 			tasks: [{
 				id: "7405F3ED1A8A84F8"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "vinery:cristel_wine"
 					tag: {
 						Year: 0
@@ -713,7 +624,7 @@
 			tasks: [{
 				id: "790D0A7DB741F9F6"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "vinery:glowing_wine"
 					tag: {
 						Year: 0
@@ -736,7 +647,7 @@
 			tasks: [{
 				id: "37C114C9F58C5983"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "vinery:creepers_crush"
 					tag: {
 						Year: 0
@@ -759,7 +670,7 @@
 			tasks: [{
 				id: "17FEB17760862E98"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "vinery:bottle_mojang_noir"
 					tag: {
 						Year: 0
@@ -768,7 +679,7 @@
 				type: "item"
 			}]
 			x: 12.5d
-			y: -2.0d
+			y: 0.0d
 		}
 		{
 			description: ["Grants you bad omen providing a better way to initiate raids."]
@@ -782,7 +693,7 @@
 			tasks: [{
 				id: "6CE28C645D8AA4BB"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "vinery:villagers_fright"
 					tag: {
 						Year: 0
@@ -790,7 +701,7 @@
 				}
 				type: "item"
 			}]
-			x: 12.5d
+			x: -9.0d
 			y: 2.0d
 		}
 		{
@@ -813,7 +724,7 @@
 			tasks: [{
 				id: "15D0C6715114BEEC"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "vinery:mead"
 					tag: {
 						Year: 0
@@ -844,7 +755,7 @@
 			tasks: [{
 				id: "5084E49C5567AE4E"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "vinery:eiswein"
 					tag: {
 						Year: 0

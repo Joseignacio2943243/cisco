@@ -2,13 +2,16 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "seven_deadly_sins"
-	group: "40AA946F923A36EA"
+	group: "6D7A192B0CC378A4"
 	icon: {
-		Count: 1b
+		Count: 1
 		ForgeCaps: {
 			Parent: {
 				Items: [ ]
 				Size: 11
+			}
+			"celestisynth:celestisynthitemstackcapabilities": {
+				cs.aquaSkin: 0
 			}
 		}
 		id: "sons_of_sins:flesh_carcass"
@@ -20,7 +23,7 @@
 		}
 	}
 	id: "3B93984312100331"
-	order_index: 2
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
@@ -177,16 +180,13 @@
 		{
 			description: ["Less mobile but the most robust also possesing ranged attacks."]
 			icon: {
-				Count: 1b
-				id: "iter_rpg:golden_scythe"
-				tag: {
-					Damage: 0
-					affix_data: {
-						affixes: {
-							"apotheosis:socket": 0.0f
-						}
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
 					}
 				}
+				id: "galosphere:golden_lichen_cordyceps"
 			}
 			id: "0FCF704C2011B3A9"
 			rewards: [
@@ -207,16 +207,13 @@
 			tasks: [{
 				entity: "sons_of_sins:blud"
 				icon: {
-					Count: 1b
-					id: "iter_rpg:golden_scythe"
-					tag: {
-						Damage: 0
-						affix_data: {
-							affixes: {
-								"apotheosis:socket": 0.0f
-							}
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
 						}
 					}
+					id: "galosphere:golden_lichen_cordyceps"
 				}
 				id: "34E9A26CB29FF405"
 				type: "kill"

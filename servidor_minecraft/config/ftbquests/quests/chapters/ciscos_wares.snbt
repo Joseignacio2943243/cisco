@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "ciscos_wares"
-	group: "7EDAAA7FC8633EB2"
+	group: "2156AFA4B5DF976B"
 	icon: "cisco_mod:champion_coin"
 	id: "2D81F7A8D44A3971"
 	order_index: 0
@@ -11,7 +11,7 @@
 		{
 			can_repeat: true
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "ftbquests:lootcrate"
 				tag: {
 					type: "legendary_crate"
@@ -28,9 +28,17 @@
 			subtitle: "Exchange"
 			tasks: [{
 				consume_items: true
-				count: 35L
+				count: 40L
 				id: "65C9ADB4DAF651C4"
-				item: "cisco_mod:champion_coin"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cisco_mod:champion_coin"
+				}
 				type: "item"
 			}]
 			title: "Legendary Loot Crate"
@@ -40,7 +48,7 @@
 		{
 			can_repeat: true
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "ftbquests:lootcrate"
 				tag: {
 					type: "epic_crate"
@@ -57,9 +65,17 @@
 			subtitle: "Exchange"
 			tasks: [{
 				consume_items: true
-				count: 20L
+				count: 25L
 				id: "21FEBB546E4C917C"
-				item: "cisco_mod:champion_coin"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cisco_mod:champion_coin"
+				}
 				type: "item"
 			}]
 			title: "Epic Loot Crate"
@@ -69,7 +85,7 @@
 		{
 			can_repeat: true
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "ftbquests:lootcrate"
 				tag: {
 					type: "rare_lootcrate"
@@ -86,9 +102,17 @@
 			subtitle: "Exchange"
 			tasks: [{
 				consume_items: true
-				count: 12L
+				count: 15L
 				id: "5CAB79426942DF1B"
-				item: "cisco_mod:champion_coin"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cisco_mod:champion_coin"
+				}
 				type: "item"
 			}]
 			title: "Rare Loot Crate"
@@ -108,9 +132,17 @@
 			subtitle: "Exchange"
 			tasks: [{
 				consume_items: true
-				count: 5L
+				count: 15L
 				id: "5A927B32374CC799"
-				item: "cisco_mod:champion_coin"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cisco_mod:champion_coin"
+				}
 				type: "item"
 			}]
 			title: "Netherite Ingot"
@@ -130,9 +162,17 @@
 			subtitle: "Exchange"
 			tasks: [{
 				consume_items: true
-				count: 7L
+				count: 30L
 				id: "3C3EC7BCCFDF5387"
-				item: "cisco_mod:champion_coin"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cisco_mod:champion_coin"
+				}
 				type: "item"
 			}]
 			title: "Talisman of Challenge"
@@ -152,9 +192,17 @@
 			subtitle: "Exchange"
 			tasks: [{
 				consume_items: true
-				count: 14L
+				count: 38L
 				id: "0E10F49E0BC56180"
-				item: "cisco_mod:champion_coin"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cisco_mod:champion_coin"
+				}
 				type: "item"
 			}]
 			title: "Tainted Talisman"
@@ -174,9 +222,17 @@
 			subtitle: "Exchange"
 			tasks: [{
 				consume_items: true
-				count: 3L
+				count: 18L
 				id: "406447B4025C7D46"
-				item: "cisco_mod:champion_coin"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cisco_mod:champion_coin"
+				}
 				type: "item"
 			}]
 			title: "Brightsteel Block"
@@ -196,9 +252,17 @@
 			subtitle: "Exchange"
 			tasks: [{
 				consume_items: true
-				count: 6L
+				count: 12L
 				id: "547FE01D497444DE"
-				item: "cisco_mod:champion_coin"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cisco_mod:champion_coin"
+				}
 				type: "item"
 			}]
 			title: "Wind Core"
@@ -218,9 +282,17 @@
 			subtitle: "Exchange"
 			tasks: [{
 				consume_items: true
-				count: 6L
+				count: 12L
 				id: "1A67DCF37CB38671"
-				item: "cisco_mod:champion_coin"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cisco_mod:champion_coin"
+				}
 				type: "item"
 			}]
 			title: "Thunder Core"
@@ -240,9 +312,17 @@
 			subtitle: "Exchange"
 			tasks: [{
 				consume_items: true
-				count: 6L
+				count: 12L
 				id: "5A115881716BBBD2"
-				item: "cisco_mod:champion_coin"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cisco_mod:champion_coin"
+				}
 				type: "item"
 			}]
 			title: "Dark Core"
@@ -262,9 +342,17 @@
 			subtitle: "Exchange"
 			tasks: [{
 				consume_items: true
-				count: 6L
+				count: 12L
 				id: "77B132FE467F1689"
-				item: "cisco_mod:champion_coin"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cisco_mod:champion_coin"
+				}
 				type: "item"
 			}]
 			title: "Light Core"
@@ -284,9 +372,17 @@
 			subtitle: "Exchange"
 			tasks: [{
 				consume_items: true
-				count: 6L
+				count: 12L
 				id: "3E0D6E3516C3CA89"
-				item: "cisco_mod:champion_coin"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cisco_mod:champion_coin"
+				}
 				type: "item"
 			}]
 			title: "Glacial Core"
@@ -306,9 +402,17 @@
 			subtitle: "Exchange"
 			tasks: [{
 				consume_items: true
-				count: 6L
+				count: 12L
 				id: "512CE3170AA689E4"
-				item: "cisco_mod:champion_coin"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cisco_mod:champion_coin"
+				}
 				type: "item"
 			}]
 			title: "Ember Core"
@@ -328,9 +432,17 @@
 			subtitle: "Exchange"
 			tasks: [{
 				consume_items: true
-				count: 7L
+				count: 20L
 				id: "311B7BFCC097BFBC"
-				item: "cisco_mod:champion_coin"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cisco_mod:champion_coin"
+				}
 				type: "item"
 			}]
 			title: "Divine Ruby"
@@ -350,9 +462,17 @@
 			subtitle: "Exchange"
 			tasks: [{
 				consume_items: true
-				count: 5L
+				count: 20L
 				id: "26426542004ABF35"
-				item: "cisco_mod:champion_coin"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cisco_mod:champion_coin"
+				}
 				type: "item"
 			}]
 			title: "Wisdom Scroll"
@@ -362,7 +482,7 @@
 		{
 			can_repeat: true
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "apotheosis:gem"
 				tag: {
 					gem: "apotheosis:core/combatant"
@@ -380,9 +500,17 @@
 			subtitle: "Exchange"
 			tasks: [{
 				consume_items: true
-				count: 4L
+				count: 12L
 				id: "604DF5AD0F7BA0A4"
-				item: "cisco_mod:champion_coin"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cisco_mod:champion_coin"
+				}
 				type: "item"
 			}]
 			title: "Random Flawed Gem"
@@ -454,7 +582,15 @@
 		}
 		{
 			can_repeat: true
-			icon: "sons_of_sins:prowler_spawn_egg"
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "sons_of_sins:prowler_spawn_egg"
+			}
 			id: "406888C5E049E3D6"
 			rewards: [{
 				id: "56DBF325AF42BCA7"
@@ -470,7 +606,7 @@
 				type: "item"
 			}]
 			title: "Sin of Pride"
-			x: -4.5d
+			x: 8.5d
 			y: -13.0d
 		}
 		{
@@ -539,7 +675,7 @@
 		{
 			can_repeat: true
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "cisco_mod:amuletof_vitality"
 				tag: {
 					affix_data: {
@@ -553,7 +689,7 @@
 			rewards: [{
 				id: "0860C718DD1E4CFC"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "cisco_mod:amuletof_vitality"
 					tag: {
 						affix_data: {
@@ -581,7 +717,7 @@
 		{
 			can_repeat: true
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "cisco_mod:amuletof_swim_speed"
 				tag: {
 					affix_data: {
@@ -595,7 +731,7 @@
 			rewards: [{
 				id: "2BD05F48DE3B6D59"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "cisco_mod:amuletof_swim_speed"
 					tag: {
 						affix_data: {
@@ -616,14 +752,14 @@
 				item: "cisco_mod:champion_coin"
 				type: "item"
 			}]
-			title: "Amulet of Swim Speed"
+			title: "Amulet of Swin Speed"
 			x: 8.5d
 			y: -4.5d
 		}
 		{
 			can_repeat: true
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "cisco_mod:amuletof_luck"
 				tag: {
 					affix_data: {
@@ -637,7 +773,7 @@
 			rewards: [{
 				id: "533C932E2F9082F4"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "cisco_mod:amuletof_luck"
 					tag: {
 						affix_data: {
@@ -675,9 +811,17 @@
 			subtitle: "Exchange"
 			tasks: [{
 				consume_items: true
-				count: 8L
+				count: 25L
 				id: "53493004758C3789"
-				item: "cisco_mod:champion_coin"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cisco_mod:champion_coin"
+				}
 				type: "item"
 			}]
 			title: "Amnesia Scroll"
@@ -704,8 +848,8 @@
 				type: "item"
 			}]
 			title: "Plate of Honey Glazed Ham"
-			x: 8.5d
-			y: -13.0d
+			x: 0.0d
+			y: -22.5d
 		}
 		{
 			can_repeat: true
@@ -732,7 +876,7 @@
 				}
 				{
 					icon: {
-						Count: 1b
+						Count: 1
 						id: "cisco_mod:ascended_hero_helmet"
 						tag: {
 							Damage: 0
@@ -751,28 +895,6 @@
 			]
 			title: "Reduce world level by 50"
 			x: -4.5d
-			y: -18.0d
-		}
-		{
-			can_repeat: true
-			icon: "iter_rpg:insatiable_spawn_egg"
-			id: "35FAC8E46690631B"
-			rewards: [{
-				id: "2AA97FE0BEFD21D0"
-				item: "iter_rpg:insatiable_spawn_egg"
-				type: "item"
-			}]
-			size: 3.0d
-			subtitle: "Exchange"
-			tasks: [{
-				consume_items: true
-				count: 3L
-				id: "53E17C5E30594200"
-				item: "cisco_mod:champion_coin"
-				type: "item"
-			}]
-			title: "Insatiable"
-			x: -9.0d
 			y: -18.0d
 		}
 		{
@@ -910,7 +1032,7 @@
 				type: "item"
 			}]
 			title: "Emperor's Crown"
-			x: -9.0d
+			x: -4.5d
 			y: -22.5d
 		}
 		{
@@ -931,50 +1053,148 @@
 				type: "item"
 			}]
 			title: "Belt of Bracing"
-			x: 0.0d
-			y: -22.5d
+			x: -9.0d
+			y: -18.0d
 		}
 		{
+			can_repeat: true
 			icon: {
-				Count: 1b
-				id: "ringsofascension:ring_flight"
-				tag: {
-					affix_data: {
-						affixes: {
-							"apotheosis:socket": 0.0f
-						}
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
 					}
 				}
+				id: "apotheosis:ancient_material"
 			}
-			id: "3849515FF51B98E9"
+			id: "21BE64A51E739104"
 			rewards: [{
-				id: "465FC051F9BCA7D3"
-				item: {
-					Count: 1b
-					id: "ringsofascension:ring_flight"
-					tag: {
-						affix_data: {
-							affixes: {
-								"apotheosis:socket": 0.0f
-							}
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
 						}
 					}
+					id: "apotheosis:ancient_material"
 				}
-				type: "item"
+				id: "683FB07C19929210"
+				table_id: 1966429709340674931L
+				team_reward: false
+				type: "random"
 			}]
 			size: 3.0d
 			subtitle: "Exchange"
 			tasks: [{
 				consume_items: true
-				count: 50000L
-				icon: "cisco_mod:champion_coin"
-				id: "71A6386E0963606D"
-				item: "cisco_mod:champion_coin"
-				title: "Ring of Flight"
+				count: 200L
+				id: "48ACB06DD5846C73"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cisco_mod:champion_coin"
+				}
 				type: "item"
 			}]
+			title: "Pinnacle Reforge Mat Crate"
 			x: -4.5d
+			y: -26.5d
+		}
+		{
+			can_repeat: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "cisco_mod:temporal_core"
+			}
+			id: "00FC2C161FCDBED3"
+			rewards: [{
+				id: "73BBE074FDC9D77C"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cisco_mod:temporal_core"
+				}
+				type: "item"
+			}]
+			size: 3.0d
+			subtitle: "Equivalent Exchange"
+			tasks: [{
+				consume_items: true
+				count: 10000L
+				id: "747ED738E4930E58"
+				item: {
+					Count: 10000
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cisco_mod:champion_coin"
+				}
+				type: "item"
+			}]
+			title: "Temporal Core"
+			x: -9.0d
 			y: -22.5d
+		}
+		{
+			can_repeat: true
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "cisco_mod:talisman_of_betrayal"
+			}
+			id: "67E093A9B7D479F1"
+			rewards: [{
+				id: "4E72901D736ACD0A"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cisco_mod:talisman_of_betrayal"
+				}
+				type: "item"
+			}]
+			size: 3.0d
+			subtitle: "Equivalent Exchange"
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "0AE26644EB76AC8E"
+				item: {
+					Count: 50
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cisco_mod:champion_coin"
+				}
+				type: "item"
+			}]
+			title: "Talisman of Betrayal"
+			x: -4.5d
+			y: -13.0d
 		}
 	]
 	title: "{\"text\":\"Cisco's Wares\",\"color\":\"#E8CD1E\"}"

@@ -5,9 +5,10 @@
 	"itemGroup.gateways": "Gateways to Eternity",
 
 	"gateways.blaze_gate_small": "Small Blaze Gate",
-        "gateways.large_cataclysm_gate": "Cataclysmic Gate",
-        "gateways.cisco_ultra_gate": "Gate of Memories",
+        "gateways.large/large_cataclysm_gate": "Cataclysmic Gate",
+        "gateways.large/cisco_ultra_gate": "Gate of Memories",
 	"gateways.blaze_gate": "Blaze Gate",
+        "gateways.endless/cisco_endless_gate": "Gate of Infinite Memories",
 	"gateways.blaze_gate_large": "Large Blaze Gate",
 	"gateways.creeper_gate_small": "Small Creeper Gate",
 	"gateways.creeper_gate": "Creeper Gate",

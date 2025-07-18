@@ -57,6 +57,30 @@
           },
           "subCategories": [
             {
+              "hardInclude": "nothing",
+              "includeList": [],
+              "includeListInSuperCategory": true,
+              "excludeMode": "ONLY",
+              "excludeList": [],
+              "name": "gui.xaero_entity_category_friend",
+              "protection": true,
+              "settingOverrides": {},
+              "subCategories": []
+            },
+            {
+              "hardInclude": "tracked",
+              "includeList": [],
+              "includeListInSuperCategory": true,
+              "excludeMode": "ONLY",
+              "excludeList": [],
+              "name": "gui.xaero_entity_category_tracked",
+              "protection": true,
+              "settingOverrides": {
+                "icons": 2.0
+              },
+              "subCategories": []
+            },
+            {
               "hardInclude": "same-team",
               "includeList": [],
               "includeListInSuperCategory": true,

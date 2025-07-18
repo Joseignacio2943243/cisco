@@ -6,9 +6,13 @@
 	{
 		"type": "forge:mod_loaded",
 		"modid": "irons_spellbooks"
+	},
+	{
+		"type": "forge:mod_loaded",
+		"modid": "apothiccurios"
 	}],
 	"weight": 3,
-	"quality": 1.5,
+	"quality": 5.5,
 	"dimensions": [],
 	"unique": true,
 	"min_rarity": "rare",
@@ -38,6 +42,21 @@
 					"duration": 200,
 					"amplifier": 0,
 					"cooldown": 400
+				},
+				"apotheotic_additions:artifact": {
+					"duration": 300,
+					"amplifier": 0,
+					"cooldown": 400
+				},
+				"apotheotic_additions:heirloom": {
+					"duration": 400,
+					"amplifier": 0,
+					"cooldown": 400
+				},
+				"apotheotic_additions:esoteric": {
+					"duration": 500,
+					"amplifier": 0,
+					"cooldown": 400
 				}
 			}
 		},
@@ -46,7 +65,7 @@
 			"gem_class": {
 				"key": "spellbook",
 				"types": [
-					"spellbook"
+					"curios:spellbook"
 				]
 			},
 			"attribute": "irons_spellbooks:max_mana",
@@ -55,7 +74,10 @@
 				"rare": 50,
 				"epic": 75,
 				"mythic": 100,
-				"ancient": 125
+				"ancient": 125,
+				"apotheotic_additions:artifact": 150,
+				"apotheotic_additions:heirloom": 200,
+				"apotheotic_additions:esoteric": 250
 			}
 		},
 		{
@@ -77,52 +99,12 @@
 				"rare": 0.10,
 				"epic": 0.20,
 				"mythic": 0.30,
-				"ancient": 0.40
-			}
-        },
-        {
-            "type": "apotheosis:attribute",
-            "gem_class": {
-                "key": "curios",
-                "types": [
-					"curios:ring",
-					"curios:hostility_curse",
-					"curios:head",
-					"curios:necklace",
-					"curios:back",
-					"curios:an_focus",
-					"curios:bangle",
-					"curios:body",
-					"curios:bundle",
-					"curios:quiver",
-					"curios:spellstone",
-					"curios:artifact_head",
-					"curios:artifact_necklace",
-                    "curios:artifact_body",
-                    "curios:artifact_belt",
-                    "curios:artifact_bracelet",
-					"curios:hands",
-					"curios:belt",
-					"curios:charm",
-					"curios:feet",
-					"curios:talisman",
-					"curios:aether_ring",
-					"curios:aether_cape",
-					"curios:aether_gloves",
-					"curios:aether_accessory",
-					"curios:aether_shield",
-					"curios:aether_pendant",
-					"curios:trinkets"
-	]
-},
-"attribute": "irons_spellbooks:max_mana",
-"operation": "ADDITION",
-"values": {
-	"rare": 25,
-	"epic": 40,
-	"mythic": 55,
-	"ancient": 70
-			}
+				"ancient": 0.40,
+				"apotheotic_additions:artifact": 0.50,
+				"apotheotic_additions:heirloom": 0.6,
+				"apotheotic_additions:esoteric": 0.7
+			},
+			"desc": "gem.apotheotic_additions:alchemy/mystic.pickaxe"
 		}
 	]
 }

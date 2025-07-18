@@ -4,13 +4,16 @@
   "pattern": [
     "###",
     "#A#",
-    "###"
+    "BBB"
   ],
   "key": {
     "#": {
+      "item": "minecraft:blaze_rod"
+    },
+    "A": {
       "item": "cisco_mod:divine_core"
     },
-	"A": {
+    "B": {
       "item": "cisco_mod:tainted_talisman"
     }
   },

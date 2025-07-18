@@ -18,6 +18,13 @@
           "max": 10.0
         }
       },
+      "extra_archaeology_item": {
+        "chance": 0.2,
+        "chance_range": {
+          "min": 0.0,
+          "max": 1.0
+        }
+      },
       "swim_speed": {
         "multiplier": 0.25,
         "multiplier_range": {
@@ -25,6 +32,25 @@
           "max": 10.0
         }
       }
+    },
+    "ancient_scarab": {
+      "extra_archaeology_item": {
+        "chance": 0.16,
+        "chance_range": {
+          "min": 0.0,
+          "max": 1.0
+        }
+      },
+      "suspicious_block_spawn_chance": 0.125,
+      "suspicious_block_ids": [
+        "minecraft:archaeology/desert_well",
+        "minecraft:archaeology/desert_pyramid",
+        "minecraft:archaeology/trail_ruins_common",
+        "minecraft:archaeology/trail_ruins_rare",
+        "minecraft:archaeology/ocean_ruin_warm",
+        "minecraft:archaeology/ocean_ruin_cold",
+        "{regex}.*archaeology.*"
+      ]
     },
     "angler_rune": {
       "fishing_luck": {
@@ -318,6 +344,13 @@
         "multiplier_range": {
           "min": 0.0,
           "max": 10.0
+        }
+      },
+      "extra_archaeology_item": {
+        "chance": 0.24,
+        "chance_range": {
+          "min": 0.0,
+          "max": 1.0
         }
       },
       "swim_speed": {

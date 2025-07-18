@@ -4,8 +4,7 @@
 	"quality": 0,
 	"dimensions": [
 	],
-	"bonuses": [
-		{
+	"bonuses": [{
 			"type": "apotheosis:attribute",
 			"gem_class": {
 				"key": "light_weapon",
@@ -67,8 +66,7 @@
 			"gem_class": {
 				"key": "core_armor",
 				"types": [
-					"chestplate",
-					"leggings"
+					"chestplate", "leggings"
 				]
 			},
 			"attribute": "minecraft:generic.knockback_resistance",
@@ -83,47 +81,50 @@
 			}
 		},
 		{
-			"type": "apotheosis:attribute",
-			"gem_class": {
-				"key": "curios",
-				"types": [
-					"curios:ring",
-					"curios:hostility_curse",
-					"curios:head",
-					"curios:necklace",
-					"curios:back",
-					"curios:an_focus",
-					"curios:bangle",
-					"curios:body",
-					"curios:bundle",
-					"curios:quiver",
-					"curios:spellstone",
-					"curios:bracelet",
-					"curios:hands",
-					"curios:belt",
-					"curios:charm",
-					"curios:feet",
-					"curios:talisman",
-					"curios:aether_ring",
-					"curios:aether_cape",
-					"curios:aether_gloves",
-					"curios:aether_accessory",
-					"curios:aether_shield",
-					"curios:aether_pendant"
-
+					"type": "apotheosis:attribute",
+					"gem_class": {
+						"key": "curios",
+						"types": [
+							"curios:ring",
+							"curios:hostility_curse",
+							"curios:head",
+							"curios:necklace",
+							"curios:back",
+							"curios:an_focus",
+							"curios:bangle",
+							"curios:body",
+							"curios:bundle",
+							"curios:quiver",
+							"curios:spellstone",
+							"curios:bracelet",
+							"curios:hands",
+							"curios:belt",
+							"curios:charm",
+							"curios:feet",
+							"curios:talisman",
+							"curios:aether_ring",
+							"curios:aether_cape",
+							"curios:aether_gloves",
+							"curios:aether_accessory",
+							"curios:aether_shield",
+							"curios:aether_pendant"
 		
-				]
-			},
-			"attribute": "minecraft:generic.attack_damage",
-			"operation": "ADDITION",
-			"values": {
-				"common": 0.5,
-				"uncommon": 1,
-				"rare": 1.75,
-				"epic": 2.5,
-				"mythic": 3.5,
-				"ancient": 5
-			}
+				
+						]
+					},
+					"attribute": "minecraft:generic.attack_damage",
+					"operation": "ADDITION",
+					"values": {
+						"common": 0.5,
+						"uncommon": 1,
+						"rare": 1.75,
+						"epic": 2.5,
+						"mythic": 3.5,
+						"ancient": 5
+					
+					}
+		
+			
 		}
 	]
 }

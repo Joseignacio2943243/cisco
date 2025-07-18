@@ -2,9 +2,9 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "travellers_journey"
-	group: "26E23D519F52B5AE"
+	group: "3B0CDB8395E59365"
 	icon: {
-		Count: 1b
+		Count: 1
 		id: "irons_spellbooks:wayward_compass"
 		tag: { }
 	}
@@ -15,7 +15,7 @@
 		{
 			description: ["This useful tool will help you find any biome you desire."]
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "naturescompass:naturescompass"
 				tag: { }
 			}
@@ -38,14 +38,14 @@
 			tasks: [{
 				id: "7F8DAC298AD11A0B"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "naturescompass:naturescompass"
 					tag: { }
 				}
 				type: "item"
 			}]
-			x: -0.5d
-			y: 0.0d
+			x: -6.0d
+			y: 3.0d
 		}
 		{
 			description: ["This portal can be crafted with flowers and dirt and will take you to the twilight forest."]
@@ -53,15 +53,15 @@
 			id: "0409EE265B906649"
 			rewards: [
 				{
-					exclude_from_claim_all: true
-					id: "0EE2F4ECB6D1990D"
-					table_id: 2009222526436419355L
-					type: "choice"
-				}
-				{
 					id: "18C3DFEF1AB6FE29"
 					type: "xp_levels"
 					xp_levels: 15
+				}
+				{
+					exclude_from_claim_all: true
+					id: "216598CD3D214E2E"
+					table_id: 4903156105118211647L
+					type: "random"
 				}
 			]
 			size: 2.0d
@@ -74,63 +74,6 @@
 			title: "Visit the twilight forest"
 			x: -0.5d
 			y: -4.0d
-		}
-		{
-			description: ["Locate the gatekeepers house to begin this journey."]
-			icon: "blue_skies:everbright_portal"
-			id: "2C8C284AB1700A88"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "3EAA3216BBA1051F"
-					table_id: 2009222526436419355L
-					type: "choice"
-				}
-				{
-					id: "0F2FD6FA9E9A9F8E"
-					type: "xp_levels"
-					xp_levels: 10
-				}
-			]
-			shape: "rsquare"
-			size: 2.0d
-			subtitle: "Entering the Everbright"
-			tasks: [{
-				dimension: "blue_skies:everbright"
-				id: "06BD38EB7F6E3015"
-				type: "dimension"
-			}]
-			title: "Travel to the Everbright"
-			x: -4.5d
-			y: 0.0d
-		}
-		{
-			icon: "blue_skies:everdawn_portal"
-			id: "0FD876EB3D9B14F9"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "0555AEB361DF20CD"
-					table_id: 2009222526436419355L
-					type: "choice"
-				}
-				{
-					id: "7B5E77CBE69123B9"
-					type: "xp_levels"
-					xp_levels: 10
-				}
-			]
-			shape: "rsquare"
-			size: 2.0d
-			subtitle: "Entering the Everdawn"
-			tasks: [{
-				dimension: "blue_skies:everdawn"
-				id: "7CB079893D972ABC"
-				type: "dimension"
-			}]
-			title: "Travel to the Everdawn"
-			x: 3.0d
-			y: 0.0d
 		}
 		{
 			dependencies: ["0409EE265B906649"]
@@ -163,14 +106,14 @@
 			]
 			subtitle: "Naga Neutralized"
 			tasks: [{
-				id: "5500F6F5182BE460"
+				id: "1EFDF1A804BF05E3"
 				item: "twilightforest:naga_trophy"
-				title: "Acquire the Naga's Head"
+				title: "Acquire Naga's Head"
 				type: "item"
 			}]
 			title: "Slay the naga"
 			x: 0.5d
-			y: -3.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["0409EE265B906649"]
@@ -203,14 +146,14 @@
 			]
 			subtitle: "Lacerating the Lich"
 			tasks: [{
-				id: "479ECF68B1D3F609"
+				id: "36B93C19A6756617"
 				item: "twilightforest:lich_trophy"
-				title: "Acquire the Lich's Head"
+				title: "Acquire Lich's Head"
 				type: "item"
 			}]
 			title: "Slay the twilight lich"
 			x: -1.5d
-			y: -3.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["0409EE265B906649"]
@@ -243,14 +186,14 @@
 			]
 			subtitle: "Massacring the Minoshroom"
 			tasks: [{
-				id: "4EE1A320D0CAA326"
+				id: "6EC2E4FA76F2EAAB"
 				item: "twilightforest:minoshroom_trophy"
-				title: "Acquire the Minoshroom's Head"
+				title: "Acquire Minoshroom's Head"
 				type: "item"
 			}]
 			title: "Slay the Minoshroom"
 			x: -2.0d
-			y: -4.0d
+			y: -3.5d
 		}
 		{
 			dependencies: ["0409EE265B906649"]
@@ -283,14 +226,14 @@
 			]
 			subtitle: "Beheading the Hydra"
 			tasks: [{
-				id: "17B36CED052A8010"
+				id: "7B3BB21C989EBE35"
 				item: "twilightforest:hydra_trophy"
 				title: "Acquire the Hydra's Head"
 				type: "item"
 			}]
 			title: "Slay the Hydra"
-			x: -2.0d
-			y: -5.0d
+			x: -2.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["0409EE265B906649"]
@@ -323,14 +266,14 @@
 			]
 			subtitle: "Cutting down the KnightPhantom"
 			tasks: [{
-				id: "21DB92C2262AF261"
+				id: "175A7BABC26889D1"
 				item: "twilightforest:knight_phantom_trophy"
-				title: "Acquire the Knight Phantom's Head"
+				title: "Acquire Knight Phantom's Head"
 				type: "item"
 			}]
 			title: "Slay the Knight Phantom"
 			x: 1.0d
-			y: -5.0d
+			y: -3.5d
 		}
 		{
 			dependencies: ["0409EE265B906649"]
@@ -363,14 +306,14 @@
 			]
 			subtitle: "Slaying the Ur-Ghast"
 			tasks: [{
-				id: "612990E953AF97F8"
+				id: "65497C7CC8D28BD1"
 				item: "twilightforest:ur_ghast_trophy"
 				title: "Acquire the Ur-Ghast's Head"
 				type: "item"
 			}]
 			title: "Slay the Ur-Ghast"
-			x: 1.0d
-			y: -4.0d
+			x: 1.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["0409EE265B906649"]
@@ -403,14 +346,14 @@
 			]
 			subtitle: "Winter Troll"
 			tasks: [{
-				id: "221F6674B42BD578"
+				id: "4D50EBCCBE2C50B3"
 				item: "twilightforest:alpha_yeti_trophy"
 				title: "Acquire the Alpha Yeti's Head"
 				type: "item"
 			}]
 			title: "Slay the Alpha yeti"
-			x: -1.5d
-			y: -6.5d
+			x: -2.0d
+			y: -5.5d
 		}
 		{
 			dependencies: ["0409EE265B906649"]
@@ -443,213 +386,19 @@
 			]
 			subtitle: "Overthrowing the Queen"
 			tasks: [{
-				id: "0CF3A1566BE8BC5E"
+				id: "533347E6D81C1141"
 				item: "twilightforest:snow_queen_trophy"
 				title: "Acquire the Snow Queen's Head"
 				type: "item"
 			}]
 			title: "Slay the Snow Queen"
-			x: 0.5d
-			y: -6.5d
-		}
-		{
-			dependencies: ["0409EE265B906649"]
-			description: ["Can be found in the troll caves which generate in and around the Highlands."]
-			icon: {
-				Count: 1b
-				id: "enemyexpansion:troll_molar"
-				tag: {
-					Damage: 0
-					affix_data: {
-						affixes: {
-							"apotheosis:socket": 0.0f
-						}
-					}
-				}
-			}
-			id: "41BB09EA69DF7D0E"
-			rewards: [
-				{
-					id: "6069B34DA4E4170E"
-					type: "xp_levels"
-					xp_levels: 15
-				}
-				{
-					exclude_from_claim_all: true
-					id: "1F77C8D9011FCAD8"
-					table_id: 1202918963443388018L
-					type: "random"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "57B12A94DD1C0B9A"
-					table_id: 4903156105118211647L
-					type: "random"
-				}
-				{
-					count: 2
-					id: "3D532A672A66B8FE"
-					item: "cisco_mod:champion_coin"
-					type: "item"
-				}
-			]
-			subtitle: "Cutting down the Cave Troll"
-			tasks: [{
-				entity: "twilightforest:troll"
-				icon: {
-					Count: 1b
-					id: "enemyexpansion:trollface_helmet"
-					tag: {
-						Damage: 0
-						affix_data: {
-							affixes: {
-								"apotheosis:socket": 0.0f
-							}
-						}
-					}
-				}
-				id: "4CD47F452CFEE3B5"
-				type: "kill"
-				value: 1L
-			}]
-			title: "Slay the Cave Troll"
-			x: -0.5d
-			y: -8.5d
-		}
-		{
-			dependencies: ["0FD876EB3D9B14F9"]
-			description: ["You will need 4 dungoen &ekeys &fto challenge the &4boss."]
-			icon: "blue_skies:polished_brumble_bricks"
-			id: "0B63CA856D44A167"
-			rewards: [
-				{
-					count: 5
-					id: "3D9E183B00615598"
-					item: "minecraft:enchanted_golden_apple"
-					type: "item"
-				}
-				{
-					id: "04D5EA5633CDF90E"
-					type: "xp_levels"
-					xp_levels: 5
-				}
-			]
-			subtitle: "Everdawn"
-			tasks: [{
-				id: "75BCEBCCC0EADD1C"
-				structure: "blue_skies:everdawn_blinding_dungeon"
-				type: "structure"
-			}]
-			title: "Find the everdawn blinding dungeon"
-			x: 5.5d
-			y: 0.0d
-		}
-		{
-			dependencies: ["2C8C284AB1700A88"]
-			description: ["You will need 4 dungeon &ekeys &fto challenge the &1boss."]
-			icon: "blue_skies:turquoise_stonebrick"
-			id: "5A1CA2E9519D8682"
-			rewards: [
-				{
-					count: 10
-					id: "14DC969A67C0B7F0"
-					item: "minecraft:enchanted_golden_apple"
-					type: "item"
-				}
-				{
-					id: "0749E1F6C38C803E"
-					type: "xp_levels"
-					xp_levels: 5
-				}
-			]
-			subtitle: "Everbright"
-			tasks: [{
-				id: "5AFD0181ED493241"
-				structure: "blue_skies:everbright_blinding_dungeon"
-				type: "structure"
-			}]
-			title: "Find the everbright blinding dungeon"
-			x: -7.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["5A1CA2E9519D8682"]
-			description: ["Slay the summoner who presides over the everbright dimension."]
-			icon: "apotheosis:boss_summoner"
-			id: "1C3CB13AE86F6538"
-			rewards: [
-				{
-					id: "36F3188B1264A5EC"
-					type: "xp_levels"
-					xp_levels: 35
-				}
-				{
-					count: 7
-					id: "317FD17DF5525036"
-					item: "cisco_mod:champion_coin"
-					type: "item"
-				}
-			]
-			size: 2.0d
-			subtitle: "Slaying the summoner"
-			tasks: [{
-				entity: "blue_skies:summoner"
-				icon: "apotheosis:boss_summoner"
-				id: "4ABE06C2C50C7334"
-				title: "Slay the summoner"
-				type: "kill"
-				value: 1L
-			}]
-			x: -9.5d
-			y: 0.0d
-		}
-		{
-			dependencies: ["0B63CA856D44A167"]
-			description: ["Slay the alchemist who presides over the everdawn dimension."]
-			icon: {
-				Count: 1b
-				id: "minecraft:potion"
-				tag: {
-					Potion: "minecraft:invisibility"
-				}
-			}
-			id: "4B89E5EAAB1730F2"
-			rewards: [
-				{
-					id: "1A3333496295957C"
-					type: "xp_levels"
-					xp_levels: 35
-				}
-				{
-					count: 7
-					id: "3675BAA7A040339F"
-					item: "cisco_mod:champion_coin"
-					type: "item"
-				}
-			]
-			size: 2.0d
-			subtitle: "Slaying the Alchemist"
-			tasks: [{
-				entity: "blue_skies:alchemist"
-				icon: {
-					Count: 1b
-					id: "minecraft:potion"
-					tag: {
-						Potion: "minecraft:long_fire_resistance"
-					}
-				}
-				id: "6813D997D6B835C6"
-				type: "kill"
-				value: 1L
-			}]
-			title: "Slay the alchemist"
-			x: 7.5d
-			y: 0.0d
+			x: 1.0d
+			y: -5.5d
 		}
 		{
 			description: ["This item will help you locate structures in your world."]
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "explorerscompass:explorerscompass"
 				tag: { }
 			}
@@ -677,7 +426,7 @@
 			tasks: [{
 				id: "1B09D0D9B9CA31FB"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "explorerscompass:explorerscompass"
 					tag: { }
 				}
@@ -744,19 +493,11 @@
 			dependencies: ["0C7EF344C1930A6F"]
 			description: ["Clear out this fortified pillager camp."]
 			id: "4B649072887655A1"
-			rewards: [
-				{
-					count: 3
-					id: "3D031C74AFD1E0AD"
-					item: "upgradednetherite_items:netherite_apple"
-					type: "item"
-				}
-				{
-					id: "1CEEC4C5BB8CF001"
-					type: "xp_levels"
-					xp_levels: 5
-				}
-			]
+			rewards: [{
+				id: "1CEEC4C5BB8CF001"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			subtitle: "Bastille Blues"
 			tasks: [{
 				id: "7593E8618BAAEEEB"
@@ -912,7 +653,7 @@
 			tasks: [{
 				entity: "aether:valkyrie_queen"
 				icon: {
-					Count: 1b
+					Count: 1
 					id: "aether:valkyrie_helmet"
 					tag: {
 						Damage: 0
@@ -935,7 +676,7 @@
 			dependencies: ["3576D8407E23183E"]
 			description: ["The sun spirit resides in the gold dungeon once slain the aether will no longer be in a a state of perputual daytime."]
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "aether:phoenix_helmet"
 				tag: {
 					Damage: 0
@@ -949,21 +690,28 @@
 			id: "2DD7B0278EACD633"
 			rewards: [
 				{
-					id: "38E03D5BD615845B"
-					item: {
-						Count: 1b
-						id: "apotheosis:gem"
-						tag: {
-							gem: "apotheotic_additions:aether/aether"
-							rarity: "mythic"
-						}
-					}
-					type: "item"
-				}
-				{
 					count: 3
 					id: "5B5D38BB902956EE"
 					item: "cisco_mod:champion_coin"
+					type: "item"
+				}
+				{
+					id: "79EE20A2813F0BC9"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "apotheosis:gem"
+						tag: {
+							affix_data: {
+								rarity: "apotheosis:ancient"
+							}
+							gem: "apotheosis:core/solar"
+						}
+					}
 					type: "item"
 				}
 			]
@@ -971,7 +719,7 @@
 			tasks: [{
 				entity: "aether:sun_spirit"
 				icon: {
-					Count: 1b
+					Count: 1
 					id: "aether:phoenix_helmet"
 					tag: {
 						Damage: 0
@@ -1142,7 +890,7 @@
 			y: -9.0d
 		}
 		{
-			description: ["Furnaces can be upgraded by combining them with rare metals."]
+			description: ["Furnaces can be upgrade by combining them with rare metals."]
 			id: "4FAECF44CFBE7EEC"
 			rewards: [
 				{
@@ -1169,7 +917,7 @@
 		}
 		{
 			dependencies: ["4FAECF44CFBE7EEC"]
-			description: ["The gold furnace boasts faster cook speed than the iron variant and can be upgraded even further ."]
+			description: ["The gold furnace boasts faster cook speed than the iron and can be upgraded even further ."]
 			id: "02D166E4FFB3BAF6"
 			rewards: [
 				{
@@ -1195,119 +943,35 @@
 			y: -8.0d
 		}
 		{
-			description: [
-				"Protects players from rain and sunlight, which is exactly what the Blazeborn, Enderian and Phantom need."
-				""
-				"Should be equipped in hands to function.Slowly loses durability in rain but won't get completely broken."
-				""
-				"Slowly regains durability when exposed to normal weather, hot environments could accelerate the process. Needs to be dyed to a color dark enough to keep out sunlight, and it won't cost durability."
-			]
-			id: "2C13C95283B0545E"
+			description: ["This station will act as &8stone cutter&f for &2wood &fallowing you to obtain many different variants."]
+			id: "2754C959BC321288"
 			rewards: [{
-				count: 2
-				id: "47A07B7878F0CC43"
-				item: "cisco_mod:champion_coin"
-				type: "item"
+				id: "427DD058983B229F"
+				type: "xp_levels"
+				xp_levels: 5
 			}]
-			size: 2.5d
-			subtitle: "In the shade"
+			subtitle: "Woodworks"
 			tasks: [{
-				id: "7DEEA7B9CB09A9FC"
-				item: "oriacs:umbrella"
+				id: "6003A4DF0EDAE734"
+				item: "woodworks:sawmill"
 				type: "item"
 			}]
-			x: 10.5d
-			y: -2.0d
+			x: 2.5d
+			y: -9.5d
 		}
 		{
-			description: [
-				"When under water the diving helmet provides water breathing to non water based origins but slowly fills with water turning into a landwalking helmet."
-				""
-				"Respiration slows down the transformation process."
-			]
-			id: "4A6D205328E2B1A6"
+			description: ["Building wands will allow you to build large structures quickly and effieciently."]
+			id: "736E4B5E45E37F9C"
 			rewards: [{
-				count: 2
-				id: "453EA3543AF6922E"
+				id: "0955D642CDC82F54"
 				item: "cisco_mod:champion_coin"
 				type: "item"
 			}]
-			size: 2.5d
-			subtitle: "Into the depths"
+			subtitle: "Crafting a Building Wand"
 			tasks: [{
-				id: "07D37621CF366513"
+				id: "358C4E56610824E4"
 				item: {
-					Count: 1b
-					id: "oriacs:diving_helmet"
-					tag: {
-						Damage: 0
-						affix_data: {
-							affixes: {
-								"apotheosis:socket": 0.0f
-							}
-						}
-					}
-				}
-				type: "item"
-			}]
-			x: 13.75d
-			y: -1.25d
-		}
-		{
-			description: [
-				"When outside water the landwalking helmet provides water breathing for non-land based origins slowly losing water and turning into a diving helmet. "
-				""
-				"Respiration slows down the transformation process."
-			]
-			id: "5926F8DC412EB475"
-			rewards: [{
-				count: 2
-				id: "7C35FCD069724B20"
-				item: "cisco_mod:champion_coin"
-				type: "item"
-			}]
-			size: 2.5d
-			subtitle: "Crawled Onto Land"
-			tasks: [{
-				id: "13338F1870262703"
-				item: {
-					Count: 1b
-					id: "oriacs:landwalking_helmet"
-					tag: {
-						Damage: 0
-						affix_data: {
-							affixes: {
-								"apotheosis:socket": 0.0f
-							}
-						}
-					}
-				}
-				type: "item"
-			}]
-			x: 11.0d
-			y: 1.0d
-		}
-		{
-			description: ["Building wands will allow you to create large structures quickly and efficiently. "]
-			icon: {
-				Count: 1b
-				id: "constructionwand:stone_wand"
-				tag: {
-					Damage: 0
-					wand_options: { }
-				}
-			}
-			id: "295A996225233BC1"
-			rewards: [{
-				id: "7DC868B5763553D0"
-				item: "cisco_mod:champion_coin"
-				type: "item"
-			}]
-			subtitle: "Creating the Stone Wand"
-			tasks: [{
-				id: "7ED08541CD74647B"
-				item: {
-					Count: 1b
+					Count: 1
 					id: "constructionwand:stone_wand"
 					tag: {
 						Damage: 0
@@ -1316,43 +980,35 @@
 				}
 				type: "item"
 			}]
-			title: "Stone Building Wand"
+			title: "Stone Wand"
 			x: 2.5d
 			y: -6.5d
 		}
 		{
-			dependencies: ["295A996225233BC1"]
+			dependencies: ["736E4B5E45E37F9C"]
 			description: [
-				"Building wands can be upgraded from stone tier to infinity tier."
+				"Building wands can be upgrade from stone tier to infinity tier."
 				""
-				"You may also combine cores with your wand to increase functionality."
+				"Cores may also be combined with wands to increase functionality."
 			]
-			icon: {
-				Count: 1b
-				id: "constructionwand:iron_wand"
-				tag: {
-					Damage: 0
-					wand_options: { }
-				}
-			}
-			id: "3558933A85FAC7D7"
+			id: "4524817476A2B36D"
 			rewards: [
 				{
-					id: "5B4BA4D557FB2053"
+					id: "3D24FD89F2EA55AA"
 					item: "cisco_mod:champion_coin"
 					type: "item"
 				}
 				{
-					id: "6C060FE3FC977DA0"
+					id: "34CA5597695E7215"
 					type: "xp_levels"
 					xp_levels: 5
 				}
 			]
-			subtitle: "Upgrading Wand Tier"
+			subtitle: "Upgrading Wands"
 			tasks: [{
-				id: "010CB9F8E709C2FF"
+				id: "0DD6A322508BF924"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "constructionwand:iron_wand"
 					tag: {
 						Damage: 0
@@ -1361,7 +1017,6 @@
 				}
 				type: "item"
 			}]
-			title: "Iron Wand"
 			x: 4.0d
 			y: -6.5d
 		}
@@ -1392,8 +1047,8 @@
 				type: "item"
 			}]
 			title: "Easy Villagers Auto Trader"
-			x: -2.0d
-			y: 3.5d
+			x: 5.5d
+			y: 4.0d
 		}
 		{
 			description: ["You may place a &2villager &fwith an occupation within the &btrader &fto gain easy access to thier trades whenever you require."]
@@ -1418,34 +1073,8 @@
 				type: "item"
 			}]
 			title: "Easy Villagers Trading"
-			x: -0.5d
-			y: 4.5d
-		}
-		{
-			description: ["You may place a farmer &avillager &fand seeds within the &bfarmer &fto automate crop farming."]
-			id: "514E2CB906303E01"
-			rewards: [
-				{
-					count: 2
-					id: "717AD01ACED34156"
-					item: "cisco_mod:champion_coin"
-					type: "item"
-				}
-				{
-					id: "696676945DCF80C1"
-					type: "xp_levels"
-					xp_levels: 5
-				}
-			]
-			subtitle: "Easy Farming"
-			tasks: [{
-				id: "632E67F6EA257FB6"
-				item: "easy_villagers:farmer"
-				type: "item"
-			}]
-			title: "Easy Villagers Farmer"
-			x: -0.5d
-			y: 6.5d
+			x: 7.0d
+			y: 3.0d
 		}
 		{
 			description: ["You may place a &2villager &finto the &biron farm &fto begin automatically farming &8iron."]
@@ -1470,8 +1099,34 @@
 				type: "item"
 			}]
 			title: "Easy Villagers Iron Farm"
-			x: -0.5d
-			y: 2.5d
+			x: 7.0d
+			y: 5.0d
+		}
+		{
+			description: ["You may place a farmer &avillager &fand seeds within the &bfarmer &fto automate crop farming."]
+			id: "514E2CB906303E01"
+			rewards: [
+				{
+					count: 2
+					id: "717AD01ACED34156"
+					item: "cisco_mod:champion_coin"
+					type: "item"
+				}
+				{
+					id: "696676945DCF80C1"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			subtitle: "Easy Farming"
+			tasks: [{
+				id: "632E67F6EA257FB6"
+				item: "easy_villagers:farmer"
+				type: "item"
+			}]
+			title: "Easy Villagers Farmer"
+			x: 7.0d
+			y: 7.0d
 		}
 		{
 			description: [
@@ -1500,8 +1155,8 @@
 				type: "item"
 			}]
 			title: "Easy Villagers Converting"
-			x: 1.0d
-			y: 3.5d
+			x: 5.5d
+			y: 5.5d
 		}
 		{
 			description: ["&bThe breeder &frequires you two input two &avillagers &fand a food item to then produce baby &avillagers."]
@@ -1526,7 +1181,7 @@
 				type: "item"
 			}]
 			title: "Easy Villagers Breeding"
-			x: -2.0d
+			x: 8.5d
 			y: 5.5d
 		}
 		{
@@ -1552,8 +1207,770 @@
 				type: "item"
 			}]
 			title: "Easy Villagers Incubator"
+			x: 8.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["22A1E4BA57D4A830"]
+			description: ["&eThe olympic Citadel &fwas once believed to be the home of &6gods &fnow abadoned after they were almost completely wiped out by &4Fell King Arthas &fand &0the fell forces."]
+			id: "54EC21B27A5A31AD"
+			rewards: [{
+				count: 3
+				id: "52C5CA4E946017F3"
+				item: "cisco_mod:champion_coin"
+				type: "item"
+			}]
+			subtitle: "Home of the Gods"
+			tasks: [{
+				icon: "aether:pillar"
+				id: "60F16DDC6949C894"
+				structure: "aether_villages:olympic_citadel"
+				title: "Find the Olympic Citadel"
+				type: "structure"
+			}]
+			title: "Visit the Olympic Citadel"
+			x: -5.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["7815C719227C80E6"]
+			description: ["&cThe Nether &fdimension has been enhanced now featuring a more varied and atmospheric version with new landscapes and challenges."]
+			id: "099E53EE758F1F2C"
+			rewards: [
+				{
+					count: 5
+					id: "46B9B1F4ADDDFB99"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cisco_mod:champion_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "4DBA1BE1E60475CC"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			size: 2.0d
+			subtitle: "Better Nether"
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "betternether:cincinnasite_fire_bowl"
+				}
+				id: "5BC4299A9E7A9176"
+				title: "Visit the Nether"
+				type: "dimension"
+			}]
+			title: "Visit the Nether Dimension"
+			x: -1.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["7815C719227C80E6"]
+			description: ["&dThe End dimension &fhas undergone a massive transformation, turning it into a vibrant, more diverse, and visually stunning world."]
+			id: "0037E919A5DA26DF"
+			rewards: [{
+				id: "4AB84CE609A36E40"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "skilltree:amnesia_scroll"
+				}
+				type: "item"
+			}]
+			size: 2.0d
+			subtitle: "Better End"
+			tasks: [{
+				dimension: "minecraft:the_end"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "betterend:infusion_pedestal"
+				}
+				id: "5C8473CB5B81D66F"
+				title: "Travel to the End"
+				type: "dimension"
+			}]
+			title: "Visit the End Dimension"
+			x: -10.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["099E53EE758F1F2C"]
+			description: [
+				"The Soul Plain  is a desolate, eerie landscape filled with dark, ghostly elements."
+				""
+				"It features a twisted, haunting environment with a purple-gray palette, and is often inhabited by hostile mobs like Soul Eaters. "
+			]
+			id: "3B36C3EF12B4FF3C"
+			rewards: [
+				{
+					count: 3
+					id: "7B6C355E35DE7423"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cisco_mod:champion_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "1C69CA9B5AC674E3"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "6CE812215FD964F8"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "skilltree:wisdom_scroll"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Soul Searching"
+			tasks: [{
+				biome: "betternether:soul_plain"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "betternether:basalt_stalactite"
+				}
+				id: "446E928D16E320C7"
+				title: "Visit the Soul Plain"
+				type: "biome"
+			}]
+			x: -1.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["22A1E4BA57D4A830"]
+			description: ["Find the platinum dungeon, within lies your final foe the aerwhale king."]
+			id: "2FC3C0EF214ED424"
+			rewards: [
+				{
+					id: "223ECA88E6113005"
+					type: "xp_levels"
+					xp_levels: 15
+				}
+				{
+					count: 2
+					id: "70D12AF20C117F1E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cisco_mod:champion_coin"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Finding the Platinum Dungeon"
+			tasks: [{
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "lost_aether_content:gale_pillar"
+				}
+				id: "2775C594565A2D0A"
+				structure: "lost_aether_content:platinum_dungeon"
+				title: "Find the Platinum dungeon"
+				type: "structure"
+			}]
+			x: -5.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2FC3C0EF214ED424"]
+			description: [
+				"Residing atop the platinum dungeon the aerwhale king is a formiddable foe."
+				""
+				"Defeat him and claim the platinum key."
+			]
+			id: "63007C16471DB9E3"
+			rewards: [
+				{
+					count: 5
+					id: "3C3A1B01C4DA243A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cisco_mod:champion_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "2A95D0053583F311"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "apotheosis:gem"
+						tag: {
+							affix_data: {
+								rarity: "apotheosis:ancient"
+							}
+							gem: "apotheosis:core/lunar"
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Dethroning the King"
+			tasks: [{
+				entity: "lost_aether_content:aerwhale_king"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "lost_aether_content:platinum_key"
+				}
+				id: "462FF3D91DB85ADC"
+				title: "Defeat the Aerwhale King"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["099E53EE758F1F2C"]
+			description: [
+				"The Bone Reef underwater-like environment found within the &cNether. "
+				""
+				"It features large, bleached bone structures that resemble a vast coral reef, with bones and skeletons scattered throughout. "
+				""
+				"The biome has a haunting aesthetic, often filled with hostile mobs like Bone Sharks and other skeleton-themed creatures."
+			]
+			id: "7D909ECB706F1882"
+			rewards: [
+				{
+					count: 3
+					id: "0723454F391B480A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cisco_mod:champion_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "42C7900C3195804F"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "72D2088EA46FA468"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "skilltree:wisdom_scroll"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Beauty in Bones"
+			tasks: [{
+				id: "266FA32B211E1324"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "betternether:bone_wall"
+				}
+				type: "item"
+			}]
+			title: "Visit the Bone Reef"
+			x: -3.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["099E53EE758F1F2C"]
+			description: [
+				"The Crimson Glowing Woods is a vibrant and eerie area filled with towering crimson trees that emit a soft, glowing light."
+				""
+				"The landscape is dominated by dense forests of these glowing trees, with the ground covered in crimson-colored grass and fungi. "
+			]
+			id: "74FBEA79142079D2"
+			rewards: [
+				{
+					count: 3
+					id: "4BFA519C4283B753"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cisco_mod:champion_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "1DEE74963894D62C"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "0FD6273CBAE3C657"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "skilltree:wisdom_scroll"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Crimson Causeway"
+			tasks: [{
+				biome: "betternether:crimson_glowing_woods"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "soulsweapons:crimson_obsidian"
+				}
+				id: "6D46898F9BEAD543"
+				title: "Visit the crimson glowing woods"
+				type: "biome"
+			}]
 			x: 1.0d
-			y: 5.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["099E53EE758F1F2C"]
+			description: [
+				"The Upside Down Forest is a surreal landscape where the trees grow inverted, with their roots reaching toward the sky. "
+				""
+				"The forest is filled with dead, twisted trees and a haunting atmosphere, as the ground is covered in withered foliage and dark vegetation."
+			]
+			id: "71D9B5A1692B2449"
+			rewards: [
+				{
+					count: 3
+					id: "37A70526044C8828"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cisco_mod:champion_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "33CBB6BB498A84B6"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "434E0D0CF110FC82"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "skilltree:wisdom_scroll"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Flipped Forest"
+			tasks: [{
+				biome: "betternether:upside_down_forest"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "betternether:black_vine"
+				}
+				id: "75361371AB49A0CB"
+				title: "Visit the dead upside down forest"
+				type: "biome"
+			}]
+			title: "Visit the upside down forest"
+			x: -2.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["099E53EE758F1F2C"]
+			description: [
+				"The Flooded Deltas is a murky, waterlogged area within the &cNether. "
+				""
+				"The terrain is covered in pools of dark, stagnant water and is filled with jagged, often submerged rocks and volcanic features. "
+				""
+				"The biome's atmosphere is gloomy and treacherous, with hostile mobs like Sludges and other water-adapted creatures lurking in the depths. "
+			]
+			id: "7AB3A2FEB07E0D8F"
+			rewards: [
+				{
+					count: 3
+					id: "594E97589D194DC1"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cisco_mod:champion_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "4D5260BEBC9AB075"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "6944DCAF93EB7E25"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "skilltree:wisdom_scroll"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Facade of Flood"
+			tasks: [{
+				biome: "betternether:flooded_deltas"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "betternether:jellyfish_mushroom_sapling"
+				}
+				id: "0561A30B4EDF90CC"
+				title: "Visit the flooded deltas"
+				type: "biome"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["0037E919A5DA26DF"]
+			description: [
+				"The Amber Land biome  is one of the more visually striking and immersive areas within the revamped End dimension."
+				""
+				"It’s a rich, warm colored biome that feels like stepping into a completely different realm within the End, full of both beauty and mystery."
+			]
+			id: "715F9E89062B1F30"
+			rewards: [
+				{
+					count: 5
+					id: "36038E898499A65C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cisco_mod:champion_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "6EA99D459B2C2513"
+					type: "xp_levels"
+					xp_levels: 15
+				}
+			]
+			subtitle: "Amber and Adventure"
+			tasks: [{
+				biome: "betterend:amber_land"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "betterend:amber_grass"
+				}
+				id: "10154E73AA341EDE"
+				title: "Visit the Amber Land "
+				type: "biome"
+			}]
+			x: -11.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["0037E919A5DA26DF"]
+			description: [
+				"The Blossoming Spires biome is a stunning and ethereal landscape characterized by towering spires of glowing, crystalline structures and vibrant, floating flora. "
+				""
+				"The biome is filled with Blossoming Trees that have delicate, colorful petals, and the ground is covered in lush, flower-filled grass."
+			]
+			id: "22D351C8D4C06690"
+			rewards: [
+				{
+					count: 5
+					id: "12DF0E1234CE8FDF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cisco_mod:champion_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "56BF34ACC5A2D3C1"
+					type: "xp_levels"
+					xp_levels: 15
+				}
+			]
+			subtitle: "Beauty Blossoms"
+			tasks: [{
+				biome: "betterend:blossoming_spires"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "betterend:tenanea_flowers"
+				}
+				id: "61F2FE47C7DBEE59"
+				title: "Visit the Blossoming Spires"
+				type: "biome"
+			}]
+			x: -10.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["0037E919A5DA26DF"]
+			description: [
+				"The Chorus Forest biome is a mystical and vibrant landscape, featuring towering Chorus Trees that grow in dense clusters, their twisted branches covered in glowing Chorus Flowers."
+				""
+				"The biome is filled with a variety of Chorus-like vegetation, giving it a surreal, otherworldly appearance."
+			]
+			id: "6C6310591CF4D15F"
+			rewards: [
+				{
+					count: 5
+					id: "66A3A847A924E230"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cisco_mod:champion_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "624297AAF92BDBE6"
+					type: "xp_levels"
+					xp_levels: 15
+				}
+			]
+			subtitle: "The Chorus Forest"
+			tasks: [{
+				biome: "betterend:chorus_forest"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "quark:chorus_twist"
+				}
+				id: "21B50B74D0006298"
+				title: "Visit the Chorus Forest"
+				type: "biome"
+			}]
+			x: -8.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["0037E919A5DA26DF"]
+			description: [
+				"The Crystal Mountains biome  is a breathtaking, jagged landscape dominated by towering, glittering Crystal Spires and massive, crystalline formations. "
+				""
+				"The ground is dotted with Crystal Shards and rich veins of Endstone Ore, glowing with various colors that reflect off the crystals scattered throughout the area."
+			]
+			id: "1CD2BF55B58E0DC0"
+			rewards: [
+				{
+					count: 5
+					id: "71F8A69678D64F43"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cisco_mod:champion_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "6AA5F664E1545E88"
+					type: "xp_levels"
+					xp_levels: 15
+				}
+			]
+			subtitle: "Crystalline Mountains"
+			tasks: [{
+				biome: "betterend:crystal_mountains"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "betterend:eternal_crystal"
+				}
+				id: "79352C74840D438E"
+				title: "Visit the Crystal Mountains"
+				type: "biome"
+			}]
+			x: -11.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["0037E919A5DA26DF"]
+			description: [
+				"The Dragon Graveyards biome is a haunting, eerie area filled with the remains of ancient dragons. "
+				""
+				"The biome is characterized by vast, desolate landscapes littered with Dragon Bones, massive Skeletons, and crumbled dragon skulls that serve as eerie reminders of a forgotten time."
+			]
+			id: "0E8170950EEDE373"
+			rewards: [
+				{
+					count: 5
+					id: "48303AFC5848E338"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "cisco_mod:champion_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "29D2E6B1D5FF9FB9"
+					type: "xp_levels"
+					xp_levels: 15
+				}
+			]
+			subtitle: "Dusk of Dragons"
+			tasks: [{
+				biome: "betterend:dragon_graveyards"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "iceandfire:dragon_skull_fire"
+				}
+				id: "7F46D99D19C031B0"
+				title: "Visit the Dragon Graveyards"
+				type: "biome"
+			}]
+			x: -8.5d
+			y: 8.5d
 		}
 	]
 	title: "{\"text\":\"Traveller's Journey\",\"color\":\"dark_green\",\"bold\":false,\"underlined\":false}"

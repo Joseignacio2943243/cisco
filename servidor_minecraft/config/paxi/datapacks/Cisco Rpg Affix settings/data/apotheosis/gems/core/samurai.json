@@ -5,8 +5,7 @@
 	"dimensions": [
 	],
 	"unique": true,
-	"bonuses": [
-		{
+	"bonuses": [{
 			"type": "apotheosis:attribute",
 			"gem_class": {
 				"key": "light_ranged",
@@ -17,15 +16,15 @@
 					"crossbow"
 				]
 			},
-			"attribute": "apotheosis:crit_chance",
+			"attribute": "attributeslib:crit_chance",
 			"operation": "ADDITION",
 			"values": {
 				"common": 0.02,
 				"uncommon": 0.05,
 				"rare": 0.10,
 				"epic": 0.15,
-				"mythic": 0.175,
-				"ancient": 0.20
+				"mythic": 0.20,
+				"ancient": 0.25
 			}
 		},
 		{
@@ -36,15 +35,15 @@
 					"heavy_weapon"
 				]
 			},
-			"attribute": "apotheosis:crit_chance",
+			"attribute": "attributeslib:crit_chance",
 			"operation": "ADDITION",
 			"values": {
 				"common": 0.05,
-				"uncommon": 0.10,
-				"rare": 0.15,
+				"uncommon": 0.07,
+				"rare": 0.12,
 				"epic": 0.17,
-				"mythic": 0.205,
-				"ancient": 0.255
+				"mythic": 0.25,
+				"ancient": 0.35
 			}
 		},
 		{
@@ -75,7 +74,7 @@
 					"helmet"
 				]
 			},
-			"attribute": "apotheosis:arrow_velocity",
+			"attribute": "attributeslib:arrow_velocity",
 			"operation": "MULTIPLY_TOTAL",
 			"values": {
 				"common": 0.075,
@@ -94,57 +93,57 @@
 					"shield"
 				]
 			},
-			"attribute": "apotheosis:dodge_chance",
+			"attribute": "attributeslib:dodge_chance",
 			"operation": "ADDITION",
 			"values": {
 				"common": 0.01,
 				"uncommon": 0.02,
-				"rare": 0.04,
-				"epic": 0.06,
-				"mythic": 0.08,
-				"ancient": 0.10
+				"rare": 0.03,
+				"epic": 0.04,
+				"mythic": 0.05,
+				"ancient": 0.06
 			}
 		},
-		{
-			"type": "apotheosis:attribute",
-			"gem_class": {
-				"key": "curios",
-				"types": [
-					"curios:ring",
-		"curios:head",
-		"curios:necklace",
-		"curios:hostility_curse",
-		"curios:back",
-		"curios:an_focus",
-		"curios:bangle",
-		"curios:body",
-		"curios:bundle",
-		"curios:quiver",
-		"curios:spellstone",
-		"curios:bracelet",
-		"curios:hands",
-		"curios:belt",
-		"curios:charm",
-		"curios:feet",
-		"curios:talisman",
-		"curios:aether_ring",
-        "curios:aether_cape",
-        "curios:aether_gloves",
-        "curios:aether_accessory",
-        "curios:aether_shield",
-        "curios:aether_pendant"
-				]
-			},
-			"attribute": "apotheosis:crit_chance",
-			"operation": "ADDITION",
-			"values": {
-				"common": 0.015,
-				"uncommon": 0.025,
-				"rare": 0.0275,
-				"epic": 0.03,
-				"mythic": 0.04,
-				"ancient": 0.05
-			}
+			{
+				"type": "apotheosis:attribute",
+				"gem_class": {
+					"key": "curios",
+					"types": [
+						"curios:ring",
+			"curios:head",
+			"curios:necklace",
+			"curios:hostility_curse",
+			"curios:back",
+			"curios:an_focus",
+			"curios:bangle",
+			"curios:body",
+			"curios:bundle",
+			"curios:quiver",
+			"curios:spellstone",
+			"curios:bracelet",
+			"curios:hands",
+			"curios:belt",
+			"curios:charm",
+			"curios:feet",
+			"curios:talisman",
+			"curios:aether_ring",
+			"curios:aether_cape",
+			"curios:aether_gloves",
+			"curios:aether_accessory",
+			"curios:aether_shield",
+			"curios:aether_pendant"
+					]
+				},
+				"attribute": "attributeslib:crit_chance",
+				"operation": "ADDITION",
+				"values": {
+					"common": 0.015,
+					"uncommon": 0.025,
+					"rare": 0.0275,
+					"epic": 0.03,
+					"mythic": 0.04,
+					"ancient": 0.05
+				}
 		}
 	]
 }
