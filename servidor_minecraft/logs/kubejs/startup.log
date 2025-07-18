@@ -1,12 +1,12 @@
-[01:01:01] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[01:01:01] [INIT] Loaded plugins:
-[01:01:01] [INIT] - mod.chloeprime.aaaparticles.common.compat.kubejs.AAAParticleKubeJSPlugin
-[01:01:01] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[01:01:01] [INIT] - net.mehvahdjukaar.sawmill.integration.KubeJsPlugin
-[01:01:01] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[01:01:01] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[01:01:01] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[01:01:01] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
-[01:01:01] [INFO] Loaded script startup_scripts:example.js in 0.085 s
-[01:01:01] [INFO] Loaded script startup_scripts:carpgitemmod.js in 0.033 s
-[01:01:01] [INFO] Loaded 2/2 KubeJS startup scripts in 0.633 s with 0 errors and 0 warnings
+[01:48:17] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[01:48:17] [INIT] Loaded plugins:
+[01:48:17] [INIT] - mod.chloeprime.aaaparticles.common.compat.kubejs.AAAParticleKubeJSPlugin
+[01:48:17] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[01:48:17] [INIT] - net.mehvahdjukaar.sawmill.integration.KubeJsPlugin
+[01:48:17] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[01:48:17] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[01:48:17] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[01:48:17] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[01:48:18] [INFO] Loaded script startup_scripts:example.js in 0.11 s
+[01:48:18] [INFO] Loaded script startup_scripts:carpgitemmod.js in 0.052 s
+[01:48:18] [INFO] Loaded 2/2 KubeJS startup scripts in 0.851 s with 0 errors and 0 warnings

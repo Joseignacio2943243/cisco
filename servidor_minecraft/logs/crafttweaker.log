@@ -1,35 +1,35 @@
-[01:00:53.303][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production server modded with platform Forge
-[01:00:53.319][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
-[01:00:53.388][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
-[01:00:53.389][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[01:00:53.397][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
-[01:00:54.562][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
-[01:00:54.566][INFO][CraftTweaker]: - 'aether' at version '1.20.1-1.5.2-neoforge'
-[01:00:54.566][INFO][CraftTweaker]: - 'aquaculture' at version '2.5.5'
-[01:00:54.566][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.57'
-[01:00:54.566][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.8'
-[01:00:54.566][INFO][CraftTweaker]: - 'gateways' at version '4.2.6'
-[01:01:17.762][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
-[01:01:18.348][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[01:01:18.415][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
-[01:01:18.626][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
-[01:01:37.245][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
-[01:01:37.293][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[01:01:37.330][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
-[01:01:37.347][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
-[01:01:46.008][INFO][CraftTweaker]: crafttweaker.reload.start
-[01:01:46.017][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
-[01:01:46.047][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[01:01:46.535][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
-[01:01:46.540][INFO][CraftTweaker-ZenCode]: Loading file 'Cisco.zs' with priority 0
-[01:01:46.567][INFO][Script]: Hello world!
-[01:01:46.574][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:amnesia_scroll' that outputs: '<item:skilltree:amnesia_scroll>'
-[01:01:46.575][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:true_dragons_breath' that outputs: '<item:cisco_mod:true_dragons_breath>'
-[01:01:46.580][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:rogue_eye' that outputs: '<item:endrem:rogue_eye>.withTag({Damage: 0})'
-[01:01:46.581][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:esoteric_table' that outputs: '<item:esotericreforging:esoteric_reforging_table>'
-[01:01:46.582][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:undead_soul' that outputs: '<item:endrem:undead_soul>'
-[01:01:46.582][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:demonium_ingot_recipe' that outputs: '<item:cisco_mod:demonium_ingot>'
-[01:01:46.583][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:frigidium_ingot_recipe' that outputs: '<item:cisco_mod:frigidiumingot>'
-[01:01:46.583][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
-[01:01:46.585][INFO][CraftTweaker]: crafttweaker.reload.complete
-[01:01:46.585][INFO][CraftTweaker]: This reload was made possible by Zuniroa and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[01:48:06.939][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production server modded with platform Forge
+[01:48:06.958][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[01:48:07.044][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[01:48:07.047][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[01:48:07.055][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[01:48:08.898][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[01:48:08.899][INFO][CraftTweaker]: - 'aether' at version '1.20.1-1.5.2-neoforge'
+[01:48:08.900][INFO][CraftTweaker]: - 'aquaculture' at version '2.5.5'
+[01:48:08.900][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.57'
+[01:48:08.900][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.8'
+[01:48:08.901][INFO][CraftTweaker]: - 'gateways' at version '4.2.6'
+[01:48:36.998][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[01:48:37.918][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[01:48:38.074][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[01:48:38.371][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[01:50:33.451][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
+[01:50:33.496][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[01:50:33.529][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[01:50:33.543][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
+[01:50:40.752][INFO][CraftTweaker]: crafttweaker.reload.start
+[01:50:40.770][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[01:50:40.811][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[01:50:41.465][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[01:50:41.469][INFO][CraftTweaker-ZenCode]: Loading file 'Cisco.zs' with priority 0
+[01:50:41.496][INFO][Script]: Hello world!
+[01:50:41.503][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:amnesia_scroll' that outputs: '<item:skilltree:amnesia_scroll>'
+[01:50:41.505][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:true_dragons_breath' that outputs: '<item:cisco_mod:true_dragons_breath>'
+[01:50:41.510][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:rogue_eye' that outputs: '<item:endrem:rogue_eye>.withTag({Damage: 0})'
+[01:50:41.511][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:esoteric_table' that outputs: '<item:esotericreforging:esoteric_reforging_table>'
+[01:50:41.513][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:undead_soul' that outputs: '<item:endrem:undead_soul>'
+[01:50:41.514][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:demonium_ingot_recipe' that outputs: '<item:cisco_mod:demonium_ingot>'
+[01:50:41.516][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:frigidium_ingot_recipe' that outputs: '<item:cisco_mod:frigidiumingot>'
+[01:50:41.516][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[01:50:41.518][INFO][CraftTweaker]: crafttweaker.reload.complete
+[01:50:41.518][INFO][CraftTweaker]: This reload was made possible by Belathus and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
