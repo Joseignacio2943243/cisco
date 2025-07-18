@@ -7343,3 +7343,30 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [18Jul2025 02:17:26.394] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress lost connection: Timed out
 [18Jul2025 02:17:26.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress left the game
 [18Jul2025 02:19:20.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ez
+[18Jul2025 02:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[18Jul2025 02:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Found world folder at /workspaces/cisco/servidor_minecraft/./world/.
+[18Jul2025 02:30:00.052] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Last backup size: 17.9MB Current world size: 28.6MB Current Available space: 11.0GB ExpectedSize 25.3MB
+[18Jul2025 02:30:00.052] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to true
+[18Jul2025 02:30:00.052] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to true
+[18Jul2025 02:30:00.052] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world twilightforest:twilight_forest save state to true
+[18Jul2025 02:30:00.052] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to true
+[18Jul2025 02:30:00.052] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world aether:the_aether save state to true
+[18Jul2025 02:30:00.053] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/cisco/servidor_minecraft/backups/backups.json
+[18Jul2025 02:30:00.053] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Waiting for world save to complete.
+[18Jul2025 02:30:00.256] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Detected MC Version 1.20.1, Data version 3465
+[18Jul2025 02:30:00.256] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Save Name: world
+[18Jul2025 02:30:00.259] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder twilightforest:twilight_forest
+[18Jul2025 02:30:00.259] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder aether:the_aether
+[18Jul2025 02:30:00.260] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder minecraft:server_faucet_test_level
+[18Jul2025 02:30:00.260] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder minecraft:server_projectile_test_level
+[18Jul2025 02:30:00.260] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.data.Level/]: Did not find a region folder for level: /workspaces/cisco/servidor_minecraft/./world/./DIM-1
+[18Jul2025 02:30:00.260] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.data.Level/]: Did not find a region folder for level: /workspaces/cisco/servidor_minecraft/./world/./DIM1
+[18Jul2025 02:30:02.141] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup preview created, Scan took 126ms, Capture took 1836ms
+[18Jul2025 02:30:03.575] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to false
+[18Jul2025 02:30:03.575] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to false
+[18Jul2025 02:30:03.575] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world twilightforest:twilight_forest save state to false
+[18Jul2025 02:30:03.575] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to false
+[18Jul2025 02:30:03.575] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world aether:the_aether save state to false
+[18Jul2025 02:30:03.603] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup size 25.0MB World Size 28.6MB
+[18Jul2025 02:30:03.603] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/cisco/servidor_minecraft/backups/backups.json
+[18Jul2025 02:30:03.603] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: New backup created at /workspaces/cisco/servidor_minecraft/backups/2025-7-18_2-30-0.zip size: 25.0MB Took: 0m, 3s, 523ms Sha1: a37adc306683561e00a9ac20b56809f0cbd39632
