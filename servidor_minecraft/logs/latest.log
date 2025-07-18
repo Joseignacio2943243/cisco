@@ -6939,3 +6939,375 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [18Jul2025 01:02:21.229] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
 [18Jul2025 01:02:21.423] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [18Jul2025 01:02:21.425] [Server thread/WARN] [ModernFix/]: Dedicated server took 125.767 seconds to load
+[18Jul2025 01:30:00.659] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[18Jul2025 01:30:00.661] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[18Jul2025 01:32:20.766] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[18Jul2025 01:32:20.794] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[18Jul2025 01:32:20.830] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[18Jul2025 01:32:20.869] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[18Jul2025 01:32:20.869] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[18Jul2025 01:32:20.913] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[18Jul2025 01:32:20.973] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[18Jul2025 01:32:21.029] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[18Jul2025 01:32:21.088] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[18Jul2025 01:32:21.149] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 251
+[18Jul2025 01:32:21.151] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 252
+[18Jul2025 01:32:21.203] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 253
+[18Jul2025 01:32:21.822] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 254
+[18Jul2025 01:32:21.823] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 255
+[18Jul2025 01:32:21.863] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 256
+[18Jul2025 01:32:21.863] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 257
+[18Jul2025 01:32:22.760] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tyson1202[/127.144.201.124:56413] logged in with entity id 300 at (-197.5, 95.0, 66.5)
+[18Jul2025 01:32:28.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tyson1202 joined the game
+[18Jul2025 01:32:30.510] [Server thread/WARN] [solapplepie/]: Invalid attribute specified in config: generic.speed
+[18Jul2025 01:32:30.516] [Server thread/INFO] [structurize/]: New Server UUID a19da228-cfb5-48cc-868c-61a3a1d54dca
+[18Jul2025 01:32:32.147] [Server thread/INFO] [Jade/]: Syncing config to Tyson1202 (6a1083a4-8a89-3bb5-a2d8-83b82fea0f50)
+[18Jul2025 01:32:33.010] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Tyson1202...
+[18Jul2025 01:32:33.010] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[18Jul2025 01:32:33.015] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[18Jul2025 01:32:33.022] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Tyson1202
+[18Jul2025 01:32:33.156] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Jul2025 01:32:33.164] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Jul2025 01:32:33.176] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Jul2025 01:32:33.178] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Jul2025 01:32:33.185] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Jul2025 01:32:33.187] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Jul2025 01:32:33.191] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Jul2025 01:32:33.192] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Jul2025 01:32:33.192] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Jul2025 01:32:33.193] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Jul2025 01:32:33.194] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Jul2025 01:32:33.196] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Jul2025 01:32:33.197] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Jul2025 01:32:33.198] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Jul2025 01:32:33.200] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Jul2025 01:32:33.205] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Jul2025 01:32:33.205] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Jul2025 01:32:33.206] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/cisco/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Jul2025 01:32:33.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10884ms or 217 ticks behind
+[18Jul2025 01:32:34.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tyson1202 has made the advancement [Ice and Fire]
+[18Jul2025 01:32:35.271] [Server thread/INFO] [Enigmatic Legacy/INFO]: Blue Skies detected: false
+[18Jul2025 01:32:50.726] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2550ms or 51 ticks behind
+[18Jul2025 01:32:55.027] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[18Jul2025 01:32:55.290] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[18Jul2025 01:32:55.310] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[18Jul2025 01:32:55.311] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[18Jul2025 01:32:55.313] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[18Jul2025 01:32:55.315] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[18Jul2025 01:32:55.545] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[18Jul2025 01:32:55.546] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[18Jul2025 01:32:55.546] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[18Jul2025 01:32:55.547] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 251
+[18Jul2025 01:32:55.548] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 252
+[18Jul2025 01:32:55.580] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 253
+[18Jul2025 01:32:55.896] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 254
+[18Jul2025 01:32:55.899] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 255
+[18Jul2025 01:32:55.905] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 256
+[18Jul2025 01:32:56.082] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 257
+[18Jul2025 01:32:56.796] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NachoSigma04[/127.184.246.206:54051] logged in with entity id 575 at (-195.5, 90.0, 56.5)
+[18Jul2025 01:32:57.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 joined the game
+[18Jul2025 01:32:57.533] [Server thread/INFO] [Jade/]: Syncing config to NachoSigma04 (47b98972-3764-347e-bfdf-6cb2becefeb4)
+[18Jul2025 01:32:57.565] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to NachoSigma04...
+[18Jul2025 01:32:57.565] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[18Jul2025 01:32:57.565] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[18Jul2025 01:32:57.566] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to NachoSigma04
+[18Jul2025 01:32:57.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 has made the advancement [Ice and Fire]
+[18Jul2025 01:32:57.817] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Jul2025 01:32:57.817] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Jul2025 01:32:57.819] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Jul2025 01:32:57.819] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Jul2025 01:32:57.819] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Jul2025 01:32:57.820] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Jul2025 01:32:57.821] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Jul2025 01:32:57.821] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Jul2025 01:32:57.821] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Jul2025 01:32:57.821] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Jul2025 01:32:57.821] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Jul2025 01:32:57.821] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Jul2025 01:32:57.821] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Jul2025 01:32:57.821] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Jul2025 01:32:57.821] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Jul2025 01:32:57.822] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Jul2025 01:32:57.822] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Jul2025 01:32:57.822] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/cisco/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Jul2025 01:33:08.881] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[18Jul2025 01:33:17.104] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[18Jul2025 01:33:17.134] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[18Jul2025 01:33:17.135] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[18Jul2025 01:33:17.135] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[18Jul2025 01:33:17.136] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[18Jul2025 01:33:17.136] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[18Jul2025 01:33:17.175] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[18Jul2025 01:33:17.175] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[18Jul2025 01:33:17.175] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[18Jul2025 01:33:17.200] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 251
+[18Jul2025 01:33:17.251] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 252
+[18Jul2025 01:33:17.300] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 253
+[18Jul2025 01:33:18.314] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 254
+[18Jul2025 01:33:18.354] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 255
+[18Jul2025 01:33:18.355] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 256
+[18Jul2025 01:33:18.360] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 257
+[18Jul2025 01:33:18.658] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gress[/127.246.182.144:50269] logged in with entity id 615 at (-185.5, 99.0, 57.5)
+[18Jul2025 01:33:18.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress joined the game
+[18Jul2025 01:33:19.402] [Server thread/INFO] [Jade/]: Syncing config to Gress (a0d83634-7b19-37e4-b8c9-a290e08b9bb8)
+[18Jul2025 01:33:19.435] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Gress...
+[18Jul2025 01:33:19.437] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[18Jul2025 01:33:19.439] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[18Jul2025 01:33:19.441] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Gress
+[18Jul2025 01:33:19.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Ice and Fire]
+[18Jul2025 01:33:21.484] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tyson1202 lost connection: Timed out
+[18Jul2025 01:33:21.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tyson1202 left the game
+[18Jul2025 01:33:39.603] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Jul2025 01:33:39.605] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Jul2025 01:33:39.606] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Jul2025 01:33:39.607] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Jul2025 01:33:39.608] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Jul2025 01:33:39.608] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Jul2025 01:33:39.608] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Jul2025 01:33:39.609] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Jul2025 01:33:39.609] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Jul2025 01:33:39.609] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Jul2025 01:33:39.609] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Jul2025 01:33:39.609] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Jul2025 01:33:39.609] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Jul2025 01:33:39.609] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Jul2025 01:33:39.609] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Jul2025 01:33:39.610] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Jul2025 01:33:39.610] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Jul2025 01:33:39.610] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/cisco/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Jul2025 01:34:02.410] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[18Jul2025 01:34:02.469] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[18Jul2025 01:34:02.527] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[18Jul2025 01:34:02.586] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[18Jul2025 01:34:02.645] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[18Jul2025 01:34:02.702] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[18Jul2025 01:34:02.759] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[18Jul2025 01:34:02.759] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[18Jul2025 01:34:02.816] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[18Jul2025 01:34:02.874] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 251
+[18Jul2025 01:34:02.933] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 252
+[18Jul2025 01:34:02.987] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 253
+[18Jul2025 01:34:03.482] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 254
+[18Jul2025 01:34:03.482] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 255
+[18Jul2025 01:34:03.523] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 256
+[18Jul2025 01:34:03.524] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 257
+[18Jul2025 01:34:03.883] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tyson1202[/127.144.201.124:48025] logged in with entity id 981 at (-197.5, 95.0, 66.5)
+[18Jul2025 01:34:04.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tyson1202 joined the game
+[18Jul2025 01:34:04.277] [Server thread/INFO] [Jade/]: Syncing config to Tyson1202 (6a1083a4-8a89-3bb5-a2d8-83b82fea0f50)
+[18Jul2025 01:34:04.301] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Tyson1202...
+[18Jul2025 01:34:04.301] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[18Jul2025 01:34:04.302] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[18Jul2025 01:34:04.302] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Tyson1202
+[18Jul2025 01:34:04.720] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Jul2025 01:34:04.724] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Jul2025 01:34:04.726] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Jul2025 01:34:04.728] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Jul2025 01:34:04.729] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Jul2025 01:34:04.730] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Jul2025 01:34:04.731] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Jul2025 01:34:04.731] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Jul2025 01:34:04.732] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Jul2025 01:34:04.732] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Jul2025 01:34:04.733] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Jul2025 01:34:04.733] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Jul2025 01:34:04.735] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Jul2025 01:34:04.736] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Jul2025 01:34:04.737] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Jul2025 01:34:04.737] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Jul2025 01:34:04.738] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Jul2025 01:34:04.740] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/cisco/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Jul2025 01:34:10.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2197ms or 43 ticks behind
+[18Jul2025 01:34:31.786] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress lost connection: Timed out
+[18Jul2025 01:34:31.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress left the game
+[18Jul2025 01:35:08.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NachoSigma04 lost connection: Disconnected
+[18Jul2025 01:35:09.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 left the game
+[18Jul2025 01:35:25.315] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[18Jul2025 01:35:25.554] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[18Jul2025 01:35:25.554] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[18Jul2025 01:35:25.583] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[18Jul2025 01:35:25.583] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[18Jul2025 01:35:25.583] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[18Jul2025 01:35:25.800] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[18Jul2025 01:35:25.801] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[18Jul2025 01:35:25.801] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[18Jul2025 01:35:25.801] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 251
+[18Jul2025 01:35:25.801] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 252
+[18Jul2025 01:35:25.876] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 253
+[18Jul2025 01:35:26.581] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 254
+[18Jul2025 01:35:26.586] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 255
+[18Jul2025 01:35:26.586] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 256
+[18Jul2025 01:35:26.586] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 257
+[18Jul2025 01:35:26.978] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NachoSigma04[/127.184.246.206:45729] logged in with entity id 1082 at (-202.3334432612398, 99.0, 64.95478327002778)
+[18Jul2025 01:35:27.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 joined the game
+[18Jul2025 01:35:27.398] [Server thread/INFO] [Jade/]: Syncing config to NachoSigma04 (47b98972-3764-347e-bfdf-6cb2becefeb4)
+[18Jul2025 01:35:27.429] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to NachoSigma04...
+[18Jul2025 01:35:27.429] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[18Jul2025 01:35:27.430] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[18Jul2025 01:35:27.431] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to NachoSigma04
+[18Jul2025 01:35:27.701] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Jul2025 01:35:27.701] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Jul2025 01:35:27.702] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Jul2025 01:35:27.704] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Jul2025 01:35:27.705] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Jul2025 01:35:27.705] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Jul2025 01:35:27.705] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Jul2025 01:35:27.705] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Jul2025 01:35:27.706] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Jul2025 01:35:27.706] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Jul2025 01:35:27.706] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Jul2025 01:35:27.706] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Jul2025 01:35:27.706] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Jul2025 01:35:27.706] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Jul2025 01:35:27.707] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Jul2025 01:35:27.740] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Jul2025 01:35:27.741] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Jul2025 01:35:27.741] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/cisco/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Jul2025 01:36:25.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NachoSigma04 lost connection: Timed out
+[18Jul2025 01:36:25.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 left the game
+[18Jul2025 01:37:43.664] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[18Jul2025 01:37:43.714] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[18Jul2025 01:37:43.763] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[18Jul2025 01:37:43.812] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[18Jul2025 01:37:43.861] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[18Jul2025 01:37:43.910] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[18Jul2025 01:37:43.959] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[18Jul2025 01:37:44.008] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[18Jul2025 01:37:44.057] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[18Jul2025 01:37:44.108] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 251
+[18Jul2025 01:37:44.156] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 252
+[18Jul2025 01:37:44.208] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 253
+[18Jul2025 01:37:44.670] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 254
+[18Jul2025 01:37:44.711] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 255
+[18Jul2025 01:37:44.711] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 256
+[18Jul2025 01:37:44.711] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 257
+[18Jul2025 01:37:45.013] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gress[/127.246.182.144:53781] logged in with entity id 1084 at (-185.5, 99.0, 57.5)
+[18Jul2025 01:37:45.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress joined the game
+[18Jul2025 01:37:45.328] [Server thread/INFO] [Jade/]: Syncing config to Gress (a0d83634-7b19-37e4-b8c9-a290e08b9bb8)
+[18Jul2025 01:37:45.350] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Gress...
+[18Jul2025 01:37:45.351] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[18Jul2025 01:37:45.351] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[18Jul2025 01:37:45.352] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Gress
+[18Jul2025 01:37:59.493] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Jul2025 01:37:59.493] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Jul2025 01:37:59.494] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Jul2025 01:37:59.494] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Jul2025 01:37:59.494] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Jul2025 01:37:59.494] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Jul2025 01:37:59.494] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Jul2025 01:37:59.494] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Jul2025 01:37:59.494] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Jul2025 01:37:59.494] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Jul2025 01:37:59.494] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Jul2025 01:37:59.494] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Jul2025 01:37:59.495] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Jul2025 01:37:59.495] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Jul2025 01:37:59.495] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Jul2025 01:37:59.496] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Jul2025 01:37:59.496] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Jul2025 01:37:59.496] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/cisco/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Jul2025 01:38:18.973] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/divine_smite_on_kill] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/divine_smite]
+[18Jul2025 01:38:18.974] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/divine_smite_count] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/divine_smite]
+[18Jul2025 01:38:18.974] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/divine_smite_counter] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/divine_smite]
+[18Jul2025 01:38:18.974] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/vanquisher_add] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/vanquisher]
+[18Jul2025 01:38:18.974] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/vanquisher_lose] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/vanquisher]
+[18Jul2025 01:38:18.974] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/vanquisher_spell_power_fabric] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/vanquisher]
+[18Jul2025 01:38:18.974] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/vanquisher_vanquished] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/vanquisher]
+[18Jul2025 01:38:18.975] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/vanquisher_spell_power_forge] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/vanquisher]
+[18Jul2025 01:38:18.975] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/heavenly_implements_weapon_tooltip] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/heavenly_implements]
+[18Jul2025 01:38:18.975] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/heavenly_implements_golden_weapon_boosts] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/heavenly_implements]
+[18Jul2025 01:38:43.082] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress lost connection: Timed out
+[18Jul2025 01:38:43.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress left the game
+[18Jul2025 01:39:24.063] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_leggings] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[18Jul2025 01:39:24.064] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_melee] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[18Jul2025 01:39:24.064] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_range] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[18Jul2025 01:39:24.064] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_chestplate] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[18Jul2025 01:39:24.064] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_shoes] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[18Jul2025 01:39:24.064] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_shield] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[18Jul2025 01:39:24.064] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_helmet] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[18Jul2025 01:39:24.064] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_digger] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[18Jul2025 01:39:24.064] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:efficient_repairs_more_combine_durability] from power ResourceKey[apoli:configured_power / origins-classes:efficient_repairs]
+[18Jul2025 01:39:24.065] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:efficient_repairs_less_material_cost] from power ResourceKey[apoli:configured_power / origins-classes:efficient_repairs]
+[18Jul2025 01:40:42.823] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[18Jul2025 01:40:42.843] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[18Jul2025 01:40:42.849] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[18Jul2025 01:40:42.865] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[18Jul2025 01:40:42.871] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[18Jul2025 01:40:42.887] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[18Jul2025 01:40:42.888] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[18Jul2025 01:40:42.888] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[18Jul2025 01:40:42.909] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[18Jul2025 01:40:42.926] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 251
+[18Jul2025 01:40:42.927] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 252
+[18Jul2025 01:40:42.927] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 253
+[18Jul2025 01:40:43.273] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 254
+[18Jul2025 01:40:43.273] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 255
+[18Jul2025 01:40:43.282] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 256
+[18Jul2025 01:40:43.291] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 257
+[18Jul2025 01:40:43.602] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gress[/127.246.182.144:53527] logged in with entity id 1457 at (-185.5, 99.0, 57.5)
+[18Jul2025 01:40:43.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress joined the game
+[18Jul2025 01:40:43.981] [Server thread/INFO] [Jade/]: Syncing config to Gress (a0d83634-7b19-37e4-b8c9-a290e08b9bb8)
+[18Jul2025 01:40:44.013] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Gress...
+[18Jul2025 01:40:44.022] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[18Jul2025 01:40:44.022] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[18Jul2025 01:40:44.022] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Gress
+[18Jul2025 01:40:44.406] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Jul2025 01:40:44.407] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Jul2025 01:40:44.407] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Jul2025 01:40:44.407] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Jul2025 01:40:44.407] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Jul2025 01:40:44.408] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Jul2025 01:40:44.408] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Jul2025 01:40:44.408] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Jul2025 01:40:44.408] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Jul2025 01:40:44.408] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Jul2025 01:40:44.408] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Jul2025 01:40:44.408] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Jul2025 01:40:44.408] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Jul2025 01:40:44.408] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Jul2025 01:40:44.408] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Jul2025 01:40:44.411] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Jul2025 01:40:44.412] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Jul2025 01:40:44.412] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/cisco/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Jul2025 01:41:34.942] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[18Jul2025 01:41:34.983] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[18Jul2025 01:41:35.032] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[18Jul2025 01:41:35.032] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[18Jul2025 01:41:35.289] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[18Jul2025 01:41:35.289] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[18Jul2025 01:41:35.289] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[18Jul2025 01:41:35.330] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[18Jul2025 01:41:35.492] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[18Jul2025 01:41:35.533] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 251
+[18Jul2025 01:41:35.533] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 252
+[18Jul2025 01:41:35.533] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 253
+[18Jul2025 01:41:35.876] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 254
+[18Jul2025 01:41:35.881] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 255
+[18Jul2025 01:41:35.881] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 256
+[18Jul2025 01:41:35.894] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 257
+[18Jul2025 01:41:36.556] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NachoSigma04[/127.184.246.206:59323] logged in with entity id 1781 at (-202.3334432612398, 99.0, 64.95478327002778)
+[18Jul2025 01:41:36.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NachoSigma04 joined the game
+[18Jul2025 01:41:36.817] [Server thread/INFO] [Jade/]: Syncing config to NachoSigma04 (47b98972-3764-347e-bfdf-6cb2becefeb4)
+[18Jul2025 01:41:36.838] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to NachoSigma04...
+[18Jul2025 01:41:36.838] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[18Jul2025 01:41:36.838] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[18Jul2025 01:41:36.839] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to NachoSigma04
+[18Jul2025 01:41:40.135] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Jul2025 01:41:40.135] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Jul2025 01:41:40.135] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Jul2025 01:41:40.136] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Jul2025 01:41:40.136] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Jul2025 01:41:40.136] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Jul2025 01:41:40.136] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Jul2025 01:41:40.136] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Jul2025 01:41:40.136] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Jul2025 01:41:40.136] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Jul2025 01:41:40.136] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Jul2025 01:41:40.136] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Jul2025 01:41:40.136] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Jul2025 01:41:40.136] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Jul2025 01:41:40.137] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Jul2025 01:41:40.137] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Jul2025 01:41:40.137] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Jul2025 01:41:40.137] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/cisco/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Jul2025 01:41:41.734] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress lost connection: Timed out
+[18Jul2025 01:41:41.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress left the game
