@@ -1,0 +1,17 @@
+{
+  "backups": [
+    {
+      "worldName": "world",
+      "createTime": 1752804000068,
+      "backupLocation": "/workspaces/cisco/servidor_minecraft/backups/2025-7-18_2-0-0.zip",
+      "size": 18784733,
+      "ratio": 0.84182376,
+      "sha1": "827d14a0a41044b13325917fe9833c24e7747f43",
+      "preview": "",
+      "snapshot": false,
+      "backupName": "automated",
+      "backupFormat": "ZIP",
+      "complete": true
+    }
+  ]
+}

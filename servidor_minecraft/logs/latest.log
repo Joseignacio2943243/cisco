@@ -7078,3 +7078,120 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [18Jul2025 01:55:23.147] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/cisco/servidor_minecraft/bclib-sync (allowDelete=true)
 [18Jul2025 01:56:19.891] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress lost connection: Timed out
 [18Jul2025 01:56:19.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress left the game
+[18Jul2025 01:58:50.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Tyson1202 a server operator
+[18Jul2025 02:00:00.005] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[18Jul2025 02:00:00.006] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Found world folder at /workspaces/cisco/servidor_minecraft/./world/.
+[18Jul2025 02:00:00.067] [ftbbackups2_Worker-1/ERROR] [net.creeperhost.ftbbackups.FTBBackups/]: Current world size: 21.3MB Current Available space: 11.1GB
+[18Jul2025 02:00:00.068] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to true
+[18Jul2025 02:00:00.068] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to true
+[18Jul2025 02:00:00.068] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world twilightforest:twilight_forest save state to true
+[18Jul2025 02:00:00.068] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to true
+[18Jul2025 02:00:00.068] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world aether:the_aether save state to true
+[18Jul2025 02:00:00.069] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/cisco/servidor_minecraft/backups/backups.json
+[18Jul2025 02:00:00.071] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Waiting for world save to complete.
+[18Jul2025 02:00:00.324] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Detected MC Version 1.20.1, Data version 3465
+[18Jul2025 02:00:00.324] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Save Name: world
+[18Jul2025 02:00:00.334] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder twilightforest:twilight_forest
+[18Jul2025 02:00:00.334] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder aether:the_aether
+[18Jul2025 02:00:00.334] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder minecraft:server_faucet_test_level
+[18Jul2025 02:00:00.334] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder minecraft:server_projectile_test_level
+[18Jul2025 02:00:00.334] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.data.Level/]: Did not find a region folder for level: /workspaces/cisco/servidor_minecraft/./world/./DIM-1
+[18Jul2025 02:00:00.334] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.data.Level/]: Did not find a region folder for level: /workspaces/cisco/servidor_minecraft/./world/./DIM1
+[18Jul2025 02:00:01.396] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[18Jul2025 02:00:01.446] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[18Jul2025 02:00:01.496] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[18Jul2025 02:00:01.545] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[18Jul2025 02:00:01.601] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[18Jul2025 02:00:01.652] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[18Jul2025 02:00:01.709] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[18Jul2025 02:00:01.757] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[18Jul2025 02:00:01.809] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[18Jul2025 02:00:01.860] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 251
+[18Jul2025 02:00:01.908] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 252
+[18Jul2025 02:00:01.956] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 253
+[18Jul2025 02:00:02.582] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup preview created, Scan took 225ms, Capture took 2147ms
+[18Jul2025 02:00:02.635] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 254
+[18Jul2025 02:00:02.676] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 255
+[18Jul2025 02:00:02.676] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 256
+[18Jul2025 02:00:02.677] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 257
+[18Jul2025 02:00:02.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gress[/127.246.182.144:57941] logged in with entity id 1713 at (-185.5, 99.0, 57.5)
+[18Jul2025 02:00:03.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress joined the game
+[18Jul2025 02:00:03.347] [Server thread/INFO] [Jade/]: Syncing config to Gress (a0d83634-7b19-37e4-b8c9-a290e08b9bb8)
+[18Jul2025 02:00:03.373] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Gress...
+[18Jul2025 02:00:03.373] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[18Jul2025 02:00:03.373] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[18Jul2025 02:00:03.374] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Gress
+[18Jul2025 02:00:04.008] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to false
+[18Jul2025 02:00:04.008] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to false
+[18Jul2025 02:00:04.008] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world twilightforest:twilight_forest save state to false
+[18Jul2025 02:00:04.008] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to false
+[18Jul2025 02:00:04.008] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world aether:the_aether save state to false
+[18Jul2025 02:00:04.036] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup size 17.9MB World Size 21.3MB
+[18Jul2025 02:00:04.036] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/cisco/servidor_minecraft/backups/backups.json
+[18Jul2025 02:00:04.037] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: New backup created at /workspaces/cisco/servidor_minecraft/backups/2025-7-18_2-0-0.zip size: 17.9MB Took: 0m, 3s, 940ms Sha1: 827d14a0a41044b13325917fe9833c24e7747f43
+[18Jul2025 02:00:04.443] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Jul2025 02:00:04.443] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Jul2025 02:00:04.443] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Jul2025 02:00:04.443] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Jul2025 02:00:04.443] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Jul2025 02:00:04.443] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Jul2025 02:00:04.444] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Jul2025 02:00:04.444] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Jul2025 02:00:04.444] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Jul2025 02:00:04.444] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Jul2025 02:00:04.444] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Jul2025 02:00:04.444] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Jul2025 02:00:04.444] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Jul2025 02:00:04.444] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Jul2025 02:00:04.444] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Jul2025 02:00:04.444] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Jul2025 02:00:04.444] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Jul2025 02:00:04.445] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/cisco/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Jul2025 02:01:01.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress lost connection: Timed out
+[18Jul2025 02:01:01.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress left the game
+[18Jul2025 02:02:11.526] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[18Jul2025 02:02:11.574] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[18Jul2025 02:02:11.574] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[18Jul2025 02:02:11.633] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[18Jul2025 02:02:11.691] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[18Jul2025 02:02:11.750] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[18Jul2025 02:02:11.754] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[18Jul2025 02:02:11.808] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[18Jul2025 02:02:11.867] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[18Jul2025 02:02:11.926] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 251
+[18Jul2025 02:02:11.984] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 252
+[18Jul2025 02:02:12.041] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 253
+[18Jul2025 02:02:12.488] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 254
+[18Jul2025 02:02:12.488] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 255
+[18Jul2025 02:02:12.495] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 256
+[18Jul2025 02:02:12.503] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 257
+[18Jul2025 02:02:12.816] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tyson1202[/127.144.201.124:38295] logged in with entity id 1850 at (-147.2962946453698, 77.0, 131.1624278062788)
+[18Jul2025 02:02:12.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tyson1202 joined the game
+[18Jul2025 02:02:13.077] [Server thread/INFO] [Jade/]: Syncing config to Tyson1202 (6a1083a4-8a89-3bb5-a2d8-83b82fea0f50)
+[18Jul2025 02:02:13.096] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Tyson1202...
+[18Jul2025 02:02:13.097] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[18Jul2025 02:02:13.098] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[18Jul2025 02:02:13.099] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Tyson1202
+[18Jul2025 02:02:18.050] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Jul2025 02:02:18.050] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Jul2025 02:02:18.050] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Jul2025 02:02:18.050] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Jul2025 02:02:18.050] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Jul2025 02:02:18.051] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Jul2025 02:02:18.051] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Jul2025 02:02:18.051] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Jul2025 02:02:18.051] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Jul2025 02:02:18.051] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Jul2025 02:02:18.051] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Jul2025 02:02:18.051] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Jul2025 02:02:18.051] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Jul2025 02:02:18.051] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Jul2025 02:02:18.051] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Jul2025 02:02:18.051] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Jul2025 02:02:18.052] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Jul2025 02:02:18.052] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/cisco/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Jul2025 02:03:17.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tyson1202 was killed by Naga using magic
+[18Jul2025 02:03:51.879] [Worker-Main-35/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[18Jul2025 02:03:52.062] [Worker-Main-35/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 183ms
+[18Jul2025 02:04:11.621] [Worker-Main-33/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[18Jul2025 02:07:14.624] [Worker-Main-23/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
